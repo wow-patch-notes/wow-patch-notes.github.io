@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "elm make --output app.js --optimize src/Main.elm"
+  },
   "dependencies": {
     "elm": "^0.19.1-5"
   }

@@ -17,6 +17,10 @@ import Time
 port filtersChanged : Args -> Cmd msg
 
 
+jsonURL =
+    "/wow-10.0-patch-notes.json"
+
+
 main : Program Args Model Msg
 main =
     Browser.element
@@ -29,6 +33,7 @@ main =
 
 type alias Model =
     { changes : Maybe (List Change)
+    , err : Maybe Http.Error
     , pageSize : Int
     , tagSet : Set String
     , searchTerm : String
@@ -78,6 +83,7 @@ init args =
                 |> Dict.fromList
     in
     ( { changes = Nothing
+      , err = Nothing
       , pageSize = 5
       , tagSet = Set.empty
       , searchTerm = args.searchTerm
@@ -90,36 +96,59 @@ init args =
       -- , stagedFilterTag = ""
       }
     , Http.get
-        { url = "./wow-patch-notes.json"
-        , expect = Http.expectJson GotChanges (Decode.list changeDecoder)
+        { url = jsonURL
+        , expect =
+            Http.expectJson GotChanges
+                (Decode.at [ "Changes" ] <| Decode.list changeDecoder)
         }
     )
 
 
 view : Model -> Html Msg
 view model =
-    div []
-        (case model.changes of
+    div [] <|
+        case model.err of
             Nothing ->
-                [ p [] [ text "Loading …" ] ]
+                case model.changes of
+                    Nothing ->
+                        [ p [] [ text "Loading …" ] ]
 
-            Just changes ->
-                let
-                    ( changesView, hasMore ) =
-                        viewChanges model (visibleChanges model changes)
-                in
-                [ div [ class "change-list" ]
-                    [ h1 [] [ text "Patch Notes" ]
-                    , viewFilters model
-                    , changesView
-                    , if hasMore then
-                        button [ class "more", onClick IncreasePageSize ] [ text "more" ]
+                    Just changes ->
+                        let
+                            ( changesView, hasMore ) =
+                                viewChanges model (visibleChanges model changes)
+                        in
+                        [ div [ class "change-list" ]
+                            [ h1 [] [ text "Patch Notes" ]
+                            , viewFilters model
+                            , changesView
+                            , if hasMore then
+                                button [ class "more", onClick IncreasePageSize ] [ text "more" ]
 
-                      else
-                        text ""
+                              else
+                                text ""
+                            ]
+                        ]
+
+            Just (Http.BadUrl err) ->
+                [ p [] [ text "Cannot load patch notes: ", text err ] ]
+
+            Just Http.Timeout ->
+                [ p [] [ text "Cannot load patch notes: timeout" ] ]
+
+            Just Http.NetworkError ->
+                [ p [] [ text "Cannot load patch notes: network error" ] ]
+
+            Just (Http.BadStatus status) ->
+                [ p []
+                    [ text "Cannot load patch notes: HTTP status "
+                    , text <|
+                        String.fromInt status
                     ]
                 ]
-        )
+
+            Just (Http.BadBody err) ->
+                [ p [] [ text "Cannot load patch notes: ", text err ] ]
 
 
 visibleChanges : Model -> List Change -> List Change
@@ -391,8 +420,13 @@ update msg model =
                     , Cmd.none
                     )
 
-                Err _ ->
-                    ( { model | changes = Nothing }, Cmd.none )
+                Err err ->
+                    ( { model
+                        | changes = Nothing
+                        , err = Just err
+                      }
+                    , Cmd.none
+                    )
 
         SetSearchTerm term ->
             ( { model | searchTerm = term }
