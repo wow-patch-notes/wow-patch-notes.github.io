@@ -105,6 +105,9 @@ view model =
             Loading ->
                 [ p [] [ text "Loading …" ] ]
 
+            Changes [] ->
+                [ p [] [ em [] [ text "No changes have been published for the current season." ] ] ]
+
             Changes changes ->
                 viewPage model changes
 
@@ -273,14 +276,20 @@ viewChanges model changes =
                 h2 [] [ text date, span [ class "weekday" ] [ text " ", text weekday ] ]
                     :: List.map (viewChange model) changeSet
     in
-    ( byDate
-        |> Dict.toList
-        |> List.reverse
-        |> List.take model.pageSize
-        |> List.map viewChangeSet
-        |> div [ class "changes" ]
-    , Dict.size byDate > model.pageSize
-    )
+    if Dict.size byDate == 0 then
+        ( p [] [ em [] [ text "No changes match the selected tags and/or search term." ] ]
+        , False
+        )
+
+    else
+        ( byDate
+            |> Dict.toList
+            |> List.reverse
+            |> List.take model.pageSize
+            |> List.map viewChangeSet
+            |> div [ class "changes" ]
+        , Dict.size byDate > model.pageSize
+        )
 
 
 viewChange : Model -> Change -> Html Msg

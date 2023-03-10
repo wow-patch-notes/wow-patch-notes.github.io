@@ -6473,6 +6473,7 @@ var $author$project$Main$update = F2(
 		}
 	});
 var $elm$html$Html$div = _VirtualDom_node('div');
+var $elm$html$Html$em = _VirtualDom_node('em');
 var $elm$html$Html$p = _VirtualDom_node('p');
 var $elm$virtual_dom$VirtualDom$text = _VirtualDom_text;
 var $elm$html$Html$text = $elm$virtual_dom$VirtualDom$text;
@@ -6833,7 +6834,21 @@ var $author$project$Main$viewChanges = F2(
 					dict);
 			});
 		var byDate = A3($elm$core$List$foldr, groupByDate, $elm$core$Dict$empty, changes);
-		return _Utils_Tuple2(
+		return (!$elm$core$Dict$size(byDate)) ? _Utils_Tuple2(
+			A2(
+				$elm$html$Html$p,
+				_List_Nil,
+				_List_fromArray(
+					[
+						A2(
+						$elm$html$Html$em,
+						_List_Nil,
+						_List_fromArray(
+							[
+								$elm$html$Html$text('No changes match the selected tags and/or search term.')
+							]))
+					])),
+			false) : _Utils_Tuple2(
 			A2(
 				$elm$html$Html$div,
 				_List_fromArray(
@@ -7205,8 +7220,27 @@ var $author$project$Main$view = function (model) {
 								]))
 						]);
 				case 'Changes':
-					var changes = _v0.a;
-					return A2($author$project$Main$viewPage, model, changes);
+					if (!_v0.a.b) {
+						return _List_fromArray(
+							[
+								A2(
+								$elm$html$Html$p,
+								_List_Nil,
+								_List_fromArray(
+									[
+										A2(
+										$elm$html$Html$em,
+										_List_Nil,
+										_List_fromArray(
+											[
+												$elm$html$Html$text('No changes have been published for the current season.')
+											]))
+									]))
+							]);
+					} else {
+						var changes = _v0.a;
+						return A2($author$project$Main$viewPage, model, changes);
+					}
 				default:
 					switch (_v0.a.$) {
 						case 'BadUrl':
