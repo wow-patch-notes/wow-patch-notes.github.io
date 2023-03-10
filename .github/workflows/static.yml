@@ -32,11 +32,15 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v3
         with:
-          go-version: 1.20
+          go-version: 1.20.x
+          cache: true
 
       - name: Scrape
-        run: go run . -stop-after /23885941/ > site/wow-10.0-patch-notes.json
-                                # /23885941/: January hotfixes
+        run: |
+          ls -l
+          pwd
+          go run . -stop-after /23885941/ > site/wow-10.0-patch-notes.json
+                             # /23885941/: January hotfixes
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
