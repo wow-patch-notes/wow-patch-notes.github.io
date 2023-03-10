@@ -319,13 +319,13 @@ viewChanges model changes =
 viewChange : Model -> Change -> Html Msg
 viewChange model change =
     div [ class "card" ]
-        [ p [ class "tags" ]
+        [ div [ class "tags" ]
             (Set.toList change.tags
                 |> List.map (viewTagSwitch model)
             )
         , p [ class "text" ] [ text change.text ]
-        , p []
-            [ a [ class "source", href change.url ] [ text "Source" ]
+        , p [ class "source" ]
+            [ a [ href change.url ] [ text "Source" ]
             ]
         ]
 

@@ -1,18 +1,75 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
   <title>WoW Patch Notes</title>
   <style type="text/css">
-    .intro {
+    :root {
+      --bg-color:    #170e09;
+      --fg-color:    antiquewhite;
+      --fg-muted:    #faebd780;
+      --blizz-blue:  #00c0ff;
+      --ruler-color: var(--fg-muted);
+    }
+    .pill       {
+      background: var(--fg-muted);
+      color: black;
+    }
+    .pill.plus  {
+      background: #aee7ae;
+    }
+    .pill.minus {
+      background: #ffc0cb;
+    }
+    .pill button {
+      background: none;
+      color: black;
+    }
+
+    html {
+      padding: 0;
+      margin: 0;
+    }
+
+    body {
+      padding: 0 1em;
+      background: var(--bg-color);
+      color: var(--fg-color);
       line-height: 1.5em;
+      text-rendering: optimizelegibility;
+    }
+
+    footer {
+      color: var(--fg-muted);
+      font-size: 90%;
+      margin-top: 5em;
+      text-align: center;
+    }
+
+    a, a:hover, a:visited {
+      color: var(--blizz-blue);
+      text-decoration: none;
+    }
+    a:hover {
+      border-bottom: 1px solid var(--blizz-blue);
+    }
+    p {
+      margin: 0 0 1em 0;
+    }
+    h2 {
+      position: sticky;
+      top: 0;
+      background: var(--bg-color);
+      padding: .5em 0;
+    }
+    .intro {
       margin-bottom: 2em;
     }
     .change-list {
+        max-width: 800px;
         margin: 0 auto;
-        width: 1000px;
     }
     input[type=search] {
         height: 3em;
@@ -29,52 +86,49 @@
     .filters {
         margin-bottom: 2em;
     }
-    .hidden {
-        visibility: hidden;
-    }
     .card {
         display: flex;
         justify-content: start;
+        margin-bottom: 1em;
+        padding-bottom: 1em;
+        border-bottom: 1px solid var(--ruler-color);
+    }
+    .card .tags {
+        width: 20%;
+        min-width: 10em;
+        flex-shrink: 0;
+        padding-right: 2em;
     }
     .card .text {
         white-space: pre-line;
         flex-grow: 1;
+        text-align: justify;
+        hyphens: auto;
     }
-    .card .tags {
-        width: 20%;
-        flex-shrink: 0;
-        padding-right: 2em;
+    .card .source {
+        padding-left: 1em;
     }
     .card .pill {
         display: flex;
         justify-content: space-between;
         margin-bottom: .5em;
     }
-    .card .pill, .card .pill button {
-        color: #888;
-    }
-    .card + .card {
-        border-top: 1px solid lightgray;
+    .card .pill:last-child {
+        margin-bottom: 0;
     }
     .weekday {
-        color: #888;
+        font-size: 80%;
+        padding-left: .5em;
+        color: var(--fg-muted);
     }
     .pill {
         white-space: nowrap;
-        background: #eee;
         border-radius: .7em;
         font-size: 80%;
         line-height: 1.2em;
         padding: .2em .5em;
     }
-    .pill.plus {
-        background: #aee7ae;
-    }
-    .pill.minus {
-        background: pink;
-    }
     .pill button {
-        background: none;
         border: none;
         padding: 0;
         margin: 0;
@@ -85,7 +139,7 @@
     .more {
         display: block;
         width: 20em;
-        height: 2em;
+        height: 3em;
         margin: 1em auto;
     }
   </style>
@@ -93,12 +147,12 @@
 
 <body>
   <div class="change-list">
-    <h1>Patch Notes</h1>
+    <h1>WoW Patch Notes for DF Season&nbsp;1</h1>
     <details class='intro'>
       <summary>About this page</summary>
       <p>
         The changes listed here are all content updates and hotfixes for the
-        current World of Warcraft Retail season. They are automatically
+        current World of Warcraft® Retail season. They are automatically
         scraped once a day from
         <a href="https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes">
           worldofwarcraft.blizzard.com
@@ -115,6 +169,18 @@
     </details>
 
     <div id="elm"></div>
+
+    <footer>
+      <p>
+        This site is hosted by GitHub,&nbsp;Inc. Their
+        <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection">Privacy Statement</a>
+        applies. Other than that, no visitor data is collected or processed.
+      </p>
+      <p>
+        World of Warcraft and Warcraft are trademarks or registered trademarks
+        of Blizzard&nbsp;Entertainment,&nbsp;Inc., in the U.S. and/or other countries.
+      </p>
+    </footer>
   </div>
 
   <script type="text/javascript" src="app.js"></script>

@@ -6740,7 +6740,7 @@ var $author$project$Main$viewChange = F2(
 			_List_fromArray(
 				[
 					A2(
-					$elm$html$Html$p,
+					$elm$html$Html$div,
 					_List_fromArray(
 						[
 							$elm$html$Html$Attributes$class('tags')
@@ -6761,14 +6761,16 @@ var $author$project$Main$viewChange = F2(
 						])),
 					A2(
 					$elm$html$Html$p,
-					_List_Nil,
+					_List_fromArray(
+						[
+							$elm$html$Html$Attributes$class('source')
+						]),
 					_List_fromArray(
 						[
 							A2(
 							$elm$html$Html$a,
 							_List_fromArray(
 								[
-									$elm$html$Html$Attributes$class('source'),
 									$elm$html$Html$Attributes$href(change.url)
 								]),
 							_List_fromArray(
