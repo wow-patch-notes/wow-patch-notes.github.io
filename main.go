@@ -1,14 +1,14 @@
 package main
 
 import (
-	"bytes"
+	"context"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"log"
 	"net/http"
 	"net/url"
-	"os"
 	"path/filepath"
 	"regexp"
 	"strings"
@@ -25,8 +25,26 @@ type Change struct {
 	Change  string
 }
 
+const userAgent = "wow-patch-notes/1.0 (+https://wow-patch-notes.github.io)"
+
 func main() {
-	res, err := http.Get("https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes")
+	var stopAfter string
+
+	flag.StringVar(&stopAfter, "stop-after", "",
+		"Stop parsing after the article who's URL contains this string.")
+
+	flag.Parse()
+
+	ctx, cancel := context.WithTimeout(context.Background(), 1*time.Minute)
+	defer cancel()
+
+	req, err := http.NewRequestWithContext(ctx, "GET", "https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes", nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+	req.Header.Set("User-Agent", userAgent)
+
+	res, err := http.DefaultClient.Do(req)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -47,7 +65,7 @@ func main() {
 		}
 		urls = append(urls, res.Request.URL.ResolveReference(u).String())
 
-		return !strings.Contains(href, "/23885941/") // January hotfixes
+		return !strings.Contains(href, stopAfter)
 	})
 
 	io.Copy(io.Discard, res.Body)
@@ -56,7 +74,7 @@ func main() {
 	allChanges := make([]Change, 0, 5000)
 
 	for _, u := range urls {
-		allChanges = scrapeURL(allChanges, u)
+		allChanges = scrapeURL(ctx, allChanges, u)
 	}
 
 	allChanges = fixCasing(allChanges)
@@ -68,10 +86,16 @@ func main() {
 	fmt.Println(string(b))
 }
 
-func scrapeURL(dest []Change, u string) []Change {
+func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 	log.Println(u)
 
-	res, err := http.Get(u)
+	req, err := http.NewRequestWithContext(ctx, "GET", u, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+	req.Header.Set("User-Agent", userAgent)
+
+	res, err := http.DefaultClient.Do(req)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -123,75 +147,6 @@ func fixCasing(changes []Change) []Change {
 	return changes
 }
 
-func foo() {
-	var allChanges []Change
-
-	// https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes
-
-	// https://worldofwarcraft.blizzard.com/en-us/news/23892227
-	for _, fname := range []string{"10.0.5.html"} {
-		b, err := os.ReadFile(fname)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		doc, err := goquery.NewDocumentFromReader(bytes.NewReader(b))
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		allChanges = scrapeContentUpdate(allChanges, doc, "#item3", "10.0.5", time.Date(2023, 1, 24, 0, 0, 0, 0, time.UTC))
-	}
-
-	// https://worldofwarcraft.blizzard.com/en-us/news/23892230
-	// https://worldofwarcraft.blizzard.com/en-us/news/23885941
-
-	// "datePublished":"2023-03-08T02:52:47+00:00","dateModified":"2023-03-08T02:52:47+00:00"
-	// "datePublished":"2023-01-24T02:53:00+00:00","dateModified":"2023-01-26T01:32:59+00:00"
-
-	for _, fname := range []string{"2.html", "1.html", "0.html"} {
-		b, err := os.ReadFile(fname)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		doc, err := goquery.NewDocumentFromReader(bytes.NewReader(b))
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		allChanges = scrapeHotfixes(allChanges, doc)
-	}
-
-	// Some tags appear in uppercase in the markup (instead of using
-	// text-transform: uppercase in CSS). Fix those now.
-
-	tagSet := map[string]string{} // upper -> mixed
-
-	for _, c := range allChanges {
-		for _, t := range c.Tags {
-			uc := strings.ToUpper(t)
-			if uc == t {
-				continue
-			}
-			tagSet[uc] = t
-		}
-	}
-
-	for i, c := range allChanges {
-		for j, t := range c.Tags {
-			if mc, ok := tagSet[t]; ok {
-				allChanges[i].Tags[j] = mc
-			}
-		}
-	}
-
-	{
-		b, _ := json.MarshalIndent(allChanges, "", "  ")
-		fmt.Println(string(b))
-	}
-}
-
 func scrapeContentUpdate(dest []Change, doc *goquery.Document, firstHeader, version string, date time.Time) []Change {
 	ignore := true
 
@@ -211,10 +166,6 @@ func scrapeContentUpdate(dest []Change, doc *goquery.Document, firstHeader, vers
 			append(cleanTag(category.Text()), version),
 			date, doc.Url,
 		)
-
-		// tags := cleanTag(s.Text())
-
-		// allChanges = append(allChanges, scrapePatchNotes(i, s, date, append(tags, version))...)
 	})
 
 	return dest

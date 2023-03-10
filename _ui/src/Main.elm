@@ -55,16 +55,18 @@ type alias Change =
     , weekday : String
     , tags : Set String
     , text : String
+    , url : String
     }
 
 
 changeDecoder : Decode.Decoder Change
 changeDecoder =
-    Decode.map4 Change
+    Decode.map5 Change
         (Decode.field "Date" Decode.string)
         (Decode.field "Weekday" Decode.string)
         (Decode.field "Tags" (Decode.list Decode.string |> Decode.map Set.fromList))
         (Decode.field "Change" Decode.string)
+        (Decode.field "URL" Decode.string)
 
 
 type alias Args =
@@ -118,16 +120,13 @@ view model =
                             ( changesView, hasMore ) =
                                 viewChanges model (visibleChanges model changes)
                         in
-                        [ div [ class "change-list" ]
-                            [ h1 [] [ text "Patch Notes" ]
-                            , viewFilters model
-                            , changesView
-                            , if hasMore then
-                                button [ class "more", onClick IncreasePageSize ] [ text "more" ]
+                        [ viewFilters model
+                        , changesView
+                        , if hasMore then
+                            button [ class "more", onClick IncreasePageSize ] [ text "more" ]
 
-                              else
-                                text ""
-                            ]
+                          else
+                            text ""
                         ]
 
             Just (Http.BadUrl err) ->
@@ -219,10 +218,10 @@ viewFilters model =
                 ( prefix, invertedValue, extraClass ) =
                     case Dict.get t model.tagFilters of
                         Just Require ->
-                            ( "+", Exclude, "plus" )
+                            ( "−", Exclude, "plus" )
 
                         Just Exclude ->
-                            ( "−", Require, "minus" )
+                            ( "+", Require, "minus" )
 
                         _ ->
                             ( "", Ignore, "" )
@@ -324,39 +323,39 @@ viewChange model change =
             (Set.toList change.tags
                 |> List.map (viewTagSwitch model)
             )
-        , p [ class "text" ]
-            [ text change.text ]
+        , p [ class "text" ] [ text change.text ]
+        , p []
+            [ a [ class "source", href change.url ] [ text "Source" ]
+            ]
         ]
 
 
 viewTagSwitch : Model -> String -> Html Msg
 viewTagSwitch model tag =
     let
-        ( ( plusClass, plusState ), ( minusClass, minusState ) ) =
-            case tagFilterState model tag of
-                Require ->
-                    ( ( "active", Ignore ), ( "", Exclude ) )
-
-                Exclude ->
-                    ( ( "", Require ), ( "active", Ignore ) )
-
-                Ignore ->
-                    ( ( "", Require ), ( "", Exclude ) )
+        enabled =
+            tagFilterState model tag == Require
     in
-    span [ class "pill" ]
-        [ button
-            [ class ("plus " ++ plusClass)
-            , title ("show only changes tagged " ++ tag)
-            , onClick (SetTagFilter tag plusState)
-            ]
-            [ text "+" ]
+    span [ class "pill " ]
+        [ if enabled then
+            button
+                [ title <| "remove filter for " ++ tag
+                , onClick (SetTagFilter tag Ignore)
+                ]
+                [ text "×" ]
+
+          else
+            button
+                [ title ("show only changes tagged " ++ tag)
+                , onClick (SetTagFilter tag Require)
+                ]
+                [ text "+" ]
         , text " "
         , text tag
         , text " "
         , button
-            [ class ("minus " ++ minusClass)
-            , title ("hide changes tagged " ++ tag)
-            , onClick (SetTagFilter tag minusState)
+            [ title ("hide changes tagged " ++ tag)
+            , onClick (SetTagFilter tag Exclude)
             ]
             [ text "−" ]
         ]

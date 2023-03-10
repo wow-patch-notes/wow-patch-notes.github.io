@@ -6,6 +6,10 @@
   <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
   <title>WoW Patch Notes</title>
   <style type="text/css">
+    .intro {
+      line-height: 1.5em;
+      margin-bottom: 2em;
+    }
     .change-list {
         margin: 0 auto;
         width: 1000px;
@@ -88,7 +92,30 @@
 </head>
 
 <body>
-  <div id="elm"></div>
+  <div class="change-list">
+    <h1>Patch Notes</h1>
+    <details class='intro'>
+      <summary>About this page</summary>
+      <p>
+        The changes listed here are all content updates and hotfixes for the
+        current World of Warcraft Retail season. They are automatically
+        scraped once a day from
+        <a href="https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes">
+          worldofwarcraft.blizzard.com
+        </a>.
+        Tags undergo a minor cleanup to fix typos and inconsistencies.
+        Otherwise the changes are copied verbatim.
+      </p>
+
+      <p>
+        <a href="/wow-10.0-patch-notes.json">
+          The list of changes is available as a JSON document.
+        </a>
+      </p>
+    </details>
+
+    <div id="elm"></div>
+  </div>
 
   <script type="text/javascript" src="app.js"></script>
   <script>
@@ -97,7 +124,7 @@
       flags: {
         searchTerm: "",
         includeTags: [],
-        excludeTags: ["PvP"],
+        excludeTags: [],
       }
     });
     app.ports.filtersChanged.subscribe(function(filters) {

@@ -5345,9 +5345,9 @@ var $elm$json$Json$Decode$at = F2(
 	function (fields, decoder) {
 		return A3($elm$core$List$foldr, $elm$json$Json$Decode$field, decoder, fields);
 	});
-var $author$project$Main$Change = F4(
-	function (date, weekday, tags, text) {
-		return {date: date, tags: tags, text: text, weekday: weekday};
+var $author$project$Main$Change = F5(
+	function (date, weekday, tags, text, url) {
+		return {date: date, tags: tags, text: text, url: url, weekday: weekday};
 	});
 var $elm$core$Set$Set_elm_builtin = function (a) {
 	return {$: 'Set_elm_builtin', a: a};
@@ -5474,10 +5474,10 @@ var $elm$core$Set$fromList = function (list) {
 	return A3($elm$core$List$foldl, $elm$core$Set$insert, $elm$core$Set$empty, list);
 };
 var $elm$json$Json$Decode$list = _Json_decodeList;
-var $elm$json$Json$Decode$map4 = _Json_map4;
+var $elm$json$Json$Decode$map5 = _Json_map5;
 var $elm$json$Json$Decode$string = _Json_decodeString;
-var $author$project$Main$changeDecoder = A5(
-	$elm$json$Json$Decode$map4,
+var $author$project$Main$changeDecoder = A6(
+	$elm$json$Json$Decode$map5,
 	$author$project$Main$Change,
 	A2($elm$json$Json$Decode$field, 'Date', $elm$json$Json$Decode$string),
 	A2($elm$json$Json$Decode$field, 'Weekday', $elm$json$Json$Decode$string),
@@ -5488,7 +5488,8 @@ var $author$project$Main$changeDecoder = A5(
 			$elm$json$Json$Decode$map,
 			$elm$core$Set$fromList,
 			$elm$json$Json$Decode$list($elm$json$Json$Decode$string))),
-	A2($elm$json$Json$Decode$field, 'Change', $elm$json$Json$Decode$string));
+	A2($elm$json$Json$Decode$field, 'Change', $elm$json$Json$Decode$string),
+	A2($elm$json$Json$Decode$field, 'URL', $elm$json$Json$Decode$string));
 var $elm$json$Json$Decode$decodeString = _Json_runOnString;
 var $elm$http$Http$BadStatus_ = F2(
 	function (a, b) {
@@ -6478,7 +6479,6 @@ var $elm$html$Html$Attributes$stringProperty = F2(
 	});
 var $elm$html$Html$Attributes$class = $elm$html$Html$Attributes$stringProperty('className');
 var $elm$html$Html$div = _VirtualDom_node('div');
-var $elm$html$Html$h1 = _VirtualDom_node('h1');
 var $elm$virtual_dom$VirtualDom$Normal = function (a) {
 	return {$: 'Normal', a: a};
 };
@@ -6647,6 +6647,13 @@ var $elm$core$List$take = F2(
 	function (n, list) {
 		return A3($elm$core$List$takeFast, 0, n, list);
 	});
+var $elm$html$Html$a = _VirtualDom_node('a');
+var $elm$html$Html$Attributes$href = function (url) {
+	return A2(
+		$elm$html$Html$Attributes$stringProperty,
+		'href',
+		_VirtualDom_noJavaScriptUri(url));
+};
 var $author$project$Main$Ignore = {$: 'Ignore'};
 var $author$project$Main$SetTagFilter = F2(
 	function (a, b) {
@@ -6671,45 +6678,35 @@ var $author$project$Main$tagFilterState = F2(
 var $elm$html$Html$Attributes$title = $elm$html$Html$Attributes$stringProperty('title');
 var $author$project$Main$viewTagSwitch = F2(
 	function (model, tag) {
-		var _v0 = function () {
-			var _v3 = A2($author$project$Main$tagFilterState, model, tag);
-			switch (_v3.$) {
-				case 'Require':
-					return _Utils_Tuple2(
-						_Utils_Tuple2('active', $author$project$Main$Ignore),
-						_Utils_Tuple2('', $author$project$Main$Exclude));
-				case 'Exclude':
-					return _Utils_Tuple2(
-						_Utils_Tuple2('', $author$project$Main$Require),
-						_Utils_Tuple2('active', $author$project$Main$Ignore));
-				default:
-					return _Utils_Tuple2(
-						_Utils_Tuple2('', $author$project$Main$Require),
-						_Utils_Tuple2('', $author$project$Main$Exclude));
-			}
-		}();
-		var _v1 = _v0.a;
-		var plusClass = _v1.a;
-		var plusState = _v1.b;
-		var _v2 = _v0.b;
-		var minusClass = _v2.a;
-		var minusState = _v2.b;
+		var enabled = _Utils_eq(
+			A2($author$project$Main$tagFilterState, model, tag),
+			$author$project$Main$Require);
 		return A2(
 			$elm$html$Html$span,
 			_List_fromArray(
 				[
-					$elm$html$Html$Attributes$class('pill')
+					$elm$html$Html$Attributes$class('pill ')
 				]),
 			_List_fromArray(
 				[
-					A2(
+					enabled ? A2(
 					$elm$html$Html$button,
 					_List_fromArray(
 						[
-							$elm$html$Html$Attributes$class('plus ' + plusClass),
+							$elm$html$Html$Attributes$title('remove filter for ' + tag),
+							$elm$html$Html$Events$onClick(
+							A2($author$project$Main$SetTagFilter, tag, $author$project$Main$Ignore))
+						]),
+					_List_fromArray(
+						[
+							$elm$html$Html$text('×')
+						])) : A2(
+					$elm$html$Html$button,
+					_List_fromArray(
+						[
 							$elm$html$Html$Attributes$title('show only changes tagged ' + tag),
 							$elm$html$Html$Events$onClick(
-							A2($author$project$Main$SetTagFilter, tag, plusState))
+							A2($author$project$Main$SetTagFilter, tag, $author$project$Main$Require))
 						]),
 					_List_fromArray(
 						[
@@ -6722,10 +6719,9 @@ var $author$project$Main$viewTagSwitch = F2(
 					$elm$html$Html$button,
 					_List_fromArray(
 						[
-							$elm$html$Html$Attributes$class('minus ' + minusClass),
 							$elm$html$Html$Attributes$title('hide changes tagged ' + tag),
 							$elm$html$Html$Events$onClick(
-							A2($author$project$Main$SetTagFilter, tag, minusState))
+							A2($author$project$Main$SetTagFilter, tag, $author$project$Main$Exclude))
 						]),
 					_List_fromArray(
 						[
@@ -6762,6 +6758,23 @@ var $author$project$Main$viewChange = F2(
 					_List_fromArray(
 						[
 							$elm$html$Html$text(change.text)
+						])),
+					A2(
+					$elm$html$Html$p,
+					_List_Nil,
+					_List_fromArray(
+						[
+							A2(
+							$elm$html$Html$a,
+							_List_fromArray(
+								[
+									$elm$html$Html$Attributes$class('source'),
+									$elm$html$Html$Attributes$href(change.url)
+								]),
+							_List_fromArray(
+								[
+									$elm$html$Html$text('Source')
+								]))
 						]))
 				]));
 	});
@@ -6877,10 +6890,10 @@ var $author$project$Main$viewFilters = function (model) {
 					switch (_v1.a.$) {
 						case 'Require':
 							var _v2 = _v1.a;
-							return _Utils_Tuple3('+', $author$project$Main$Exclude, 'plus');
+							return _Utils_Tuple3('−', $author$project$Main$Exclude, 'plus');
 						case 'Exclude':
 							var _v3 = _v1.a;
-							return _Utils_Tuple3('−', $author$project$Main$Require, 'minus');
+							return _Utils_Tuple3('+', $author$project$Main$Require, 'minus');
 						default:
 							break _v1$2;
 					}
@@ -7171,35 +7184,19 @@ var $author$project$Main$view = function (model) {
 					var hasMore = _v2.b;
 					return _List_fromArray(
 						[
-							A2(
-							$elm$html$Html$div,
+							$author$project$Main$viewFilters(model),
+							changesView,
+							hasMore ? A2(
+							$elm$html$Html$button,
 							_List_fromArray(
 								[
-									$elm$html$Html$Attributes$class('change-list')
+									$elm$html$Html$Attributes$class('more'),
+									$elm$html$Html$Events$onClick($author$project$Main$IncreasePageSize)
 								]),
 							_List_fromArray(
 								[
-									A2(
-									$elm$html$Html$h1,
-									_List_Nil,
-									_List_fromArray(
-										[
-											$elm$html$Html$text('Patch Notes')
-										])),
-									$author$project$Main$viewFilters(model),
-									changesView,
-									hasMore ? A2(
-									$elm$html$Html$button,
-									_List_fromArray(
-										[
-											$elm$html$Html$Attributes$class('more'),
-											$elm$html$Html$Events$onClick($author$project$Main$IncreasePageSize)
-										]),
-									_List_fromArray(
-										[
-											$elm$html$Html$text('more')
-										])) : $elm$html$Html$text('')
-								]))
+									$elm$html$Html$text('more')
+								])) : $elm$html$Html$text('')
 						]);
 				}
 			} else {
