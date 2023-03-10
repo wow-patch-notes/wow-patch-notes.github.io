@@ -11,7 +11,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -41,6 +41,11 @@ jobs:
           pwd
           go run . -stop-after /23885941/ > site/wow-10.0-patch-notes.json
                              # /23885941/: January hotfixes
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update scraped notes
+          file_pattern: site/*.json
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
