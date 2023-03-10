@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+  <title>WoW Patch Notes</title>
+  <style type="text/css">
+    .change-list {
+        margin: 0 auto;
+        width: 1000px;
+    }
+    input[type=search] {
+        height: 3em;
+        width: 100%;
+        padding: 0 1em;
+        margin-bottom: 1em;
+    }
+    .active-tag-filters {
+        margin-bottom: 1em;
+    }
+    .active-tag-filters .pill + .pill {
+        margin-left: .5em;
+    }
+    .filters {
+        margin-bottom: 2em;
+    }
+    .hidden {
+        visibility: hidden;
+    }
+    .card {
+        display: flex;
+        justify-content: start;
+    }
+    .card .text {
+        white-space: pre-line;
+        flex-grow: 1;
+    }
+    .card .tags {
+        width: 20%;
+        flex-shrink: 0;
+        padding-right: 2em;
+    }
+    .card .pill {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: .5em;
+    }
+    .card .pill, .card .pill button {
+        color: #888;
+    }
+    .card + .card {
+        border-top: 1px solid lightgray;
+    }
+    .weekday {
+        color: #888;
+    }
+    .pill {
+        white-space: nowrap;
+        background: #eee;
+        border-radius: .7em;
+        font-size: 80%;
+        line-height: 1.2em;
+        padding: .2em .5em;
+    }
+    .pill.plus {
+        background: #aee7ae;
+    }
+    .pill.minus {
+        background: pink;
+    }
+    .pill button {
+        background: none;
+        border: none;
+        padding: 0;
+        margin: 0;
+        line-height: 1.2em;
+        vertical-align: middle;
+        cursor: pointer;
+    }
+    .more {
+        display: block;
+        width: 20em;
+        height: 2em;
+        margin: 1em auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="elm"></div>
+
+  <script type="text/javascript" src="app.js"></script>
+  <script>
+    var app = Elm.Main.init({
+      node: document.getElementById("elm"),
+      flags: {
+        searchTerm: "",
+        includeTags: [],
+        excludeTags: ["PvP"],
+      }
+    });
+    app.ports.filtersChanged.subscribe(function(filters) {
+        console.log("new filters", filters)
+    });
+  </script>
+</body>
+</html>
