@@ -5488,7 +5488,7 @@ var $author$project$Main$changeDecoder = A6(
 			$elm$json$Json$Decode$map,
 			$elm$core$Set$fromList,
 			$elm$json$Json$Decode$list($elm$json$Json$Decode$string))),
-	A2($elm$json$Json$Decode$field, 'Change', $elm$json$Json$Decode$string),
+	A2($elm$json$Json$Decode$field, 'Text', $elm$json$Json$Decode$string),
 	A2($elm$json$Json$Decode$field, 'URL', $elm$json$Json$Decode$string));
 var $elm$json$Json$Decode$decodeString = _Json_runOnString;
 var $elm$http$Http$BadStatus_ = F2(

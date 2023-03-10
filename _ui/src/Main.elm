@@ -65,7 +65,7 @@ changeDecoder =
         (Decode.field "Date" Decode.string)
         (Decode.field "Weekday" Decode.string)
         (Decode.field "Tags" (Decode.list Decode.string |> Decode.map Set.fromList))
-        (Decode.field "Change" Decode.string)
+        (Decode.field "Text" Decode.string)
         (Decode.field "URL" Decode.string)
 
 

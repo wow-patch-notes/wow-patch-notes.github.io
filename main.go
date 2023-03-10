@@ -22,7 +22,7 @@ type Change struct {
 	Date    string
 	Weekday string
 	Tags    []string
-	Change  string
+	Text    string
 }
 
 const userAgent = "wow-patch-notes/1.0 (+https://wow-patch-notes.github.io)"
@@ -252,8 +252,8 @@ func flattenChanges(ul *goquery.Selection, tags []string) []Change {
 			text = repeatedNL.ReplaceAllString(text, "\n\n")
 
 			changes = append(changes, Change{
-				Tags:   tags,
-				Change: text,
+				Tags: tags,
+				Text: text,
 			})
 		}
 	}
