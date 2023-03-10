@@ -1,7 +1,6 @@
 port module Main exposing (main)
 
 import Browser
-import Date
 import Dict exposing (Dict)
 import Html exposing (..)
 import Html.Attributes exposing (..)
@@ -11,14 +10,9 @@ import Json.Decode as Decode
 import Process
 import Set exposing (Set)
 import Task
-import Time
 
 
 port filtersChanged : Args -> Cmd msg
-
-
-jsonURL =
-    "/wow-10.0-patch-notes.json"
 
 
 main : Program Args Model Msg
@@ -32,22 +26,18 @@ main =
 
 
 type alias Model =
-    { changes : Maybe (List Change)
-    , err : Maybe Http.Error
+    { changes : Changes
     , pageSize : Int
     , tagSet : Set String
     , searchTerm : String
     , tagFilters : Dict String TagFilterState
-
-    -- , stagedFilterState : TagFilterState
-    -- , stagedFilterTag : String
     }
 
 
-type TagFilterState
-    = Require
-    | Exclude
-    | Ignore
+type Changes
+    = Loading
+    | Changes (List Change)
+    | Error Http.Error
 
 
 type alias Change =
@@ -57,6 +47,12 @@ type alias Change =
     , text : String
     , url : String
     }
+
+
+type TagFilterState
+    = Require
+    | Exclude
+    | Ignore
 
 
 changeDecoder : Decode.Decoder Change
@@ -84,8 +80,7 @@ init args =
                 |> List.map (\t -> ( t, value ))
                 |> Dict.fromList
     in
-    ( { changes = Nothing
-      , err = Nothing
+    ( { changes = Loading
       , pageSize = 5
       , tagSet = Set.empty
       , searchTerm = args.searchTerm
@@ -93,12 +88,9 @@ init args =
             Dict.empty
                 |> Dict.union (tags .excludeTags Exclude)
                 |> Dict.union (tags .includeTags Require)
-
-      -- , stagedFilterState = Require
-      -- , stagedFilterTag = ""
       }
     , Http.get
-        { url = jsonURL
+        { url = "/wow-10.0-patch-notes.json"
         , expect =
             Http.expectJson GotChanges
                 (Decode.at [ "Changes" ] <| Decode.list changeDecoder)
@@ -109,45 +101,43 @@ init args =
 view : Model -> Html Msg
 view model =
     div [] <|
-        case model.err of
-            Nothing ->
-                case model.changes of
-                    Nothing ->
-                        [ p [] [ text "Loading …" ] ]
+        case model.changes of
+            Loading ->
+                [ p [] [ text "Loading …" ] ]
 
-                    Just changes ->
-                        let
-                            ( changesView, hasMore ) =
-                                viewChanges model (visibleChanges model changes)
-                        in
-                        [ viewFilters model
-                        , changesView
-                        , if hasMore then
-                            button [ class "more", onClick IncreasePageSize ] [ text "more" ]
+            Changes changes ->
+                viewPage model changes
 
-                          else
-                            text ""
-                        ]
-
-            Just (Http.BadUrl err) ->
+            Error (Http.BadUrl err) ->
                 [ p [] [ text "Cannot load patch notes: ", text err ] ]
 
-            Just Http.Timeout ->
+            Error Http.Timeout ->
                 [ p [] [ text "Cannot load patch notes: timeout" ] ]
 
-            Just Http.NetworkError ->
+            Error Http.NetworkError ->
                 [ p [] [ text "Cannot load patch notes: network error" ] ]
 
-            Just (Http.BadStatus status) ->
-                [ p []
-                    [ text "Cannot load patch notes: HTTP status "
-                    , text <|
-                        String.fromInt status
-                    ]
-                ]
+            Error (Http.BadStatus status) ->
+                [ p [] [ text "Cannot load patch notes: HTTP status ", text <| String.fromInt status ] ]
 
-            Just (Http.BadBody err) ->
+            Error (Http.BadBody err) ->
                 [ p [] [ text "Cannot load patch notes: ", text err ] ]
+
+
+viewPage : Model -> List Change -> List (Html Msg)
+viewPage model changes =
+    let
+        ( changesView, hasMore ) =
+            viewChanges model (visibleChanges model changes)
+    in
+    [ viewFilters model
+    , changesView
+    , if hasMore then
+        button [ class "more", onClick IncreasePageSize ] [ text "more" ]
+
+      else
+        text ""
+    ]
 
 
 visibleChanges : Model -> List Change -> List Change
@@ -158,10 +148,10 @@ visibleChanges model changes =
                 |> List.map String.toLower
 
         ( excludedDict, other ) =
-            Dict.partition (\k v -> v == Exclude) model.tagFilters
+            Dict.partition (\_ v -> v == Exclude) model.tagFilters
 
         ( requiredDict, _ ) =
-            Dict.partition (\k v -> v == Require) other
+            Dict.partition (\_ v -> v == Require) other
 
         excluded =
             Dict.keys excludedDict |> Set.fromList
@@ -211,6 +201,7 @@ visibleChanges model changes =
     List.filter isIncluded changes
 
 
+viewFilters : Model -> Html Msg
 viewFilters model =
     let
         tagPill t =
@@ -235,11 +226,6 @@ viewFilters model =
                 , text <| " " ++ t ++ " "
                 , button [ title "remove filter", onClick <| SetTagFilter t Ignore ] [ text "×" ]
                 ]
-
-        -- tagOption t =
-        --     option
-        --         [ value t, selected (model.stagedFilterTag == t) ]
-        --         [ text t ]
     in
     div [ class "filters" ]
         [ div []
@@ -256,25 +242,6 @@ viewFilters model =
                 |> Dict.keys
                 |> List.map tagPill
             )
-
-        -- , div [ class "new-tag-filter" ]
-        --     [ select [ onInput SetStagedFilterState ]
-        --         [ option
-        --             [ value "Require", selected (model.stagedFilterState /= Ignore) ]
-        --             [ text "Show only" ]
-        --         , option
-        --             [ value "Exclude", selected (model.stagedFilterState == Exclude) ]
-        --             [ text "Hide" ]
-        --         ]
-        --     , text " changes tagged with "
-        --     , select [ onInput SetStagedFilterTag ] <|
-        --         List.map tagOption <|
-        --             Set.toList <|
-        --                 model.tagSet
-        --     , text " "
-        --     , button [ onClick ApplyStagedFilter ]
-        --         [ text "OK" ]
-        --     ]
         ]
 
 
@@ -366,9 +333,6 @@ type Msg
     | GotChanges (Result Http.Error (List Change))
     | SetSearchTerm String
     | SendFiltersChanged String
-      -- | SetStagedFilterState String
-      -- | SetStagedFilterTag String
-      -- | ApplyStagedFilter
     | SetTagFilter String TagFilterState
     | IncreasePageSize
 
@@ -403,29 +367,18 @@ update msg model =
                                 changes
                     in
                     ( { model
-                        | changes = Just changes
+                        | changes = Changes changes
                         , tagSet = tagSet
                         , tagFilters =
                             model.tagFilters
                                 |> Dict.filter
                                     (\tag _ -> Set.member tag tagSet)
-
-                        -- , stagedFilterTag =
-                        --     tagSet
-                        --         |> Set.toList
-                        --         |> List.head
-                        --         |> Maybe.withDefault ""
                       }
                     , Cmd.none
                     )
 
                 Err err ->
-                    ( { model
-                        | changes = Nothing
-                        , err = Just err
-                      }
-                    , Cmd.none
-                    )
+                    ( { model | changes = Error err }, Cmd.none )
 
         SetSearchTerm term ->
             ( { model | searchTerm = term }
@@ -439,22 +392,6 @@ update msg model =
             else
                 ( model, Cmd.none )
 
-        -- SetStagedFilterTag t ->
-        --     ( { model | stagedFilterTag = t }, Cmd.none )
-        -- SetStagedFilterState stateStr ->
-        --     case stateStr of
-        --         "Require" ->
-        --             ( { model | stagedFilterState = Require }, Cmd.none )
-        --         "Exclude" ->
-        --             ( { model | stagedFilterState = Exclude }, Cmd.none )
-        --         _ ->
-        --             ( { model | stagedFilterState = Ignore }, Cmd.none )
-        -- ApplyStagedFilter ->
-        --     update
-        --         (SetTagFilter model.stagedFilterTag
-        --             model.stagedFilterState
-        --         )
-        --         model
         SetTagFilter tag state ->
             let
                 filters =
@@ -483,5 +420,5 @@ setTimeout delay msg =
 
 
 subscriptions : Model -> Sub Msg
-subscriptions model =
+subscriptions _ =
     Sub.none

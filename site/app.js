@@ -5340,6 +5340,7 @@ var $author$project$Main$Exclude = {$: 'Exclude'};
 var $author$project$Main$GotChanges = function (a) {
 	return {$: 'GotChanges', a: a};
 };
+var $author$project$Main$Loading = {$: 'Loading'};
 var $author$project$Main$Require = {$: 'Require'};
 var $elm$json$Json$Decode$at = F2(
 	function (fields, decoder) {
@@ -6178,7 +6179,6 @@ var $elm$http$Http$get = function (r) {
 	return $elm$http$Http$request(
 		{body: $elm$http$Http$emptyBody, expect: r.expect, headers: _List_Nil, method: 'GET', timeout: $elm$core$Maybe$Nothing, tracker: $elm$core$Maybe$Nothing, url: r.url});
 };
-var $author$project$Main$jsonURL = '/wow-10.0-patch-notes.json';
 var $elm$core$Dict$foldl = F3(
 	function (func, acc, dict) {
 		foldl:
@@ -6221,8 +6221,7 @@ var $author$project$Main$init = function (args) {
 		});
 	return _Utils_Tuple2(
 		{
-			changes: $elm$core$Maybe$Nothing,
-			err: $elm$core$Maybe$Nothing,
+			changes: $author$project$Main$Loading,
 			pageSize: 5,
 			searchTerm: args.searchTerm,
 			tagFilters: A2(
@@ -6254,13 +6253,19 @@ var $author$project$Main$init = function (args) {
 						_List_fromArray(
 							['Changes']),
 						$elm$json$Json$Decode$list($author$project$Main$changeDecoder))),
-				url: $author$project$Main$jsonURL
+				url: '/wow-10.0-patch-notes.json'
 			}));
 };
 var $elm$core$Platform$Sub$batch = _Platform_batch;
 var $elm$core$Platform$Sub$none = $elm$core$Platform$Sub$batch(_List_Nil);
-var $author$project$Main$subscriptions = function (model) {
+var $author$project$Main$subscriptions = function (_v0) {
 	return $elm$core$Platform$Sub$none;
+};
+var $author$project$Main$Changes = function (a) {
+	return {$: 'Changes', a: a};
+};
+var $author$project$Main$Error = function (a) {
+	return {$: 'Error', a: a};
 };
 var $author$project$Main$SendFiltersChanged = function (a) {
 	return {$: 'SendFiltersChanged', a: a};
@@ -6407,7 +6412,7 @@ var $author$project$Main$update = F2(
 						_Utils_update(
 							model,
 							{
-								changes: $elm$core$Maybe$Just(changes),
+								changes: $author$project$Main$Changes(changes),
 								tagFilters: A2(
 									$elm$core$Dict$filter,
 									F2(
@@ -6424,8 +6429,7 @@ var $author$project$Main$update = F2(
 						_Utils_update(
 							model,
 							{
-								changes: $elm$core$Maybe$Nothing,
-								err: $elm$core$Maybe$Just(err)
+								changes: $author$project$Main$Error(err)
 							}),
 						$elm$core$Platform$Cmd$none);
 				}
@@ -6468,6 +6472,10 @@ var $author$project$Main$update = F2(
 					$elm$core$Platform$Cmd$none);
 		}
 	});
+var $elm$html$Html$div = _VirtualDom_node('div');
+var $elm$html$Html$p = _VirtualDom_node('p');
+var $elm$virtual_dom$VirtualDom$text = _VirtualDom_text;
+var $elm$html$Html$text = $elm$virtual_dom$VirtualDom$text;
 var $author$project$Main$IncreasePageSize = {$: 'IncreasePageSize'};
 var $elm$html$Html$button = _VirtualDom_node('button');
 var $elm$html$Html$Attributes$stringProperty = F2(
@@ -6478,7 +6486,6 @@ var $elm$html$Html$Attributes$stringProperty = F2(
 			$elm$json$Json$Encode$string(string));
 	});
 var $elm$html$Html$Attributes$class = $elm$html$Html$Attributes$stringProperty('className');
-var $elm$html$Html$div = _VirtualDom_node('div');
 var $elm$virtual_dom$VirtualDom$Normal = function (a) {
 	return {$: 'Normal', a: a};
 };
@@ -6496,9 +6503,6 @@ var $elm$html$Html$Events$onClick = function (msg) {
 		'click',
 		$elm$json$Json$Decode$succeed(msg));
 };
-var $elm$html$Html$p = _VirtualDom_node('p');
-var $elm$virtual_dom$VirtualDom$text = _VirtualDom_text;
-var $elm$html$Html$text = $elm$virtual_dom$VirtualDom$text;
 var $elm$html$Html$h2 = _VirtualDom_node('h2');
 var $elm$core$Dict$sizeHelp = F2(
 	function (n, dict) {
@@ -7098,11 +7102,11 @@ var $author$project$Main$visibleChanges = F2(
 				var runQuery = function (terms) {
 					runQuery:
 					while (true) {
-						var _v2 = $elm$core$List$head(terms);
-						if (_v2.$ === 'Nothing') {
+						var _v4 = $elm$core$List$head(terms);
+						if (_v4.$ === 'Nothing') {
 							return _Utils_Tuple2(_List_Nil, false);
 						} else {
-							var term = _v2.a;
+							var term = _v4.a;
 							if (A2(
 								$elm$core$List$any,
 								function (text) {
@@ -7127,7 +7131,7 @@ var $author$project$Main$visibleChanges = F2(
 		var _v0 = A2(
 			$elm$core$Dict$partition,
 			F2(
-				function (k, v) {
+				function (_v1, v) {
 					return _Utils_eq(v, $author$project$Main$Exclude);
 				}),
 			model.tagFilters);
@@ -7135,14 +7139,14 @@ var $author$project$Main$visibleChanges = F2(
 		var other = _v0.b;
 		var excluded = $elm$core$Set$fromList(
 			$elm$core$Dict$keys(excludedDict));
-		var _v1 = A2(
+		var _v2 = A2(
 			$elm$core$Dict$partition,
 			F2(
-				function (k, v) {
+				function (_v3, v) {
 					return _Utils_eq(v, $author$project$Main$Require);
 				}),
 			other);
-		var requiredDict = _v1.a;
+		var requiredDict = _v2.a;
 		var required = $elm$core$Set$fromList(
 			$elm$core$Dict$keys(requiredDict));
 		var matchesTags = function (change) {
@@ -7157,15 +7161,39 @@ var $author$project$Main$visibleChanges = F2(
 		};
 		return A2($elm$core$List$filter, isIncluded, changes);
 	});
+var $author$project$Main$viewPage = F2(
+	function (model, changes) {
+		var _v0 = A2(
+			$author$project$Main$viewChanges,
+			model,
+			A2($author$project$Main$visibleChanges, model, changes));
+		var changesView = _v0.a;
+		var hasMore = _v0.b;
+		return _List_fromArray(
+			[
+				$author$project$Main$viewFilters(model),
+				changesView,
+				hasMore ? A2(
+				$elm$html$Html$button,
+				_List_fromArray(
+					[
+						$elm$html$Html$Attributes$class('more'),
+						$elm$html$Html$Events$onClick($author$project$Main$IncreasePageSize)
+					]),
+				_List_fromArray(
+					[
+						$elm$html$Html$text('more')
+					])) : $elm$html$Html$text('')
+			]);
+	});
 var $author$project$Main$view = function (model) {
 	return A2(
 		$elm$html$Html$div,
 		_List_Nil,
 		function () {
-			var _v0 = model.err;
-			if (_v0.$ === 'Nothing') {
-				var _v1 = model.changes;
-				if (_v1.$ === 'Nothing') {
+			var _v0 = model.changes;
+			switch (_v0.$) {
+				case 'Loading':
 					return _List_fromArray(
 						[
 							A2(
@@ -7176,98 +7204,76 @@ var $author$project$Main$view = function (model) {
 									$elm$html$Html$text('Loading …')
 								]))
 						]);
-				} else {
-					var changes = _v1.a;
-					var _v2 = A2(
-						$author$project$Main$viewChanges,
-						model,
-						A2($author$project$Main$visibleChanges, model, changes));
-					var changesView = _v2.a;
-					var hasMore = _v2.b;
-					return _List_fromArray(
-						[
-							$author$project$Main$viewFilters(model),
-							changesView,
-							hasMore ? A2(
-							$elm$html$Html$button,
-							_List_fromArray(
+				case 'Changes':
+					var changes = _v0.a;
+					return A2($author$project$Main$viewPage, model, changes);
+				default:
+					switch (_v0.a.$) {
+						case 'BadUrl':
+							var err = _v0.a.a;
+							return _List_fromArray(
 								[
-									$elm$html$Html$Attributes$class('more'),
-									$elm$html$Html$Events$onClick($author$project$Main$IncreasePageSize)
-								]),
-							_List_fromArray(
+									A2(
+									$elm$html$Html$p,
+									_List_Nil,
+									_List_fromArray(
+										[
+											$elm$html$Html$text('Cannot load patch notes: '),
+											$elm$html$Html$text(err)
+										]))
+								]);
+						case 'Timeout':
+							var _v1 = _v0.a;
+							return _List_fromArray(
 								[
-									$elm$html$Html$text('more')
-								])) : $elm$html$Html$text('')
-						]);
-				}
-			} else {
-				switch (_v0.a.$) {
-					case 'BadUrl':
-						var err = _v0.a.a;
-						return _List_fromArray(
-							[
-								A2(
-								$elm$html$Html$p,
-								_List_Nil,
-								_List_fromArray(
-									[
-										$elm$html$Html$text('Cannot load patch notes: '),
-										$elm$html$Html$text(err)
-									]))
-							]);
-					case 'Timeout':
-						var _v3 = _v0.a;
-						return _List_fromArray(
-							[
-								A2(
-								$elm$html$Html$p,
-								_List_Nil,
-								_List_fromArray(
-									[
-										$elm$html$Html$text('Cannot load patch notes: timeout')
-									]))
-							]);
-					case 'NetworkError':
-						var _v4 = _v0.a;
-						return _List_fromArray(
-							[
-								A2(
-								$elm$html$Html$p,
-								_List_Nil,
-								_List_fromArray(
-									[
-										$elm$html$Html$text('Cannot load patch notes: network error')
-									]))
-							]);
-					case 'BadStatus':
-						var status = _v0.a.a;
-						return _List_fromArray(
-							[
-								A2(
-								$elm$html$Html$p,
-								_List_Nil,
-								_List_fromArray(
-									[
-										$elm$html$Html$text('Cannot load patch notes: HTTP status '),
-										$elm$html$Html$text(
-										$elm$core$String$fromInt(status))
-									]))
-							]);
-					default:
-						var err = _v0.a.a;
-						return _List_fromArray(
-							[
-								A2(
-								$elm$html$Html$p,
-								_List_Nil,
-								_List_fromArray(
-									[
-										$elm$html$Html$text('Cannot load patch notes: '),
-										$elm$html$Html$text(err)
-									]))
-							]);
-				}
+									A2(
+									$elm$html$Html$p,
+									_List_Nil,
+									_List_fromArray(
+										[
+											$elm$html$Html$text('Cannot load patch notes: timeout')
+										]))
+								]);
+						case 'NetworkError':
+							var _v2 = _v0.a;
+							return _List_fromArray(
+								[
+									A2(
+									$elm$html$Html$p,
+									_List_Nil,
+									_List_fromArray(
+										[
+											$elm$html$Html$text('Cannot load patch notes: network error')
+										]))
+								]);
+						case 'BadStatus':
+							var status = _v0.a.a;
+							return _List_fromArray(
+								[
+									A2(
+									$elm$html$Html$p,
+									_List_Nil,
+									_List_fromArray(
+										[
+											$elm$html$Html$text('Cannot load patch notes: HTTP status '),
+											$elm$html$Html$text(
+											$elm$core$String$fromInt(status))
+										]))
+								]);
+						default:
+							var err = _v0.a.a;
+							return _List_fromArray(
+								[
+									A2(
+									$elm$html$Html$p,
+									_List_Nil,
+									_List_fromArray(
+										[
+											$elm$html$Html$text('Cannot load patch notes: '),
+											$elm$html$Html$text(err)
+										]))
+								]);
+					}
 			}
 		}());
 };
