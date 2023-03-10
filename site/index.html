@@ -185,16 +185,49 @@
 
   <script type="text/javascript" src="app.js"></script>
   <script>
+    function encodeFilters(filters) {
+      var inc = filters.includeTags.map((x) => "+" + x);
+      var exc = filters.excludeTags.map((x) => "-" + x);
+
+      return inc.concat(exc, [filters.searchTerm]).join("/");
+    }
+
+    function decodeFilters(hash) {
+      try {
+        var terms = hash
+          .split("/")
+          .map(decodeURI);
+
+        return terms.reduce((f, term) => {
+          if (term.startsWith("+")) {
+            f.includeTags.push(term.slice(1));
+          } else if (term.startsWith("-")) {
+            f.excludeTags.push(term.slice(1));
+          }
+
+          return f;
+        }, {
+          searchTerm: terms.pop(),
+          includeTags: [],
+          excludeTags: [],
+        });
+      } catch (err) {
+        console.error(err);
+
+        return {
+          searchTerm: "",
+          includeTags: [],
+          excludeTags: [],
+        };
+      }
+    }
+
     var app = Elm.Main.init({
       node: document.getElementById("elm"),
-      flags: {
-        searchTerm: "",
-        includeTags: [],
-        excludeTags: [],
-      }
+      flags: decodeFilters(window.location.hash.replace(/^#/, "")),
     });
     app.ports.filtersChanged.subscribe(function(filters) {
-        console.log("new filters", filters)
+      history.replaceState(null, "", "#"+encodeFilters(filters));
     });
   </script>
 </body>
