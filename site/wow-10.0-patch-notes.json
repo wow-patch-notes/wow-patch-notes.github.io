@@ -7,28 +7,6 @@
       "Tags": [
         "Dungeons and Raids",
         "Nokhud Offensive",
-        "Raging Tempest"
-      ],
-      "Change": "Electrical Storm damage reduced by 20%."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-03-08",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "Dungeons and Raids",
-        "Nokhud Offensive",
-        "Raging Tempest"
-      ],
-      "Change": "Surge of Power duration increased from 18s to 20s."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-03-08",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "Dungeons and Raids",
-        "Nokhud Offensive",
         "Teera and Maruuk"
       ],
       "Change": "Fixed an issue where the fight will reset if one of the bosses reaches 1 health before the other."
