@@ -2,33 +2,6 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-03-10",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed an issue with some errant messages involving raid difficulty selection."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-03-10",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed an issue where role icons would not appear on raid frames next to the player’s name."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-03-10",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed an issue where quests could not be linked in chat."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-03-08",
       "Weekday": "Wednesday",
       "Tags": [
@@ -228,16 +201,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-03-01",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids"
-      ],
-      "Text": "Fixed an issue in instances where Heroism and Bloodlust were resetting the duration of the Exhaustion and Sated even if you did not benefit from Heroism or Bloodlust."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-02-28",
       "Weekday": "Tuesday",
       "Tags": [
@@ -267,16 +230,6 @@
         "Nokhud Offensive"
       ],
       "Text": "Ohn'ahra now counts as a lower priority target for certain player healing spells."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-28",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "PvP"
-      ],
-      "Text": "Ranked Arena matches that include participants from both the Americas and Oceanic realms are now always served from the Pacific Time Zone, to minimize average latency."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
@@ -589,25 +542,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-27",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Achievements"
-      ],
-      "Text": "School of Hard Knocks is no longer required for the Children's Week meta-achievement For the Children."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-24",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Players in an instance will no longer receive Exhaustion or Sated debuffs when they are not within range to benefit from Heroism or Bloodlust."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-02-23",
       "Weekday": "Thursday",
       "Tags": [
@@ -628,75 +562,12 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-21",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Items and Rewards"
-      ],
-      "Text": "Increased the mana regeneration effect on Meteorite Crystal to 85 (was 68)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-02-17",
       "Weekday": "Friday",
       "Tags": [
         "Items and Rewards"
       ],
       "Text": "Fixed a number of legacy dungeon items in the current Mythic+ pool that had secondary stats that were slightly lower than intended."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-17",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Paladin"
-      ],
-      "Text": "Fixed an issue with the Vindication talent's effect stacking inappropriately with other similar effects."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-17",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Warlock"
-      ],
-      "Text": "Fixed an issue with Curse of Weakness stacking inappropriately with other similar effects."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-17",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic",
-        "System"
-      ],
-      "Text": "We are adding Fire Elemental Totem, Earth Elemental Totem, and Army of the Dead to the list of cooldowns that are reset when an encounter ends. We feel this is safe now that Naxxramas is not the primary raid."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-16",
-      "Weekday": "Thursday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar"
-      ],
-      "Text": "Fixed an issue causing vehicles in Ulduar to sometimes spin indefinitely."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-16",
-      "Weekday": "Thursday",
-      "Tags": [
-        "WotLK Classic",
-        "Items and Rewards"
-      ],
-      "Text": "The following items have received adjustments to their bonuses to be in line with other Ulduar item buffs: Comet's Trail, Dark Matter, Meteorite Crystal, Sigil of the Vengeful Heart."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
@@ -941,17 +812,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-13",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Death Knight"
-      ],
-      "Text": "Adjusted Summon Gargoyle so that it now summons at the Death Knight's own location.\n\nDevelopers' notes: This is intended to prevent various misbehaviors by the Gargoyle, such as it becoming stuck in melee combat against enemies with very large hit boxes."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-02-10",
       "Weekday": "Friday",
       "Tags": [
@@ -1035,26 +895,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-09",
-      "Weekday": "Thursday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed a bug that could prevent combat pets from attacking when the player attacks.\n\nDevelopers' notes: This bug was commonly seen by Death Knights, who reported their Army of the Dead ghouls standing around when they were expected to be attacking the Death Knight's target. As a result of this fix, all combat pets should now engage enemies as they did in original Wrath of the Lich King. Now, pets in Defensive mode will attack when you do, without requiring that you command them to attack, and pets that don't come with a pet bar will default to Defensive mode."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-09",
-      "Weekday": "Thursday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Paladin"
-      ],
-      "Text": "Fixed an issue causing Paladins' Improved Concentration Aura to reduce the duration of friendly Death Knights' Anti-Magic Shell."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-02-08",
       "Weekday": "Wednesday",
       "Tags": [
@@ -1081,16 +921,6 @@
         "Mounts"
       ],
       "Text": "Jade, Bright Foreseer has removed its unnecessary horseshoes and now just leaves water splashes behind it."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-08",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Items and Rewards"
-      ],
-      "Text": "Updated the Platinum Disks of Swiftness trinket's on-use effect to no longer be able to be dispelled, bringing it in parity with the other Platinum Disks trinkets."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
@@ -1182,15 +1012,6 @@
         "Stormsong Valley"
       ],
       "Text": "Fixed and issue where players were not able to complete \"Aww, Rats!\""
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-07",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed an issue where the Glyph of Righteous Defense was not applying the correct glyph in the Glyph UI. It is now working properly again."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
@@ -2234,69 +2055,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-06",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Daily quests now reset at 7:00 a.m. realm time, in order to coincide with all other daily resets."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-06",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed an error when exchanging Emblems with Usuri Brightcoin."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-06",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Paladin",
-        "Retribution"
-      ],
-      "Text": "[With weekly restarts] New glyph recipe added to inscription requiring 390 skill: Glyph of Reckoning. \"Your Hand of Reckoning spell no longer taunts the target and can be used on targets immune to taunt effects.\" This glyph will appear on inscription trainers."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-06",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Paladin",
-        "Retribution"
-      ],
-      "Text": "Seal of Vengeance and Seal of Corruption now apply stacks of their debuffs (Holy Vengeance and Blood Corruption respectively) when using melee abilities such as Divine Storm and Crusader Strike."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-06",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar"
-      ],
-      "Text": "Fixed an issue where some players randomly received full resources (i.e. mana) unexpectedly in Ulduar."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-06",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Items and Rewards"
-      ],
-      "Text": "Fixed an issue where certain gloves would display a texture on a character’s upper arms."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-02-03",
       "Weekday": "Friday",
       "Tags": [
@@ -2344,28 +2102,6 @@
         "Storm's Fury"
       ],
       "Text": "The map icons for \"Storm Warning\" will no longer overlap with the event icon, obscuring if the event is active."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-03",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic",
-        "Achievements"
-      ],
-      "Text": "Alone in the Darkness should now be rewarded correctly to guilds killing Yogg-Saron on 25 player difficulty."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-03",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Mage",
-        "Arcane"
-      ],
-      "Text": "The Arcane Stability talent should now correctly prevent pushback while channeling Arcane Missiles with the Missile Barrage trigger active."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
@@ -2460,28 +2196,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-02",
-      "Weekday": "Thursday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Death Knight"
-      ],
-      "Text": "Fixed an issue where creating your first Death Knight would fail on the first attempt."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-02",
-      "Weekday": "Thursday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Druid"
-      ],
-      "Text": "Nightsong Regalia (Tier 8) 4-set bonus heal now correctly triggers on each Rejuvenation.\n\nDevelopers’ note: The once-on-every-other-Rejuvenation cast is true to the behavior in patch 3.3.5. However, the wording of the Tier 8 set bonus does not reflect this, and instead indicates that Rejuvenation should provide an instant-heal on cast. It seemed like the fair thing to do would be to reimplement the once-on-every-Rejuvenation-cast trigger rate."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-02-01",
       "Weekday": "Wednesday",
       "Tags": [
@@ -2571,26 +2285,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-01",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Items and Rewards"
-      ],
-      "Text": "Stormjewels are now correctly unique-equippable."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-02-01",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Items and Rewards"
-      ],
-      "Text": "The Blood of the Old God trinket now has the correct attack power value trigger in its tooltip."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-01-31",
       "Weekday": "Tuesday",
       "Tags": [
@@ -2629,156 +2323,6 @@
         "Ohn'ahran Plains"
       ],
       "Text": "Fixed some issues to prevent “Field of Ferocity: Redux Master of the Hunt” fights from permanently getting stuck in an unusable state."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Druid"
-      ],
-      "Text": "The Cenarion Raiment Druid set from Molten Core now reduces the cooldown of Tranquility by only 15%, rather than 50%."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor"
-      ],
-      "Text": "Developers note: We want to make XT-002 Hardmode more approachable on both 10 and 25 player difficulties while maintaining the exciting pacing of the original pre-nerf 6 minute berserk timer. This will result in hp values that are technically lower overall than the post-nerf version of XT but the challenge, albeit a more reasonable one, will still exist with a much shorter fight duration."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "10 Player Hardmode"
-      ],
-      "Text": "Total Damage required to defeat XT-002 reduced by 20% during the Heartbreak Phase."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "10 Player Hardmode"
-      ],
-      "Text": "Heartbreak Health % Buff is now 40% (was 90%)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "10 Player Hardmode"
-      ],
-      "Text": "Heartbreak Buff Health: is now 8,400,000 (was 11,400,000)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "10 Player Hardmode"
-      ],
-      "Text": "Life Spark Health is now 100,800."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "25 Player Hardmode"
-      ],
-      "Text": "Heartbreak Health % Buff is now 40% (was 90%)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "25 Player Hardmode"
-      ],
-      "Text": "Base Health is now 18,000,000 (was 25,000,000)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "25 Player Hardmode"
-      ],
-      "Text": "Heart Health is now 4,410,000 (was 6,125,000)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "25 Player Hardmode"
-      ],
-      "Text": "Heartbreak Buff Health is now 25,200,000 (was 47,500,000)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "XT-002 Deconstructor",
-        "25 Player Hardmode"
-      ],
-      "Text": "Life Spark Health is now 302,400 (was 352,800)."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-31",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Items and Rewards"
-      ],
-      "Text": "Block value socket bonus tooltips for the following items are now consistent with their in-game effects:\n\nValorous Redemption Legguards\nHeroes' Redemption Legguards\nGreaves of the Shatterer\nTimewarden's Leggings\nSkadi's Iron Belt\nJungle Stompers\nTopaz-Studded Battlegrips"
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
@@ -3384,17 +2928,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-27",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK",
-        "Classes",
-        "Death Knight"
-      ],
-      "Text": "Sigil of the Vengeful Heart now increases Death Coil damage and Frost Strike damage by the correct amounts listed on the item's tooltip."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-01-26",
       "Weekday": "Thursday",
       "Tags": [
@@ -3761,15 +3294,6 @@
         "Lorewalker Stonestep"
       ],
       "Text": "Fixed an issue causing Feeling of Superiority to not increase pet damage."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
-      "Date": "2023-01-24",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "The Transitus Shield will no longer dismount flying players or prevent flying."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -8149,57 +7673,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-23",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Sack of Ulduar Spoils and Large Sack of Ulduar Spoils now drop Emblems of Conquest instead of Emblems of Triumph."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-23",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Creatures and NPCs"
-      ],
-      "Text": "Elder Bluewolf of the Lunar Festival has been found, and we've relocated them to the Wintergrasp fortress."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-23",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids"
-      ],
-      "Text": "Weakened the increased healing taken effect generated from Blood of the Loa in Troll Heroic Dungeons with Defense Protocol Alpha active. That buff now has a 4 second duration (was 10 seconds) and cancels when the enemy is no longer affected by Blood of the Loa."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-23",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Ulduar",
-        "Iron Council"
-      ],
-      "Text": "Stormcaller Brundir's corpse will no longer get stuck midair if killed during his transitions into and out of Lightning Tendrils."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-23",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic",
-        "Professions"
-      ],
-      "Text": "Fixed an issue where you could not abandon Leatherworking."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
       "Date": "2023-01-19",
       "Weekday": "Thursday",
       "Tags": [
@@ -8207,16 +7680,6 @@
         "Stratholme"
       ],
       "Text": "When zoning into Stratholme from the exterior world, players now have access to all of the dungeon's bosses instead of the two-wing Looking For Dungeon counterparts."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-19",
-      "Weekday": "Thursday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids"
-      ],
-      "Text": "Getting into combat with a Risen Zombie in Heroic Culling of Stratholme will no longer prevent activation of Defense Protocol Alpha."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
@@ -8259,113 +7722,6 @@
         "Professions"
       ],
       "Text": "We have re-enabled the ability to skip some profession tutorial quests."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Auction House"
-      ],
-      "Text": "Added options to sort by Buyout Price and by Unit Price. These can be selected via a gear icon button to the right of the search sorting headers."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Auction House"
-      ],
-      "Text": "Now, when you select an item to purchase, the total buyout price is displayed next to the Buyout button."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Auction House"
-      ],
-      "Text": "Searching an item name in quotes will now perform an exact match search for that item name."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Auction House"
-      ],
-      "Text": "Shift-clicking an item with the Auction House open will now paste the name of that item in quotes to the Auction House."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Creatures and NPCs"
-      ],
-      "Text": "Class trainers were inadvertently forgetting to charge money for the dual talent specialization, profession respecialization, and other paid options. While we investigate the cause of their inadequate accounting practices, we've asked them to stop selling the dual talent specialization ability. Anyone who has already purchased dual talent specialization will be allowed to keep it, and we'll re-enable it once we've fixed the issue. The profession specialization services will continue to be offered, but may spontaneously start charging their intended fee."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Defense Protocol Alpha"
-      ],
-      "Text": "Bounty Satchels from Heroic Daily Dungeons, with Defense Protocol Alpha active, are no longer tradeable to party members."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Defense Protocol Alpha"
-      ],
-      "Text": "The Frostbite effect from Heroic Utgarde Keep and Heroic Utgarde Pinnacle, while Defense Protocol Alpha is active, now appears as a debuff and cannot be cancelled via the UI."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Defense Protocol Alpha"
-      ],
-      "Text": "The Bounty Satchel from the Heroic Daily Dungeon, when Defense Protocol Alpha is active, is now multidrop. This was an accidental oversight and was always intended to be multidrop. This means all members of the party can loot the item and receive 3 bonus Emblems of Conquest."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Obsidian Sanctum",
-        "Sartharion"
-      ],
-      "Text": "Now drops an additional item when 2 or 3 drakes are alive, similar to 3.4.0."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-18",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Dungeons and Raids",
-        "Obsidian Sanctum",
-        "Sartharion"
-      ],
-      "Text": "10-Player now drops Reins of the Black Drake (instead of Reins of the Twilight Drake) when 3 drakes are alive."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
@@ -8592,17 +7948,6 @@
         "Quests"
       ],
       "Text": "Lunar Festival now starts on 1/24 to allow for new Elders to search out on the Dragon Isles."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-17",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Azjol-Nerub",
-        "Krik'thir the Gatewatcher"
-      ],
-      "Text": "Skittering Swarmers and Skittering Infectors can no longer cause additional web wraps when completing the Heroic version of this encounter with Defense Protocol Alpha active."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
@@ -9906,15 +9251,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-09",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixing an issue where Wintergrasp faction win conditions could be unintentionally reset, resulting in players not receiving the Essence of Wintergrasp buff."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
       "Date": "2023-01-06",
       "Weekday": "Friday",
       "Tags": [
@@ -10166,15 +9502,6 @@
         "Valdrakken"
       ],
       "Text": "Deployed additional fixes for “Aiding the Accord: The Hunt is On\" not always granting quest credit when completing a Grand Hunt."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2023-01-06",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Player-characters who transfer to another realm (paid or free) are ineligible to receive realm first raid achievements for 240 hours (ten days) after the transfer is completed."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
@@ -13327,15 +12654,6 @@
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2022-12-19",
-      "Weekday": "Monday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed an issue where some talents could have multiple ranks of bonuses active at the same time."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
       "Date": "2022-12-16",
       "Weekday": "Friday",
       "Tags": [
@@ -13557,39 +12875,6 @@
         "Maruuk Centaur"
       ],
       "Text": "Essence of Awakening is now properly bind-on-pickup."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2022-12-16",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic"
-      ],
-      "Text": "Fixed an issue where holidays on the calendar could be off by one day."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2022-12-16",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Death Knight",
-        "Unholy"
-      ],
-      "Text": "Fixed an issue where it was possible to have multiple ranks of Icy Talons active at once."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2022-12-16",
-      "Weekday": "Friday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Death Knight",
-        "Unholy"
-      ],
-      "Text": "Fixed an issue where multiple ranks of Desolation can be stacked at once."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
@@ -14432,17 +13717,6 @@
         "Cobalt Assembly"
       ],
       "Text": "The power \"Arcane Bravery” can now be dispelled and spellstolen. In addition, it now correctly makes the player immune to all damage, rather than to all effects."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2022-12-14",
-      "Weekday": "Wednesday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Hunter"
-      ],
-      "Text": "Fixed an issue where it was possible to have multiple ranks of Volley active at the same time. This is a second version of the hotfix that deals with new reports of alternate ways to do this."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
@@ -16845,17 +16119,6 @@
         "Waking Shores"
       ],
       "Text": "Fixed an issue where Disgruntled Riverbeast Matriarch was not displaying the proper tooltip during \"Wildlife Rescue.\""
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",
-      "Date": "2022-12-06",
-      "Weekday": "Tuesday",
-      "Tags": [
-        "WotLK Classic",
-        "Classes",
-        "Hunter"
-      ],
-      "Text": "Fixed an issue where it was possible to have multiple ranks of Volley active at the same time."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23885941",

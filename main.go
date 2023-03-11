@@ -233,6 +233,12 @@ var repeatedSpace = regexp.MustCompile(`[ \t]+`)
 var repeatedNL = regexp.MustCompile(`\n\n+`)
 
 func flattenChanges(ul *goquery.Selection, tags []string) []Change {
+	for _, t := range tags {
+		if strings.Contains(t, "WotLK") {
+			return nil
+		}
+	}
+
 	var changes []Change
 
 	var lis []*goquery.Selection
