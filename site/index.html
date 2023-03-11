@@ -1,234 +1,277 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
-  <title>WoW Patch Notes</title>
-  <style type="text/css">
-    :root {
-      --bg-color:    #170e09;
-      --fg-color:    antiquewhite;
-      --fg-muted:    #faebd780;
-      --blizz-blue:  #00c0ff;
-      --ruler-color: var(--fg-muted);
-    }
-    .pill       {
-      background: var(--fg-muted);
-      color: black;
-    }
-    .pill.plus  {
-      background: #aee7ae;
-    }
-    .pill.minus {
-      background: #ffc0cb;
-    }
-    .pill button {
-      background: none;
-      color: black;
-    }
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
+		<title>WoW Patch Notes</title>
+		<style type="text/css">
+			:root {
+				--bg-color:    #111217;
+				--fg-color:    #faebd7;
+				--fg-muted:    #faebd780;
+				--blizz-blue:  #00aeff;
+				--ruler-color: var(--fg-muted);
+			}
+			.pill {
+				background: var(--fg-muted);
+				color: black;
+			}
+			.pill.plus {
+				background: #aee7ae;
+			}
+			.pill.minus {
+				background: #ffc0cb;
+			}
+			.pill button {
+				background: none;
+				color: black;
+			}
 
-    html {
-      padding: 0;
-      margin: 0;
-    }
+			html {
+				padding: 0;
+				margin: 0;
+			}
 
-    body {
-      padding: 0 1em;
-      background: var(--bg-color);
-      color: var(--fg-color);
-      line-height: 1.5em;
-      text-rendering: optimizelegibility;
-    }
+			body {
+				padding: 0 1em;
+				background: var(--bg-color);
+				color: var(--fg-color);
+				line-height: 1.5em;
+				text-rendering: optimizelegibility;
+			}
 
-    footer {
-      color: var(--fg-muted);
-      font-size: 90%;
-      margin-top: 5em;
-      text-align: center;
-    }
+			footer {
+				color: var(--fg-muted);
+				font-size: 90%;
+				margin-top: 3em;
+				padding-top: 1em;
+				text-align: center;
+				border-top: 1px solid var(--ruler-color);
+			}
 
-    a, a:hover, a:visited {
-      color: var(--blizz-blue);
-      text-decoration: none;
-    }
-    a:hover {
-      border-bottom: 1px solid var(--blizz-blue);
-    }
-    p {
-      margin: 0 0 1em 0;
-    }
-    h2 {
-      position: sticky;
-      top: 0;
-      background: var(--bg-color);
-      padding: .5em 0;
-    }
-    .intro {
-      margin-bottom: 2em;
-    }
-    .change-list {
-        max-width: 800px;
-        margin: 0 auto;
-    }
-    input[type=search] {
-        height: 3em;
-        width: 100%;
-        padding: 0 1em;
-        margin-bottom: 1em;
-    }
-    .active-tag-filters {
-        margin-bottom: 1em;
-    }
-    .active-tag-filters .pill + .pill {
-        margin-left: .5em;
-    }
-    .filters {
-        margin-bottom: 2em;
-    }
-    .card {
-        display: flex;
-        justify-content: start;
-        margin-bottom: 1em;
-        padding-bottom: 1em;
-        border-bottom: 1px solid var(--ruler-color);
-    }
-    .card .tags {
-        width: 20%;
-        min-width: 10em;
-        flex-shrink: 0;
-        padding-right: 2em;
-    }
-    .card .text {
-        white-space: pre-line;
-        flex-grow: 1;
-        text-align: justify;
-        hyphens: auto;
-    }
-    .card .source {
-        padding-left: 1em;
-    }
-    .card .pill {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: .5em;
-    }
-    .card .pill:last-child {
-        margin-bottom: 0;
-    }
-    .weekday {
-        font-size: 80%;
-        padding-left: .5em;
-        color: var(--fg-muted);
-    }
-    .pill {
-        white-space: nowrap;
-        border-radius: .7em;
-        font-size: 80%;
-        line-height: 1.2em;
-        padding: .2em .5em;
-    }
-    .pill button {
-        border: none;
-        padding: 0;
-        margin: 0;
-        line-height: 1.2em;
-        vertical-align: middle;
-        cursor: pointer;
-    }
-    .more {
-        display: block;
-        width: 20em;
-        height: 3em;
-        margin: 1em auto;
-    }
-  </style>
-</head>
+			a, a:hover, a:visited {
+				color: var(--fg-color);
+				text-decoration: none;
+				border-bottom: 1px solid var(--fg-color);
+			}
+			a:hover {
+				color: var(--fg-muted);
+				border-bottom: 1px solid var(--fg-muted);
+			}
+			.source a, .source a:hover, .source a:visited {
+				color: var(--blizz-blue);
+				text-decoration: none;
+				border: none;
+			}
+			.source a:hover {
+				border-bottom: 1px solid var(--blizz-blue);
+			}
+			p {
+				margin: 0 0 1em 0;
+			}
+			p:last-child {
+				margin: 0;
+			}
 
-<body>
-  <div class="change-list">
-    <h1>WoW Patch Notes for DF Season&nbsp;1</h1>
-    <details class='intro'>
-      <summary>About this page</summary>
-      <p>
-        The changes listed here are all content updates and hotfixes for the
-        current World of Warcraft® Retail season. They are automatically
-        scraped once a day from
-        <a href="https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes">
-          worldofwarcraft.blizzard.com
-        </a>.
-        Tags undergo a minor cleanup to fix typos and inconsistencies.
-        Otherwise the changes are copied verbatim.
-      </p>
+			h1 {
+				line-height: 1.5em;
+			}
 
-      <p>
-        <a href="/wow-10.0-patch-notes.json">
-          The list of changes is available as a JSON document.
-        </a>
-      </p>
-    </details>
+			h2 {
+				position: sticky;
+				top: 0;
+				background: var(--bg-color);
+				padding: .5em 0;
+			}
 
-    <div id="elm"></div>
+			.intro {
+				margin-bottom: 2em;
+			}
+			.change-list {
+				max-width: 800px;
+				margin: 0 auto;
+			}
+			input[type=search] {
+				height: 3em;
+				width: 100%;
+				padding: 0 1em;
+				margin-bottom: 1em;
+			}
+			.active-tag-filters {
+				margin-bottom: 1em;
+			}
+			.active-tag-filters .pill + .pill {
+				margin-left: .5em;
+			}
+			.filters {
+				margin-bottom: 2em;
+			}
+			.card {
+				margin-bottom: 2em;
+			}
+			.card .text {
+				white-space: pre-line;
+				text-align: justify;
+				hyphens: auto;
+			}
+			.weekday {
+				font-size: 80%;
+				padding-left: .5em;
+				color: var(--fg-muted);
+			}
+			.pill {
+				white-space: nowrap;
+				border-radius: .7em;
+				font-size: 80%;
+				line-height: 1.2em;
+				padding: .2em .5em;
+			}
+			.pill button {
+				border: none;
+				padding: 0;
+				margin: 0;
+				line-height: 1.2em;
+				vertical-align: middle;
+				cursor: pointer;
+			}
+			.more {
+				display: block;
+				width: 20em;
+				height: 3em;
+				margin: 1em auto;
+			}
 
-    <footer>
-      <p>
-        This site is hosted by GitHub,&nbsp;Inc (<a href="https://github.com/wow-patch-notes/wow-patch-notes.github.io">source code</a>). Their
-        <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection">Privacy Statement</a>
-        applies. Other than that, no visitor data is collected or processed.
-      </p>
-      <p>
-        World of Warcraft and Warcraft are trademarks or registered trademarks
-        of Blizzard&nbsp;Entertainment,&nbsp;Inc., in the U.S. and/or other countries.
-      </p>
-    </footer>
-  </div>
+			@media(max-width: 900px) {
+				.card .pill {
+					margin-right: .5em;
+				}
+				.card .pill:last-child {
+					margin-right: 0em;
+				}
+				.card .text {
+					margin-top: 1em;
+				}
+			}
+			@media(min-width: 900px) {
+				.card {
+					display: flex;
+					justify-content: start;
+				}
+				.card .tags {
+					padding-right: 2em;
+					width: 20%;
+					min-width: 10em;
+					flex-shrink: 0;
+				}
+				.card .text {
+					flex-grow: 1;
+				}
+				.card .source {
+					padding-left: 1em;
+				}
+				.card .pill {
+					display: flex;
+					justify-content: space-between;
+					margin-bottom: .5em;
+				}
+				.card .pill:last-child {
+					margin-bottom: 0;
+				}
+			}
+		</style>
+	</head>
 
-  <script type="text/javascript" src="app.js"></script>
-  <script>
-    function encodeFilters(filters) {
-      var inc = filters.includeTags.map((x) => "+" + x);
-      var exc = filters.excludeTags.map((x) => "-" + x);
+	<body>
+		<div class="change-list">
+			<h1>WoW Patch Notes for DF Season&nbsp;1</h1>
+			<details class='intro'>
+				<summary>About this page</summary>
+				<p>
+					The changes listed here are all content updates and hotfixes for the
+					current World of Warcraft® Retail season. They are automatically
+					scraped once a day from
+					<a href="https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes">
+						worldofwarcraft.blizzard.com
+					</a>.
+					Tags undergo a minor cleanup to fix typos and inconsistencies.
+					Otherwise the changes are copied verbatim.
+				</p>
 
-      return inc.concat(exc, [filters.searchTerm]).join("/");
-    }
+				<p>
+					<a href="/wow-10.0-patch-notes.json">
+						The list of changes is available as a JSON document.
+					</a>
+				</p>
+				<p>
+					Missing one or more changes?
+					<a href="https://github.com/wow-patch-notes/wow-patch-notes.github.io/issues">
+						Create an issue!
+					</a>
+				</p>
+			</details>
 
-    function decodeFilters(hash) {
-      try {
-        var terms = hash
-          .split("/")
-          .map(decodeURI);
+			<div id="elm"></div>
 
-        return terms.reduce((f, term) => {
-          if (term.startsWith("+")) {
-            f.includeTags.push(term.slice(1));
-          } else if (term.startsWith("-")) {
-            f.excludeTags.push(term.slice(1));
-          }
+			<footer>
+				<p>
+					This site is hosted by GitHub,&nbsp;Inc (<a href="https://github.com/wow-patch-notes/wow-patch-notes.github.io">source code</a>). Their
+					<a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#data-collection">Privacy Statement</a>
+					applies. Other than that, no visitor data is collected or processed.
+				</p>
+				<p>
+					World of Warcraft and Warcraft are trademarks or registered trademarks
+					of Blizzard&nbsp;Entertainment,&nbsp;Inc., in the U.S. and/or other countries.
+				</p>
+			</footer>
+		</div>
 
-          return f;
-        }, {
-          searchTerm: terms.pop(),
-          includeTags: [],
-          excludeTags: [],
-        });
-      } catch (err) {
-        console.error(err);
+		<script type="text/javascript" src="app.js"></script>
+		<script>
+			function encodeFilters(filters) {
+				var inc = filters.includeTags.map((x) => "+" + x);
+				var exc = filters.excludeTags.map((x) => "-" + x);
 
-        return {
-          searchTerm: "",
-          includeTags: [],
-          excludeTags: [],
-        };
-      }
-    }
+				return inc.concat(exc, [filters.searchTerm]).join("/");
+			}
 
-    var app = Elm.Main.init({
-      node: document.getElementById("elm"),
-      flags: decodeFilters(window.location.hash.replace(/^#/, "")),
-    });
-    app.ports.filtersChanged.subscribe(function(filters) {
-      history.replaceState(null, "", "#"+encodeFilters(filters));
-    });
-  </script>
-</body>
+			function decodeFilters(hash) {
+				try {
+					var terms = hash
+						.split("/")
+						.map(decodeURI);
+
+					return terms.reduce((f, term) => {
+						if (term.startsWith("+")) {
+							f.includeTags.push(term.slice(1));
+						} else if (term.startsWith("-")) {
+							f.excludeTags.push(term.slice(1));
+						}
+
+						return f;
+					}, {
+							searchTerm: terms.pop(),
+							includeTags: [],
+							excludeTags: [],
+						});
+				} catch (err) {
+					console.error(err);
+
+					return {
+						searchTerm: "",
+						includeTags: [],
+						excludeTags: [],
+					};
+				}
+			}
+
+			var app = Elm.Main.init({
+				node: document.getElementById("elm"),
+				flags: decodeFilters(window.location.hash.replace(/^#/, "")),
+			});
+			app.ports.filtersChanged.subscribe(function(filters) {
+				history.replaceState(null, "", "#"+encodeFilters(filters));
+			});
+		</script>
+	</body>
 </html>
