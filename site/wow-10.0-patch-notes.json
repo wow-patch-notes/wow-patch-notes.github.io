@@ -2,6 +2,33 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "WotLK Classic"
+      ],
+      "Text": "Fixed an issue with some errant messages involving raid difficulty selection."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "WotLK Classic"
+      ],
+      "Text": "Fixed an issue where role icons would not appear on raid frames next to the player’s name."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "WotLK Classic"
+      ],
+      "Text": "Fixed an issue where quests could not be linked in chat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-03-08",
       "Weekday": "Wednesday",
       "Tags": [
