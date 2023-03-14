@@ -2,6 +2,153 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Heroic)"
+      ],
+      "Text": "[With weekly restarts] Electric Lash damage reduced by 20% in Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Heroic)"
+      ],
+      "Text": "[With weekly restarts] Volatile Current damage reduced by 20% in Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Heroic)"
+      ],
+      "Text": "[With weekly restarts] Stormsurge absorb shield reduced by 20% in Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Heroic)"
+      ],
+      "Text": "[With weekly restarts] Lingering Charge periodic damage reduced by 20% in Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Mythic)"
+      ],
+      "Text": "[With weekly restarts] Electric Lash damage reduced by 20% in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Mythic)"
+      ],
+      "Text": "[With weekly restarts] Volatile Current damage reduced by 20% in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Mythic)"
+      ],
+      "Text": "[With weekly restarts] Stormsurge absorb shield reduced by 20% in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Mythic)"
+      ],
+      "Text": "[With weekly restarts] Primalist Stormseeker's Storm Bolt damage reduced by 25% in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Mythic)"
+      ],
+      "Text": "[With weekly restarts] Lingering Charge periodic damage reduced by 20% in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth (Mythic)"
+      ],
+      "Text": "[With weekly restarts] Fulminating Charge now snares players instead of rooting them in Mythic difficulty.\n\nThe tooltip for Fulminating Charge will still reference a root. This text will be updated at a later date."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Mythic+",
+        "Azure Vault"
+      ],
+      "Text": "[With weekly restarts] The timer to complete Azure Vaults in Mythic+ has been increased to 35 minutes and 30 seconds. (was 34 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Mythic+",
+        "Azure Vault"
+      ],
+      "Text": "[With weekly restarts] The cooldown of Vault Guard's Brilliant Scales has been increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Mythic+",
+        "Azure Vault",
+        "Azureblade"
+      ],
+      "Text": "[With weekly restarts] Azureblade's Mana drains over 60 seconds (was 50 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-03-08",
       "Weekday": "Wednesday",
       "Tags": [
