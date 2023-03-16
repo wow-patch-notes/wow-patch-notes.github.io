@@ -292,6 +292,11 @@ func cleanTag(t string) []string {
 
 	t = strings.TrimPrefix(t, "The ")
 
+	t = strings.TrimSuffix(t, " (Raidfinder)")
+	t = strings.TrimSuffix(t, " (Normal)")
+	t = strings.TrimSuffix(t, " (Heroic)")
+	t = strings.TrimSuffix(t, " (Mythic)")
+
 	if t == "Discipline, Shadow" {
 		return []string{"Discipline", "Shadow"}
 	}
