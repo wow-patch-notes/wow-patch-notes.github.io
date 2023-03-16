@@ -17,7 +17,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Heroic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Electric Lash damage reduced by 20% in Heroic difficulty."
     },
@@ -28,7 +28,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Heroic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Volatile Current damage reduced by 20% in Heroic difficulty."
     },
@@ -39,7 +39,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Heroic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Stormsurge absorb shield reduced by 20% in Heroic difficulty."
     },
@@ -50,7 +50,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Heroic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Lingering Charge periodic damage reduced by 20% in Heroic difficulty."
     },
@@ -61,7 +61,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Mythic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Electric Lash damage reduced by 20% in Mythic difficulty."
     },
@@ -72,7 +72,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Mythic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Volatile Current damage reduced by 20% in Mythic difficulty."
     },
@@ -83,7 +83,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Mythic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Stormsurge absorb shield reduced by 20% in Mythic difficulty."
     },
@@ -94,7 +94,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Mythic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Primalist Stormseeker's Storm Bolt damage reduced by 25% in Mythic difficulty."
     },
@@ -105,7 +105,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Mythic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Lingering Charge periodic damage reduced by 20% in Mythic difficulty."
     },
@@ -116,7 +116,7 @@
       "Tags": [
         "Dungeons and Raids",
         "Vault of the Incarnates",
-        "Raszageth (Mythic)"
+        "Raszageth"
       ],
       "Text": "[With weekly restarts] Fulminating Charge now snares players instead of rooting them in Mythic difficulty.\n\nThe tooltip for Fulminating Charge will still reference a root. This text will be updated at a later date."
     },
