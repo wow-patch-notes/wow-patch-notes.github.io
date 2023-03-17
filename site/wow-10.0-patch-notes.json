@@ -4057,7 +4057,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "ELEMENTAL STORMS",
+        "Elemental Storms",
         "10.0.7"
       ],
       "Text": "With the Primalist focus on the Forbidden Reach they are concentrating their attacks around the Dragon Isles reducing the storm count to 1 (was 2)."
@@ -4067,7 +4067,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "ELEMENTAL STORMS",
+        "Elemental Storms",
         "10.0.7"
       ],
       "Text": "The Dragonbane Keep will no longer be an Elemental Storm."
@@ -4077,7 +4077,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "ELEMENTAL STORMS",
+        "Elemental Storms",
         "10.0.7"
       ],
       "Text": "Additional primalists have been recruited from around Azeroth and are reinforcing the forces in Elemental Storms. This includes increasing the power granted to the primalists allies making these areas a bit more dangerous."
@@ -4087,7 +4087,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "ELEMENTAL STORMS",
+        "Elemental Storms",
         "10.0.7"
       ],
       "Text": "The storm bosses have had their respawn timers shortened and will not scale up their health as fast when more people engage them."
@@ -4097,7 +4097,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "ELEMENTAL STORMS",
+        "Elemental Storms",
         "10.0.7"
       ],
       "Text": "These areas will reward more Elemental Overflow and also have a chance for some of the new bind on account gear tokens similar to the Forbidden Reach."
@@ -4107,7 +4107,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "ELEMENTAL STORMS",
+        "Elemental Storms",
         "10.0.7"
       ],
       "Text": "The tooltips for the Elemental Storms have also been updated to give more information including potential weekly drops that can be gained in the areas."
@@ -4227,7 +4227,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7"
       ],
       "Text": "End of Season PvP rewards will no longer be tied to a specific faction. Additionally, the end of season title will no longer require a specific number of games played on your faction but instead will be that number of games played within the season. For example, for Crimson Gladiator, a player will need 150 games played in Dragonflight Season 1 and ending at .1% of the ladder to earn the title."
@@ -4237,9 +4237,9 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
-        "RATED SOLO SHUFFLE"
+        "Solo Shuffle"
       ],
       "Text": "The duration of Solo Shuffle's \"No-Show\" leaver penalty can now be increased if any character on your account leaves a game."
     },
@@ -4248,9 +4248,9 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
-        "RATED SOLO SHUFFLE"
+        "Solo Shuffle"
       ],
       "Text": "Players can now queue for Solo Shuffle while queued for other Rated PvP modes or participating in Group Finder.\n\nDevelopers' note:  We've heard the feedback that players would like to be able to search for and participate in multiple rated PvP activities and Group Finder while they are in a Solo Shuffle queue. We understand that Solo Shuffle can have long queues for DPS players and would like for players to have more agency in their time, so we are making this change."
     },
@@ -4259,7 +4259,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Shaman"
@@ -4271,7 +4271,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Druid",
@@ -4284,7 +4284,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Druid",
@@ -4297,7 +4297,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Evoker",
@@ -4310,7 +4310,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Evoker",
@@ -4323,7 +4323,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Hunter",
@@ -4336,7 +4336,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Monk",
@@ -4349,7 +4349,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Monk",
@@ -4362,7 +4362,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Monk",
@@ -4375,7 +4375,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Monk",
@@ -4388,7 +4388,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Shaman"
@@ -4400,7 +4400,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4413,7 +4413,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4426,7 +4426,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4439,7 +4439,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4452,7 +4452,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4465,7 +4465,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4478,7 +4478,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4491,7 +4491,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4504,7 +4504,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4517,7 +4517,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Paladin",
@@ -4530,7 +4530,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Shaman"
@@ -4542,7 +4542,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Priest",
@@ -4555,7 +4555,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Shaman"
@@ -4567,7 +4567,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Shaman",
@@ -4580,7 +4580,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.7",
         "Classes",
         "Shaman",
@@ -4645,7 +4645,7 @@
       "Tags": [
         "Professions",
         "10.0.7",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "Public Orders no longer require the customer to provide non-soulbound reagents."
     },
@@ -4656,7 +4656,7 @@
       "Tags": [
         "Professions",
         "10.0.7",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "A button has been added next to the customer or crafter’s name to whisper or ignore them."
     },
@@ -4667,7 +4667,7 @@
       "Tags": [
         "Professions",
         "10.0.7",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "The layout for reagents has been rearranged."
     },
@@ -4678,7 +4678,7 @@
       "Tags": [
         "Professions",
         "10.0.7",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "Due to the layout changes, Optional Reagent labels (e.g. “Add Embellishment”) have been moved into a tooltip and Optional Reagents provided by the customer no longer have a checkmark next to them."
     },
@@ -4689,7 +4689,7 @@
       "Tags": [
         "Professions",
         "10.0.7",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "Search for customers now shows the range of possible item levels for each item."
     },
@@ -4700,7 +4700,7 @@
       "Tags": [
         "Professions",
         "10.0.7",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "Added text log output when filling Crafting Orders."
     },
@@ -4844,7 +4844,7 @@
       "Date": "2023-03-16",
       "Weekday": "Thursday",
       "Tags": [
-        "WOW COMPANION APP",
+        "WoW Companion App",
         "10.0.7"
       ],
       "Text": "Requirements for using an item are now listed in its tooltip."
@@ -11345,9 +11345,9 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "HOLIDAYS",
+        "Holidays",
         "10.0.5",
-        "TRIAL OF STYLE"
+        "Trial of Style"
       ],
       "Text": "Additional cosmetics are now available for Trial of Style Tokens at Transmogrifier vendors."
     },
@@ -11356,9 +11356,9 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "HOLIDAYS",
+        "Holidays",
         "10.0.5",
-        "LUNAR NEW YEAR"
+        "Lunar New Year"
       ],
       "Text": "Lunar New Year has begun! A new achievement, Elders of the Dragon Isles, can be earned by honoring the Elders located across the Dragon Isles."
     },
@@ -11369,7 +11369,7 @@
       "Tags": [
         "Items and Rewards",
         "10.0.5",
-        "GROUP LOOT"
+        "Group Loot"
       ],
       "Text": "Fixed an issue where, in some rare cases, players would get less loot than they should have on certain Raid sizes."
     },
@@ -11380,7 +11380,7 @@
       "Tags": [
         "Items and Rewards",
         "10.0.5",
-        "GROUP LOOT"
+        "Group Loot"
       ],
       "Text": "Fixed an issue where players could unconditionally roll Need on Set Tokens. The system will now check if the player owns the Token or the Set Piece itself at equal or greater power."
     },
@@ -11391,7 +11391,7 @@
       "Tags": [
         "Items and Rewards",
         "10.0.5",
-        "GROUP LOOT"
+        "Group Loot"
       ],
       "Text": "Players can no longer roll Need on any Profession recipe that they have already learned."
     },
@@ -11402,7 +11402,7 @@
       "Tags": [
         "Items and Rewards",
         "10.0.5",
-        "GROUP LOOT"
+        "Group Loot"
       ],
       "Text": "Players can no longer unconditionally roll Need on 1-hand weapons (or 2-hand for a Warrior in Fury loot spec).\n\nDevelopers' note: The system will now thoroughly identify if you can dual-wield the weapon in question, based on your loot spec. If you can, and you already have two versions of it at least as powerful as the item being rolled for, you can't Need the item."
     },
@@ -11561,7 +11561,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "MAGE TOWER",
+        "Mage Tower",
         "10.0.5"
       ],
       "Text": "The Mage Tower has returned – Interested adventurers can speak to War Councilor Victoria at Deliverance Point in the Broken Shore to test their skills in one of seven unique challenges. Defeat the challenges to earn epic rewards, including Legion-themed class-specific armor set appearances, Guardian Druid Fel Wearbear Form, achievements, and the wondrous Soaring Spelltome mount. The Mage Tower is recommended for level 70 adventurers."
@@ -11571,7 +11571,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5"
       ],
       "Text": "War Mode can now be toggled on while in Valdrakken in addition to Orgrimmar and Stormwind."
@@ -11581,7 +11581,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5"
       ],
       "Text": "Gladiator’s Distinction (Trinket Set Bonus) Primary stat provided by the bonus decreased by 40%, and Stamina provided by the bonus increased by 35%.\n\nDevelopers’ note: We’ve seen that overall PvP pacing, especially in arena, has been very fast as players acquire more gear/tier sets. This leaves less room for player reactions than we would like. In conjunction with the rest of the balance changes, we’re adjusting the primary stat and stamina bonus from Gladiator’s Distinction to help address this."
@@ -11591,7 +11591,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5"
       ],
       "Text": "Ottuk mount swim speed now reduced in battlegrounds."
@@ -11601,7 +11601,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Solo Shuffle"
       ],
@@ -11612,7 +11612,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes"
       ],
@@ -11623,7 +11623,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes"
       ],
@@ -11634,7 +11634,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11646,7 +11646,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11658,7 +11658,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11670,7 +11670,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11682,7 +11682,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Druid",
@@ -11695,7 +11695,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Druid",
@@ -11708,7 +11708,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Druid",
@@ -11721,7 +11721,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11733,7 +11733,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11745,7 +11745,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11757,7 +11757,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Evoker",
@@ -11770,7 +11770,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Evoker",
@@ -11783,7 +11783,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Evoker",
@@ -11796,7 +11796,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Evoker",
@@ -11809,7 +11809,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes"
       ],
@@ -11820,7 +11820,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes"
       ],
@@ -11831,7 +11831,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Monk",
@@ -11844,7 +11844,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Monk",
@@ -11857,7 +11857,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Monk",
@@ -11870,7 +11870,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11882,7 +11882,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11894,7 +11894,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11906,7 +11906,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11918,7 +11918,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11930,7 +11930,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11942,7 +11942,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11954,7 +11954,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes",
         "Paladin"
@@ -11966,7 +11966,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes"
       ],
@@ -11977,7 +11977,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "PLAYER VERSUS PLAYER",
+        "PvP",
         "10.0.5",
         "Classes"
       ],
@@ -12070,7 +12070,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING UI PANEL"
+        "Crafting UI Panel"
       ],
       "Text": "Multiple charge cooldowns will now list the time of when the next charge will be available."
     },
@@ -12081,7 +12081,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING UI PANEL"
+        "Crafting UI Panel"
       ],
       "Text": "Track recipe checkbox is available for recrafting."
     },
@@ -12092,7 +12092,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING UI PANEL"
+        "Crafting UI Panel"
       ],
       "Text": "Enchanting items will now display an \"Enchantment\" prefix text in the Crafted Items window."
     },
@@ -12103,7 +12103,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "Added \"Use Highest Quality Reagent\" checkbox to customer."
     },
@@ -12114,7 +12114,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "Added option to reject an order by right-clicking on it under Personal orders tab."
     },
@@ -12125,7 +12125,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "\"Open All\" for crafting order mail will now auto-delete the mail after receiving the item."
     },
@@ -12136,7 +12136,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "Minimap will now show personal crafting order notifications."
     },
@@ -12147,7 +12147,7 @@
       "Tags": [
         "Professions",
         "10.0.5",
-        "CRAFTING ORDERS"
+        "Crafting Orders"
       ],
       "Text": "There is now a confirmation dialogue when placing a crafting order for an item the player cannot equip."
     },
@@ -12308,7 +12308,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "The Reset Talents button now lets you reset one tree at a time."
     },
@@ -12319,7 +12319,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "You can now copy someone’s build when inspecting their talents."
     },
@@ -12330,7 +12330,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "History nodes have a more visually distinct outline."
     },
@@ -12341,7 +12341,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "Hidden action bars are now shown when the talents pane or the spellbook is open."
     },
@@ -12352,7 +12352,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "The “Missing from action bar” search now specifies talents that are on a hidden or disabled action bar, or on a different stance."
     },
@@ -12363,7 +12363,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "When UI Colorblind Mode is enabled under Accessibility options, a plus icon appears on all learnable nodes."
     },
@@ -12374,7 +12374,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "The loadout slash commands (/loadoutname, /loadoutindex, /specname, /specindex) are now localized."
     },
@@ -12385,7 +12385,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "Fixed an issue where talent tooltips were appearing above the PvP talents flyout."
     },
@@ -12396,7 +12396,7 @@
       "Tags": [
         "User Interface and Accessibility",
         "10.0.5",
-        "TALENT WINDOW"
+        "Talent Window"
       ],
       "Text": "Fixed an issue where unlearning a talent would clear active searches."
     },
@@ -12405,7 +12405,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "WOW COMPANION APP",
+        "WoW Companion App",
         "10.0.5"
       ],
       "Text": "Added item tooltip to Auction House purchase confirmations."
@@ -12415,7 +12415,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "WOW COMPANION APP",
+        "WoW Companion App",
         "10.0.5"
       ],
       "Text": "Fixed some issues with Auction House battle pet filtering and display."
@@ -12425,7 +12425,7 @@
       "Date": "2023-01-24",
       "Weekday": "Tuesday",
       "Tags": [
-        "WOW COMPANION APP",
+        "WoW Companion App",
         "10.0.5"
       ],
       "Text": "Fixed an issue preventing some players from viewing their characters."

@@ -13,6 +13,7 @@ import (
 	"regexp"
 	"strings"
 	"time"
+	"unicode"
 
 	"github.com/PuerkitoBio/goquery"
 )
@@ -136,7 +137,20 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 }
 
 func fixCasing(changes []Change) []Change {
-	tagSet := map[string]string{} // upper -> mixed
+	tagSet := map[string]string{ // upper -> mixed
+		"ELEMENTAL STORMS":     "Elemental Storms",
+		"PLAYER VERSUS PLAYER": "PvP",
+		"RATED SOLO SHUFFLE":   "Solo Shuffle",
+		"CRAFTING ORDERS":      "Crafting Orders",
+		"TALENT WINDOW":        "Talent Window",
+		"WOW COMPANION APP":    "WoW Companion App",
+		"HOLIDAYS":             "Holidays",
+		"LUNAR NEW YEAR":       "Lunar New Year",
+		"TRIAL OF STYLE":       "Trial of Style",
+		"GROUP LOOT":           "Group Loot",
+		"MAGE TOWER":           "Mage Tower",
+		"CRAFTING UI PANEL":    "Crafting UI Panel",
+	}
 
 	for _, c := range changes {
 		for _, t := range c.Tags {
@@ -148,12 +162,23 @@ func fixCasing(changes []Change) []Change {
 		}
 	}
 
+	var hasInvalidTag bool
 	for i, c := range changes {
 		for j, t := range c.Tags {
 			if mc, ok := tagSet[t]; ok {
+				t = mc
 				changes[i].Tags[j] = mc
 			}
+
+			if strings.IndexFunc(t, unicode.IsLetter) >= 0 && t == strings.ToUpper(t) {
+				hasInvalidTag = true
+				log.Println("Upper case tag: " + t)
+			}
 		}
+	}
+
+	if hasInvalidTag {
+		log.Fatal("There is at least one invalid tag")
 	}
 
 	return changes
