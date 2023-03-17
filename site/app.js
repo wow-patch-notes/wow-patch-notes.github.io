@@ -6706,7 +6706,16 @@ var $author$project$Main$viewTagSwitch = F2(
 							$elm$html$Html$text('+')
 						])),
 					$elm$html$Html$text(' '),
-					$elm$html$Html$text(tag),
+					A2(
+					$elm$html$Html$span,
+					_List_fromArray(
+						[
+							$elm$html$Html$Attributes$class('tag-text')
+						]),
+					_List_fromArray(
+						[
+							$elm$html$Html$text(tag)
+						])),
 					$elm$html$Html$text(' '),
 					A2(
 					$elm$html$Html$button,

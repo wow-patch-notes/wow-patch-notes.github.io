@@ -327,7 +327,7 @@ viewTagSwitch model tag =
                 ]
                 [ text "+" ]
         , text " "
-        , text tag
+        , span [ class "tag-text" ] [ text tag ]
         , text " "
         , button
             [ title ("hide changes tagged " ++ tag)
