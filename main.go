@@ -28,12 +28,18 @@ type Change struct {
 const userAgent = "wow-patch-notes/1.0 (+https://wow-patch-notes.github.io)"
 
 func main() {
+	log.SetFlags(log.LstdFlags | log.Lshortfile)
+
 	var stopAfter string
 
 	flag.StringVar(&stopAfter, "stop-after", "",
 		"Stop parsing after the article who's URL contains this string.")
 
 	flag.Parse()
+
+	if stopAfter == "" {
+		log.Fatal("-stop-after is required")
+	}
 
 	ctx, cancel := context.WithTimeout(context.Background(), 1*time.Minute)
 	defer cancel()
@@ -109,6 +115,12 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 
 	if strings.Contains(u, "/hotfixes-") {
 		dest = scrapeHotfixes(dest, doc)
+		return dest
+	}
+
+	if strings.Contains(u, "/23923813/") {
+		dest = scrapeContentUpdate(dest, doc, "#item8", "10.0.7",
+			time.Date(2023, 3, 16, 0, 0, 0, 0, time.UTC))
 		return dest
 	}
 

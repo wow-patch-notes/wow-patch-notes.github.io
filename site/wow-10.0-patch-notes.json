@@ -1,6 +1,4855 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Achievements",
+        "10.0.7"
+      ],
+      "Text": "Flying in Battle for Azeroth zones no longer requires Battle for Azeroth Pathfinder."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Characters",
+        "10.0.7"
+      ],
+      "Text": "New hair colors are available for orcs and humans."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Developers' note: Frost will be seeing a few updates to their tree in 10.0.7. Currently Frost feels 1 or 2 points off from being able to make more meaningful choices within their spec tree. To help ease some of this we are shifting a few talents to be auto-learned on level up and replacing them with a new or existing talent. The new version of the tree should offer a little more variety and feel less linear when allocating your talent points and give you more choice based on the content you are running."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Remorseless Winter has been removed from the talent tree and now learned at level 19."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Might of the Frozen Wastes has been removed from the talent tree and now learned at level 25."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Frostreaper has been removed from the talent tree and now learned at level 28."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "New Talent: Fatal Fixation – Killing Machine can stack up to 1 additional time. Replaces Frostreaper on the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Obliteration now causes Soul Reaper to also grant Killing Machine and have a chance to generate a Rune during Pillar of Frost."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Biting Cold has moved to Remorseless Winter’s old position in the Frost specialization tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Everfrost has moved to Biting Cold’s old position in the Frost specialization tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Breath of Sindragosa damage has been increased by 25% and Runic Power spent per second increased to 18 (was 16)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Frost Strike damage increased by 10% and Runic Power cost increased to 30 (was 25).\n\nDevelopers' note: Frost Death Knight currently has a surplus of Runic Power income which is leading to wasted Runic Power overflow in Obliteration builds and longer than intended durations in Breath of Sindragosa builds. In order to help address this we are increasing both the cost and damage of Frost Strike and Breath of Sindragosa. Maintaining a long breath can feel satisfying for many players but it can also feel disheartening when you lose it for reasons out of your control since so much of your damage becomes reliant on a very high uptime of Breath. The goal with this change is to bring the duration of Breath to a much more reasonable and compact window that allows you to deal the majority of your Breath damage in a shorter window."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Rotten Touch duration increased to 10 seconds (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Runic Mastery now also increases Runic Corruption's Rune regeneration rate by an additional 10/20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Commander of the Dead has been updated to always buff your Gargoyle (or Dark Arbiter) and Army of the Dead Ghouls for 30 seconds after using Dark Transformation.\n\nDevelopers' note: The previous implementation of Commander of the Dead had too many edge cases where it would not always buff your minions or the window was too tight and created less than ideal rotational impact. We have instead updated it to be an aura around the Death Knight for the duration that will always buff their Gargoyle or Army of the Dead ghoul regardless of when they were spawned in after Dark Transformation was used."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Harbinger of Doom now also increases the damage of your next Death Coil by 20% or Epidemic by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Ruptured Viscera now has a 25% chance to apply a Festering Wound to enemies struck by the explosion."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Ruptured Viscera damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Feasting Strike now also has a 15% chance to grant Runic Corruption."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Defile now works with the Pestilence talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Defile now has additional functionality – If an enemy is inside Defile, it grants 1% Mastery every second, stacking up to 8% Mastery."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Defile is no longer a choice node with Unholy Pact and has replaced Pestilent Pustules within the specialization tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Pestilent Pustules has been removed from the Unholy specialization tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Epidemic has swapped places with Unholy Blight within the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Pestilence implementation has been updated to better reflect the functionality of the tooltip."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Demon Hunter"
+      ],
+      "Text": "Developers' note: Fodder to the Flame changes are intended to help with consistency of behavior for the spawned Demon and its Soul. Vengeance should consistently 1-shot its Demon with Throw Glaive, and needing to collect a Demon Soul 40 yards away will be a thing of the past."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Demon Hunter"
+      ],
+      "Text": "Reduced the range that Fodder to the Flame demons can spawn by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Demon Hunter"
+      ],
+      "Text": "The Demon Soul generated upon killing a Fodder to the Flame demon will now land in front it (towards the Demon Hunter), whenever possible."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Blind Fury now increases Eye Beam damage and duration by 10%/20% (was duration only by 25%/50%).\n\nDevelopers' note: Blind Fury added an uncomfortably large amount of time to Eye Beam's channel effect. It is a now a mix of damage and duration increases such that the point-for-point value of the talent remains very similar, but asks for 60% less additional time rooted in order to realize that value."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Improved Fel Rush and the choice node of Desperate Instincts/Netherwalk have swapped locations in the specialization tree. Furious Throws and Fel Eruption have swapped locations in the specialization tree.\n\nDevelopers' note: These talent positions swaps are intended to be a minor change and likely won't significantly shake-up the current talent build meta, but talents before the first gate are generally less 'expensive' and this will make taking a defensive/utility option more reasonable for some builds, in content where it's desired."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Reduced the health of Fodder to the Flame demons by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid"
+      ],
+      "Text": "Protector of the Pack's cap now stores up to 400% of the Druid's spell power for Balance, Feral, and Guardian, and 300% spell power for Restoration (was 240% for all specializations)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Stellar Flare now has an additional effect – If dispelled, causes a Star Burst to crash into the dispeller, dealing damage and knocking them back."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Merciless Claws now increases the damage of Swipe and Brutal Slash by 15% (was 10%)"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Berserk: Frenzy now bleeds targets for 100% of damage dealt by combo point generators during Berserk (was 125%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Shred, Swipe, Brutal Slash, and Thrash damage increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Developers' note: Berserk: Frenzy consolidates a lot of the damage players deal with builders in their Berserk windows. This change is intended to spread more of builders' damage to outside the Berserk window."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Thorns of Iron has been redesigned – When you cast Ironfur, also deal Physical damage equal to 30% of your armor, split among enemies within 12 yards. Damage reduced above 4 applications.\n\nDevelopers' note: This talent was intended to be a compromise in those situations where it's necessary to index heavily into survivability. In the original version, this unfortunately incentivized very high Ironfur stacks and excessive APM during cooldown windows. With this change we hope to maintain the intent of the original design while reducing the incentive to chase very high Ironfur stacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Thorns of Iron is now affected by the Guardian Druid specialization passive, and its damage values have been adjusted accordingly.\n\nDevelopers' note: This is a net neutral change to the Thorns of Iron ability."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that was causing Bristling Fur's global cooldown to not be reduced by Haste."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that was causing Circle of Life and Death to incorrectly reduce Pulverize's duration."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Developer's note: Our goals with Restoration changes are to increase the effectiveness of some underutilized talents and open new talent combinations that were previously difficult to reach."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "New Talent: Tranquil Mind – Increases Omen of Clarity’s chance to activate Clearcasting to 5% and Clearcasting can stack 1 additional time."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "New Talent: Deep Focus – When Moonfire, Rake, Rip, or Rejuvenation are active on a single target, their effects are increased 40%.\n\nDeveloper's note: We are bringing back the Deep Focus ability to offer a dps option that is particularly effective while attacking a single target and does not reduce the duration of your heal over time effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Embrace of the Dream now also triggers on targets with the Regrowth heal over time effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Regenerative Heartwood now also extends the duration of Ironbark by 4 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Improved Wild Growth has moved to a new location one slot to the right."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Cultivation has moved to Improved Wild Growth’s previous location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Nourish has moved to Cultivation’s previous location.\n\nDeveloper's note: We are moving Nourish and its associated talents into a place within the talent tree that leads into other abilities with the goal of not impacting the pathing of other builds that would prefer to skip it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Tranquil Mind occupies Nourish’s previous location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "The Forest’s Flow/Wild Synthesis choice node has moved to a new location directly below Nourish’s new location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Embrace of the Dream and Budding Leaves have swapped locations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Germination and Power of the Archdruid have swapped locations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Invigorate is no longer on a choice node with Power of the Archdruid and has moved locations to directly beneath Overgrowth."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Power of the Archdruid is now on a choice node with Undergrowth."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Circle of Life and Death is now on a choice node with Deep Focus."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Developers' notes: We've seen Devastation have difficulty recovering from burst damage. These changes are intended to primarily help in those scenarios, with direct increases to Verdant Embrace and Draconic Legacy, and improvements to talent options such as Foci of Life and Ancient Flame that have been relatively underutilized."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Dracthyr’s racial ability Chosen Identity will now also cause Dracthyr to automatically assume their Visage form when they resurrect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Dracthyr now know the Aerial Halt ability, like Dragonriding drakes, that allows them to significantly reduce their forward movement."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Draconic Legacy now increases Stamina by 3%/6% (was 2%/4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Foci of Life has been redesigned – Renewing Blaze restores you more quickly, causing damage you take to be healed back over 4 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Ancient Flame has been redesigned – Casting Emerald Blossom or Verdant Embrace reduces the cast time of your next Living Flame by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Ancient Flame has been moved to Roar of Exhilaration’s location in the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker"
+      ],
+      "Text": "Roar of Exhilaration has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Verdant Embrace healing increased by 35%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Developers' notes: In 10.0.7, we are trying to address the dominance of Temporal Anomaly and Resonating Sphere. Ideally, Emerald Blossom talents should be a good pick in situations where your allies are stacked together, but even in those cases we are seeing Temporal Anomaly focused builds winning. These changes are a step towards creating a variety of viable builds for Preservation, and we're keeping an eye on feedback and continuing to makes changes here to keep gameplay and talent choices in a healthy place."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Ouroboros has been redesigned – Casting Echo increases the healing of your next Emerald Blossom by 30%, stacking up to 5 times (was Emerald Blossom and Dream Breath increase healing of Echo)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Fluttering Seedlings healing increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Temporal Anomaly absorption value reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Resonating Sphere now applies Echo to the first 4 allies hit (was 6 allies)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Temporal Compression can now be gained from casting Tip the Scales."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Empowered spells cast with Tip the Scales no longer consume stacks of Temporal Compression."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "When Lifebind is applied through a lower value Echo with Temporal Anomaly, its healing value is reduced to match the value of the Echo."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "When Golden Hour is applied through a lower value Echo with Temporal Anomaly, its healing value is reduced to match the value of the Echo."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter"
+      ],
+      "Text": "Developers' note: Neltharax, Enemy of the Sky has been adjusted (see Items and Rewards section for details). The bow has a bonus effect on it that was intended to be a boost to the Hunter’s auto-shot damage when shooting a single target, and we still want to keep it that way. The special effect from the bow was not intended to also increase the melee auto-attack speed of any summoned pets. The power gain from this special Equip effect, in addition to its rarity, has made a pretty big divide between Hunters who have this bow, and Hunters who don’t. We’re changing the bow to have an equip effect that increases your auto-attack damage, rather than auto-attack speed. This auto-attack damage bonus will only affect you, the Hunter, and your own auto-shot damage – nothing from your pets will be increased from having this special bow. We recognize that the power gain of this bow was very large, and are tuning up some Hunter abilities to compensate for the changes made to the bow."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter"
+      ],
+      "Text": "Death Chakram damage increased by 100%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter"
+      ],
+      "Text": "Serpent Sting damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter"
+      ],
+      "Text": "Rejuvenating Winds now also increases maximum health by 4% per rank."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Cobra Shot damage increased by 50%. Does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Kill Command damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Barbed Shot damage increased by 12%. Does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Stomp damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Kill Cleave now transfers 60% of Kill Command's damage (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Multi-Shot damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Arcane Shot damage increased by 25%. Does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Chimaera Shot damage increased by 25%. Does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "A few talent connections have been adjusted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Steady Focus and Tactical Reload have swapped spots back to their pre-10.0.5 spots."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Developers' note: We are making a few quality-of-life Mistweaver Monk updates in 10.0.7 focused on the availability of instant-cast healing, Sheilun’s Gift and its associated modifiers becoming more predictable, and making the global cooldown attached to Invoking Chi-Ji or Yu’lon have an immediate impact."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "New Talent: Legacy of Wisdom – Sheilun's Gift heals 2 additional allies and its cast time is reduced by 0.5 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Sheilun’s Gift healing increased by 20% and now triggers Mastery: Gust of Mist exclusively onto its primary target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Sheilun's Gift's clouds now reset upon raid boss encounters end and Mythic+ start."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Shaohao’s Lessons: Lesson of Fear now increases Haste by 20% (was 25%).\n\nDevelopers' note: We are decreasing the high-roll potential of Lesson of Fear to disincentivize aggressive \"fishing\" for a favored buff. Moving forward, we plan to monitor the gameplay and community feedback around this talent change closely to ensure the outcome of adding a tracking buff is in-line with our goals."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Shaohao’s Lessons now displays a tracking buff indicating which Lesson will be learned on the next Sheilun’s Gift cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Thunder Focus Tea now causes Enveloping Mist to become instant cast in addition to its current effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Zen Pulse no longer requires an enemy to be present to be cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Fixed an issue that caused Zen Pulse to not function with in-game mouseover settings."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Enveloping Breath has been renamed to Celestial Harmony."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Celestial Harmony now has an additional effect: When activated, Yu'lon and Chi'Ji apply Chi Cocoons to 5 targets within 40 yards, absorbing damage for 10 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Enveloping Breath's heal over time effect is now visible on raid frames."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Enveloping Mist healing increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Enveloping Mists applied by Misty Peaks may now be extended by Rising Mist up to 2 additional seconds (was 6)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Developers' note: Several Windwalker Monk talents have been adjusted to allow players to focus on specializing in single target damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Inner Peace’s maximum Energy Bonus increased to 30 (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Inner Peace now also increases Tiger Palm damage by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Rising Star now increases Rising Sun Kick damage by 3/6% (was 5/10%) and critical strike damage by 6/12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Faeline Harmony’s damage and healing bonus increased to 10% (was 8%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "New Talent: Skytouch – Tiger Palm applies an effect which increases your critical strike chance by 50% for 6 seconds on the target. This effect cannot be applied more than once every 1 minute per target.\n\nDevelopers' note: This has been added as a choice node on Skyreach for players that still want the benefit additional critical strike benefit but do not want to dash to their target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Retribution Aura has been redesigned – When any party or raid member within 40 yards takes more than 30% of their health in damage in a single hit, each member gains 5% increased damage and healing, decaying over 30 seconds. This cannot occur within 30 seconds of the aura being applied.\n\nDevelopers' note: The previous version of Retribution Aura was a more selfish design, impacting only the paladin. This version is intended to be group oriented while still fulfilling the spirit of Retribution."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Of Dusk and Dawn has been redesigned – When you cast 3 Holy power generating ability, you gain Blessing of Dawn. When you consume Blessing of Dawn, you gain Blessing of Dust.\n\nBlessing of Dawn has been redesigned – Your next Holy Power spending ability deals 20% additional increased damage or healing (10% for Retribution specialization). This effect stacks 2 times.  \nBlessing of Dusk has been redesigned – Damage taken reduced by 5% for 10 seconds. \nDevelopers' note: The previous version of this talent demanded a high degree of discipline in managing Holy Power and maintaining its buffs, which caused some frustrating situations with procs disrupting its cadence. Our intent is that this new version will occur more naturally and offer more rotational flexibility."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Justification – Judgment damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Punishment – Successfully interrupting an enemy with Rebuke casts an extra Crusader Strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Lightforged Blessing – Retribution: Divine Storm heals you and up to 4 nearby allies for 3% of maximum health. Holy/Protection: Shield of the Righteous heals you and up to 4 nearby allies for 3% of maximum health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Crusader's Reprieve – Your Crusader Strike, Rebuke, Hammer of the Righteous, and auto-attack range is increased by 3 yards. Using Hammer of the Righteous, and Crusader Strike heals you for 1% of your maximum health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Faith's Armor – Word of Glory grants 20% bonus armor for 4.5 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Sanctified Plates – Armor increased by 10%, Stamina increased by 5%, and damage taken from area of effects attacks reduced by 5% per rank. 2 Ranks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Strength of Conviction – While in your Consecration, your Shield of the Righteous and Word of Glory have 10% per rank increased damage and healing. 2 Ranks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Fading Light – Blessing of Dawn increases the damage and healing of your next Holy Power spending ability by an additional 10%, healing cap of 30% maximum health. Blessing of Dusk causes your Holy Power generating abilities to also grant and absorb shield for 20% of damage or healing dealt."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "New Talent: Vengeful Wrath – Hammer of Wrath always critically strikes. This talent is located on the Class tree for Retribution specialization only."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Divine Toll and Divine Resonance have been added to the class tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seal of Might has been adjusted – Mastery increased by 2% per rank and Strength/Intellect increased by 2% per rank."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seal of Alacrity has been adjusted – Haste increased by 2% per rank and Judgment cooldown reduced by 0.5 seconds per rank. 2 Ranks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seal of the Crusader has been redesigned – Your auto attacks now deal additional Holy damage (was your attacks have a chance to cause your target to take 3% increased Holy damage for 5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Quickened Invocations has been adjusted – Divine Toll's cooldown is reduced by 15 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Judgment of Light has been adjusted – Judgment causes the next 5 successful attacks against the target to heal the attacker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Divine Steed has been adjusted – No longer on the global cooldown and now lasts an additional second."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seal of Order has been redesigned – Blessing of Dawn increases the damage and healing of your next Holy Power spending ability by an additional 10%. Blessing of Dusk increases your armor by 10% and your Holy Power generating abilities cool down 10% faster."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Recompense can no longer critically strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seasoned Warhorse duration increased to 2 seconds (was 1 second)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Righteous Protector is now a 1 rank talent, granting 3 seconds of cooldown reduction."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Divine Shield now also prevents movement forces (such as pushbacks) from affecting you."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Divine Purpose no longer interacts with Execution Sentence as Execution Sentence no longer costs Holy Power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Divine Purpose proc chance reduced to 10% (was 15%) and bonus damage reduced to 10% for Retribution Paladin only (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Blinding Light will now be removed from the target if they suffer Holy damage. Consecration damage will continue to not break Blinding Light. Tooltip will be updated at a later time."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seal of Mercy is now a 1 rank talent (was 2)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Holy Avenger, Sanctified Wrath, Seraphim, Seal of Reprisal, Aspiration of Divinity, Hallowed Ground, Seal of the Templar, and Seal of Clarity have been removed from the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Unbound Freedom is now located on the class tree for Retribution and Protection specializations only."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Healing Hands is now a shared node with Afterimage for Retribution specialization only."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Zealot's Paragon has been removed from the talent tree for Retribution specialization only."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Eye of Tyr moved to Row 9."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Inmost Light moved to Row 10."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Switched positions of Fist of Justice and Repentance/Blinding Light nodes on the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Moved Cleanse up to row 2."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Moved Obduracy up to row 2."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Rebuke and Greater Judgment moved up a row."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Fist of Justice moved to row 4."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Turn Evil moved up to row 2."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seal of Might moved up to row 8."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Seal of Alacrity moved up to row 8."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin"
+      ],
+      "Text": "Judgment of Light moved below 20-point gate."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Aura Mastery’s Retribution Aura interaction has been redesigned – Now increases healing by 15% while Retribution Aura’s effect is active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Afterimage's Holy Power tracking now has a cap of 39 Holy Power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Divine Toll and Divine Resonance have been moved from the specialization tree to the class tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Sanctified Wrath now occupies Divine Toll’s previous location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Added a connection between Sanctified Wrath and Glimmer."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Developers' note: The Protection tree has been adjusted in part to account for Paladin class tree changes, and additionally to help resolve some issues with low-value talents and talent groupings."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Seal of Charity – When you cast Word of Glory on anyone not yourself, you also heal yourself for 50% of the healing done."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Inmost Light – Eye of Tyr deals 300% increased damage and has 15% reduced cooldown."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Faith in the Light's block chance increased to 15/30% (was 5/10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Righteous Protector is now a 1 rank talent, granting 3 seconds of cooldown reduction."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Focused Enmity has been redesigned – When Avenger's Shield strikes a single enemy, it deals additional Holy damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Sanctified Wrath and Seal of Reprisal have been moved to the Protection talent tree (was in the Paladin class tree)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Seal of Reprisal damage bonus increased to 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Replaced Improved Lay on Hands with Tirion's Devotion."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Blessed Hammer and Hammer of the Righteous have switched places with Holy Shield."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue with Final Stand causing a delay between Divine Shield activating and the taunt effect being applied."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue with Incandescence causing it to incorrectly damage Explosive orbs."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Corrected a tooltip error with Light of the Titan's heal over time effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Resolute Defender is now a 2-rank talent (1/2 seconds of cooldown reduction on Ardent Defender and Divine Shield)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Talents positioned around the 20 point gate have been adjusted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Uther's Counsel moved below 20-point gate and is now a 2-rank talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Faith’s Armor and Strength of Conviction have moved to the Paladin class tree (was in the Protection talent tree)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue that caused Divine Resonance to sometimes interrupt players' casts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue that was causing the Consecration debuff to fade from targets prematurely."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Developers' note: Retribution Paladin's have received a substantial rework in patch 10.0.7. We've rebuilt the Retribution talent tree from the ground up, so there are a large amount of changes to the talent tree, abilities, survivability and maneuverability. As a part of this we've tried to provide a broad set of talents that allow you to heavily invest in abilities that you personally enjoy, so that you can customize how you want to play and change your talents to meet the demand of the different types of content you want to engage with. We're excited to see how this plays out and we hope you enjoy our new take on Retribution Paladins!\nThe goals for the rework have been as follows:\n\nButtons: Retribution Paladins had a fairly large number of abilities, some of which we believe felt unnecessary and inefficient. We’ve worked to tone this down and have tried to provide Retribution Paladin's with a more focused set of abilities and cooldowns.\nStacking modifiers: There were many several talents and abilities that provided small stacking bonuses, which we believe made for a confusing and unpredictable playstyle. This led to periods of extreme burst damage, that in return would leave your core abilities feeling unsatisfying and under-tuned. We've significantly changed this and hope that your core abilities feel good and are powerful when used in all situations. This doesn’t mean we’ve reduced all elements of burst damage, but we hope to have provided more purposeful and deliberate periods of burst damage, while also allowing options that provide excellent sustained damage.\nSurvivability: Retribution Paladins have had one of the highest death rates across various forms of content. For a plate wearing class with hybrid healing, this hasn't felt feel right. We’ve strengthened Retribution Paladins significantly through a mixture of passive bonus and improvements to active abilities and cooldowns that should make them much more survivable.\nManeuverability: We recognize that there has been as issue here and we have made some improvements to allow make Retribution Paladins more mobile. We've also made some changes to allow Retribution Paladins to engage in combat more effectively from a distance that we feel helps compensate for a lack of mobility compared to some other classes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Mastery: Hand of Light now provides less Holy damage bonus per point in Mastery. \n\nDevelopers’ note: Retribution Paladin’s damage is made up of both Physical and Holy damage, this leaves their Physical damage in a fairly bad place due to their mastery, so we're toning down the bonus you gain in order to give Retribution Paladins a more even damage profile across their abilities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Divine Protection and Improved Crusader Strike are now granted when choosing Retribution specialization."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Retribution specialization gains Blessing of Freedom as a starting talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Swift Justice – Reduces the cooldown of Judgement by 2 seconds and Crusader Strike by 2 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Light of Justice – Reduces the cooldown of Blade of Justice by 2 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Improved Blade of Justice – Blade of Justice now has 2 charges."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Light's Celerity – Flash of Light casts instantly, its healing done is increased by 50%, but it now has a 6 second cooldown."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Guided Prayer – When your health is brought below 25%, you instantly cast a free Word of Glory at 100% effectiveness on yourself. Cannot occur more than once every 60 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Unbound Freedom – Blessing of Freedom increases movement speed by 30%, and you gain Blessing of Freedom when cast on a friendly target. Also causes Blessing of Freedom's cooldown to be reduced by 6 seconds if dispelled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Righteous Cause – Templar's Verdict, Final Verdict, and Justicar's Vengeance have a 20% chance to reset the cooldown of Blade of Justice."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Jurisdiction – Final Verdict and Blade of Justice deal 10% increased damage. The range of Final Verdict and Blade of Justice is increased to 20 yards."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Judgment of Justice – Judgment deals 10% increased damage, increases your movement speed by 10% for 5 seconds, and slows enemies by 30% for 15 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Zealot's Fervor – Auto-attack speed increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Improved Judgment – Judgment now has 2 charges."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Boundless Judgment – Judgment generates 1 additional Holy Power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Inquisitor's Ire – Every 2 seconds, gain 5% increased damage to your next Divine Storm, stacking up to 10 times."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Blade of Vengeance – Blade of Justice now hits nearby enemies for damage. Deals reduced damage beyond 5 targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Crusading Strike – Crusader Strike replaces your auto-attacks and generates 1 Holy Power every 2 attacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Heart of the Crusader – Crusader Strike and auto-attacks deal 10% increased damage and have a 10% increased critical strike damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Blessed Champion – Crusader Strike and Judgment hit an additional 2 targets for 60% damage. 2 ranks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Divine Hammer – Divine Hammers spin around you damaging enemies within 8 yards for Holy damage over 12 seconds. Generates 1 Holy Power. Replaces Consecration. Deals reduced damage beyond 8 targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Adjudication – Critical Strike damage of your abilities increased by 5% and Hammer of Wrath critical strikes cause a Blessed Hammer to spiral around you dealing (30% of Attack power) Holystrike damage to enemies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Aegis of Protection – Divine Protection reduces damage you take by an additional 10% and Shield of Vengeance protects you from 20% more damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Blades of Light – Crusader Strike, Judgment, Templar's Verdict, Final Verdict, Justicar's Vengeance, and Hammer of Wrath now deal Holystrike damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Highlord's Judgment – Judgment's duration is increased by 3 seconds. If you have Greater Judgment, targets take 20% increased damage from your next 2 Holy Power abilities. 2 ranks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Burning Crusade – Divine Storm, Divine Hammer, and Consecration now deal Radiant damage and your abilities that deal Radiant damage deal 10% increased damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Penitence – Increases the damage of your periodic effects by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Divine Auxiliary – Final Reckoning and Execution Sentence grant 3 Holy Power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Seething Flames – Wake of Ashes deals significantly reduced damage to secondary targets, but now causes you to lash out 2 extra times for Radiant damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Divine Arbiter – Abilities that deal Holystrike damage deal 10% increased damage and your abilities that deal Holystrike damage grant you a stack of Divine Arbiter. At 25 stacks your next damaging single target Holy Power ability causes Holystrike damage to your primary target and Holystrike damage to enemies within 6 yards."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Searing Light – Your Radiant abilities have a chance to call down an explosion of Holy Fire dealing Radiant damage to all nearby enemies and leaving Consecration in its wake. Deals reduced damage beyond 8 targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Vanguard of Justice – Your damaging Holy Power abilities cost 1 additional Holy Power and deal 25% increased damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Divine Wrath – Avenging Wrath/Crusade duration increased by 3 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Rush of Light – The critical strikes of your damaging single target Holy Power abilities grant 5% Haste for 10 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Divine Wrath – Avenging Wrath / Crusade duration increased by 3 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Judge, Jury and Executioner – Increases the critical strike chance of Judgment by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "New Talent: Templar Strikes - A 2 part combo that deals increased damage with each strike. If you successfully cast the second part of the combo within the time limit the second strike has a 100% increased critical strike chance.\n\nTemplar Strike slashes an enemy for Radiant damage. You have 3 seconds to continue the combo with Templar Slash.\nTemplar Slash strikes an enemy for Radiant damage and has a 100% increased chance to critically strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Expurgation has been adjusted – Your Blade of Justice causes the target to burn for damage over 6 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Art of War has been adjusted – Your auto-attacks have a 20% chance to reset the cooldown of Blade of Justice."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Consecrated Blade has been adjusted – Blade of Justice has a 100% chance to cast Consecration at the target's location. This effect can only occur once every 10 seconds. Replaces Consecration."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Verdict now has a 15% chance to reset the cooldown of Hammer of Wrath and make it useable regardless of the target’s health (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Avenging Wrath: Might cooldown reduced to 60 seconds (was 120 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Crusade duration increased to 35 seconds (was 25 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Sanctify damage bonus reduced to 25% (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Vanguard’s Momentum has been adjusted – Hammer of Wrath has 1 extra charge and on enemies below 20% health generates 1 additional Holy Power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Wake of Ashes damage reduced by 18% and its cooldown reduced to 30 seconds (was 45 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Truth’s Wake now also causes Wake of Ashes to burn targets for additional Radiant damage over 10 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "The old functionality of Executioner's Will has been removed and now simply increases the duration of Execution Sentence and Final Reckoning by 4 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Justicar's Vengeance now has a default range of 8 yards."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Justicar's Vengeance now heals for 6% of your maximum health instead of healing based off damage dealt."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Justicar's Vengeance now deals 25% increased damage to stunned targets (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Virtuous Silver Cataphract (Set Bonus) now works with Justicar's Vengeance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Reckoning now lasts 10 seconds (was 9 seconds) and now causes your target to take 30% bonus damage from your next Holy Power ability."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Reckoning damage reduced by 4.5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Empyrean Legacy lockout period now 20 seconds (was 30 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Hammer of Wrath damage increased by 16%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Execution Sentence now causes 20% of the damage you deal to be added to Execution Sentence (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Tempest of the Lightbringer no longer consumes a stack of Judgment."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Empyrean Power now causes Crusading Strikes to have a 5% chance to make your next Divine Storm free. Divine Storm damage bonus reduced to 15% (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest"
+      ],
+      "Text": "Fixed an issue causing Protective Light to trigger when casting Flash Heal on allies without Binding Heals talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Dispel Magic now costs 2% of base Mana (was 1.6%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing Divine Star and Halo healing to not be increased from Shadow Covenant."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Lightwell healing increased by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "The cooldown of Lightwell is now 2 minutes (was 3 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Lightwell is now instant cast (was 0.5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Divine Image now triggers off all Holy Word casts instead of having a chance to trigger.\n\nDevelopers' note: Divine Image was previously unreliable by having a chance to trigger. Our adjustments to the talent are aimed putting the Priest in control of the summon timing for a more interesting gameplay experience."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Divine Image duration reduced to 9 seconds (was 15 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "The Divine Image buff on the Priest now has a stack count representing the number of active Divine Images."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "The Divine Image buff on the Priest has been added to the Personal Resource Display."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Afterlife and Divine Ascension now increase the radius of Divine Hymn, Cosmic Ripple, and Symbol of Hope."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue with Divine Image causing some healing or damaging Priest spells to not have a similar spell cast from the Naaru."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing Spirit of Redemption with Afterlife talented to not increase the range of some spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing Afterlife to not increase the range of any spells during Spirit of Redemption with Spirit of the Redeemer talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing Void Eruption to fire 4 missiles instead of 2."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing the Echoing Void debuff to be exclusive to one Priest."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing Insanity generation from Shadowy Apparitions to trigger on spawn instead of when the apparition deals damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Developers' note: The changes to the Shaman class tree are focused on cutting back on talents that feel mandatory and improving balance between available talents."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Starter builds have been updated for all 3 specializations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Earth Elemental and Primal Earth Elemental no longer taunt or pulse threat to enemies the Shaman is not in combat with."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Astral Shift duration increased to 12 seconds (was 8 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Planes Traveler no longer increases the duration of Astral Shift."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Astral Bulwark now reduces damage taken by an additional 20% (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Lightning Bolt damage increased by 20% for all specializations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Earth Shield healing increased by 60%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Fixed an issue causing the self-cast version of Earth Shield from Elemental Orbit to not increase the healing done by Healing Stream Totem or Healing Tide Totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Earth Shield is no longer removed any time the Shaman or the Shaman’s target changes talents."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Go With the Flow now reduces the cooldown of Spirit Walk by 10/20 seconds (was 7.5/15 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Thunderous Paws can now trigger once every 20 seconds (was 60 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Poison Cleansing Totem now removes all Poisons effects from the target (was 1)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Enfeeblement now applies during Hex and lasts for 6 seconds after Hex ends."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Swirling Currents has been redesigned – Increases the healing done by Healing Stream Totem and Cloudburst Totem by 10%/20% for Restoration and 20%/40% for Elemental and Enhancement."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Fixed an issue causing Totemic Projection to sometimes fail to move totems."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Several talents have moved positions in the class tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Earthgrab Totem now replaces Earthbind Totem. Earthgrab Totem is now the left-most option."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Ancestral Wolf Affinity has moved to the class tree and removed from all specialization trees."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Focused Insight has moved to the Enhancement and Elemental specialization trees in place of Ancestral Wolf Affinity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Improved Lightning Bolt has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "Thunderstorm has been moved to Improved Lightning Bolt’s position in the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman"
+      ],
+      "Text": "The following abilities now show on the Personal Resource Display: Spiritwalker's Grace, Spiritwalker's Aegis, Ancestral Guidance, and Astral Shift."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Electrified Shocks duration increased to 9 seconds (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that sometimes prevented Electrified Shocks from applying to the primary target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Ghost Wolf no longer removes the Shaman’s Maelstrom bar while active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue causing Fire and Ice to not increase the overload damage of multiple spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue causing Primordial Surge to incorrectly increase the damage of multiple overload spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "The following abilities now show on the Personal Resource Display: Echoes of the Great Sundering, Primordial Wave, and Ascendance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Shamans that are in Ghost Wolf now display the Maelstrom resource on their Personal Resource Display instead of mana if they are Elemental specialization."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "The following abilities now show on the Personal Resource Display: Doom Winds, Primordial Wave, Ascendance, and Ethereal Form."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Developers' note: We have a few goals with our changes to Restoration Shaman. One is to reduce the number of modifiers to abilities that are used in preparation for a large burst of healing and instead increase overall healing so that the additional modifiers are not needed. This should allow for a more reactive healing experience. A second goal is to cut back on less exciting talents and the overall number of talents that improve DPS so that more points can be spent focused on a particular healing style. A third goal is to improve build diversity by adding new talents and balancing existing talents."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "New Talent: Current Control – Reduces the cooldown of Healing Tide Totem by 30 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "New Talent: Tide Turner – The lowest health target of Healing Tide Totem is healed for 30% more and receives 15% more healing from you for 4 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "New Talent: Resonant Waters – Increases the duration of Mana Tide Totem by 4 seconds and increases its radius by 20 yards."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "New Talent: Spiritwalker's Tidal Totem – After using Mana Tide Totem, the cast time of Healing Wave and Chain Heal is reduced by 50% and the mana cost of Healing Wave and Chain Heal are reduced by 50% for 10 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "All healing done increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Acid Rain damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Ancestral Awakening heals for 15%/30% of the amount healed (was 10%/20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Earthen Harmony has been redesigned – Earth Shield reduces damage taken by 3%/6% and its healing is increased by 50%/100% on targets below 75% health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Cloudburst Totem healing no longer contributes to Ancestral Guidance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Ancestral Awakening and Ancestral Guidance now contribute to Cloudburst Totem healing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Lightning Bolt damage has been increased by 35%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Chain Lightning damage increased by 35%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Wellspring healing reduced by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Water Shield has been removed from the talent tree and is now learned at level 12."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Flow of the Tides now grants an additional bounce of Chain Heal in addition to its current effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Unleash Life now converts 40% of Wellspring overhealing to an absorb shield (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Improved Primordial Wave increases the healing done by Healing Wave by 13%/25% (was 8%/15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Improved Earthliving Weapon increases the healing of Earthliving by 20%/40% (was 15%/30%) and always triggers on targets below 18%/35% health (was 13%/25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Earthliving Weapon's proc sound effect has been lowered in volume."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue causing Ancestral Awakening to double dip into healing reduction effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Chain Heal’s tooltip has been updated to indicate its jump distance to give more context to the Tidebringer talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "The PvP Talent Tidebringer has moved to Nature's Focus' position as a 2-point talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Ever-Rising Tide, Nature's Focus, and Call of Thunder have been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Downpour has been moved to Ever-Rising Tide's position in the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Resurgence has moved to Water Shield's position in the talent tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "A connection has been added between Tidebringer and Primal Tide Core/High Tide."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Acid Rain and Overflowing Shores are no longer on a choice node together. Acid Rain remains in its position and Overflowing Shores is directly below Healing Rain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "The following abilities now show on the Personal Resource Display: Primordial Wave, Tidebringer, Spiritwalker's Tidal Totem, and Ascendance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "New Talent: Sargerei Technique – Shadow Bolt/Drain Soul/Incinerate damage increased by [8/15%][5/10%]."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "New Talent: Socrethar’s Guile – Agony/Wild Imp/Immolate damage increased by [8/15%][10/20%][10/20%]."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "New Talent: Horrify – Your Fear causes the target to tremble in place instead of fleeing in fear."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Demonic Inspiration has been redesigned – Increases the attack speed of your primary pet by 5%. Increases Grimoire of Sacrifice damage by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Wrathful Minion has been redesigned – Increases the damage done by your primary pet by 5%. Increases Grimoire of Sacrifice damage by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Summon Soulkeeper damage increased 100%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Summon Soulkeeper can no longer be used if you have a Soulkeeper already active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Inquisitor’s Gaze damage increased by 270%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Gorefiend’s Resolve, Desperate Pact, and Greater Banish have been removed from the class tree."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Lifeblood has moved to Nightmare’s previous location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Accrued Vitality has moved to Desperate Pact’s previous location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock"
+      ],
+      "Text": "Nightmare has been moved to Gorefiend’s Resolve previous location and is now a 1 rank talent.\n\nDevelopers' note: We are readjusting the tuning of Inquisitor’s Gaze and Summon Soulkeeper once more so that they are more attractive and exciting capstone options for players to path towards as they descend their class tree. In addition, we are removing some defensive talents that felt a bit niche and replacing them with basic throughput talents to avoid adding complexity to each specialization’s rotational gameplay."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Developers' note: Looking at talents early in the Affliction tree, Xavian Teachings feels overly mandatory to smooth out Affliction’s gameplay. Additionally, Harvester of Souls is difficult to tune to be competitive with other options on Affliction’s tree due to how it affects survivability. Due to this, we are making Xavian Teachings baseline and removing Harvester of Souls and in their place adding basic throughput increase talents, to avoid additional complexity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "New Talent: Dark Virtuosity – Increases Shadow Bolt/Drain Soul damage by 15/30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "New Talent: Kindled Malice – Increases Malefic Rapture and Seed of Corruption damage by 8/15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Dread Touch now lasts 8 seconds (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Darkglare has been redesigned – Summons a Darkglare from the Twisting Nether that extends the duration of your damage over time effects on all enemies by 8 seconds. The Darkglare will serve you for 20 seconds, blasting its target for Shadow damage, increased by 25% for every damage over time effect you have active on their current target.\n\nDevelopers' note: Darkglare has been increasingly difficult to tune due to how they scale in multi-target situations. To remedy this, we are changing how Darkglare scales so that they contribute more in single-target encounters. This should also increase the effectiveness of Grim Reach, emphasizing Darkglare as a powerful AOE option when talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Xavian Teachings has been removed from the talent tree and is now baseline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Harvester of Souls has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Writhe in Agony has been moved to row 3 and is now a 1 rank talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "New Talent: Immutable Hatred – When your primary Felguard’s Legion Strike damages only 1 target, its damage is increased by 120%. Your primary Felguard deals Physical damage after auto-attacking the same enemy 3 consecutive times."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "New Talent: Umbral Blaze – Hand of Gul’dan has a 8/15% chance to burn its target for additional Shadowflame damage every 2 seconds for 6 seconds.\n\nDevelopers' note: Hounds of War has little room for further tuning due to it hooking onto rotational, frequently used spells in the Demonology toolkit. To replace it, we are bringing back Umbral Blaze as a choice to further improve Hand of Gul’dan."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Reign of Tyranny now increases the damage of Demonic Tyrant by 50% in addition to its original effect.\n\nDevelopers' note: Reign of Tyranny has continued to underperform. However, rather than put additional emphasis on the ramp up required, we are wanting to bring up its ‘floor’ value while retaining the skill expression aspect of the talent. Ideally, this makes Reign of Tyranny the more passive, friendly option compared to the frequent skill checks that Grand Warlock’s Design demands."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Pact of the Imp Mother now has an 8/15% chance (was 5/10%) to cast Hand of Gul’dan a second time."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Guillotine damage increased by 200% and now lasts 6 seconds (was 8 seconds).\n\nDevelopers' note: Guillotine has been underperforming. To rectify this, we are increasing its overall throughput and decreasing its duration to make it a more competitive choice. In addition, we are adding a new capstone to the right side of the tree that focuses on improving Demonology’s contribution to single target encounters without adding complexity to their rotational gameplay."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Stolen Power now triggers after 75 applications (was 100)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Hounds of War has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Burn to Ashes now stacks up to 6 times."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Mayhem is now tracked under the Personal Resource Display."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding",
+        "10.0.7"
+      ],
+      "Text": "Discover new Dragonriding Glyphs in the Forbidden Reach to unlock 2 new Dragonriding traits:\n\nAerial Halt – Flap back, reducing forward movement.\nAirborne Recovery – Activating Aerial Halt while affected by Thrill of the Skies generates 1 Vigor."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding",
+        "10.0.7"
+      ],
+      "Text": "16 new customization manuscripts have been added."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding",
+        "10.0.7"
+      ],
+      "Text": "Put your dragonriding skills to the test in 6 new races."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding",
+        "10.0.7"
+      ],
+      "Text": "Dragonriding racing world quests have a new icon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding",
+        "10.0.7"
+      ],
+      "Text": "Dragonriding traits can now be refunded by using right click."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding",
+        "10.0.7"
+      ],
+      "Text": "Dragonriding traits no longer require a confirmation to unlock."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding",
+        "10.0.7"
+      ],
+      "Text": "Fixed an issue where player spell visual effects such as Shadowform and Glyph of the Stars Moonkin Form were being applied on the dragons while customizing in the Rostrum of Transformation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "ELEMENTAL STORMS",
+        "10.0.7"
+      ],
+      "Text": "With the Primalist focus on the Forbidden Reach they are concentrating their attacks around the Dragon Isles reducing the storm count to 1 (was 2)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "ELEMENTAL STORMS",
+        "10.0.7"
+      ],
+      "Text": "The Dragonbane Keep will no longer be an Elemental Storm."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "ELEMENTAL STORMS",
+        "10.0.7"
+      ],
+      "Text": "Additional primalists have been recruited from around Azeroth and are reinforcing the forces in Elemental Storms. This includes increasing the power granted to the primalists allies making these areas a bit more dangerous."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "ELEMENTAL STORMS",
+        "10.0.7"
+      ],
+      "Text": "The storm bosses have had their respawn timers shortened and will not scale up their health as fast when more people engage them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "ELEMENTAL STORMS",
+        "10.0.7"
+      ],
+      "Text": "These areas will reward more Elemental Overflow and also have a chance for some of the new bind on account gear tokens similar to the Forbidden Reach."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "ELEMENTAL STORMS",
+        "10.0.7"
+      ],
+      "Text": "The tooltips for the Elemental Storms have also been updated to give more information including potential weekly drops that can be gained in the areas."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Enemies and NPCs",
+        "10.0.7"
+      ],
+      "Text": "Orc, Tauren, and Highmountain Tauren Priest NPCs are now located in Orgrimmar, and Thunder Bluff has welcomed their first Highmountain Tauren and Tauren Priest NPCs."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Enemies and NPCs",
+        "10.0.7"
+      ],
+      "Text": "A new item upgrade NPC has been added to the Sapphire Enclave in Valdrakken."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Enemies and NPCs",
+        "10.0.7"
+      ],
+      "Text": "Added Ancient Bats and Ancient Tigers to Zul’Gurub as a new source of Primal Bat and Tiger leather."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "10.0.7"
+      ],
+      "Text": "Neltharax, Enemy of the Sky's equip effect has been redesigned – Auto-attacking an enemy grants you 10% auto-attack damage, stacking 5 times. This bonus resets upon auto-attacking a different target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "10.0.7"
+      ],
+      "Text": "The Balance of Power questline artifact appearance rewards are now account-wide. After unlocking the base appearance, the criteria for additional color variants (such as the Glory of the Legion Hero and Unleashed Monstrosities achievements) may be completed on any character to earn the appearances. For example, completing the requirements for certain color variants on your hunter, will also be unlocked on your priest that’s on the same account."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "10.0.7"
+      ],
+      "Text": "Vendors have found a use for Dragonflight enchanting materials and are now interested in purchasing them: \n\nChromatic Dust: 1 gold, 50 silver\nVibrant Shard: 7 gold, 50 silver\nResonant Crystal: 20 gold"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "10.0.7"
+      ],
+      "Text": "Stolen Breath of Ohn'ahra now also drops from The Nokhud Offensive on Mythic+ difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "10.0.7"
+      ],
+      "Text": "Vile Fumigator's Mask can now be transmogged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "10.0.7"
+      ],
+      "Text": "Item levels on legacy raids in the Dungeon Journal should now properly reflect the dropped items once more."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "10.0.7"
+      ],
+      "Text": "The Divine Kiss of Ohn'ahra mount has been updated to its correct visual in the mount journal."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Pet Battles",
+        "10.0.7"
+      ],
+      "Text": "Collect new pets, pet achievements, and challenge new pet battle masters in the Forbidden Reach."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7"
+      ],
+      "Text": "End of Season PvP rewards will no longer be tied to a specific faction. Additionally, the end of season title will no longer require a specific number of games played on your faction but instead will be that number of games played within the season. For example, for Crimson Gladiator, a player will need 150 games played in Dragonflight Season 1 and ending at .1% of the ladder to earn the title."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "RATED SOLO SHUFFLE"
+      ],
+      "Text": "The duration of Solo Shuffle's \"No-Show\" leaver penalty can now be increased if any character on your account leaves a game."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "RATED SOLO SHUFFLE"
+      ],
+      "Text": "Players can now queue for Solo Shuffle while queued for other Rated PvP modes or participating in Group Finder.\n\nDevelopers' note:  We've heard the feedback that players would like to be able to search for and participate in multiple rated PvP activities and Group Finder while they are in a Solo Shuffle queue. We understand that Solo Shuffle can have long queues for DPS players and would like for players to have more agency in their time, so we are making this change."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Reverse Magic (PvP Talent) now triggers the backlash effects from dispelled debuffs."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Tranquility healing is now increased by 100% while in arena combat with 5 or less allied players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Keeper of the Grove (PvP Talent) now increases the healing of Tranquility by 20% (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Rewind healing is now increased by 100% while in arena combat with 5 or less allied players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Chrono Loop's cooldown has been reduced to 1 minute (was 1.5 minutes) and can no longer reduce an enemy below 20% health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Piercing Fangs now has 40% reduced effectiveness in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Revival healing is now increased by 100% while in arena combat with 5 or less allied players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Restoral healing is now increased by 100% while in arena combat with 5 or less allied players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Enveloping Mist now heals for an additional 20% in PvP combat (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Healing Sphere (PvP Talent) spell visual has been updated to be more noticeable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Divine Protection no longer reduces damage by an additional 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Flash of Light no longer deals increased healing in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Unbound Freedom (PvP Talent) has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Flash of Light no longer deals increased healing in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Verdict no longer deals increased damage in PvP combat (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Templar's Verdict no longer deals increased damage in PvP combat (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Blade of Justice no longer deals increased damage in PvP combat (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Crusader Strike no longer deals increased damage in PvP combat (was 80%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Healing Hands effectiveness reduced by 50% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Unbound Freedom (PvP Talent) has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Law and Order (PvP Talent) has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Shadow Word: Pain and Purge the Wicked now have a spell highlight when Catharsis is above 80% of its maximum stored damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Divine Hymn healing is now increased by 100% when in arena combat with 5 or less allied players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Tidebringer (PVP Talent) has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Healing Tide Totem healing is now increased by 100% while in arena combat with 5 or less allied players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PLAYER VERSUS PLAYER",
+        "10.0.7",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Living Tide reduces the cooldown of Healing Tide Totem by 60 seconds (was 90 seconds) and it heals for 25% more each time it pulses (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7"
+      ],
+      "Text": "The professions pane has been reduced in size."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7"
+      ],
+      "Text": "The currently selected recipe will now stay selected when switching to and from the Specializations tab."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7"
+      ],
+      "Text": "Added a new Profession Specialization summary screen which can be viewed for any unlocked profession specializations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7"
+      ],
+      "Text": "Legion Rank 3 Shoulder recipes originally sourced from Rated Battlegrounds can now be purchased from PvP quartermasters in your faction's hub in Dalaran at a cost of 3 Marks of Honor."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7"
+      ],
+      "Text": "Fixed an issue that caused incorrect difficulty for recrafting order with changed optional reagents."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "CRAFTING ORDERS"
+      ],
+      "Text": "Public Orders no longer require the customer to provide non-soulbound reagents."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "CRAFTING ORDERS"
+      ],
+      "Text": "A button has been added next to the customer or crafter’s name to whisper or ignore them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "CRAFTING ORDERS"
+      ],
+      "Text": "The layout for reagents has been rearranged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "CRAFTING ORDERS"
+      ],
+      "Text": "Due to the layout changes, Optional Reagent labels (e.g. “Add Embellishment”) have been moved into a tooltip and Optional Reagents provided by the customer no longer have a checkmark next to them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "CRAFTING ORDERS"
+      ],
+      "Text": "Search for customers now shows the range of possible item levels for each item."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "CRAFTING ORDERS"
+      ],
+      "Text": "Added text log output when filling Crafting Orders."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "Engineering"
+      ],
+      "Text": "Zapthrottle Soul Inhaler has received several quality of life improvements:\n\nThe device can now be used while moving.\nThe channel time of the device has been reduced to 4 seconds (was 12 seconds)\nChanneling the device for its full duration now marks the target elemental for 30 seconds. Slaying it during this window will also grant its soul.\nThe cooldown for a successful soul capture has been reduced to 5 minutes (was 15 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "Engineering"
+      ],
+      "Text": "Bomb success chance now only scales off of Specialization nodes (was specialization nodes and item quality). The contribution from quality is now baseline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "Engineering"
+      ],
+      "Text": "Increased the chances to discover EZ-Thro variants of bombs."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "Engineering"
+      ],
+      "Text": "Fixed an issue that caused regular bombs to have a higher baseline chance to backfire than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "10.0.7",
+        "Skinning"
+      ],
+      "Text": "Skinning enemies has a new animation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests",
+        "10.0.7"
+      ],
+      "Text": "Big Kinook’s Community Feast has attracted culinarians from far and wide. Many have made the pilgrimage to Iskaara with new ingredients for the soup."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface and Accessibility",
+        "10.0.7"
+      ],
+      "Text": "The Revival Catalyst now displays how many charges you have stored."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface and Accessibility",
+        "10.0.7"
+      ],
+      "Text": "The following cursors have been updated with high resolution art: Buy, Cast, Cogwheel, Loot All, Lock, Mail, and Trainer."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface and Accessibility",
+        "10.0.7"
+      ],
+      "Text": "Added a tag in the Chat typing bar to tell players what language they are typing in if they are not typing in Common or Orcish."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface and Accessibility",
+        "10.0.7"
+      ],
+      "Text": "The chat command button now has arrows for menu items that have flyouts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface and Accessibility",
+        "10.0.7"
+      ],
+      "Text": "Fixed an issue where the Raid Self Highlight setting didn't work."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface and Accessibility",
+        "10.0.7"
+      ],
+      "Text": "Fixed an issue where calendar invites were still displaying after the player removed or reported it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface and Accessibility",
+        "10.0.7"
+      ],
+      "Text": "Fixed issues with inaccurately displayed Rogue combo points and Arcane Mage charges."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "WOW COMPANION APP",
+        "10.0.7"
+      ],
+      "Text": "Requirements for using an item are now listed in its tooltip."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-03-14",
       "Weekday": "Tuesday",
