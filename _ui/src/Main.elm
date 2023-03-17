@@ -189,14 +189,14 @@ visibleChanges model changes =
                     runQuery terms =
                         case List.head terms of
                             Nothing ->
-                                ( [], False )
+                                ( [], True )
 
                             Just term ->
                                 if List.any (\text -> String.contains term text) doc then
-                                    ( [], True )
+                                    runQuery (List.tail terms |> Maybe.withDefault [])
 
                                 else
-                                    runQuery (List.tail terms |> Maybe.withDefault [])
+                                    ( [], False )
                 in
                 runQuery searchQuery
                     |> Tuple.second
