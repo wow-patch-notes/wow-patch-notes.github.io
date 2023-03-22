@@ -2,6 +2,37 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an error causing Layered Mane and Reinvigoration to revert to previous values."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Fixed an issue that could cause Mad-Eye Carrey to retain his Captain's Duty buff, even after his crew was killed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
+      "Date": "2023-03-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Demonfire damage from Demonic Tyrant is now increased by 25% in PvP Combat (was 75%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892230",
       "Date": "2023-03-20",
       "Weekday": "Monday",
       "Tags": [
@@ -6239,6 +6270,17 @@
         "10.0.7",
         "Priest"
       ],
+      "Text": "Rhapsody now grants a stack every 2 seconds (was 5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest"
+      ],
       "Text": "Fixed an issue causing Protective Light to trigger when casting Flash Heal on allies without Binding Heals talented."
     },
     {
@@ -6396,6 +6438,18 @@
         "Shadow"
       ],
       "Text": "Fixed an issue causing Afterlife to not increase the range of any spells during Spirit of Redemption with Spirit of the Redeemer talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Burning Vehemence now causes Holy Fire to deal 30%/60% of its initial damage to all nearby enemies (was 15%/30%)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -6780,7 +6834,31 @@
         "Shaman",
         "Restoration"
       ],
+      "Text": "Swirling Currents increases the healing done by Healing Stream Totem by 40%/80% for Elemental (was 20%/40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
       "Text": "The following abilities now show on the Personal Resource Display: Doom Winds, Primordial Wave, Ascendance, and Ethereal Form."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Swirling Currents increases the healing done by Healing Stream Totem by 40%/80% for Enhancement (was 20%/40%)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -7368,6 +7446,30 @@
         "Warlock",
         "Destruction"
       ],
+      "Text": "Dark Virtuosity now increases the damage of Shadow Bolt and Drain Soul by 5/10% (was 15/30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Kindled Malice now increases the damage of Malefic Rapture and Seed of Corruption by 4/8% (was 8/15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
       "Text": "New Talent: Immutable Hatred – When your primary Felguard’s Legion Strike damages only 1 target, its damage is increased by 120%. Your primary Felguard deals Physical damage after auto-attacking the same enemy 3 consecutive times."
     },
     {
@@ -7452,6 +7554,42 @@
         "Warlock",
         "Destruction"
       ],
+      "Text": "Felguard auto-attack damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Wild Imp damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Vilefiend damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
       "Text": "Burn to Ashes now stacks up to 6 times."
     },
     {
@@ -7465,6 +7603,18 @@
         "Destruction"
       ],
       "Text": "Mayhem is now tracked under the Personal Resource Display."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.0.7",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "All ability damage increased by 3%."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -7714,7 +7864,7 @@
         "PvP",
         "10.0.7"
       ],
-      "Text": "End of Season PvP rewards will no longer be tied to a specific faction. Additionally, the end of season title will no longer require a specific number of games played on your faction but instead will be that number of games played within the season. For example, for Crimson Gladiator, a player will need 150 games played in Dragonflight Season 1 and ending at .1% of the ladder to earn the title."
+      "Text": "End of Season PvP rewards will no longer be tied to a specific faction. Additionally, the end of season title will no longer require a specific number of games played on your faction but instead will be that number of games played within the season. For example, for Crimson Gladiator, a player will need 150 games played in Dragonflight Season 1 and ending at .1% of the ladder to earn the title.\n\nDevelopers' note: End of Season PvP rewards will have the rank cutoff extended by duplicate/alt characters by the same player battle.net account for rated arenas, rated battlegrounds, and rated solo shuffle. For example, if the cutoff for Crimson Gladiator would equate to the top 100 characters and 5 of those characters are the same player, the cutoff will now be the top 104."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -7822,6 +7972,17 @@
       "Tags": [
         "PvP",
         "10.0.7",
+        "Classes"
+      ],
+      "Text": "MAGE\n\nFrost\n\nGlacial Spike deals 15% less damage and its Mastery scaling is now 60% effective (was 75%) in PvP combat.\nFrostbolt deals 100% increased damage in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
         "Classes",
         "Monk",
         "Mistweaver"
@@ -7904,6 +8065,32 @@
         "Protection"
       ],
       "Text": "Unbound Freedom (PvP Talent) has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Uther’s Counsel effectiveness reduced by 33% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Righteous Protector effectiveness reduced by 50% in PvP combat."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -8017,9 +8204,59 @@
         "PvP",
         "10.0.7",
         "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Execution Sentence is now 65% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Wake of Ashes now deals 20% less damage in PvP combat (was 32%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
         "Shaman"
       ],
       "Text": "Shadow Word: Pain and Purge the Wicked now have a spell highlight when Catharsis is above 80% of its maximum stored damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Renew healing is now increased by 22% in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Prayer of Mending healing is now increased by 6% in PvP combat."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -8033,6 +8270,43 @@
         "Holy"
       ],
       "Text": "Divine Hymn healing is now increased by 100% when in arena combat with 5 or less allied players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Heal healing is now increased by 43% in PvP combat (was 35%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Flash Heal healing is now increased by an additional 6% in PvP combat for Holy only.\n\nDevelopers' note: These are targeted buffs to Holy Priests’ overall throughput, which has continued to fall behind other healers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes"
+      ],
+      "Text": "ROGUE\n\nSubtlety\n\nDark Shadow effectiveness reduced by 20% in PvP combat.\nDanse Macabre effectiveness reduced by 33% in PvP combat.\nPerforated Veins effectiveness reduced by 25% in PvP combat.\nGloomblade damage increased by 20% in PvP combat.\nBackstab damage increased by 20% in PvP combat."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -8071,6 +8345,28 @@
         "Restoration"
       ],
       "Text": "Living Tide reduces the cooldown of Healing Tide Totem by 60 seconds (was 90 seconds) and it heals for 25% more each time it pulses (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes"
+      ],
+      "Text": "WARLOCK\n\nAffliction\n\nDarkglare from Summon Darkglare now has 80% more health.\nCorruption damage increased by 10% in PvP combat.\nAgony damage increased by 10% in PvP combat.\nSiphon Life damage increased by 20% in PvP combat.\nFocused Malignancy increases Malefic Rapture damage by 10%/20% in PvP combat (was 15%/30%).\n\nDevelopers’ note: These changes are targeted at improving Affliction Warlocks’ instant cast damage, while offsetting the potential burst from Malefic Rapture with the 10.0.7 talent changes.\n\nDestruction\n\nBane of Havoc now has an 18 second internal cooldown with Mayhem talented.\nIncinerate no longer deals increased damage in PvP combat (was increased by 13%).\nShadowburn damage is now increased by 25% in PvP combat (was 30%).\n\nDevelopers' note: We’re targeting a decrease to Havoc uptime and offsetting the PvE tuning changes with some reductions to Shadowburn and Incinerate. We want builds with instant casts to be viable, while preferring that the spec relies on Chaos Bolts for most kills."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes"
+      ],
+      "Text": "WARRIOR\n\nArms\n\nFatality now stacks Fatal Mark up to a maximum of 8 times against enemy players (was 20)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
