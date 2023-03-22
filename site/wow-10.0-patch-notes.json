@@ -648,7 +648,7 @@
         "PvP",
         "Classes",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "[With weekly restarts] Incendiary Breath (PvP Talent) now increases the Radius and Damage of Breath of Fire by 30% (was 100%).\n\nDevelopers’ notes: Incendiary Breath’s radius increase has been difficult to read as a player and Brewmaster damage has been higher than we would like."
     },
@@ -672,7 +672,7 @@
         "PvP",
         "Classes",
         "Rogue",
-        "Outlaw"
+        "Assassination"
       ],
       "Text": "[With weekly restarts] Hemotoxin (PvP Talent) healing reduction effect reduced to 30% (was 35%).\n\nDevelopers’ notes: We felt that the Healing reduction effect from Hemotoxic was too strong, especially as it is easy to keep applied."
     },
@@ -909,7 +909,7 @@
         "Dungeons and Raids",
         "Vault of the Incarnates",
         "Raszageth",
-        "Mythic"
+        "Heroic"
       ],
       "Text": "[With weekly restarts] Health reduced by 5% on Heroic difficulty."
     },
@@ -921,7 +921,7 @@
         "Dungeons and Raids",
         "Vault of the Incarnates",
         "Raszageth",
-        "Mythic"
+        "Heroic"
       ],
       "Text": "[With weekly restarts] Reduced the rate that Vault Integrity drains during Intermission: The Primalist Strike on Heroic difficulty."
     },
@@ -933,7 +933,7 @@
         "Dungeons and Raids",
         "Vault of the Incarnates",
         "Raszageth",
-        "Mythic"
+        "Heroic"
       ],
       "Text": "[With weekly restarts] Tempest Wing periodic damage reduced by 20% on Heroic difficulty."
     },
@@ -945,7 +945,7 @@
         "Dungeons and Raids",
         "Vault of the Incarnates",
         "Raszageth",
-        "Mythic"
+        "Heroic"
       ],
       "Text": "[With weekly restarts] Volatile Current damage reduced by 15%."
     },
@@ -2113,7 +2113,7 @@
         "PvP",
         "Classes",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "[With weekly restarts] Unstable Affliction backlash damage increased by 35%.\n\nDevelopers’ notes: After our recent changes to normalize Unstable Affliction’s backlash damage, we’re seeing it get dispelled frequently. Our intent is for dispelling Unstable Affliction to require careful consideration of the risks and benefits and its damage was not fulfilling that."
     },
@@ -3543,7 +3543,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Developers' note: Frost will be seeing a few updates to their tree in 10.0.7. Currently Frost feels 1 or 2 points off from being able to make more meaningful choices within their spec tree. To help ease some of this we are shifting a few talents to be auto-learned on level up and replacing them with a new or existing talent. The new version of the tree should offer a little more variety and feel less linear when allocating your talent points and give you more choice based on the content you are running."
     },
@@ -3555,7 +3555,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Remorseless Winter has been removed from the talent tree and now learned at level 19."
     },
@@ -3567,7 +3567,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Might of the Frozen Wastes has been removed from the talent tree and now learned at level 25."
     },
@@ -3579,7 +3579,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Frostreaper has been removed from the talent tree and now learned at level 28."
     },
@@ -3591,7 +3591,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "New Talent: Fatal Fixation – Killing Machine can stack up to 1 additional time. Replaces Frostreaper on the talent tree."
     },
@@ -3603,7 +3603,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Obliteration now causes Soul Reaper to also grant Killing Machine and have a chance to generate a Rune during Pillar of Frost."
     },
@@ -3615,7 +3615,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Biting Cold has moved to Remorseless Winter’s old position in the Frost specialization tree."
     },
@@ -3627,7 +3627,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Everfrost has moved to Biting Cold’s old position in the Frost specialization tree."
     },
@@ -3639,7 +3639,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Breath of Sindragosa damage has been increased by 25% and Runic Power spent per second increased to 18 (was 16)."
     },
@@ -3651,7 +3651,7 @@
         "Classes",
         "10.0.7",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "Frost Strike damage increased by 10% and Runic Power cost increased to 30 (was 25).\n\nDevelopers' note: Frost Death Knight currently has a surplus of Runic Power income which is leading to wasted Runic Power overflow in Obliteration builds and longer than intended durations in Breath of Sindragosa builds. In order to help address this we are increasing both the cost and damage of Frost Strike and Breath of Sindragosa. Maintaining a long breath can feel satisfying for many players but it can also feel disheartening when you lose it for reasons out of your control since so much of your damage becomes reliant on a very high uptime of Breath. The goal with this change is to bring the duration of Breath to a much more reasonable and compact window that allows you to deal the majority of your Breath damage in a shorter window."
     },
@@ -3852,7 +3852,7 @@
         "Classes",
         "10.0.7",
         "Demon Hunter",
-        "Vengeance"
+        "Havoc"
       ],
       "Text": "Blind Fury now increases Eye Beam damage and duration by 10%/20% (was duration only by 25%/50%).\n\nDevelopers' note: Blind Fury added an uncomfortably large amount of time to Eye Beam's channel effect. It is a now a mix of damage and duration increases such that the point-for-point value of the talent remains very similar, but asks for 60% less additional time rooted in order to realize that value."
     },
@@ -3864,7 +3864,7 @@
         "Classes",
         "10.0.7",
         "Demon Hunter",
-        "Vengeance"
+        "Havoc"
       ],
       "Text": "Improved Fel Rush and the choice node of Desperate Instincts/Netherwalk have swapped locations in the specialization tree. Furious Throws and Fel Eruption have swapped locations in the specialization tree.\n\nDevelopers' note: These talent positions swaps are intended to be a minor change and likely won't significantly shake-up the current talent build meta, but talents before the first gate are generally less 'expensive' and this will make taking a defensive/utility option more reasonable for some builds, in content where it's desired."
     },
@@ -3899,7 +3899,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "Stellar Flare now has an additional effect – If dispelled, causes a Star Burst to crash into the dispeller, dealing damage and knocking them back."
     },
@@ -3911,7 +3911,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Merciless Claws now increases the damage of Swipe and Brutal Slash by 15% (was 10%)"
     },
@@ -3923,7 +3923,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Berserk: Frenzy now bleeds targets for 100% of damage dealt by combo point generators during Berserk (was 125%)."
     },
@@ -3935,7 +3935,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Shred, Swipe, Brutal Slash, and Thrash damage increased by 6%."
     },
@@ -3947,7 +3947,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Developers' note: Berserk: Frenzy consolidates a lot of the damage players deal with builders in their Berserk windows. This change is intended to spread more of builders' damage to outside the Berserk window."
     },
@@ -3959,7 +3959,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Thorns of Iron has been redesigned – When you cast Ironfur, also deal Physical damage equal to 30% of your armor, split among enemies within 12 yards. Damage reduced above 4 applications.\n\nDevelopers' note: This talent was intended to be a compromise in those situations where it's necessary to index heavily into survivability. In the original version, this unfortunately incentivized very high Ironfur stacks and excessive APM during cooldown windows. With this change we hope to maintain the intent of the original design while reducing the incentive to chase very high Ironfur stacks."
     },
@@ -3971,7 +3971,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Thorns of Iron is now affected by the Guardian Druid specialization passive, and its damage values have been adjusted accordingly.\n\nDevelopers' note: This is a net neutral change to the Thorns of Iron ability."
     },
@@ -3983,7 +3983,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Fixed an issue that was causing Bristling Fur's global cooldown to not be reduced by Haste."
     },
@@ -3995,7 +3995,7 @@
         "Classes",
         "10.0.7",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Fixed an issue that was causing Circle of Life and Death to incorrectly reduce Pulverize's duration."
     },
@@ -4275,7 +4275,7 @@
         "Classes",
         "10.0.7",
         "Evoker",
-        "Preservation"
+        "Devastation"
       ],
       "Text": "Verdant Embrace healing increased by 35%."
     },
@@ -4439,7 +4439,7 @@
         "Classes",
         "10.0.7",
         "Hunter",
-        "Marksmanship"
+        "Beast Mastery"
       ],
       "Text": "Cobra Shot damage increased by 50%. Does not apply to PvP combat."
     },
@@ -4451,7 +4451,7 @@
         "Classes",
         "10.0.7",
         "Hunter",
-        "Marksmanship"
+        "Beast Mastery"
       ],
       "Text": "Kill Command damage increased by 10%."
     },
@@ -4463,7 +4463,7 @@
         "Classes",
         "10.0.7",
         "Hunter",
-        "Marksmanship"
+        "Beast Mastery"
       ],
       "Text": "Barbed Shot damage increased by 12%. Does not apply to PvP combat."
     },
@@ -4475,7 +4475,7 @@
         "Classes",
         "10.0.7",
         "Hunter",
-        "Marksmanship"
+        "Beast Mastery"
       ],
       "Text": "Stomp damage increased by 25%."
     },
@@ -4487,7 +4487,7 @@
         "Classes",
         "10.0.7",
         "Hunter",
-        "Marksmanship"
+        "Beast Mastery"
       ],
       "Text": "Kill Cleave now transfers 60% of Kill Command's damage (was 50%)."
     },
@@ -4559,7 +4559,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Developers' note: We are making a few quality-of-life Mistweaver Monk updates in 10.0.7 focused on the availability of instant-cast healing, Sheilun’s Gift and its associated modifiers becoming more predictable, and making the global cooldown attached to Invoking Chi-Ji or Yu’lon have an immediate impact."
     },
@@ -4571,7 +4571,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "New Talent: Legacy of Wisdom – Sheilun's Gift heals 2 additional allies and its cast time is reduced by 0.5 seconds."
     },
@@ -4583,7 +4583,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Sheilun’s Gift healing increased by 20% and now triggers Mastery: Gust of Mist exclusively onto its primary target."
     },
@@ -4595,7 +4595,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Sheilun's Gift's clouds now reset upon raid boss encounters end and Mythic+ start."
     },
@@ -4607,7 +4607,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Shaohao’s Lessons: Lesson of Fear now increases Haste by 20% (was 25%).\n\nDevelopers' note: We are decreasing the high-roll potential of Lesson of Fear to disincentivize aggressive \"fishing\" for a favored buff. Moving forward, we plan to monitor the gameplay and community feedback around this talent change closely to ensure the outcome of adding a tracking buff is in-line with our goals."
     },
@@ -4619,7 +4619,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Shaohao’s Lessons now displays a tracking buff indicating which Lesson will be learned on the next Sheilun’s Gift cast."
     },
@@ -4631,7 +4631,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Thunder Focus Tea now causes Enveloping Mist to become instant cast in addition to its current effect."
     },
@@ -4643,7 +4643,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Zen Pulse no longer requires an enemy to be present to be cast."
     },
@@ -4655,7 +4655,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Fixed an issue that caused Zen Pulse to not function with in-game mouseover settings."
     },
@@ -4667,7 +4667,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Enveloping Breath has been renamed to Celestial Harmony."
     },
@@ -4679,7 +4679,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Celestial Harmony now has an additional effect: When activated, Yu'lon and Chi'Ji apply Chi Cocoons to 5 targets within 40 yards, absorbing damage for 10 seconds."
     },
@@ -4691,7 +4691,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Enveloping Breath's heal over time effect is now visible on raid frames."
     },
@@ -4703,7 +4703,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Enveloping Mist healing increased by 10%."
     },
@@ -4715,7 +4715,7 @@
         "Classes",
         "10.0.7",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Enveloping Mists applied by Misty Peaks may now be extended by Rising Mist up to 2 additional seconds (was 6)."
     },
@@ -5261,7 +5261,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Holy"
       ],
       "Text": "Aura Mastery’s Retribution Aura interaction has been redesigned – Now increases healing by 15% while Retribution Aura’s effect is active."
     },
@@ -5273,7 +5273,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Holy"
       ],
       "Text": "Afterimage's Holy Power tracking now has a cap of 39 Holy Power."
     },
@@ -5285,7 +5285,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Holy"
       ],
       "Text": "Divine Toll and Divine Resonance have been moved from the specialization tree to the class tree."
     },
@@ -5297,7 +5297,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Holy"
       ],
       "Text": "Sanctified Wrath now occupies Divine Toll’s previous location."
     },
@@ -5309,7 +5309,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Holy"
       ],
       "Text": "Added a connection between Sanctified Wrath and Glimmer."
     },
@@ -5321,7 +5321,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Developers' note: The Protection tree has been adjusted in part to account for Paladin class tree changes, and additionally to help resolve some issues with low-value talents and talent groupings."
     },
@@ -5333,7 +5333,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "New Talent: Seal of Charity – When you cast Word of Glory on anyone not yourself, you also heal yourself for 50% of the healing done."
     },
@@ -5345,7 +5345,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "New Talent: Inmost Light – Eye of Tyr deals 300% increased damage and has 15% reduced cooldown."
     },
@@ -5357,7 +5357,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Faith in the Light's block chance increased to 15/30% (was 5/10%)."
     },
@@ -5369,7 +5369,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Righteous Protector is now a 1 rank talent, granting 3 seconds of cooldown reduction."
     },
@@ -5381,7 +5381,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Focused Enmity has been redesigned – When Avenger's Shield strikes a single enemy, it deals additional Holy damage."
     },
@@ -5393,7 +5393,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Sanctified Wrath and Seal of Reprisal have been moved to the Protection talent tree (was in the Paladin class tree)."
     },
@@ -5405,7 +5405,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Seal of Reprisal damage bonus increased to 20%."
     },
@@ -5417,7 +5417,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Replaced Improved Lay on Hands with Tirion's Devotion."
     },
@@ -5429,7 +5429,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Blessed Hammer and Hammer of the Righteous have switched places with Holy Shield."
     },
@@ -5441,7 +5441,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Fixed an issue with Final Stand causing a delay between Divine Shield activating and the taunt effect being applied."
     },
@@ -5453,7 +5453,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Fixed an issue with Incandescence causing it to incorrectly damage Explosive orbs."
     },
@@ -5465,7 +5465,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Corrected a tooltip error with Light of the Titan's heal over time effect."
     },
@@ -5477,7 +5477,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Resolute Defender is now a 2-rank talent (1/2 seconds of cooldown reduction on Ardent Defender and Divine Shield)."
     },
@@ -5489,7 +5489,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Talents positioned around the 20 point gate have been adjusted."
     },
@@ -5501,7 +5501,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Uther's Counsel moved below 20-point gate and is now a 2-rank talent."
     },
@@ -5513,7 +5513,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Faith’s Armor and Strength of Conviction have moved to the Paladin class tree (was in the Protection talent tree)."
     },
@@ -5525,7 +5525,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Fixed an issue that caused Divine Resonance to sometimes interrupt players' casts."
     },
@@ -5537,7 +5537,7 @@
         "Classes",
         "10.0.7",
         "Paladin",
-        "Retribution"
+        "Protection"
       ],
       "Text": "Fixed an issue that was causing the Consecration debuff to fade from targets prematurely."
     },
@@ -6291,7 +6291,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Dispel Magic now costs 2% of base Mana (was 1.6%)."
     },
@@ -6303,7 +6303,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Fixed an issue causing Divine Star and Halo healing to not be increased from Shadow Covenant."
     },
@@ -6315,7 +6315,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Lightwell healing increased by 40%."
     },
@@ -6327,7 +6327,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "The cooldown of Lightwell is now 2 minutes (was 3 minutes)."
     },
@@ -6339,7 +6339,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Lightwell is now instant cast (was 0.5 seconds)."
     },
@@ -6351,7 +6351,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Divine Image now triggers off all Holy Word casts instead of having a chance to trigger.\n\nDevelopers' note: Divine Image was previously unreliable by having a chance to trigger. Our adjustments to the talent are aimed putting the Priest in control of the summon timing for a more interesting gameplay experience."
     },
@@ -6363,7 +6363,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Divine Image duration reduced to 9 seconds (was 15 seconds)."
     },
@@ -6375,7 +6375,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "The Divine Image buff on the Priest now has a stack count representing the number of active Divine Images."
     },
@@ -6387,7 +6387,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "The Divine Image buff on the Priest has been added to the Personal Resource Display."
     },
@@ -6399,7 +6399,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Afterlife and Divine Ascension now increase the radius of Divine Hymn, Cosmic Ripple, and Symbol of Hope."
     },
@@ -6411,7 +6411,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Fixed an issue with Divine Image causing some healing or damaging Priest spells to not have a similar spell cast from the Naaru."
     },
@@ -6423,7 +6423,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Fixed an issue causing Spirit of Redemption with Afterlife talented to not increase the range of some spells."
     },
@@ -6435,7 +6435,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Fixed an issue causing Afterlife to not increase the range of any spells during Spirit of Redemption with Spirit of the Redeemer talented."
     },
@@ -6447,7 +6447,7 @@
         "Classes",
         "10.0.7",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Burning Vehemence now causes Holy Fire to deal 30%/60% of its initial damage to all nearby enemies (was 15%/30%)."
     },
@@ -6748,7 +6748,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Electrified Shocks duration increased to 9 seconds (was 6 seconds)."
     },
@@ -6760,7 +6760,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Fixed an issue that sometimes prevented Electrified Shocks from applying to the primary target."
     },
@@ -6772,7 +6772,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Ghost Wolf no longer removes the Shaman’s Maelstrom bar while active."
     },
@@ -6784,7 +6784,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Fixed an issue causing Fire and Ice to not increase the overload damage of multiple spells."
     },
@@ -6796,7 +6796,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Fixed an issue causing Primordial Surge to incorrectly increase the damage of multiple overload spells."
     },
@@ -6808,7 +6808,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "The following abilities now show on the Personal Resource Display: Echoes of the Great Sundering, Primordial Wave, and Ascendance."
     },
@@ -6820,7 +6820,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Shamans that are in Ghost Wolf now display the Maelstrom resource on their Personal Resource Display instead of mana if they are Elemental specialization."
     },
@@ -6832,7 +6832,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Swirling Currents increases the healing done by Healing Stream Totem by 40%/80% for Elemental (was 20%/40%)."
     },
@@ -6844,7 +6844,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Enhancement"
       ],
       "Text": "The following abilities now show on the Personal Resource Display: Doom Winds, Primordial Wave, Ascendance, and Ethereal Form."
     },
@@ -6856,7 +6856,7 @@
         "Classes",
         "10.0.7",
         "Shaman",
-        "Restoration"
+        "Enhancement"
       ],
       "Text": "Swirling Currents increases the healing done by Healing Stream Totem by 40%/80% for Enhancement (was 20%/40%)."
     },
@@ -7348,7 +7348,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Developers' note: Looking at talents early in the Affliction tree, Xavian Teachings feels overly mandatory to smooth out Affliction’s gameplay. Additionally, Harvester of Souls is difficult to tune to be competitive with other options on Affliction’s tree due to how it affects survivability. Due to this, we are making Xavian Teachings baseline and removing Harvester of Souls and in their place adding basic throughput increase talents, to avoid additional complexity."
     },
@@ -7360,7 +7360,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "New Talent: Dark Virtuosity – Increases Shadow Bolt/Drain Soul damage by 15/30%."
     },
@@ -7372,7 +7372,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "New Talent: Kindled Malice – Increases Malefic Rapture and Seed of Corruption damage by 8/15%."
     },
@@ -7384,7 +7384,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Dread Touch now lasts 8 seconds (was 6 seconds)."
     },
@@ -7396,7 +7396,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Darkglare has been redesigned – Summons a Darkglare from the Twisting Nether that extends the duration of your damage over time effects on all enemies by 8 seconds. The Darkglare will serve you for 20 seconds, blasting its target for Shadow damage, increased by 25% for every damage over time effect you have active on their current target.\n\nDevelopers' note: Darkglare has been increasingly difficult to tune due to how they scale in multi-target situations. To remedy this, we are changing how Darkglare scales so that they contribute more in single-target encounters. This should also increase the effectiveness of Grim Reach, emphasizing Darkglare as a powerful AOE option when talented."
     },
@@ -7408,7 +7408,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Xavian Teachings has been removed from the talent tree and is now baseline."
     },
@@ -7420,7 +7420,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Harvester of Souls has been removed."
     },
@@ -7432,7 +7432,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Writhe in Agony has been moved to row 3 and is now a 1 rank talent."
     },
@@ -7444,7 +7444,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Dark Virtuosity now increases the damage of Shadow Bolt and Drain Soul by 5/10% (was 15/30%)."
     },
@@ -7456,7 +7456,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Kindled Malice now increases the damage of Malefic Rapture and Seed of Corruption by 4/8% (was 8/15%)."
     },
@@ -7468,7 +7468,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "New Talent: Immutable Hatred – When your primary Felguard’s Legion Strike damages only 1 target, its damage is increased by 120%. Your primary Felguard deals Physical damage after auto-attacking the same enemy 3 consecutive times."
     },
@@ -7480,7 +7480,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "New Talent: Umbral Blaze – Hand of Gul’dan has a 8/15% chance to burn its target for additional Shadowflame damage every 2 seconds for 6 seconds.\n\nDevelopers' note: Hounds of War has little room for further tuning due to it hooking onto rotational, frequently used spells in the Demonology toolkit. To replace it, we are bringing back Umbral Blaze as a choice to further improve Hand of Gul’dan."
     },
@@ -7492,7 +7492,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Reign of Tyranny now increases the damage of Demonic Tyrant by 50% in addition to its original effect.\n\nDevelopers' note: Reign of Tyranny has continued to underperform. However, rather than put additional emphasis on the ramp up required, we are wanting to bring up its ‘floor’ value while retaining the skill expression aspect of the talent. Ideally, this makes Reign of Tyranny the more passive, friendly option compared to the frequent skill checks that Grand Warlock’s Design demands."
     },
@@ -7504,7 +7504,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Pact of the Imp Mother now has an 8/15% chance (was 5/10%) to cast Hand of Gul’dan a second time."
     },
@@ -7516,7 +7516,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Guillotine damage increased by 200% and now lasts 6 seconds (was 8 seconds).\n\nDevelopers' note: Guillotine has been underperforming. To rectify this, we are increasing its overall throughput and decreasing its duration to make it a more competitive choice. In addition, we are adding a new capstone to the right side of the tree that focuses on improving Demonology’s contribution to single target encounters without adding complexity to their rotational gameplay."
     },
@@ -7528,7 +7528,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Stolen Power now triggers after 75 applications (was 100)."
     },
@@ -7540,7 +7540,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Hounds of War has been removed."
     },
@@ -7552,7 +7552,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Felguard auto-attack damage increased by 20%."
     },
@@ -7564,7 +7564,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Wild Imp damage increased by 20%."
     },
@@ -7576,7 +7576,7 @@
         "Classes",
         "10.0.7",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Vilefiend damage increased by 30%."
     },
@@ -7896,7 +7896,7 @@
         "PvP",
         "10.0.7",
         "Classes",
-        "Shaman"
+        "Demon Hunter"
       ],
       "Text": "Reverse Magic (PvP Talent) now triggers the backlash effects from dispelled debuffs."
     },
@@ -8036,7 +8036,7 @@
         "PvP",
         "10.0.7",
         "Classes",
-        "Shaman"
+        "Paladin"
       ],
       "Text": "Divine Protection no longer reduces damage by an additional 10% in PvP combat."
     },
@@ -8230,7 +8230,7 @@
         "PvP",
         "10.0.7",
         "Classes",
-        "Shaman"
+        "Priest"
       ],
       "Text": "Shadow Word: Pain and Purge the Wicked now have a spell highlight when Catharsis is above 80% of its maximum stored damage."
     },
@@ -8242,7 +8242,7 @@
         "PvP",
         "10.0.7",
         "Classes",
-        "Shaman"
+        "Priest"
       ],
       "Text": "Renew healing is now increased by 22% in PvP combat (was 15%)."
     },
@@ -8254,7 +8254,7 @@
         "PvP",
         "10.0.7",
         "Classes",
-        "Shaman"
+        "Priest"
       ],
       "Text": "Prayer of Mending healing is now increased by 6% in PvP combat."
     },
@@ -8657,7 +8657,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "All druids now learn Swipe at level 10."
     },
@@ -8669,7 +8669,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "Swipe and Brutal slash damage reduced by 50%."
     },
@@ -8681,7 +8681,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "Feral druids now start with Rip instead of Thrash."
     },
@@ -8693,7 +8693,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New Talent: Improved Swipe – Increases Swipe and Brutal Slash damage by 100%."
     },
@@ -8705,7 +8705,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New Talent: Forestwalk – Casting Regrowth increases your movement speed and healing received by 5% for 3/6 seconds."
     },
@@ -8717,7 +8717,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New Talent: Gale Winds – Increases Typhoon's radius by 20% and range by 5 yards."
     },
@@ -8729,7 +8729,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New Talent: Incessant Tempest – Reduces the cooldown of Typhoon by 5 seconds."
     },
@@ -8741,7 +8741,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "Killer Instinct changed to 2 points, granting 3/6% physical damage and armor."
     },
@@ -8753,7 +8753,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "Nurturing Instinct changed to 2 points, granting 3/6% magical damage and healing."
     },
@@ -8765,7 +8765,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New connection between Rake and Rip."
     },
@@ -8777,7 +8777,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New connection between Maim and Tireless Pursuit."
     },
@@ -8789,7 +8789,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New connections connecting Skull Bash to Primal Fury and Matted Fur."
     },
@@ -8801,7 +8801,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "New connection between Verdant Heart and Ironfur."
     },
@@ -8813,7 +8813,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "Wild Growth moved up and Remove Curse moved to the side."
     },
@@ -8825,7 +8825,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "Improved Rejuvenation moved up the tree."
     },
@@ -8837,7 +8837,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Class"
       ],
       "Text": "Sunfire moved up and Starsurge moved to the side."
     },
@@ -8849,7 +8849,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "The Balance Druid tree has been redesigned."
     },
@@ -8861,7 +8861,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "Lunar Eclipse no longer increases the critical strike chance of Starfire."
     },
@@ -8873,7 +8873,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "Lunar Eclipse now increases the damage Starfire deals to nearby enemies by 30%."
     },
@@ -8885,7 +8885,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "Astral Communion, in addition to its active effect, also passively increases your maximum Astral Power by 20."
     },
@@ -8897,7 +8897,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "Umbral Intensity now further increases the damage Starfire deals to nearby enemies by 10/20%."
     },
@@ -8909,7 +8909,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "New Talent: Cosmic Rapidity – Your Moonfire, Sunfire, and Stellar Flare deal damage 13/25% faster."
     },
@@ -8921,7 +8921,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "Circle of Life and Death has been removed."
     },
@@ -8933,7 +8933,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "Fixed an issue where Cosmic Rapidity did not increase the frequency of Shooting Stars to occur based on the increased rate of Moonfire, Sunfire, and Stellar Flare.\n\nDevelopers’ note: The redesign of Lunar Eclipse proved to be a bit overtuned during testing so we’re reining it in a bit. The current tuning should still make Lunar Eclipse the ideal state for when you’re dealing with multiple enemies at once. Additionally, we’re fixing an unintended bug caught during testing that caused Shooting Stars to not benefit from Cosmic Rapidity."
     },
@@ -8945,7 +8945,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Circle of Life and Death damage over time duration compression reduced to 20% (was 25%)."
     },
@@ -8957,7 +8957,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Taste for Blood changed to a single point node that increases Ferocious Bite damage by 5% per bleed on the target (was a 2-point node)."
     },
@@ -8969,7 +8969,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Sudden Ambush changed to a single point node that grants 6% chance per combo point spent to cause your next Shred or Rake to deal damage as though stealthed (was a 2-point node)."
     },
@@ -8981,7 +8981,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Tear Open Wounds now deals 70% of the Rip damage it consumes (was 60%)."
     },
@@ -8993,7 +8993,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Rampant Ferocity damage increased to 35% of Ferocious Bite damage (was 25%)."
     },
@@ -9005,7 +9005,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Dreadful Bleeding bonus to Rip damage reduced to 15% (was 20%)."
     },
@@ -9017,7 +9017,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Relentless Predator reduces the energy cost of Ferocious Bite by 40% (was 20%)."
     },
@@ -9029,7 +9029,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Rip and Tear: Tear damage increased to 15% of Rip damage (was 12%)."
     },
@@ -9041,7 +9041,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Lunar Inspiration damage increased by 25%."
     },
@@ -9053,7 +9053,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Tear Open Wounds directly below Primal Wrath on row 3, with a connector to Pouncing Strikes."
     },
@@ -9065,7 +9065,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Survival Instincts moved to row 5."
     },
@@ -9077,7 +9077,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Infected Wounds moved to row 5."
     },
@@ -9089,7 +9089,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Lunar Inspiration moved below and to the left of Sudden Ambush on row 6."
     },
@@ -9101,7 +9101,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Berserk moved to row 6."
     },
@@ -9113,7 +9113,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Moment of Clarity moved to row 7."
     },
@@ -9125,7 +9125,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Berserk: Heart of the Lion and Berserk: Frenzy moved within row 7 and connections changed."
     },
@@ -9137,7 +9137,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "Position of Wild Slashes and Brutal Strike swapped in their choice node."
     },
@@ -9149,7 +9149,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "The Guardian Druid tree has been redesigned."
     },
@@ -9161,7 +9161,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Ursine Adept is now learned at level 10."
     },
@@ -9173,7 +9173,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Innervate can now be cast in Bear Form."
     },
@@ -9185,7 +9185,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "New Talent: Thorns of Iron – When you cast Ironfur, you also deal Physical damage equal to 30% of your armor, split among enemies within 12 yards."
     },
@@ -9197,7 +9197,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "New Talent: Raze – Strike with the might of Ursoc, dealing Physical damage to all enemies in front of you. Deals reduced damage beyond 5 targets."
     },
@@ -9209,7 +9209,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "New Talent: Moonless Night – When you cast a single-target ability on an enemy afflicted by Moonfire, you cause them to burn for an additional 10% Arcane damage."
     },
@@ -9221,7 +9221,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "New Talent: Lunar Beam – Summons a beam of lunar light at your location, dealing Arcane damage and healing you over 8.5 seconds. Pathing restructured."
     },
@@ -9233,7 +9233,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Front of the Pack moved to row 3."
     },
@@ -9245,7 +9245,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Flashing Claws switched positions with Reinvigoration."
     },
@@ -9257,7 +9257,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Earthwarden, Tooth and Claw, Reinforced Fur, and After the Wildfire/Guardian of Elune now have connections into the final gate section."
     },
@@ -9269,7 +9269,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Pulverize, Blood Frenzy, and Twin Moonfire have found slightly different homes."
     },
@@ -9281,7 +9281,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Vicious Cycle, Fury of Nature, and Scintillating Moonlight have changed icons."
     },
@@ -9293,7 +9293,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Added a tracker buff for After the Wildfire to indicate remaining rage expenditure until a proc occurs."
     },
@@ -9305,7 +9305,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Fixed an issue causing Flashing Claws to fail to trigger."
     },
@@ -9317,7 +9317,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Fixed an issue where Reinvigoration rank 2 did not grant cooldown reduction."
     },
@@ -9329,7 +9329,7 @@
         "Classes",
         "10.0.5",
         "Druid",
-        "Restoration"
+        "Guardian"
       ],
       "Text": "Fixed an issue preventing Raze from triggering Vicious Cycle."
     },
@@ -9614,7 +9614,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Class"
       ],
       "Text": "Fixed an issue that caused the Awakened Faeline and Faeline Harmony talents to grant less chance to reset Faeline Stomp than intended."
     },
@@ -9626,7 +9626,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Class"
       ],
       "Text": "Faeline Stomp now always spawns with a minimum of 1 branch."
     },
@@ -9638,7 +9638,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Class"
       ],
       "Text": "Faeline Stomp now has a 100% increased chance to spawn circles within its arc."
     },
@@ -9650,7 +9650,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "New Ability: Spirit of the Ox – Your Rising Sun Kick and Blackout Kick have a chance to summon a Healing Sphere."
     },
@@ -9662,7 +9662,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Stagger is now a baseline ability."
     },
@@ -9674,7 +9674,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Resonant Fists damage reduced by 45%."
     },
@@ -9686,7 +9686,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Keg Smash damage increased by 10%."
     },
@@ -9698,7 +9698,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Tiger Palm damage increased by 20%."
     },
@@ -9710,7 +9710,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Blackout Kick damage increased by 20%."
     },
@@ -9722,7 +9722,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Spinning Crane Kick increased by 20%."
     },
@@ -9734,7 +9734,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Breath of Fire damage increased by 25%."
     },
@@ -9746,7 +9746,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Quick Sip now purifies 5% of damage delayed by Stagger (was 2%)."
     },
@@ -9758,7 +9758,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Gift of the Ox is now a 1 rank talent (was 2)."
     },
@@ -9770,7 +9770,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Graceful Exit is now a 1 rank talent (was 2)."
     },
@@ -9782,7 +9782,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Quick Sip is now a 1 rank talent (was 2)."
     },
@@ -9794,7 +9794,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Brewmaster"
       ],
       "Text": "Staggering Strikes is now a 1 rank talent (was 2)."
     },
@@ -9806,7 +9806,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Revival healing now increased by 100% while not in a raid."
     },
@@ -9818,7 +9818,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Vivify now costs 3.4% of base mana (was 3.8%)."
     },
@@ -9830,7 +9830,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Awakened Faeline and Ancient Concordance now linger for 8 seconds after leaving Faeline Stomp."
     },
@@ -9842,7 +9842,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Rising Mist now extends Renewing Mists applied by Rapid Diffusion."
     },
@@ -9854,7 +9854,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Invoke Yu’lon, the Jade Serpent now reduces the cost of Enveloping Mist by 50% (was 33%)."
     },
@@ -9866,7 +9866,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Echoing Reverberation now only requires Enveloping Mist to trigger an additional Zen Pulse (was Enveloping Mist and Renewing Mist)."
     },
@@ -9878,7 +9878,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Zen Pulse damage and healing increased by 25%, and now triggers Mastery: Gust of Mist."
     },
@@ -9890,7 +9890,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "New Talent: Sheilun’s Gift – Draws in all nearby clouds of mist, healing up to 3 nearby allies per cloud absorbed. A cloud of mist is generated every 8 seconds while in combat."
     },
@@ -9902,7 +9902,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "New Talent: Veil of Pride – Increases Sheilun's Gift cloud of mist generation to every 4 seconds."
     },
@@ -9914,7 +9914,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "New Talent: Shaohao’s Lessons – Each time you cast Sheilun's Gift, you learn one of Shaohao's Lessons for up to 30 seconds, based on how many clouds of mist are consumed.\n\nLesson of Doubt – Spells and abilities deal up to 35% more healing and damage.\nLesson of Despair – Your Critical Strike is increased by 30% while above 50% health.\nLesson of Fear – Decreases your damage taken by 15% and increases your Haste by 25%.\nLesson of Anger – 25% of the damage or healing you deal is duplicated every 4 seconds."
     },
@@ -9926,7 +9926,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "New Talent: Burst of Life – Life Cocoon's cooldown is reduced by 20 seconds, but its absorb amount is reduced by 40%. When Life Cocoon expires, it releases a burst of mist that restores health to 3 nearby allies. Choice node with Calming Coalescence."
     },
@@ -9938,7 +9938,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Added a connection from the Veil of Pride/Shaohao’s Lesson choice node to the Rising Mist/Tear of Morning choice node."
     },
@@ -9950,7 +9950,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Bonedust Brew removed and replaced with Sheilun’s Gift."
     },
@@ -9962,7 +9962,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Attenuation removed and replaced with Shaohao’s Lessons."
     },
@@ -9974,7 +9974,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Bountiful Brew removed and replaced with Veil of Pride."
     },
@@ -9986,7 +9986,7 @@
         "Classes",
         "10.0.5",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "Fixed an issue that caused a single point in Misty Peaks to provide less benefit than intended."
     },
@@ -10034,7 +10034,7 @@
         "Classes",
         "10.0.5",
         "Paladin",
-        "Holy"
+        "Class"
       ],
       "Text": "Added a tracker buff for Afterimage to indicate remaining Holy Power expenditure until a proc occurs."
     },
@@ -10046,7 +10046,7 @@
         "Classes",
         "10.0.5",
         "Paladin",
-        "Holy"
+        "Class"
       ],
       "Text": "Fixed an issue causing rank 1 Seal of Might to grant an incorrect amount of Mastery during Sentinel."
     },
@@ -10166,7 +10166,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Class"
       ],
       "Text": "Surge of Light now properly triggers from all healing spells."
     },
@@ -10178,7 +10178,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Class"
       ],
       "Text": "Vampiric Embrace is no longer on the global cooldown."
     },
@@ -10190,7 +10190,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Class"
       ],
       "Text": "San’layn now also causes Sanguine Teachings to grant an additional 2% Leech."
     },
@@ -10202,7 +10202,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Class"
       ],
       "Text": "Manipulation can now be triggered by Discipline's Power Word: Solace and Mind Blast, and Shadow's Mind Flay and Mind Flay: Insanity."
     },
@@ -10214,7 +10214,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Class"
       ],
       "Text": "New Talent: Petrifying Scream – Psychic Scream causes enemies to tremble in place instead of fleeing in fear."
     },
@@ -10226,7 +10226,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Class"
       ],
       "Text": "New Talent: Sanguine Teachings – Increases Leech by 3%. On a choice node with Vampiric Embrace."
     },
@@ -10238,7 +10238,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Class"
       ],
       "Text": "The root effect of Void Tendrils is now displayed on enemy nameplates."
     },
@@ -10250,7 +10250,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Pain Transformation now causes Pain Suppression to heal your target for 25% of maximum health (was 12%)."
     },
@@ -10262,7 +10262,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Protector of the Frail now also grants Pain Suppression an additional charge."
     },
@@ -10274,7 +10274,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Light’s Wrath now costs 2% of base mana."
     },
@@ -10286,7 +10286,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Power Word: Solace damage reduced by 15%."
     },
@@ -10298,7 +10298,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Mind Blast now costs 1.6% of base mana (was 2.5%)."
     },
@@ -10310,7 +10310,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Painful Punishment now increases the duration of Shadow Word: Pain or Purge the Wicked by 1.5 seconds (was 0.7 seconds)."
     },
@@ -10322,7 +10322,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Embrace Shadow now increases the duration of Shadow Covenant by 8 seconds (was 4 seconds)."
     },
@@ -10334,7 +10334,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Twilight Corruption has been redesigned – Shadow Covenant increases the damage and healing of Shadow spells by an additional 10%."
     },
@@ -10346,7 +10346,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Shadow Covenant now converts Penance to a Shadow spell."
     },
@@ -10358,7 +10358,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Dark Reprimand (Shadow Penance) can now be cast on allies."
     },
@@ -10370,7 +10370,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Stolen Psyche has been redesigned and renamed to Abyssal Reverie – Atonement heals for 10%/20% more when activated by Shadow spells."
     },
@@ -10382,7 +10382,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Train of Thought causes Power Word: Solace to trigger a cooldown reduction for Penance in addition to Smite."
     },
@@ -10394,7 +10394,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Blaze of Light increases the damage of Power Word: Solace in addition to Smite and Penance."
     },
@@ -10406,7 +10406,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Weal and Woe increases the damage of Power Word: Solace in addition to Smite."
     },
@@ -10418,7 +10418,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Wrath Unleashed increases the damage of Power Word: Solace in addition to Smite."
     },
@@ -10430,7 +10430,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Harsh Discipline can trigger from Power Word: Solace and Mind Blast in addition to Smite. This talent is no longer tracked through Smite and instead appears on the Personal Resource Display."
     },
@@ -10442,7 +10442,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Void Summoner can now trigger from Power Word: Solace in addition to Smite, Mind Blast, and Penance."
     },
@@ -10454,7 +10454,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Added a few connections to the sides of row 6 to row 8 for Discipline."
     },
@@ -10466,7 +10466,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Fixed an issue preventing Dark Reprimand from consuming Power of the Dark Side."
     },
@@ -10478,7 +10478,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Flash Heal healing increased by 25%."
     },
@@ -10490,7 +10490,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Renew healing increased by 25%."
     },
@@ -10502,7 +10502,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Power Word: Radiance healing increased by 100%."
     },
@@ -10514,7 +10514,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Ultimate Radiance increases the healing done by Power Word: Radiance by 10% (was 100%)."
     },
@@ -10526,7 +10526,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Sins of the Many increases damage dealt by 40% at its highest effectiveness (was 30%)."
     },
@@ -10538,7 +10538,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "Divine Aegis create a protective shield for 3%/6% of critical healing done (was 5%/10%).\n\nDevelopers’ note: Our changes to Discipline are aimed at improving the spec’s ability to react to burst damage, especially in dungeons. At the same time, we’re tuning down a talent that’s contributing more than intended to Discipline’s overall healing. Between these tuning changes and talent changes in 10.0.5, we expect Discipline to be slightly more effective in raids and significantly more effective in dungeons."
     },
@@ -10550,7 +10550,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Burning Vehemence is now a 2-point talent and has been redesigned – Increases the damage of Holy Fire by 15%/30%. Holy Fire deals 15%/30% of its initial damage to all nearby enemies within 12 yards of your target. Damage reduced beyond 5 targets."
     },
@@ -10562,7 +10562,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Prayers of the Virtuous now increases the maximum stack count of Prayer of Mending by 2 per point."
     },
@@ -10574,7 +10574,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Burning Vehemence and Searing Light have swapped positions in the talent tree."
     },
@@ -10586,7 +10586,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Searing Light is now a 1-point talent (was 2)."
     },
@@ -10598,7 +10598,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Fixed an issue causing several Holy spells to not be castable while in Spirit of Redemption form."
     },
@@ -10610,7 +10610,7 @@
         "Classes",
         "10.0.5",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Fixed an issue causing Harmonious Apparatus to sometimes not grant the correct amount of cooldown reduction."
     },
@@ -10682,7 +10682,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Class"
       ],
       "Text": "All rogues now learn Feint at level 12."
     },
@@ -10694,7 +10694,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Class"
       ],
       "Text": "New Talent: Unbreakable Stride (Passive) – Reduces the duration of movement slowing effects by 30%."
     },
@@ -10706,7 +10706,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Class"
       ],
       "Text": "Sepsis now grants 1 use of a Stealth ability immediately, in addition to its previous effects."
     },
@@ -10718,7 +10718,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Class"
       ],
       "Text": "Elusiveness/Cheat Death choice node has moved up to row 2, taking the position where Feint used to be."
     },
@@ -10730,7 +10730,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Class"
       ],
       "Text": "Fixed an issue that prevented Improved Garrote's cooldown removal from taking effect when casting Garrote using Sepsis' Stealth ability effect."
     },
@@ -10742,7 +10742,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Assassination"
       ],
       "Text": "New Talent: Arterial Precision (Passive) – Shiv strikes 4 additional nearby enemies and increases your Bleed damage done to affected targets by 20% for 8 seconds."
     },
@@ -10754,7 +10754,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Assassination"
       ],
       "Text": "Kingsbane has moved and now shares a location with Dragon-Tempered Blades as a choice node."
     },
@@ -10766,7 +10766,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Assassination"
       ],
       "Text": "Dashing Scoundrel now costs a maximum of 2 points (was 3)."
     },
@@ -10778,7 +10778,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Outlaw"
       ],
       "Text": "Killing Spree now reduces damage taken by 35% while active."
     },
@@ -10790,7 +10790,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Outlaw"
       ],
       "Text": "Fan the Hammer's additional Pistol Shots now generate 1 fewer combo point."
     },
@@ -10802,7 +10802,7 @@
         "Classes",
         "10.0.5",
         "Rogue",
-        "Subtlety"
+        "Outlaw"
       ],
       "Text": "Combat Stamina stamina bonus reduced to 5% (was 10%).\n\nDevelopers’ note: Outlaw’s survivability in challenging content has been consistently higher than what we expect and intend. As a result, we are reducing Combat Stamina’s bonus to a value more appropriate for its position and single-point cost."
     },
@@ -10826,7 +10826,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Class"
       ],
       "Text": "Mana Spring Totem has been renamed to Mana Spring and is now a passive effect."
     },
@@ -10838,7 +10838,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Class"
       ],
       "Text": "Mana Spring now restores 400 Mana at level 70 (was 200)."
     },
@@ -10850,7 +10850,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Class"
       ],
       "Text": "Healing Surge healing increased by 15%."
     },
@@ -10862,7 +10862,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Class"
       ],
       "Text": "Totemic Surge reduces the cooldown of Totems by 3 seconds/6 seconds (was 2 seconds/4 seconds)."
     },
@@ -10874,7 +10874,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Flame Shock damage increased by 10%."
     },
@@ -10886,7 +10886,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Chain Lightning damage increased by 10%."
     },
@@ -10898,7 +10898,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Lava Beam damage increased by 10%."
     },
@@ -10910,7 +10910,7 @@
         "Classes",
         "10.0.5",
         "Shaman",
-        "Restoration"
+        "Elemental"
       ],
       "Text": "Earthquake damage increased by 10%."
     },
@@ -11005,7 +11005,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Class"
       ],
       "Text": "Soulkeeper has been redesigned – Summons a Soulkeeper that consumes all Tormented Souls you’ve collected, blasting nearby enemies for Chaos damage per soul consumed over 8 seconds. You collect Tormented Souls from each target you kill and occasionally escaped souls you previously collected."
     },
@@ -11017,7 +11017,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Class"
       ],
       "Text": "Inquisitor’s Gaze is now passive and has been redesigned – Your spells and abilities have a chance to summon an Inquisitor’s Eye that deals Chaos damage over time."
     },
@@ -11029,7 +11029,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Class"
       ],
       "Text": "Fixed an issue where Summon Soulkeeper was receiving incorrect damage scaling per Tormented Soul acquired."
     },
@@ -11041,7 +11041,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "New Talent: Focused Malignancy – Malefic Rapture deals 15/30% increased damage to targets suffering from Unstable Affliction."
     },
@@ -11053,7 +11053,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Soul Swap has been redesigned – Copies your damage over time effects from the target, preserving their duration. Your next use of Soul Swap within 10 seconds will exhale a copy of the effects onto a new target."
     },
@@ -11065,7 +11065,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Soul Tap has been removed."
     },
@@ -11077,7 +11077,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Pandemic Invocation has been moved to row 6 and is now a 1 rank talent."
     },
@@ -11089,7 +11089,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "Harvester of Souls damage increased by 25%."
     },
@@ -11101,7 +11101,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Felstorm, Guillotine, and Demonic Strength now place one another on cooldown:\n\nFelstorm places Guillotine and Demonic Strength on cooldown for 5 seconds.\nDemonic Strength places Felstorm and Guillotine on cooldown for 5 seconds.\nGuillotine places Felstorm and Demonic Strength on cooldown for 8 seconds."
     },
@@ -11113,7 +11113,7 @@
         "Classes",
         "10.0.5",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "Reign of Tyranny causes Demonic Tyrant to deal 7% additional damage for each stack of Demonic Servitude active at the time of his summon (was 5%).\n\nDevelopers’ note: Overall, we’re happy with Demonology’s AoE capabilities. However, we feel their single-target profile needs a bit of help. We’re increasing the damage output of Reign of Tyranny to accomplish this. Ideally, Reign of Tyranny serves as a strong single-target oriented choice in comparison to Grand Warlock’s Design which works well in content like M+."
     },
@@ -11161,7 +11161,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "New Talent: Improved Slam – Slam has a 10% increased chance to critically strike and deals 30% increased critical strike damage."
     },
@@ -11173,7 +11173,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "New Talent: Spiteful Serenity – Colossus Smash and Avatar's durations are doubled but their damage bonuses are reduced by 50%."
     },
@@ -11185,7 +11185,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "New Talent: Strength in Arms – Overpower has a 10% increased critical strike chance and on enemies below 35% health and generates 8 Rage."
     },
@@ -11197,7 +11197,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Defensive Stance is now talented by default."
     },
@@ -11209,7 +11209,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Sweeping Strikes is now baseline."
     },
@@ -11221,7 +11221,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Improved Sweeping Strikes now lasts 6 seconds (was 5 seconds)."
     },
@@ -11233,7 +11233,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Improved Overpower and Battlelord now also increase the damage of Dreadnaught."
     },
@@ -11245,7 +11245,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Battlelord's chance to reset the cooldown of Mortal Strike or Cleave increased to 35% (was 25%)."
     },
@@ -11257,7 +11257,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Battlelord now increases the damage of Overpower by 35% (was 25%)."
     },
@@ -11269,7 +11269,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Skullsplitter now causes Deep Wounds to expire instantly."
     },
@@ -11281,7 +11281,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Tide of Blood now only causes Rend to expire instantly as Deep Wounds is built into Skullsplitter."
     },
@@ -11293,7 +11293,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Fatal Mark duration increased to 120 seconds (was 60 seconds)."
     },
@@ -11305,7 +11305,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Storm of Swords causes Whirlwind to cost 20 more Rage (was 30)."
     },
@@ -11317,7 +11317,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Shuffled the positions of some nodes towards the end of the tree and added some new connections to try and aid the creation of more general builds."
     },
@@ -11329,7 +11329,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Valor in Victory now only 1 rank and now provides 1% Versatility and reduces the cooldown of Die by the Sword by 30 seconds."
     },
@@ -11341,7 +11341,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Improved Mortal Strike removed from the tree."
     },
@@ -11353,7 +11353,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Ignore Pain has been added to the Arms tree."
     },
@@ -11365,7 +11365,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Thunder Clap damage increased by 30%."
     },
@@ -11377,7 +11377,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Cleave damage increased by 5%."
     },
@@ -11389,7 +11389,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Whirlwind damage increased by 10%."
     },
@@ -11401,7 +11401,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Bladestorm damage increased by 5%."
     },
@@ -11413,7 +11413,7 @@
         "Classes",
         "10.0.5",
         "Warrior",
-        "Fury"
+        "Arms"
       ],
       "Text": "Rend initial damage only (not periodic) increased by 15%.\n\nDevelopers’ note: The 10.0.5 talent tree update for Arms will make for more flexible builds, however, their performance in AoE in Dungeons and Raids hasn’t been where we would like relative to other specs, so we’re additionally making some tweaks to improve things."
     },
@@ -11965,7 +11965,7 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Druid"
       ],
       "Text": "Rake damage reduced by 18% in PvP combat."
     },
@@ -11977,7 +11977,7 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Druid"
       ],
       "Text": "Rip damage reduced by 18% in PvP combat."
     },
@@ -11989,7 +11989,7 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Druid"
       ],
       "Text": "Ferocious Bite damage reduced by 25% in PvP combat (was reduced by 20%)."
     },
@@ -12001,7 +12001,7 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Druid"
       ],
       "Text": "Balance\n\nOrbit Breaker now resets its count when entering an arena match.\nFull Moon damage reduced to 60% power (was 80% power) when triggered by Orbit Breaker in PvP combat.\nWrath deals 50% increased damage in PvP combat.\nStarfire deals 50% increased damage in PvP combat (was 20%).\nStarsurge deals 40% increased damage in PvP combat (was 20%).\nNew Moon, Half Moon, and Full Moon deal 20% increased damage in PvP combat.\nGathering Starstuff (Balance Druid 2 piece set bonus) grants 15% increased damage to Wrath or Starfire per stack (was 20%).\nTouch of the Cosmos (Balance Druid 4 piece set bonus) grants 20% increased damage to Starsurge (was 35%).\nUmbral Embrace increases Wrath or Starfire damage by 40% (was 50%) in PvP combat."
     },
@@ -12052,7 +12052,7 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Druid"
       ],
       "Text": "Restoration\n\nFrenzied Regeneration healing reduced by 50% (was reduced by 38%) in PvP combat.\nBudding Leaves is now 50% effective in PvP combat (was 70%)."
     },
@@ -12064,7 +12064,7 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Druid"
       ],
       "Text": "Developers’ note: Feral damage has been much higher than we are comfortable with, so we are lowering it. Additionally, both Feral and Restoration have been too survivable when targeted, so we are lowering the healing from Frenzied Regeneration for those specializations. Balance druid’s single target pressure is behind other casters. We’d like to reward them for using cast time spells like Wrath and Starfire a little bit more, while at the same time fixing some issues that caused Orbit Breaker to do more damage than intended."
     },
@@ -12076,7 +12076,7 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Evoker"
       ],
       "Text": "Devastation\n\nDeep Breath deals 20% increased damage in PvP combat (was 40%).\nSpellweaver’s Dominance grants 20% increased critical strike damage in PvP combat (was 30%).\nDisintegrate deals 20% increased damage in PvP combat (was 15%).\nAzure Strike deals 20% increased damage in PvP combat.\n\nDevelopers’ note: Devastation Evokers’ burst potential is higher than we’d like, so we’re reducing it a bit to give players more time to react to damage."
     },
@@ -12866,7 +12866,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Halls of Valor",
-        "Odyn"
+        "God-King Skovald"
       ],
       "Text": "Is now less verbose when stating his claim to the Aegis of Aggramar."
     },
@@ -12878,7 +12878,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Halls of Valor",
-        "Odyn"
+        "Hyrja"
       ],
       "Text": "Health reduced by 10%."
     },
@@ -12890,7 +12890,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Halls of Valor",
-        "Odyn"
+        "Fenryr"
       ],
       "Text": "Health reduced by 10%."
     },
@@ -12902,7 +12902,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Halls of Valor",
-        "Odyn"
+        "Fenryr"
       ],
       "Text": "Ravenous Leap bleed effect now has a 30 second duration (Was infinite)."
     },
@@ -12926,7 +12926,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Nokhud Offensive",
-        "Teera and Maruuk"
+        "Balakar Khan"
       ],
       "Text": "Nokhud Stormcaster health reduced by 20%."
     },
@@ -12938,7 +12938,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Nokhud Offensive",
-        "Teera and Maruuk"
+        "Balakar Khan"
       ],
       "Text": "Balakar Khan's Static Spear prefers not to target the same player for subsequent casts."
     },
@@ -12950,7 +12950,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Nokhud Offensive",
-        "Teera and Maruuk"
+        "Balakar Khan"
       ],
       "Text": "Balakar Khan's Static Spear area of effect damage reduced by 30%."
     },
@@ -13142,7 +13142,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Azure Vault",
-        "Umbrelskul"
+        "Telash Greywing"
       ],
       "Text": "Telash Greywing health reduced by 10%"
     },
@@ -13154,7 +13154,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Azure Vault",
-        "Umbrelskul"
+        "Telash Greywing"
       ],
       "Text": "There is now a 2 second delay before players take damage from Frozen Ground after Frost Bomb."
     },
@@ -13234,7 +13234,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Ruby Life Pools",
-        "Kyrakka and Erkhart Stormvein"
+        "Melidrussa Chillworn"
       ],
       "Text": "Explosive Affix - Infused Whelps no longer spawn Explosive Orbs."
     },
@@ -13246,7 +13246,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Ruby Life Pools",
-        "Kyrakka and Erkhart Stormvein"
+        "Kokia Blazehoof"
       ],
       "Text": "Increased the cast time of Blazebound Firestorm's Roaring Blaze to 3 seconds (was 2 seconds)."
     },
@@ -13353,7 +13353,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Temple of the Jade Serpent",
-        "Lorewalker Stonestep"
+        "Wise Mari"
       ],
       "Text": "Wise Mari will now die immediately and grant players credit for the encounter upon defeat."
     },
@@ -14239,7 +14239,7 @@
         "PvP",
         "Classes",
         "Mage",
-        "Frost"
+        "Arcane"
       ],
       "Text": "[With weekly restarts] Siphon Storm’s effectiveness has been reduced by 50% in PvP combat.\n\nDevelopers’ notes: Siphon Storm has been a culprit for one-shot scenarios, so we are adjusting its effectiveness down heavily."
     },
@@ -14364,7 +14364,7 @@
         "PvP",
         "Classes",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "[With weekly restarts] Heal healing is increased by 35% in PvP Combat (was 25%)."
     },
@@ -14376,7 +14376,7 @@
         "PvP",
         "Classes",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "[With weekly restarts] Holy Word: Serenity healing is increased by 15% in PvP Combat."
     },
@@ -14388,7 +14388,7 @@
         "PvP",
         "Classes",
         "Priest",
-        "Shadow"
+        "Holy"
       ],
       "Text": "Developers’ notes: Holy received PvP reductions in casted healing effectiveness in previous patches that we now feel are unnecessary and are reverting. We also feel Holy Word: Serenity has not been as effective as we would like at handling burst damage, so we are increasing that as well."
     },
@@ -14699,7 +14699,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Nokhud Offensive",
-        "Raging Tempest"
+        "Granyth"
       ],
       "Text": "Tectonic Stomp's area of effect now correctly matches the visual on all difficulties."
     },
@@ -14758,7 +14758,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Shadowmoon Burial Grounds",
-        "Ner'Zul"
+        "Sadana Bloodfury"
       ],
       "Text": "Fixed an issue that caused Defiled Souls to regenerate health during the encounter."
     },
@@ -14770,7 +14770,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Shadowmoon Burial Grounds",
-        "Ner'Zul"
+        "Sadana Bloodfury"
       ],
       "Text": "Fixed an issue causing Dark Eclipse to kill pets."
     },
@@ -14782,7 +14782,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Shadowmoon Burial Grounds",
-        "Ner'Zul"
+        "Sadana Bloodfury"
       ],
       "Text": "Fixed an issue causing Defiled Souls to contribute to Enemy Forces."
     },
@@ -17317,7 +17317,7 @@
         "PvP",
         "Classes",
         "Druid",
-        "Restoration"
+        "Balance"
       ],
       "Text": "[With weekly restarts] Starsurge, Wrath, and Starfire damage increased by 20% in PvP.\n\nDevelopers’ note: Balance Druid's potential burst has gone down significantly compared to Shadowlands, while at the same time their consistent spread damage has increased. Overall this is a healthier place, but we also want Starsurge to be a viable option for spending Astral Power in PvP. Additionally, we'd like to reward Balance Druids for casting Wrath and Starfire since these spells are more difficult to cast in PvP."
     },
@@ -17329,7 +17329,7 @@
         "PvP",
         "Classes",
         "Druid",
-        "Restoration"
+        "Feral"
       ],
       "Text": "[With weekly restarts] Leader of the Pack now heals for 3% of maximum health (was 5%).\n\nDevelopers’ note: As a follow-up to one of our goals in last week’s tuning of DPS specializations having higher self-healing than we were comfortable with, we are making an adjustment with Leader of the Pack to be more in line with other DPS specializations’ self-healing."
     },
@@ -17399,7 +17399,7 @@
         "PvP",
         "Classes",
         "Monk",
-        "Windwalker"
+        "Mistweaver"
       ],
       "Text": "[with weekly restarts] Mana regeneration now reduced by an additional 15% (was 5%) in PvP combat."
     },
@@ -17435,7 +17435,7 @@
         "PvP",
         "Classes",
         "Priest",
-        "Shadow"
+        "Discipline"
       ],
       "Text": "[with weekly restarts] Mana regeneration now reduced by an additional 5% (was 15%) in PvP combat."
     },
@@ -17518,7 +17518,7 @@
         "PvP",
         "Classes",
         "Rogue",
-        "Subtlety"
+        "Assassination"
       ],
       "Text": "[With weekly restarts] Deathmark damage dealt by duplicated poisons and bleeds reduced by 30% in PvP combat.\n\nThe tooltip will not reflect this change, but it will be corrected in a future update."
     },
@@ -17591,7 +17591,7 @@
         "PvP",
         "Classes",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "[With weekly restarts] Soulburn Port duration reduced to 6 seconds in PvP."
     },
@@ -17603,7 +17603,7 @@
         "PvP",
         "Classes",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "[With weekly restarts] Soulburn Drain Life no longer grants an absorb when healing at full health in PvP."
     },
@@ -17615,7 +17615,7 @@
         "PvP",
         "Classes",
         "Warlock",
-        "Destruction"
+        "Affliction"
       ],
       "Text": "[With weekly restarts] Soulburn Healthstone healing is reduced to 20% (was 30%) in PvP combat."
     },
@@ -17627,7 +17627,7 @@
         "PvP",
         "Classes",
         "Warlock",
-        "Destruction"
+        "Demonology"
       ],
       "Text": "[With weekly restarts] The cooldown of Call Felhunter is now 60 seconds (was 30 seconds).\n\nDevelopers’ note: Demonology Warlocks have an abundance of control in their toolkit that can be used frequently so we are targeting the cooldown of Call Felhunter."
     },
@@ -17675,7 +17675,7 @@
         "PvP",
         "Classes",
         "Warrior",
-        "Protection"
+        "Fury"
       ],
       "Text": "[With weekly restarts] Warpaint now reduces damage taken by 5% (was 10%) while enraged in PvP combat.\n\nDevelopers’ note: We feel that Fury Warriors are too durable, even after last week’s adjustments to their self-healing from Bloodthirst."
     },
@@ -20302,7 +20302,7 @@
         "PvP",
         "Classes",
         "Rogue",
-        "Subtlety"
+        "Assassination"
       ],
       "Text": "[With weekly restarts] Hemotoxin (PvP Talent) healing reduction effect reduced to 35% (was 40%)."
     },
@@ -20326,7 +20326,7 @@
         "PvP",
         "Classes",
         "Warrior",
-        "Protection"
+        "Fury"
       ],
       "Text": "[With weekly restarts] Bloodthirst now restores 2% of your health in PvP combat (was 3%)."
     },
@@ -20338,7 +20338,7 @@
         "PvP",
         "Classes",
         "Warrior",
-        "Protection"
+        "Fury"
       ],
       "Text": "[With weekly restarts] Slaughterhouse now decreases healing taken by 3% per stack (was 5% per stack)."
     },
@@ -20350,7 +20350,7 @@
         "PvP",
         "Classes",
         "Warrior",
-        "Protection"
+        "Fury"
       ],
       "Text": "[With weekly restarts] Slaughterhouse now stacks up to 12 times (was 8 times)."
     },
@@ -20362,7 +20362,7 @@
         "PvP",
         "Classes",
         "Warrior",
-        "Protection"
+        "Fury"
       ],
       "Text": "[With weekly restarts] Slaughterhouse duration increased to 9 seconds (was 6 seconds)."
     },
@@ -20374,7 +20374,7 @@
         "PvP",
         "Classes",
         "Warrior",
-        "Protection"
+        "Fury"
       ],
       "Text": "[With weekly restarts] Slaughterhouse duration is no longer refreshed when adding stacks."
     },
@@ -21908,7 +21908,7 @@
         "PvP",
         "Classes",
         "Death Knight",
-        "Unholy"
+        "Frost"
       ],
       "Text": "[With weekly restarts] Death Strike's healing increased based on recent damage is reduced by 50% if the damage was dealt by players or their pets."
     },
@@ -22112,7 +22112,7 @@
         "PvP",
         "Classes",
         "Shaman",
-        "Enhancement"
+        "Elemental"
       ],
       "Text": "[With weekly restarts] Magma Chamber effectiveness reduced by 50% in PvP combat.\n\nDevelopers' note: Earth Shock and Elemental Blast from Elemental Shamans deal more damage than intended with high stacks of Magma Chamber, so we are lowering its effect in PvP."
     },

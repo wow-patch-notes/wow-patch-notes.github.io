@@ -294,8 +294,11 @@ func flattenChanges(ul *goquery.Selection, tags []string) []Change {
 			text = repeatedSpace.ReplaceAllString(text, " ")
 			text = repeatedNL.ReplaceAllString(text, "\n\n")
 
+			t := make([]string, len(tags))
+			copy(t, tags)
+
 			changes = append(changes, Change{
-				Tags: tags,
+				Tags: t,
 				Text: text,
 			})
 		}
