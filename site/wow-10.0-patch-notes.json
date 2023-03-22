@@ -7972,9 +7972,24 @@
       "Tags": [
         "PvP",
         "10.0.7",
-        "Classes"
+        "Classes",
+        "Mage",
+        "Frost"
       ],
-      "Text": "MAGE\n\nFrost\n\nGlacial Spike deals 15% less damage and its Mastery scaling is now 60% effective (was 75%) in PvP combat.\nFrostbolt deals 100% increased damage in PvP combat (was 50%)."
+      "Text": "Glacial Spike deals 15% less damage and its Mastery scaling is now 60% effective (was 75%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Frostbolt deals 100% increased damage in PvP combat (was 50%)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -8304,9 +8319,63 @@
       "Tags": [
         "PvP",
         "10.0.7",
-        "Classes"
+        "Classes",
+        "Rogue",
+        "Subtlety"
       ],
-      "Text": "ROGUE\n\nSubtlety\n\nDark Shadow effectiveness reduced by 20% in PvP combat.\nDanse Macabre effectiveness reduced by 33% in PvP combat.\nPerforated Veins effectiveness reduced by 25% in PvP combat.\nGloomblade damage increased by 20% in PvP combat.\nBackstab damage increased by 20% in PvP combat."
+      "Text": "Dark Shadow effectiveness reduced by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Danse Macabre effectiveness reduced by 33% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Perforated Veins effectiveness reduced by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Gloomblade damage increased by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Backstab damage increased by 20% in PvP combat."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -8353,9 +8422,11 @@
       "Tags": [
         "PvP",
         "10.0.7",
-        "Classes"
+        "Classes",
+        "Warlock",
+        "Affliction"
       ],
-      "Text": "WARLOCK\n\nAffliction\n\nDarkglare from Summon Darkglare now has 80% more health.\nCorruption damage increased by 10% in PvP combat.\nAgony damage increased by 10% in PvP combat.\nSiphon Life damage increased by 20% in PvP combat.\nFocused Malignancy increases Malefic Rapture damage by 10%/20% in PvP combat (was 15%/30%).\n\nDevelopers’ note: These changes are targeted at improving Affliction Warlocks’ instant cast damage, while offsetting the potential burst from Malefic Rapture with the 10.0.7 talent changes.\n\nDestruction\n\nBane of Havoc now has an 18 second internal cooldown with Mayhem talented.\nIncinerate no longer deals increased damage in PvP combat (was increased by 13%).\nShadowburn damage is now increased by 25% in PvP combat (was 30%).\n\nDevelopers' note: We’re targeting a decrease to Havoc uptime and offsetting the PvE tuning changes with some reductions to Shadowburn and Incinerate. We want builds with instant casts to be viable, while preferring that the spec relies on Chaos Bolts for most kills."
+      "Text": "Darkglare from Summon Darkglare now has 80% more health."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -8364,9 +8435,102 @@
       "Tags": [
         "PvP",
         "10.0.7",
-        "Classes"
+        "Classes",
+        "Warlock",
+        "Affliction"
       ],
-      "Text": "WARRIOR\n\nArms\n\nFatality now stacks Fatal Mark up to a maximum of 8 times against enemy players (was 20)."
+      "Text": "Corruption damage increased by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Agony damage increased by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Siphon Life damage increased by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Focused Malignancy increases Malefic Rapture damage by 10%/20% in PvP combat (was 15%/30%).\n\nDevelopers’ note: These changes are targeted at improving Affliction Warlocks’ instant cast damage, while offsetting the potential burst from Malefic Rapture with the 10.0.7 talent changes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Bane of Havoc now has an 18 second internal cooldown with Mayhem talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Incinerate no longer deals increased damage in PvP combat (was increased by 13%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Shadowburn damage is now increased by 25% in PvP combat (was 30%).\n\nDevelopers' note: We’re targeting a decrease to Havoc uptime and offsetting the PvE tuning changes with some reductions to Shadowburn and Incinerate. We want builds with instant casts to be viable, while preferring that the spec relies on Chaos Bolts for most kills."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "10.0.7",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Fatality now stacks Fatal Mark up to a maximum of 8 times against enemy players (was 20)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
@@ -9436,9 +9600,10 @@
       "Tags": [
         "Classes",
         "10.0.5",
-        "Evoker"
+        "Evoker",
+        "Class"
       ],
-      "Text": "Class\n\nWhen Rescue gets interrupted by a knockback, Deep Breath will no longer cause the Evoker and their ally to teleport to Rescue's destination."
+      "Text": "When Rescue gets interrupted by a knockback, Deep Breath will no longer cause the Evoker and their ally to teleport to Rescue's destination."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -9602,9 +9767,59 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Classes",
-        "10.0.5"
+        "10.0.5",
+        "Mage",
+        "Class"
       ],
-      "Text": "MAGE\n\nClass\n\nFixed an issue with Mirror Image losing all images when hit with a direct damaging attack or spell while Reabsorption or Reduplication were not talented.\n\nArcane\n\nFixed an issue with Arcane Echo consuming Ice Floes.\nFixed an issue with Arcane Familiar engaging enemies when not intended (i.e. when applying Vantus Runes to bosses).\n\nFire\n\nAll ability damage increased by 5%.\n\nFrost\n\nAll ability damage increased by 5%."
+      "Text": "Fixed an issue with Mirror Image losing all images when hit with a direct damaging attack or spell while Reabsorption or Reduplication were not talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "10.0.5",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Fixed an issue with Arcane Echo consuming Ice Floes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "10.0.5",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Fixed an issue with Arcane Familiar engaging enemies when not intended (i.e. when applying Vantus Runes to bosses)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "10.0.5",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "All ability damage increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "10.0.5",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "All ability damage increased by 5%."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -11604,9 +11819,34 @@
       "Tags": [
         "Classes",
         "10.0.5",
-        "Warrior"
+        "Warrior",
+        "Protection"
       ],
-      "Text": "Protection\n\nBrace for Impact now increases block value by 3% (was 5% per stack).\nBrutal Vitality now causes 10% of the damage you deal to add to your Ignore Pain (was 15%).\nShield Specialization now increases block value by 12% per rank (was 15%).\n\nDevelopers’ note: Protection Warriors are currently dominating tank populations. While we do want all tanks to feel powerful, our data and overall perceptions of tanks put Protection Warriors ahead of the pack. We’re making some small talent adjustments that are overbudget to help address this."
+      "Text": "Brace for Impact now increases block value by 3% (was 5% per stack)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "10.0.5",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Brutal Vitality now causes 10% of the damage you deal to add to your Ignore Pain (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "10.0.5",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Shield Specialization now increases block value by 12% per rank (was 15%).\n\nDevelopers’ note: Protection Warriors are currently dominating tank populations. While we do want all tanks to feel powerful, our data and overall perceptions of tanks put Protection Warriors ahead of the pack. We’re making some small talent adjustments that are overbudget to help address this."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -11953,9 +12193,96 @@
       "Tags": [
         "PvP",
         "10.0.5",
-        "Classes"
+        "Classes",
+        "Death Knight"
       ],
-      "Text": "DEATH KNIGHT\n\nDeath Strike healing is no longer reduced in PvP combat (was reduced by 25%).\nImproved Death Strike’s effectiveness is still reduced by 50% in PvP combat.\nEnfeeble’s enemy damage reduction against the Death Knight is now reduced by 33% in PvP combat.\nRune of Spellwarding’s absorb shield is now 33% effective in PvP combat.\nRune of Spellwarding’s cast speed reduction is now 33% effective in PvP combat.\nUnholy\n\nNecrotic Wound from Necrotic Wounds now absorbs 4% of healing done (was 5%) and heals the Death Knight for up to 4% of their max health when its effect ends (was 5%).\nVirulent Plague no longer deals increased damage in PvP combat (was increased by 30%).\n\nDevelopers’ note: Death Knight survivability continues to be higher than we are comfortable with, especially against casters, so we are targeting passive parts of their defensive kit while adjusting Death Strike’s healing up as a more proactive survivability tool. Additionally, Unholy Death Knights are dealing too much overall damage, so we are adjusting Virulent Plague."
+      "Text": "Death Strike healing is no longer reduced in PvP combat (was reduced by 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Death Knight"
+      ],
+      "Text": "Improved Death Strike’s effectiveness is still reduced by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Death Knight"
+      ],
+      "Text": "Enfeeble’s enemy damage reduction against the Death Knight is now reduced by 33% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Death Knight"
+      ],
+      "Text": "Rune of Spellwarding’s absorb shield is now 33% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Death Knight"
+      ],
+      "Text": "Rune of Spellwarding’s cast speed reduction is now 33% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Necrotic Wound from Necrotic Wounds now absorbs 4% of healing done (was 5%) and heals the Death Knight for up to 4% of their max health when its effect ends (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Virulent Plague no longer deals increased damage in PvP combat (was increased by 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Death Knight"
+      ],
+      "Text": "Developers’ note: Death Knight survivability continues to be higher than we are comfortable with, especially against casters, so we are targeting passive parts of their defensive kit while adjusting Death Strike’s healing up as a more proactive survivability tool. Additionally, Unholy Death Knights are dealing too much overall damage, so we are adjusting Virulent Plague."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12001,9 +12328,114 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Druid"
+        "Druid",
+        "Balance"
       ],
-      "Text": "Balance\n\nOrbit Breaker now resets its count when entering an arena match.\nFull Moon damage reduced to 60% power (was 80% power) when triggered by Orbit Breaker in PvP combat.\nWrath deals 50% increased damage in PvP combat.\nStarfire deals 50% increased damage in PvP combat (was 20%).\nStarsurge deals 40% increased damage in PvP combat (was 20%).\nNew Moon, Half Moon, and Full Moon deal 20% increased damage in PvP combat.\nGathering Starstuff (Balance Druid 2 piece set bonus) grants 15% increased damage to Wrath or Starfire per stack (was 20%).\nTouch of the Cosmos (Balance Druid 4 piece set bonus) grants 20% increased damage to Starsurge (was 35%).\nUmbral Embrace increases Wrath or Starfire damage by 40% (was 50%) in PvP combat."
+      "Text": "Orbit Breaker now resets its count when entering an arena match."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Full Moon damage reduced to 60% power (was 80% power) when triggered by Orbit Breaker in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Wrath deals 50% increased damage in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Starfire deals 50% increased damage in PvP combat (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Starsurge deals 40% increased damage in PvP combat (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "New Moon, Half Moon, and Full Moon deal 20% increased damage in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Gathering Starstuff (Balance Druid 2 piece set bonus) grants 15% increased damage to Wrath or Starfire per stack (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Touch of the Cosmos (Balance Druid 4 piece set bonus) grants 20% increased damage to Starsurge (was 35%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Umbral Embrace increases Wrath or Starfire damage by 40% (was 50%) in PvP combat."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12052,9 +12484,23 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Druid"
+        "Druid",
+        "Restoration"
       ],
-      "Text": "Restoration\n\nFrenzied Regeneration healing reduced by 50% (was reduced by 38%) in PvP combat.\nBudding Leaves is now 50% effective in PvP combat (was 70%)."
+      "Text": "Frenzied Regeneration healing reduced by 50% (was reduced by 38%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Budding Leaves is now 50% effective in PvP combat (was 70%)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12076,9 +12522,49 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Evoker"
+        "Evoker",
+        "Devastation"
       ],
-      "Text": "Devastation\n\nDeep Breath deals 20% increased damage in PvP combat (was 40%).\nSpellweaver’s Dominance grants 20% increased critical strike damage in PvP combat (was 30%).\nDisintegrate deals 20% increased damage in PvP combat (was 15%).\nAzure Strike deals 20% increased damage in PvP combat.\n\nDevelopers’ note: Devastation Evokers’ burst potential is higher than we’d like, so we’re reducing it a bit to give players more time to react to damage."
+      "Text": "Deep Breath deals 20% increased damage in PvP combat (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Spellweaver’s Dominance grants 20% increased critical strike damage in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Disintegrate deals 20% increased damage in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Azure Strike deals 20% increased damage in PvP combat.\n\nDevelopers’ note: Devastation Evokers’ burst potential is higher than we’d like, so we’re reducing it a bit to give players more time to react to damage."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12139,9 +12625,10 @@
       "Tags": [
         "PvP",
         "10.0.5",
-        "Classes"
+        "Classes",
+        "Hunter"
       ],
-      "Text": "HUNTER\n\nRoar of Sacrifice (PvP Talent) now deals 10% of damage the target suffers to the pet (was 20%).\n\nDevelopers’ note: We have been concerned with Hunter pet survivability, particularly during Roar of Sacrifice. We are adjusting the damage transfer from Roar of Sacrifice to help."
+      "Text": "Roar of Sacrifice (PvP Talent) now deals 10% of damage the target suffers to the pet (was 20%).\n\nDevelopers’ note: We have been concerned with Hunter pet survivability, particularly during Roar of Sacrifice. We are adjusting the damage transfer from Roar of Sacrifice to help."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12150,9 +12637,11 @@
       "Tags": [
         "PvP",
         "10.0.5",
-        "Classes"
+        "Classes",
+        "Mage",
+        "Arcane"
       ],
-      "Text": "MAGE\n\nArcane\n\nArcane Bombardment is now 40% effective in PvP combat (was 65%).\n\nDevelopers’ note: Arcane Bombardment has remained a more effective execute than we would like after our previous reduction to its effect. We are lowering it again with the goal of increasing the opportunities for opponents to counterplay."
+      "Text": "Arcane Bombardment is now 40% effective in PvP combat (was 65%).\n\nDevelopers’ note: Arcane Bombardment has remained a more effective execute than we would like after our previous reduction to its effect. We are lowering it again with the goal of increasing the opportunities for opponents to counterplay."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12261,9 +12750,10 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Paladin",
+        "Holy"
       ],
-      "Text": "Holy\n\nReckoning (PvP talent) now increases the damage of your next Judgment by 25% (was 100%). The tooltip for Aura of Reckoning will be updated to reflect this in a future patch.\nHoly Light now heals for 75% more in PvP combat (was 40%).\nHoly Shock healing increased by 15% in PvP combat.\nFixed an issue that caused the Judgment from Reckoning to not always critically strike."
+      "Text": "Reckoning (PvP talent) now increases the damage of your next Judgment by 25% (was 100%). The tooltip for Aura of Reckoning will be updated to reflect this in a future patch."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12273,9 +12763,153 @@
         "PvP",
         "10.0.5",
         "Classes",
-        "Paladin"
+        "Paladin",
+        "Holy"
       ],
-      "Text": "Retribution\n\nFinal Reckoning damage reduced by 20% in PvP combat.\nRadiant Decree damage reduced by 33% in PvP combat.\nPaladin Retribution Class Set 2-piece now increases the damage of Judgment, Blade of Justice, and Wake of Ashes by 10% in PvP combat (was 15%).\nCrusader Strike now deals 80% increased damage in PvP combat (was 30%).\nHealing Hands now 70% effective in PvP combat (was 50%).\nTemplar’s Verdict damage increased by 10% in PvP combat.\nFinal Verdict damage increased by 10% in PvP combat.\nExorcism damage increased by 80% in PvP combat.\nLawbringer (PvP talent) now deals up to 8% of the enemy’s maximum health (was 10%)."
+      "Text": "Holy Light now heals for 75% more in PvP combat (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Holy Shock healing increased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue that caused the Judgment from Reckoning to not always critically strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Reckoning damage reduced by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Radiant Decree damage reduced by 33% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Paladin Retribution Class Set 2-piece now increases the damage of Judgment, Blade of Justice, and Wake of Ashes by 10% in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Crusader Strike now deals 80% increased damage in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Healing Hands now 70% effective in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Templar’s Verdict damage increased by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Verdict damage increased by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Exorcism damage increased by 80% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Lawbringer (PvP talent) now deals up to 8% of the enemy’s maximum health (was 10%)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12296,9 +12930,10 @@
       "Tags": [
         "PvP",
         "10.0.5",
-        "Classes"
+        "Classes",
+        "Shaman"
       ],
-      "Text": "SHAMAN\n\nEarth Unleashed from Unleash Shield now breaks on damage and lasts 2 seconds (was 4 seconds).\nHealing Stream Totem healing is increased by 30% in PvP combat (was 38%).\nElemental\n\nElemental Shaman’s Dragonflight Season 1 2-piece Tier Set bonus has 50% reduced effectiveness in PvP combat.\nPrimordial Surge’s Lava Burst damage increase is now 60% effective in PvP combat.\n\nRestoration\n\nWater Shield now returns 1% mana when struck by a melee attack in PvP combat (was 2%).\nStormkeeper’s damage increase is now 67% effective in PvP combat.\nRiptide healing is increased by 10% in PvP combat (was 15%).\n\nDevelopers’ note: In conjunction with the above game-wide adjustments to their healing spells, we are making further adjustments for healthier gameplay in PvP. Root mechanics typically break on damage, and Unleash Shield was an exception to this, so the root will now break when enough damage occurs. We’re not applying diminishing returns to it, but decreasing its duration as well. Additionally, we felt that Restoration Shaman mana regeneration from Water Shield and burst capability with using Stormkeeper was too high, so we are adjusting those down. Finally, Elemental shamans’ burst has been higher than we would like, with minimal time for opponents to react, especially as players have been obtaining tier set bonuses."
+      "Text": "Earth Unleashed from Unleash Shield now breaks on damage and lasts 2 seconds (was 4 seconds)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
@@ -12307,9 +12942,137 @@
       "Tags": [
         "PvP",
         "10.0.5",
-        "Classes"
+        "Classes",
+        "Shaman"
       ],
-      "Text": "WARRIOR\n\nThunderous Roar (Talent) bleed damage no longer deals reduced damage in PvP combat (was 50% reduced).\nUproar (Talent) no longer has a reduced cooldown effect in PvP combat (was 50% reduced).\nFury\n\nSlaughterhouse (PvP Talent) now lasts 16 seconds (was 12 seconds).\nStorm of Steel (Talent) no longer has a reduced damage reduction effect in PvP combat (was 50% reduced).\n\nDevelopers’ note: Fury Warriors have fallen behind other melee specializations, so we’re increasing the duration of Slaughterhouse to allow access to the max effectiveness of their healing reduction more often."
+      "Text": "Healing Stream Totem healing is increased by 30% in PvP combat (was 38%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Elemental Shaman’s Dragonflight Season 1 2-piece Tier Set bonus has 50% reduced effectiveness in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Primordial Surge’s Lava Burst damage increase is now 60% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Water Shield now returns 1% mana when struck by a melee attack in PvP combat (was 2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Stormkeeper’s damage increase is now 67% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Riptide healing is increased by 10% in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Developers’ note: In conjunction with the above game-wide adjustments to their healing spells, we are making further adjustments for healthier gameplay in PvP. Root mechanics typically break on damage, and Unleash Shield was an exception to this, so the root will now break when enough damage occurs. We’re not applying diminishing returns to it, but decreasing its duration as well. Additionally, we felt that Restoration Shaman mana regeneration from Water Shield and burst capability with using Stormkeeper was too high, so we are adjusting those down. Finally, Elemental shamans’ burst has been higher than we would like, with minimal time for opponents to react, especially as players have been obtaining tier set bonuses."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Thunderous Roar (Talent) bleed damage no longer deals reduced damage in PvP combat (was 50% reduced)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Uproar (Talent) no longer has a reduced cooldown effect in PvP combat (was 50% reduced)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Slaughterhouse (PvP Talent) now lasts 16 seconds (was 12 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",
+      "Date": "2023-01-24",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "10.0.5",
+        "Classes",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Storm of Steel (Talent) no longer has a reduced damage reduction effect in PvP combat (was 50% reduced).\n\nDevelopers’ note: Fury Warriors have fallen behind other melee specializations, so we’re increasing the duration of Slaughterhouse to allow access to the max effectiveness of their healing reduction more often."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23892227",

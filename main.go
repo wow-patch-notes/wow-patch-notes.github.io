@@ -280,6 +280,8 @@ func flattenChanges(ul *goquery.Selection, tags []string) []Change {
 
 	var lis []*goquery.Selection
 
+	ul.Find("span strong").Unwrap()
+
 	ul.Children().Each(func(i int, li *goquery.Selection) {
 		lis = append(lis, li)
 	})
