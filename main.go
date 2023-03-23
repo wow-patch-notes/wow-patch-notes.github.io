@@ -216,6 +216,9 @@ func scrapeHotfixes(dest []Change, doc *goquery.Document) []Change {
 
 	changeSets.Each(func(i int, patchNotes *goquery.Selection) {
 		dateEn := patchNotes.Text()
+		if dateEn == "" {
+			return
+		}
 		date, err := time.Parse("January 2, 2006", dateEn)
 		if err != nil {
 			log.Fatal(err)
