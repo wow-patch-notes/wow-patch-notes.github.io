@@ -45,7 +45,7 @@ func main() {
 	ctx, cancel := context.WithTimeout(context.Background(), 1*time.Minute)
 	defer cancel()
 
-	req, err := http.NewRequestWithContext(ctx, "GET", "https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes", nil)
+	req, err := http.NewRequestWithContext(ctx, "GET", "https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Patch%20Notes", nil)
 	if err != nil {
 		log.Fatal(err)
 	}
