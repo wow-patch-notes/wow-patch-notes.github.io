@@ -1,6 +1,1049 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Updated the Denizen of the Dream Faerie Dragons to reduce how often they unintentionally engage enemies. They will now enter stealth or invisibility if the caster does, and they now spawn closer to the caster."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Starfall damage increased by 13%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Starfall no longer deals damage once when it is first cast.\n\nDevelopers’ note: The above changes address a bug. Starfall deals damage once when initially applied. When it is refreshed, it updates the existing Starfall instead of creating a new instance. Thus, those subsequent Starfall casts do not get the damage of the initial hit. This change removes the initial hit and adds the damage it would deal across all Starfall’s other ticks. As a player, you will notice slightly more delay before Starfall deals damage, but its damage overall will be increased when cast multiple times."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue causing Divine Purpose to sometimes be incorrectly consumed by an Afterimage trigger.\nFixed an issue causing Fading Light to sometimes apply an absorb with no value."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Fixed a bug causing Symbol of Hope to reduce the cooldown of both Divine Protection and Shield of Vengeance for Retribution Paladins. It will now only reduce the cooldown of Divine Protection."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Addressed an issue causing Mind Blasts queued after a Mind Spike to not properly reduce the cast time of Mind Blast with Mind Melt talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage"
+      ],
+      "Text": "Fixed an issue that caused Frozen Orb's duration to be longer or shorter than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing Psyfiend to be usable during Dispersion."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Fixed an issue causing Soul Swap Exhale to bypass spell reflection and spell redirect mechanics. The initial cast of Soul Swap will continue to bypass these effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With realm restarts] All ability damage reduced by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Denizen of the Dream's trigger rate was unintentionally increased. It has been restored to its intended value."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that caused Forest's Flow to not properly extend heal over time effects on allies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Fixed an issue where empower spells could fail to auto-fire at Rank 1 when released prior to that point."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Fixed an issue preventing Oppressing Roar's cooldown from being reduced when dispelling Enrage effects with the Overawe talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "[With realm restarts] Kill Command damage reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "[With realm restarts] All ability and pet damage reduced by 4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "[With realm restarts] Mongoose Bite damage reduced by 10%. This does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue that caused Fading Light's value to be higher than intended for Retribution Paladins."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Developers’ note: We’re modifying the output of Grimoire of Sacrifice to bring it in line with the output of Warlock demons. At the end of the day Warlock is a pet-centric class and while we want there to be an option to opt-out of your pet, we don’t want it to always be the clear answer."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "[With realm restarts] Wrathful Minion now increases the damage of Grimoire of Sacrifice by 10% (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "[With realm restarts] Demonic Inspiration now increases the damage of Grimoire of Sacrifice by 10% (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "[With realm restarts] Grimoire of Sacrifice damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Developers’ note: With the removal of less impactful talents in both their class and specialization trees, Affliction received a lot of additional damage options that have increased their damage beyond what was intended. We’re making these adjustments to bring them in line with other damage dealers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "[With realm restarts] Damage done by spells and abilities reduced by 2%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "[With realm restarts] Darkglare damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Developers’ note: We’re targeting Demonology’s multi-target profile with these adjustments to bring them closer to other damage dealers. We will continue to watch both single-target and multi-target performance, along with the output of new talents and adjustments delivered in 10.0.7, and make further adjustments down the road if needed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "[With realm restarts] Demonic Strength now increases the damage of Felstorm by 300% (was 400%). This does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "[With realm restarts] Dreadbite damage reduced by 10%. This does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Temple of the Jade Serpent",
+        "Wise Mari"
+      ],
+      "Text": "Freezing Ice Stone (Primordial Stone) triggers no longer disrupt the direction of Wash Away casts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Zul'Gurub"
+      ],
+      "Text": "The Archaeology skill requirement for the Cache of Madness event has been reduced to 1 (was 225)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Zul'Gurub"
+      ],
+      "Text": "Brazier of Madness, Shattered Hakkari Bijou, and Fragmented Hakkari Bijou no longer have a level requirement."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Zul'Gurub"
+      ],
+      "Text": "Warblades of the Hakkari, Reborn are now bind on account (was bind on pickup) to allow anyone to acquire the appearances regardless of who their blacksmith is."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Zul'Gurub"
+      ],
+      "Text": "Fixed an issue that allowed the Brazier of Madness to be lootable prior to completing Relics of a Fallen Empire."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Zul'Aman"
+      ],
+      "Text": "Fixed an issue that allowed Bijous and Coins to drop in the instance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Fael'lin"
+      ],
+      "Text": "Hellfire Walls will now correctly display the cast bar."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Fael'lin"
+      ],
+      "Text": "Living Fuse will no longer target player's pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Primordial Stones were pulling enemies that you were not in combat with."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin"
+      ],
+      "Text": "[Live March 24] Crusader’s Reprieve healing reduced by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "[Live March 24] Judgment of Light healing reduced by 35% for Protection Paladins in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Developers’ note: Retribution Paladins have been heavily overperforming in PvP with their recent 10.0.7 changes. We’re primarily targeting their burst damage, passive survivability, and PvP talents that we feel are contributing too much overall damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Judgment of Light healing reduced by 35% for Retribution Paladins in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Inquisitor’s Ire effectiveness reduced by 40% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Fading Light effectiveness reduced by 50% for Retribution Paladins in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Justicar’s Vengeance now deals 15% additional damage to stunned targets in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Justicar’s Vengeance healing reduced by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Blessing of Dawn effectiveness reduced by 25% for Retribution Paladins in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Divine Arbiter direct damage reduced by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Vanguard of Justice effectiveness reduced by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Empyrean Legacy increases the damage of Divine Storm by 15% in PvP combat (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Luminescence (PvP Talent) now increases damage and healing by 2% (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Lawbringer (PvP Talent) now deals 2% of maximum health (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[Live March 24] Fixed an issue that caused Avenging Wrath’s 75% PvP multiplier to not function for Retribution Paladins."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Shaman"
+      ],
+      "Text": "Precognition will no longer be activated when players are successfully interrupted while affected by Tranquil Air Totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "\"Brew for the Ages\" should now correctly point to the Zskera Vault door to find the recipe pages, in case you have not unlocked that vault door yet."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-24",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue causing Retribution Aura to sometimes fail to trigger."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-24",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fixed an issue where Demonic Inspiration would still be applied after logging out and resummoning your demon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-24",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where non-primary pets would benefit from Demonic Inspiration."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-24",
+      "Weekday": "Friday",
+      "Tags": [
+        "Forbidden Reach"
+      ],
+      "Text": "Developers’ note: In an effort to be clear about its availability, an existing once-per-day bonus amount of Elemental Overflow per rare elite in the Forbidden Reach has been changed to be awarded from the creature's respective daily Bonus Objective quest. This should result in roughly the same amount of Elemental Overflow awarded per first-time kill, but now it should be better communicated how often this bonus amount is offered."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-24",
+      "Weekday": "Friday",
+      "Tags": [
+        "Forbidden Reach"
+      ],
+      "Text": "The Morqut Hearth Totem now has 5 charges before the item is fully consumed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-24",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where the quest “Primordial Answers” was unintentionally sharable.\n\nDevelopers’ note: The quest \"Primordial Answers\" was never meant to be sharable and is now marked as such. Unfortunately, if you picked up the quest via a share, Earthcaller Yevva will not be in your vault and the quest cannot be completed with her. You can gain the quest again and complete it in a future vault when she appears for you."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Characters"
+      ],
+      "Text": "Fixed an issue where player titles were not properly displaying above their character."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Fixed an issue that caused Blind Fury (Talent) to provide incorrect bonus values."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Healing and damage from Divine Image should now be properly attributed to the Priest who summoned it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Resolved an issue causing Swirling Currents to not properly benefit Cloudburst Totem. The aura tooltip will be incorrect until next patch."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Fixed an issue where Corruption was dealing an extra damage tick on application."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Spiteful Affix"
+      ],
+      "Text": "Fixed an issue where Spiteful Shades would leave behind a silhouette after dying."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Forbidden Reach"
+      ],
+      "Text": "Reduced Bonesifter Marwak's base health by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Forbidden Reach"
+      ],
+      "Text": "Fixed an issue where some of the Furbolg’s dialogue would display incorrectly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Cold Frost Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Deluging Water Stone effect increased by 22%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Desirous Blood Stone effect increased by 18.5%. Decreased trigger rate."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Echoing Thunder Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Excluding Steam Stone effect increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Flame Licked Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Freezing Ice Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Gleaming Iron Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Humming Arcane Stone - Fixed an issue that caused it to trigger more than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Indomitable Earth Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Pestilent Plague Stone effect increased by 72%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Raging Magma Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Searing Smokey Stone effect increased by 34%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Shining Obsidian Stone effect increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Storm Infused Stone effect increased by 34%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards",
+        "Primordial Stones"
+      ],
+      "Text": "Wild Spirit Stone effect increased by 50%.\n\nDevelopers’ note: The intent here is to bring other Primordial Stones up to the competitive level where the Humming Arcane Stone is currently performing. Although, a portion of this level of performance can be attributed to a bug, even when fixed the Humming Arcane Stone was still the top performer. With these changes we’re hoping to make other combinations more viable in comparison, but not necessarily overtake it over from being the best option. In addition, area of effect stones have gotten a considerable increase to their output."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue causing players to remain phased in the Lion's Pride Inn, after completing the Human Heritage questline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Zskera Vaults"
+      ],
+      "Text": "The chains to lower chests in Zskera Vaults will no longer appear erroneously after the chest has been lowered and looted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Zskera Vaults"
+      ],
+      "Text": "The Primordial Earth Cache locked by a Runic Puzzle should now work correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-23",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Zskera Vaults"
+      ],
+      "Text": "The creature that is slain to satisfy \"Secure the Vault\" on that week's quest should no longer respawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue that caused Aura of Reckoning to not function with the Crusading Strikes talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fixed an issue where Demonic Inspiration's pet bonus would be applied to the Warlock instead."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fixed an issue where Wrathful Minion's pet bonus would be applied to the Warlock instead."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Razorfen Kraul"
+      ],
+      "Text": "Fixed an issue that caused Overlord Ramtusk to sometimes inflict excessive damage to players when Timewalking."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Temple of the Jade Serpent"
+      ],
+      "Text": "Fixed an issue that caused Liu Flameheart to attack players after summoning Yu'lon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Rare enemies in the Forbidden Reach have had their hit points increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Veltrax now gives appropriate loot."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests",
+        "Valdrakken"
+      ],
+      "Text": "“Aiding the Accord: Zskera Vaults” will now auto-complete the objective to open a vault door if you've already opened all vault doors for the week."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Zskera Vaults"
+      ],
+      "Text": "Players should no longer be able to enter the Zskera Vault while in a raid. Zskera Vault keys will not function on doors if you are in a raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-22",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Zskera Vaults"
+      ],
+      "Text": "If you opened every door in the Zskera Vaults and failed to get the \"Every Door, Every Where, All At Once\" achievement, please re-enter the vaults before the reset, and it should award you the achievement."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an error causing Layered Mane and Reinvigoration to revert to previous values."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Fixed an issue that could cause Mad-Eye Carrey to retain his Captain's Duty buff, even after his crew was killed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Demonfire damage from Demonic Tyrant is now increased by 25% in PvP Combat (was 75%)."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23923813",
       "Date": "2023-03-16",
       "Weekday": "Thursday",
