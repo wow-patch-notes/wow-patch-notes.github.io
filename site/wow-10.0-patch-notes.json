@@ -2,6 +2,59 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Druid"
+      ],
+      "Text": "Fixed an issue causing Ursoc's Fury to generate an incorrect absorb value."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Fixed an issue that caused the additional Tiger Palm from Awakened Faeline to sometimes not cast while changing facing or moving out of melee range."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue causing some Paladins to fail to obtain their Charger."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Fixed an issue causing Idol of Y'Shaarj to not trigger its Enrage removal effect against creatures affected by Enrage from the Raging Affix in Mythic+ Dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Fixed an issue where Soul Flame damage did not match the amount described in the tooltip."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-03-28",
       "Weekday": "Tuesday",
       "Tags": [
