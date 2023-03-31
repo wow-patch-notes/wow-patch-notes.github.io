@@ -2,6 +2,37 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Fixed an issue where Soul-Eater's Gluttony would not reduce the cooldown of Soul Rot if damage was absorbed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Umbral Blaze's damage would not increase with a second rank."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where the Phoenix Wishwing pet would not properly appear in the pet journal."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-03-29",
       "Weekday": "Wednesday",
       "Tags": [
