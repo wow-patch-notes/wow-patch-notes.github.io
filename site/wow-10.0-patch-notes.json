@@ -2,6 +2,17 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-03-31",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue that caused the cooldowns of Judgment and Crusader Strike to not be reduced by Avenging Crusader."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-03-30",
       "Weekday": "Thursday",
       "Tags": [
