@@ -2,6 +2,78 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Fixed an issue causing Ancient Flame to incorrectly be consumed by instant-cast Living Flames, such as from the Burnout talent or Lifespark set bonus."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue with the timing of Eye of Tyr's floating combat text."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue causing Retribution Aura to trigger from incorrect amounts of incoming damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "[With weekly restarts] Judgments of the Pure (PvP Talent) now causes Judgment casts on an enemy to cleanse 1 Poison, Disease, and Magic effect they have caused on you (was allies within your aura).\n\nDevelopers' note: With Judgment's cast frequency increasing in patch 10.0.7, Judgments of the Pure has been overperforming as a PvP talent. In a hotfix being applied this upcoming Tuesday, the talent will only apply to the Paladin and no longer have its effect applicable to allies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests",
+        "Heritage"
+      ],
+      "Text": "During “The New Clessington Estate,” Cecilia Clessington will no longer accuse the player of smelling like rotten blubber when provoked."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests",
+        "Ohn'ahran Plains"
+      ],
+      "Text": "Fixed an issue causing some players to be unable to interact with the Waygate at the Shady Sanctuary."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests",
+        "Ohn'ahran Plains"
+      ],
+      "Text": "The “Waygate Travel” debuff received from using the waygates will now continue to expire while the player is offline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-03-31",
       "Weekday": "Friday",
       "Tags": [
