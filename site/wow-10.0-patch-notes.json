@@ -2,6 +2,167 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Fixed an issue where the Find The Mark buff effect could be consumed by Wind Arrows rather than Aimed Shot."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue with Blessing of Dawn's tracking."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Resolved an issue causing Holy Word: Salvation to not be castable during Divine Ascension nor have its ranged increased by Divine Ascension."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Temple of the Jade Serpent",
+        "Sha of Doubt"
+      ],
+      "Text": "Fixed an issue that caused Nothingness to not properly scale."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Raszageth's health reduced by 5% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Reduced the push effect of Hurricane Wing by 5% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 1"
+      ],
+      "Text": "Surging Ruiner health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 1"
+      ],
+      "Text": "Oathsworn Vanguard health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 1"
+      ],
+      "Text": "Stormseeker Acolyte health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 1"
+      ],
+      "Text": "Flamesworn Herald health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 1"
+      ],
+      "Text": "Frostforged Zealot health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 2"
+      ],
+      "Text": "Colossal Stormfiend health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 2"
+      ],
+      "Text": "Electrified Colossal Stormfiend health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-04",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth",
+        "Intermission 2"
+      ],
+      "Text": "Seeking Stormling health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-04-03",
       "Weekday": "Monday",
       "Tags": [
