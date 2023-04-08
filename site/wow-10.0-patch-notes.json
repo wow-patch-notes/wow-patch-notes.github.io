@@ -2,6 +2,37 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-07",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Druid"
+      ],
+      "Text": "Fixed a bug requiring players to shift out and back into Bear Form in order to cast Thrash after having entered certain instances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-07",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Monk"
+      ],
+      "Text": "Fixed an issue that allowed Touch of Death to be cast on targets at a higher health threshold than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-07",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Execution Sentence’s functionality has changed due to it not working in certain situations as expected. The payoff portion of Execution Sentence will no longer receive damage modifiers. To compensate for this, 30% (up from 20%) of the damage you deal during Execution Sentence is now accumulated and dealt as damage when Execution Sentence triggers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-04-06",
       "Weekday": "Thursday",
       "Tags": [
@@ -9,7 +40,7 @@
         "Warlock",
         "Affliction"
       ],
-      "Text": "Resolved an issue causing Corruption with Absolute Corruption to not be properly to reflect back to the Warlock when using Soul Swap Exhale into a spell reflection effect."
+      "Text": "Resolved an issue causing Corruption with Absolute Corruption to not be properly reflected back to the Warlock when using Soul Swap Exhale into a spell reflection effect."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
