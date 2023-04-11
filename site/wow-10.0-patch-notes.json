@@ -2,6 +2,563 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Developers’ notes: At high haste levels it was possible for Summon Gargoyle to lose casts of Gargoyle Strike. To help remedy that we are reducing the cast speed of Gargoyle Strike to 2.5 seconds (up from 2 seconds) while increasing the damage done to compensate for the slower cast time. We are also making some targeted tuning adjustments to Unholy to increase their damage outside of their 3-minute cooldowns."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Raise Dead damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Army of the Dead damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Scourge Strike damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Clawing Shadows damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Death Coil damage increased by 10%. This does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Soul Reaper damage increased by 15% Unholy specialization only."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Gargoyle Strike cast speed increased to 2.5 sec, up from 2.0 sec and Gargoyle Strike damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Starsurge damage increased by 10%. This does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Denizen of the Dream damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "[With weekly restarts] Health and healing received gain from Mastery: Nature’s Guardian increased to 70% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "[With weekly restarts] Barkskin cooldown reduced to 45 seconds (was 1 minute)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Developers’ notes: Preservation’s overall throughput is lower than we’d like since the Lifebind and Temporal Anomaly reductions. We’re compensating for this adjustment in other areas, particularly Living Flame where its healing component can sometimes feel lackluster."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "[With weekly restarts] All healing increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "[With weekly restarts] Living Flame's healing increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "[With weekly restarts] Resonating Sphere now applies Echo to the first 5 allies it passes through (was 4 allies)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "[With weekly restarts] All damage dealt reduced by you and your pet's abilities reduced by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Developer’s notes: This change was intended to have gone live in prior tuning changes, but a data error was made and we are now correcting that. The damage dealt by Mongoose Bite in PvP will be unchanged by this adjustment."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "[With weekly restarts] Mongoose Bite damage reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "[With weekly restarts] Hand of the Protector now increases Word of Glory's healing by up to 100% when cast on allies (was 250%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest"
+      ],
+      "Text": "[With weekly restarts] Holy Nova damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Developers’ notes: We are aiming to bring Discipline’s mana consumption in line with other healers, as we’ve observed the spec consistently running out of resources before other healers throughout Dragonflight. Separately, Power Word: Shield has been weaker than intended relative to other Atonement appliers, so we’re increasing its power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "[With weekly restarts] Power Word: Shield now costs 2.4% of base mana for Discipline (was 3.1%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "[With weekly restarts] Power Word: Shield now absorbs 25% more damage for Discipline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "[With weekly restarts] Renew now costs 2.4% of base mana for Discipline (was 2.7%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "[With weekly restarts] Fixed a bug causing Renew to not have its healing increased by 25% for Discipline as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "[With weekly restarts] Power Word: Radiance now costs 4.5% of base mana (was 5.5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Developers’ notes: Holy’s damage profile is behind other healers in dungeon and raid content, so we are targeting buffs to their overall damage kit."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Holy Fire damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Smite damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Developers’ notes: We are happy with the reception of Restoration in 10.0.7. The specialization’s healing power is above our target in all content, so we’re adjusting it in line with our expectations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] All healing done reduced by 5.5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Developers’ note: This is primarily targeted at improving Cyclone’s usability for Druids in PvP, particularly for Restoration Druid as Cyclone’s short range requires them to get close to their enemies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "[With weekly restarts] Cyclone’s mana cost has been decreased by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Developers’ notes: We are specifically targeting Blackout Kick’s AoE damage potential as we feel Mistweaver’s healing becomes overwhelming when it can cleave its damage. We also feel Mistweaver’s mana regeneration has been too powerful, so we are adjusting Spirit of the Crane heavily."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Rising Sun Kick no longer deals increased damage in PvP (was 12.5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Blackout Kick copies from Teachings of the Monastery no longer deal increased damage in PvP (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Spirit of the Crane now restores 0.18% mana in PvP Combat (was 0.45%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "[With weekly restarts] Fixed an issue that caused the copied Blackout Kicks from Teachings of the Monastery to deal 15% increased damage in PvP combat instead of the intended 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Developers’ notes: We are targeting buffs to Holy Paladin’s Word of Glory and Holy Shock healing to increase their instant-cast healing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Word of Glory healing increased by 15% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Holy Shock healing increased by 30% in PvP Combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Developers’ notes: Retribution Paladin has remained more powerful than we would like in PvP. With this pass we are targeting its burst damage, allied support, and personal survivability."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[With weekly restarts] Avenging Wrath now increases damage and healing by 10% in PvP Combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[With weekly restarts] Avenging Wrath: Might now increases critical strike by 10% in PvP Combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[With weekly restarts] Divine Protection now reduces damage taken by 10% in PvP Combat (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[With weekly restarts] Light's Celerity now increases the healing of Flash of Light by 20% in PvP Combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[With weekly restarts] Sanctified Plates now grants 50% less Stamina and Avoidance in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "[With weekly restarts] Blessing of Sacrifice now transfers 20% of damage taken in PvP Combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Developers’ notes: We’re toning down the value of Immutable Hatred as it’s providing a significant boost to single target damage in PvP while being difficult to avoid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-10",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "[With weekly restarts] Immutable Hatred now increases your primary Felguard's Legion Strike damage by 60% when it damages 1 target in PvP Combat (down from 120%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-04-07",
       "Weekday": "Friday",
       "Tags": [
