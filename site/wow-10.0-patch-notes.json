@@ -2,6 +2,46 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-11",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "System",
+        "Gamepad"
+      ],
+      "Text": "Fixed an issue where some targeted spells were not starting in the correct location while using a gamepad."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-11",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "System",
+        "Gamepad"
+      ],
+      "Text": "Fixed an issue where a centered cursor could block mouse input while using a gamepad."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-11",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "System",
+        "Gamepad"
+      ],
+      "Text": "Fixed an issue where some targeted spells were unintentionally cancelled while moving or jumping while using a gamepad."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-11",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "System",
+        "Gamepad"
+      ],
+      "Text": "Fixed an issue where the targeting reticle could disappear with a centered cursor while using a gamepad."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-04-10",
       "Weekday": "Monday",
       "Tags": [
