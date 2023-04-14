@@ -2,6 +2,46 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-13",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Developers’ note: We discovered some unintended functionality with multiple Warlock talents and are fixing those now before the next season starts. We expect the impact of these fixes on player power to be minor, and we’ll monitor and make adjustments if necessary."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-13",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fixed an issue where Summon Soulkeeper could be cast while moving."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-13",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Immutable Hatred would benefit Grimoire: Felguard."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-13",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Players who were stuck on \"A Difficult Legacy\" will now be able to progress if they abandon the quest. It will now reset conversation progress."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-04-12",
       "Weekday": "Wednesday",
       "Tags": [
