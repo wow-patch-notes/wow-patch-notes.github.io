@@ -2,6 +2,17 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-14",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Reign of Tyranny applications would not be removed if a demon despawns out of line of sight."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-04-13",
       "Weekday": "Thursday",
       "Tags": [
