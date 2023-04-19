@@ -2,6 +2,17 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
+      "Date": "2023-04-18",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Immutable Hatred would persist while untalented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23922961",
       "Date": "2023-04-14",
       "Weekday": "Friday",
       "Tags": [
