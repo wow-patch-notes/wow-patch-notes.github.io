@@ -27,6 +27,7 @@ main =
 
 type alias Model =
     { changes : Changes
+    , patch : String
     , pageSize : Int
     , tagSet : Set String
     , searchTerm : String
@@ -66,7 +67,8 @@ changeDecoder =
 
 
 type alias Args =
-    { searchTerm : String
+    { patch : String
+    , searchTerm : String
     , includeTags : List String
     , excludeTags : List String
     }
@@ -81,6 +83,7 @@ init args =
                 |> Dict.fromList
     in
     ( { changes = Loading
+      , patch = args.patch
       , pageSize = 5
       , tagSet = Set.empty
       , searchTerm = args.searchTerm
@@ -89,13 +92,18 @@ init args =
                 |> Dict.union (tags .excludeTags Exclude)
                 |> Dict.union (tags .includeTags Require)
       }
-    , Http.get
-        { url = "/wow-10.0-patch-notes.json"
+    , loadChanges args.patch
+    )
+
+
+loadChanges : String -> Cmd Msg
+loadChanges patch =
+    Http.get
+        { url = "/wow-" ++ patch ++ "-patch-notes.json"
         , expect =
             Http.expectJson GotChanges
                 (Decode.at [ "Changes" ] <| Decode.list changeDecoder)
         }
-    )
 
 
 view : Model -> Html Msg
@@ -106,25 +114,37 @@ view model =
                 [ p [] [ text "Loading …" ] ]
 
             Changes [] ->
-                [ p [] [ em [] [ text "No changes have been published for the current season." ] ] ]
+                [ div [] [ viewPatchSelect model ]
+                , p [] [ em [] [ text "No changes have been published for the selected season." ] ]
+                ]
 
             Changes changes ->
                 viewPage model changes
 
             Error (Http.BadUrl err) ->
-                [ p [] [ text "Cannot load patch notes: ", text err ] ]
+                [ div [] [ viewPatchSelect model ]
+                , p [] [ text "Cannot load patch notes: ", text err ]
+                ]
 
             Error Http.Timeout ->
-                [ p [] [ text "Cannot load patch notes: timeout" ] ]
+                [ div [] [ viewPatchSelect model ]
+                , p [] [ text "Cannot load patch notes: timeout" ]
+                ]
 
             Error Http.NetworkError ->
-                [ p [] [ text "Cannot load patch notes: network error" ] ]
+                [ div [] [ viewPatchSelect model ]
+                , p [] [ text "Cannot load patch notes: network error" ]
+                ]
 
             Error (Http.BadStatus status) ->
-                [ p [] [ text "Cannot load patch notes: HTTP status ", text <| String.fromInt status ] ]
+                [ div [] [ viewPatchSelect model ]
+                , p [] [ text "Cannot load patch notes: HTTP status ", text <| String.fromInt status ]
+                ]
 
             Error (Http.BadBody err) ->
-                [ p [] [ text "Cannot load patch notes: ", text err ] ]
+                [ div [] [ viewPatchSelect model ]
+                , p [] [ text "Cannot load patch notes: ", text err ]
+                ]
 
 
 viewPage : Model -> List Change -> List (Html Msg)
@@ -232,7 +252,8 @@ viewFilters model =
     in
     div [ class "filters" ]
         [ div []
-            [ input
+            [ viewPatchSelect model
+            , input
                 [ type_ "search"
                 , placeholder "Search"
                 , onInput SetSearchTerm
@@ -246,6 +267,21 @@ viewFilters model =
                 |> List.map tagPill
             )
         ]
+
+
+viewPatchSelect : Model -> Html Msg
+viewPatchSelect model =
+    let
+        opt ( val, txt ) =
+            option
+                [ value val, selected <| model.patch == val ]
+                [ text txt ]
+    in
+    select [ onInput SetPatch ] <|
+        List.map opt
+            [ ( "10.1", "Dragon Flight Season 2" )
+            , ( "10.0", "Dragon Flight Season 1" )
+            ]
 
 
 tagFilterState : Model -> String -> TagFilterState
@@ -340,6 +376,7 @@ viewTagSwitch model tag =
 type Msg
     = Nop
     | GotChanges (Result Http.Error (List Change))
+    | SetPatch String
     | SetSearchTerm String
     | SendFiltersChanged String
     | SetTagFilter String TagFilterState
@@ -354,7 +391,8 @@ update msg model =
             , Cmd.batch
                 [ cmd
                 , filtersChanged
-                    { searchTerm = newModel.searchTerm
+                    { patch = newModel.patch
+                    , searchTerm = newModel.searchTerm
                     , includeTags = Dict.filter (\_ v -> v == Require) newModel.tagFilters |> Dict.keys
                     , excludeTags = Dict.filter (\_ v -> v == Exclude) newModel.tagFilters |> Dict.keys
                     }
@@ -388,6 +426,15 @@ update msg model =
 
                 Err err ->
                     ( { model | changes = Error err }, Cmd.none )
+
+        SetPatch patch ->
+            ( { model
+                | patch = patch
+                , changes = Loading
+              }
+            , loadChanges patch
+            )
+                |> sendFiltersChanged
 
         SetSearchTerm term ->
             ( { model | searchTerm = term }

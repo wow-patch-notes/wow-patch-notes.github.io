@@ -9,6 +9,7 @@ import (
 	"log"
 	"net/http"
 	"net/url"
+	"os"
 	"path/filepath"
 	"regexp"
 	"strings"
@@ -37,6 +38,15 @@ func main() {
 		"Stop parsing after the article who's URL contains this string.")
 
 	flag.Parse()
+
+	if args := flag.Args(); len(args) > 0 {
+		changes := debug(args)
+
+		b, _ := json.MarshalIndent(changes, "", "  ")
+		fmt.Println(string(b))
+
+		return
+	}
 
 	if stopAfter == "" {
 		log.Fatal("-stop-after is required")
@@ -119,15 +129,9 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 		return dest
 	}
 
-	if strings.Contains(u, "/23923813/") {
-		dest = scrapeContentUpdate(dest, doc, "#item8", "10.0.7",
+	if strings.Contains(u, "/23935248/") {
+		dest = scrapeContentUpdate(dest, doc, "#item8", "10.1.0",
 			time.Date(2023, 3, 16, 0, 0, 0, 0, time.UTC))
-		return dest
-	}
-
-	if strings.Contains(u, "/23892227/") {
-		dest = scrapeContentUpdate(dest, doc, "#item3", "10.0.5",
-			time.Date(2023, 1, 24, 0, 0, 0, 0, time.UTC))
 		return dest
 	}
 
@@ -138,18 +142,20 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 
 func fixCasing(changes []Change) []Change {
 	tagSet := map[string]string{ // upper -> mixed
-		"ELEMENTAL STORMS":     "Elemental Storms",
-		"PLAYER VERSUS PLAYER": "PvP",
-		"RATED SOLO SHUFFLE":   "Solo Shuffle",
-		"CRAFTING ORDERS":      "Crafting Orders",
-		"TALENT WINDOW":        "Talent Window",
-		"WOW COMPANION APP":    "WoW Companion App",
-		"HOLIDAYS":             "Holidays",
-		"LUNAR NEW YEAR":       "Lunar New Year",
-		"TRIAL OF STYLE":       "Trial of Style",
-		"GROUP LOOT":           "Group Loot",
-		"MAGE TOWER":           "Mage Tower",
-		"CRAFTING UI PANEL":    "Crafting UI Panel",
+		"PLAYER VERSUS PLAYER":                "PvP",
+		"RATED SOLO SHUFFLE":                  "Solo Shuffle",
+		"OPTIONS":                             "Options",
+		"NEW RECIPES":                         "New Recipes",
+		"TAILORING":                           "Tailoring",
+		"COOKING":                             "Cooking",
+		"BLACKSMITHING":                       "Blacksmithing",
+		"FREEHOLD":                            "Freehold",
+		"VORTEX PINNACLE":                     "Vortex Pinnacle",
+		"ULDAMAN":                             "Uldaman",
+		"EDIT MODE":                           "Edit Mode",
+		"SNIFFENSEEKING":                      "Sniffenseeking",
+		"PUBLIC OBJECTIVES":                   "Public Objectives",
+		"RESEARCHERS UNDER FIRE PUBLIC EVENT": "Researchers Under Fire",
 	}
 
 	for _, c := range changes {
@@ -159,6 +165,35 @@ func fixCasing(changes []Change) []Change {
 				continue
 			}
 			tagSet[uc] = t
+		}
+	}
+
+	fnames, err := filepath.Glob("site/*.json")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	for _, fname := range fnames {
+		f, err := os.Open(fname)
+		if err != nil {
+			log.Fatal(err)
+		}
+
+		var old struct {
+			Changes []struct {
+				Tags []string
+			}
+		}
+
+		json.NewDecoder(f).Decode(&old)
+		for _, c := range old.Changes {
+			for _, t := range c.Tags {
+				uc := strings.ToUpper(t)
+				if uc == t {
+					continue
+				}
+				tagSet[uc] = t
+			}
 		}
 	}
 
@@ -332,10 +367,11 @@ func cleanTag(t string) []string {
 	).Replace(t)
 
 	if strings.HasSuffix(t, "Tuskar") {
-		t = strings.TrimSuffix(t, "Tuskar") + "Tuskarr"
+		t += "r"
 	}
 
 	t = strings.TrimPrefix(t, "The ")
+	t = strings.TrimPrefix(t, "THE ")
 
 	t = strings.TrimSuffix(t, " (Raidfinder)")
 	t = strings.TrimSuffix(t, " (Normal)")
@@ -347,4 +383,22 @@ func cleanTag(t string) []string {
 	}
 
 	return []string{t}
+}
+
+func debug(args []string) []Change {
+	fname := args[0]
+	firstHeader := args[1]
+	versionTag := args[2]
+
+	f, err := os.Open(fname)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer f.Close()
+	doc, err := goquery.NewDocumentFromReader(f)
+	if err != nil {
+		log.Fatal(err)
+	}
+	dest := make([]Change, 0, 5000)
+	return scrapeContentUpdate(dest, doc, firstHeader, versionTag, time.Now())
 }

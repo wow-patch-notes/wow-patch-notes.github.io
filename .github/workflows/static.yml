@@ -45,8 +45,8 @@ jobs:
         run: |
           ls -l
           pwd
-          go run . -stop-after /23885941/ > site/wow-10.0-patch-notes.json
-                             # /23885941/: January hotfixes
+          go run . -stop-after /23935248/ > site/wow-10.1-patch-notes.json
+                             # /23935248/: Embers of Neltharion Content Update Notes
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
