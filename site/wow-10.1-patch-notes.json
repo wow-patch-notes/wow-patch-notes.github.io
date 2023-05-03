@@ -1,6 +1,44 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Brewmaster"
+      ],
+      "Text": "Fixed an issue causing Blackout Kick and Spinning Crane Kick to deal more damage than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "Embellishments should not scale with class talents, abilities, or set bonuses that affect the caster's damage or healing.\n\nDevelopers' notes: This fix addresses a PTR behavior of Embellishments that was unintended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "Fixed an issue where the Elemental Potion of Ultimate Power crafting order recipe was requesting the wrong reagents.\n\nDevelopers' notes: All Elemental Potion of Ultimate Power crafting orders that have not been fulfilled by the time this hotfix goes live have been canceled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where players wouldn't get credit for completing Chapter 1 of Embers of Neltharion."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
       "Date": "2023-03-16",
       "Weekday": "Thursday",
@@ -175,6 +213,78 @@
         "Unholy"
       ],
       "Text": "Death Coil damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Demon’s Bite damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Demon Blades damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Felblade damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Chaos Strike/Annihilation damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Serrated Glaive (Talent) debuff duration increased to 15 seconds, and now retains up to 30% additional duration when refreshed (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Fixed an issue that prevented Chaos Theory’s (Talent) bonus to crit chance from affecting off-hand hits of Chaos Strike/Annihilation."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
@@ -582,6 +692,18 @@
         "Feral"
       ],
       "Text": "New Talent: Thrashing Claws – Shred damage is increased by 5% to bleeding targets and Shred and Swipe apply the Bleed damage over time from Thrash. This talent is a choice with Merciless Claws."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "All ability damage increased by 5%."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
@@ -1427,6 +1549,30 @@
         "Mage",
         "Fire"
       ],
+      "Text": "Developers’ note: The most recent buffs to Fire were slightly more than intended. We are going to reduce the damage of Ignite to keep a relatively similar gain in single target while reducing the effectiveness of the buffs in area-of-effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Ignite damage reduced by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Mage",
+        "Fire"
+      ],
       "Text": "Pyroblast damage increased by 8%."
     },
     {
@@ -1781,6 +1927,42 @@
       "Tags": [
         "Classes",
         "10.1.0",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Tiger Palm damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Rising Sun Kick damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Blackout Kick damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
         "Paladin"
       ],
       "Text": "Seal of the Crusader damage increased by 100%."
@@ -1874,7 +2056,67 @@
         "Paladin",
         "Holy"
       ],
+      "Text": "Light’s Hammer healing increased by 60%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Holy Prism healing increased by 150% and damage increased by 100%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Paladin",
+        "Holy"
+      ],
       "Text": "Light’s Hammer and Holy Prism now properly override each other on your Action Bar when swapping talents."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Aegis of Light (specialization passive) stamina bonus reduced to 30% (was 35%) and armor bonus reduced to 10% (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Righteous Protector’s cooldown reduction is now 2 seconds (was 3 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Sentinel’s health increase per stack is now 1% (was 2%)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
@@ -3052,6 +3294,149 @@
       "Tags": [
         "Classes",
         "10.1.0",
+        "Rogue"
+      ],
+      "Text": "Fixed an issue that prevented Nightstalker’s damage bonus from applying in its intended circumstances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "All ability damage increased by 5%. These changes do not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Mutilate damage increased by 5%. These changes do not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Envenom damage increased by 5%. These changes do not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Shiv damage increased by 20%. These changes do not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Kingsbane damage increased by 12%. These changes do not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Dispatch damage increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Between the Eyes damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Summarily Dispatched (Talent) now increases Dispatch damage by 6% per stack, to a maximum of 30% (was 5% per stack, max 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Developers’ note: While the buff will provide the correctly updated bonus, the tooltip for the base talent will be changed in a future update."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Shadowstrike damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Eviscerate damage increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
         "Shaman"
       ],
       "Text": "Developers' note: The Deeply Rooted Elements talent could sometimes feel like you received many Ascendance activations, or none. We have made adjustments to how this talent works to lower the very high and very low proc rates."
@@ -3359,6 +3744,42 @@
         "Warlock",
         "Demonology"
       ],
+      "Text": "Developers’ note: Demonology received some powerful single-target additions to their talent tree in 10.0.7. We’re making these adjustments after observing that their throughput is a bit higher than what was originally intended and that these talents have overshadowed other talent choices. We’ll continue to monitor Demonology, along with Affliction and Destruction, and appreciate the community’s continued feedback."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Reign of Tyranny now increases the damage of Demonic Tyrant by 40% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Immutable Hatred now increases the damage of Legion Strike by 100% (was 120%). Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Warlock",
+        "Demonology"
+      ],
       "Text": "From the Shadows has been renamed to The Houndmaster’s Stratagem."
     },
     {
@@ -3475,6 +3896,30 @@
         "Warrior",
         "Arms"
       ],
+      "Text": "All ability damage increased by 4%. These changes do not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Auto-attack damage increased by 12%. These changes do not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Warrior",
+        "Arms"
+      ],
       "Text": "Fatal Mark now lasts 3 minutes (was 2 minutes)."
     },
     {
@@ -3500,6 +3945,30 @@
         "Arms"
       ],
       "Text": "Storm Wall now heals for 8% of maximum health (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "All ability damage increased by 4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
+      "Date": "2023-03-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "10.1.0",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Auto-attack damage increased by 4%."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23935248",
