@@ -2,6 +2,137 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Fixed an issue where Infirmity would increase all damage done, rather than just class spells and abilities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dragonriding"
+      ],
+      "Text": "Fixed an issue where some characters were not able to Dragonride after the 10.1 update."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Ruby Life Pools",
+        "Melidrussa Chillworn"
+      ],
+      "Text": "Ice Bulwark now absorbs 25% less damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Kurog Grimtotem"
+      ],
+      "Text": "Enveloping Earth now absorbs 25% less healing on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Broodkeeper Diurna"
+      ],
+      "Text": "Icy Shroud now absorbs 25% less healing on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Stormsurge now absorbs 25% less damage on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Shattering Shroud now absorbs 25% less healing on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Professions",
+        "Engineering"
+      ],
+      "Text": "Fixed a bug that prevented players from teleporting to the Zaralek Cavern with their Wyrmhole Generator."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Professions",
+        "Engineering"
+      ],
+      "Text": "Fixed a bug that restricted the Forbidden Reach teleport option on the Wyrmhole Generator until after the Zaralek Cavern teleport was unlocked."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Added option for players to turn in this quest to Elder Honeypelt during “In the Wake of Ashes.”"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The quests \"A Worthy Ally\" and \"Tougher Down Under\" should now unlock for any level 70 character on an account that has completed the first chapter of Zaralek Cavern on any character."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where completing the World Quest \"Ending Their Watch\" Could prevent you from completing \"A Room Without a View.\""
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "System"
+      ],
+      "Text": "Fixed an issue where players were unable to access the support site from the in-game menu."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-02",
       "Weekday": "Tuesday",
       "Tags": [
