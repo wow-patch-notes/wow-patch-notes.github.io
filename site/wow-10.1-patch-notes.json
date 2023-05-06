@@ -2,6 +2,134 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "The achievement Proof of Myrrit no longer requires the quest \"Brand New Digs.\""
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes"
+      ],
+      "Text": "Developers' notes: Earlier this week, we changed Embellishments so that they did not scale with class talents, abilities, and set bonuses. We've decided to revert that change, and we're now making updates to class abilities that unintentionally boosted the damage of non-class effects such as Embellishments and trinkets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Fiery Demise now affects only Demon Hunter class damage, and does not affect trinket or item damage, or Fire damage dealt by other casters."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Friend of the Fae and Waning Twilight now affect only Druid class damage, and do not affect trinket or item damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Fixed a bug that prevented Lethality's critical damage bonus from affecting Subtlety's Shadowstrike attacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Fixed a bug that prevented Lethality's critical damage bonus from affecting Outlaw’s Sinister Strike attacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Demonic Tyrant's Demonfire was benefiting from The Houndmaster's Stratagem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dragonriding and Mounts"
+      ],
+      "Text": "Fixed an issue where some mount riding animations were playing incorrectly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "The item awarding the pet Diamondshell no longer gives an error saying the spell is not available, and now correctly awards the pet."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "The toy \"Earpieces of Tranquil Focus\" now costs 1 copper (was 50 gold).\n\nDevelopers’ notes: This toy eliminates many musical and vocal projections of characters around the player. This toy can be purchased from Craggle Wobbletop in Stormwind, Blax Bottlerocket in Orgimmar, Jepetto Joybuzz or his clockwork assistant in Dalaran (either), and Kazbala in Talador."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "PvP",
+        "Warlock"
+      ],
+      "Text": "Soul Rip (PvP Talent) healing reduction no longer stacks with other similar effects in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Trading Post"
+      ],
+      "Text": "Adjusted the sheathing position for Tiercel's Wing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue that prevents players from picking up “A Room Without a View.” Rupert will now offer to take you to the vault even if you don't have the quest."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-03",
       "Weekday": "Wednesday",
       "Tags": [
