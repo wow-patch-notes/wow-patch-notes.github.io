@@ -2,6 +2,654 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter"
+      ],
+      "Text": "Fixed an issue that caused targets with Misery in Defeat's debuff to be treated as if they were crowd-controlled and thus avoided by some skills (i.e. Avenger's Shield)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Melee auto attack damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Demon's Bite damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Demon Blades damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Felblade damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Isolated Prey now increases Eye Beam damage by 30% when striking 1 target (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Developer's notes: The rules and behavior for how Fiery Brand refreshed and spread with the Burning Alive talent had some historic inconsistencies and minor bugs that became more egregious when the talented second charge and the 10.1 Set Bonus were introduced. Alongside the fix described above, we wanted to clarify the behavior players should expect moving forward:\n\nApplying Fiery Brand to a target already afflicted by your Fiery Brand will refresh its duration, to a maximum of 10 seconds.\nWith the Burning Alive talent selected, only Fiery Brands applied directly (by casting the spell or from the Set bonus) are capable of spreading.\nEvery 2 seconds while a spread-capable Fiery Brands persists, it will try to spread to a nearby target that does not already have a Fiery Brand applied. There is no longer a hidden rule preventing a target from being spread to multiple times in a short period.\nWhen a Fiery Brand successfully spreads to a new target, the duration of the spread will always be 10 seconds, regardless of the original or remaining duration of the source it spread from."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Fixed an issue causing Fiery Brand to continue to spread after its expiration."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Fixed an issue that prevented Immolation Aura from benefitting some bonuses, including (but not limited to) Fiery Demise."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Fixed an issue that prevented Fiery Brand from benefitting from Holy Priest's Symbol of Hope cooldown reduction."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "[With weekly restarts] Shear damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "[With weekly restarts] Fracture damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "[With weekly restarts] Soul Carver damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "[With weekly restarts] Focused Cleave now increases Soul Cleave's damage to your primary target by 40% (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "[With weekly restarts] Soulcrush now applies Frailty to your primary target for 8 seconds (was 5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Developers' Note: In some single target scenarios it's still looking optimal to cast Wrath in Lunar Eclipse. That doesn't meet our goal for how Balance should play, so we're reducing Wrath's effectiveness outside Solar Eclipse and increasing its effectiveness inside Solar Eclipse to correct this. We're also boosting Balance's single target damage a small amount."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Wrath Astral Power generation reduced to 8 (down from 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Wrath damage decreased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Solar Eclipse now increases Wrath damage by 40% (up from 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Soul of the Forest now increases Wrath's Astral Power generation while in Solar Eclipse by 60% (up from 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Damage dealt by Faerie Dragons summoned by Denizen of the Dream increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Friend of the Fae now increases your Arcane and Nature spell damage by 10% (up from 8%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Primordial Arcanic Pulsar no longer triggers Nature's Grace if the player does not have any Eclipse."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "[With weekly restarts] Rampant Ferocity now deals 30% of damage dealt by Ferocious Bite to nearby enemies (down from 35%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "[With weekly restarts] Tear Open Wounds now deals 50% of Rip damage it consumes (down from 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an issue causing some Guardian talents and abilities to incorrectly buff non-class spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] All healing abilities increased by 2%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Fire Breath will now correctly refund its mana cost if it is canceled while empowering."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Essence Font healing increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] All healing abilities decreased by 3%. Does not apply to PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Avenging Crusader now transfers 500% of damage done into healing (was 575%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Fixed an issue that caused some skills to be unaffected by Assassination's Mastery: Potent Assassin, including Kingsbane's initial damage, Sepsis, and Mutilate's damage from Vicious Venoms."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Fixed a bug that prevented Lethality's critical damage bonus from affecting Subtlety's Shadowstrike attacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Fixed a bug that prevented Lethality's critical damage bonus from affecting Outlaw’s Sinister Strike attacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Developers’ notes: Class talents that previously modified all damage from spell schools are, in most cases, being updated and standardized with other similar effects to no longer affect external damage sources outside of those that belong to that class. The changes to the below talents impact Subtlety’s damage enough to warrant compensation, which is the reason for the buff to all ability damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] All ability damage increased by 4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] Veiltouched, Deeper Daggers, and Dark Brew no longer affect damage from sources outside of Class and Spec abilities available to Subtlety."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "[With weekly restarts] Fixed an issue where Battering Ram was providing a passive 20% critical strike damage bonus to all damage rather than to Shield Charge."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With weekly restarts] Algeth'ar Puzzle Box shared cooldown increased to 30 seconds, effect decreased by 30% for Unholy specialization."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where World Boss items were previewing the incorrect item levels in the Dungeon Journal."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Big Slick in the City's Conch Whistle is no longer usable in combat, or inside instances and raids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "In Zaralek Cavern, all players with at least one stack of Insidious Insight will now receive a message indicating when another player has claimed the Seething Cache."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Developers’ notes: Restoration Druid has fallen behind other healers in PvP since the release of 10.0.7. We’d like to ease some previous PvP adjustments that we no longer feel are necessary."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Budding Leaves' effectiveness now reduced by 30% in PvP Combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Developers’ notes: Mistweavers have received significant Quality of Life changes throughout the last few patches that have increased their effectiveness in PvP to a point where we see them as oppressive to the viability of other specializations. We’re reducing many of the PvP multipliers associated with Ancient Teachings and their damage throughput, and we’re increasing the effectiveness of Renewing Mist to encourage Healing over Time management and reducing Vivify’s healing to keep their casting throughput relatively similar."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Ancient Teachings' effectiveness is now increased by 120% in PvP Combat (was 150%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Blackout Kick no longer deals 25% increased damage for Mistweaver Monks in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Blackout Kicks from Teachings of the Monastery now deal 15% reduced damage for Mistweaver Monks in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Tiger Palm now deals 15% increased damage for Mistweaver Monks in PvP Combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Rising Sun Kick's damage reduced by 20% for Mistweaver Monks in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Vivify's primary healing now reduced by 10% for Mistweaver Monks in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Renewing Mist's healing increased by 40% in PvP Combat (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "Fixed an issue where some recipes without “Use Best Quality Reagents” option would sometimes incorrectly use Q3 reagents despite Q1 being selected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Professions",
+        "Alchemy"
+      ],
+      "Text": "Fixed a bug that prevented Iced Phial of Corrupting Rage from inheriting its new intended value of 400% (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Professions",
+        "Herbalism"
+      ],
+      "Text": "Fixed a bug that caused the Zaralek Glowbur aura to frequently break stealth and engage enemies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Professions",
+        "Herbalism"
+      ],
+      "Text": "Fixed a bug that prevented the themed aura extension effect from applying when gathering basic, non-themed gathering nodes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Professions",
+        "Mining"
+      ],
+      "Text": "Fixed a bug that prevented the themed aura extension effect from applying when gathering basic, non-themed gathering nodes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where the minimap would sometimes not populate for players after accepting “Murloc Mania.”"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The “Here We Go Again” campaign header will now inform players if they reach the end of the currently available campaign content and need to wait for more to be unlocked."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests",
+        "Zaralek Cavern"
+      ],
+      "Text": "“Aiding the Accord: Sniffenseeking” will now auto-complete the dig objective if you've already done a dig with Myrrit this week. Players currently affected will need to abandon and re-accept the quest in Valdrakken."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Trading Post"
+      ],
+      "Text": "Fixed a bug where the purchase button could become available for frozen items after the monthly rollover."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-05",
       "Weekday": "Friday",
       "Tags": [
@@ -39,28 +687,6 @@
         "Balance"
       ],
       "Text": "Friend of the Fae and Waning Twilight now affect only Druid class damage, and do not affect trinket or item damage."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
-      "Date": "2023-05-05",
-      "Weekday": "Friday",
-      "Tags": [
-        "Classes",
-        "Rogue",
-        "Assassination"
-      ],
-      "Text": "Fixed a bug that prevented Lethality's critical damage bonus from affecting Subtlety's Shadowstrike attacks."
-    },
-    {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
-      "Date": "2023-05-05",
-      "Weekday": "Friday",
-      "Tags": [
-        "Classes",
-        "Rogue",
-        "Outlaw"
-      ],
-      "Text": "Fixed a bug that prevented Lethality's critical damage bonus from affecting Outlaw’s Sinister Strike attacks."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
