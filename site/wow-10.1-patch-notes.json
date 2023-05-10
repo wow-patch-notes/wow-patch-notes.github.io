@@ -2,6 +2,203 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Characters"
+      ],
+      "Text": "Dracthyr wearing the Scarlet Crusade tabard can now speak to the Scarlet Quartermaster in the Darkmoon Faire."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest"
+      ],
+      "Text": "Fixed an issue causing Halo and Divine Star to appear in the incorrect Spellbook."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Fixed an issue causing Halo and Divine Star to not convert to Shadow spells when casting Shadow Covenant."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Resolved an issue causing Void Lashers spawned by Idol of C'Thun to stop attacking after their initial target dies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Fixed an issue causing Spirit Walk to cancel Ghost Wolf form for Elemental Shaman."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible"
+      ],
+      "Text": "Fixed an issue that allowed players to reset The Forgotten Experiments encounter unintentionally."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Fixed an issue that caused Chief Softpaw not to spawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "Gulping Goliath"
+      ],
+      "Text": "Fixed an issue that caused the visual for Cave In to not properly display."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Seat of the Triumvirate"
+      ],
+      "Text": "Fixed an issue blocking progress in the dungeon if Viceroy Nezhar is instantly slain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Affixes"
+      ],
+      "Text": "Raging no longer applies to lieutenant level creatures.\n\nDeveloper's notes: Enemies that are +1 level above others are no longer affected by the Raging affix. Since they're typically already immune to Crowd Control, the Raging effect would be redundant in these cases and reduce clarity of which enemy to dispel."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Freehold",
+        "Harlan Sweete"
+      ],
+      "Text": "Harlan Sweete’s Swiftwind Saber no longer hits pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "The Highland Drake: Embodiment of the Hellforged dragonriding manuscript now has a very low chance to drop from Sarkareth on LFR, Normal, and Heroic raid difficulties. Mythic raiders will always receive two manuscripts per Sarkareth kill until the end of the expansion."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Suffusion Camp"
+      ],
+      "Text": "Fixed an issue where Fyrakk was more vulnerable than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Suffusion Camp"
+      ],
+      "Text": "Reduced how often Fyrakk threatens to burn players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Hired Kithguard in Loamm have been training with Brullo the Strong and are now a more serious deterrent to PvP inside of town."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Wild Attunement now highlights Rip, Ferocious Bite, and Maim when active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Fixed an issue that caused Wild Attunement to sometimes not cast Feral Frenzy if used at max melee range."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue that prevented players from being able to complete the legacy quest \"Call of the Raven Mother.\""
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-09",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests",
+        "Zaralek Cavern"
+      ],
+      "Text": "Players will now keep the Protection of the Ebon Flight buff during \"Know Thy Enemy\" even if \"Legends of the Zaqali\" is completed beforehand."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-08",
       "Weekday": "Monday",
       "Tags": [
