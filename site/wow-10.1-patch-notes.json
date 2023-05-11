@@ -2,6 +2,154 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "The Family Battler of Zaralek Cavern achievement now properly awards the pet Gerald. Additionally, Gerald has been flagged as \"unique\" and \"not cageable,\" as is normal for achievement-awarded pets. For players who already have the achievement and did not get the pet, we are working on a separate fix to make sure they get their pet reward."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue where defeating Kazzara, the Hellforged wouldn't complete the criteria for the Heroic: Aberrus, the Shadowed Crucible achievement."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Imminent Destruction is no longer dispellable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue that caused Resplendent Light to not transfers its healing to Beacon of Light targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "The swing timer for Crusading Strikes should no longer be reset by other abilities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Fixed an issue where Bloodthirst would not appropriately deal damage when chained via Whirlwind if at least 1 target was immune."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Mythic+",
+        "Freehold"
+      ],
+      "Text": "Fixed an issue where multiple spells could target pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Mythic+",
+        "Freehold",
+        "Harlan Sweete"
+      ],
+      "Text": "Fixed an issue that caused the bleed effect of Harlan Sweete's Whirling Dagger to not properly bounce between targets while under the effects of Loaded Dice: All Hands!"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Suffusion Camp"
+      ],
+      "Text": "Everburning Keys will now drop from Suffusion Mold bosses until the player has 3 or has looted the Secured Shipment for the week."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Removed pop-up notification that appeared when party/raid members earn Shadowflame Crest Fragments. Players will still see the notification for their own Fragments."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Beacon to the Beyond, Enduring Dreadplate, Djaruun, and Ward of Faceless Ire would not reset their cooldowns upon ending an encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Void-Touched Curios from Sarkareth are no longer unique."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Monk"
+      ],
+      "Text": "Resolved an issue that could cause Stormspirit Strikes (PvP Talent) to deal more damage than intended to targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where looting a Secured Shipment could prevent “Aiding the Accord: Suffusion Camp” from being completed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-10",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "The Defias Traitor is no longer killable by players of the opposite faction to prevent griefing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-09",
       "Weekday": "Tuesday",
       "Tags": [
