@@ -2,6 +2,435 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue causing Light's Hammer to damage too frequently with the 4-Set equipped."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Holy Prism and Light's Hammer now grant a shield when cast with Fading Light's Blessing of Dusk."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue that prevented Hammer of Wrath from correctly striking additional enemies when Heartfire Sentinel's Authority 4-Set is equipped."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Fixed an issue where Inspired Word would be granted without having the Holy 4-Set bonus."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Rogue"
+      ],
+      "Text": "Fixed an issue that prevented Nightstalker's damage bonus from applying in its intended circumstances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Amalgamation Chamber"
+      ],
+      "Text": "After a soft reset, the door from Amalgamation Chamber to Experiments of Dracthyr will now properly open if you have defeated the Amalgamation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Amalgamation Chamber"
+      ],
+      "Text": "Adjusted the damage of Umbral Detonation and Blistering Twilight to scale appropriately with group size on Normal and Heroic Difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "Adjusted the damage of Echoing Howl to scale appropriately with group size.\n\nDevelopers’ notes: We discovered an issue that was causing the total damage Echoing Howl was doing to all players was scaling too high in larger raid sizes and too low in smaller raid sizes. This change works to even out the damage and make the difficulty more consistent across all raid sizes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+"
+      ],
+      "Text": "Developers’ notes: We have been closely monitoring live data and player feedback since the launch of Dragonflight season 2. Based on this, we've made a number of targeted adjustments to outlier bosses as well as reduced some of the timers that we feel better reflect the difficulty of certain dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+"
+      ],
+      "Text": "The time to complete The Underrot has been reduced to 30 minutes (was 32 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+"
+      ],
+      "Text": "The time to complete Freehold has been reduced to 30 minutes (was 31 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+"
+      ],
+      "Text": "The time to complete Uldaman: Legacy of Tyr has been reduced to 35 minutes (was 38 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Decatriarch Wratheye"
+      ],
+      "Text": "Decaying Strength will be cast more consistently."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Decatriarch Wratheye"
+      ],
+      "Text": "Decaying Strength now only increases Physical damage done."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Decatriarch Wratheye"
+      ],
+      "Text": "Decaystrike can be cast while moving."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Decatriarch Wratheye"
+      ],
+      "Text": "Decaystrike absorbs 30% less healing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Decatriarch Wratheye"
+      ],
+      "Text": "Rotburst Totem health reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Decatriarch Wratheye"
+      ],
+      "Text": "Withering Rot damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Decatriarch Wratheye"
+      ],
+      "Text": "Withering Rot reduces damage done by 2% per stack (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Treemouth"
+      ],
+      "Text": "Consume absorbs 25% less damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Freehold"
+      ],
+      "Text": "Alliance characters trying to access Kul Tiras to enter Freehold should no longer be teleported back to Stormwind."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Fixed an issue that allowed Containment Apparatus' Containment Beam to target pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Naraxas"
+      ],
+      "Text": "Toxic Retch damage reduced by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Naraxas"
+      ],
+      "Text": "Hurling Rocks damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Dargrul the Underking"
+      ],
+      "Text": "Increased the cast time of Magma Wave to 2.5 seconds (was .25 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Dargrul the Underking"
+      ],
+      "Text": "Lava Geysers now persist for 60 seconds (Was infinite)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Dargrul the Underking"
+      ],
+      "Text": "Flame Gout occurs every 3 seconds (was 2.5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle"
+      ],
+      "Text": "Slipstreams that spawn after defeating Ertan and Altairus now grant players 100% movement speed until enter entering combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Altairus"
+      ],
+      "Text": "Biting Cold damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Fixed an issue where Primal Nightflames could stop players from eating at Suffusion Camps just by looking at them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where stacks from Neltharion's Call to Dominance would reset at the start and end of Mythic+ encounters."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Voice of the Silent Star stacks would be canceled immediately upon entering or leaving combat through Mythic+ dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Battlegrounds",
+        "Ashran"
+      ],
+      "Text": "Resolved an issue with capturing the Risen Spirits during events in Ashran."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Battlegrounds",
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Aimed Shot should no longer rarely deal half damage in PvP situations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Battlegrounds",
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Eye of the Observer from Call Observer can now only trigger a Laserbeam once per second per enemy."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "Crafting orders for Undulating Sporecloak should now be viewable and completable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "During the cave dive “Successful Interventions” Mr. Sunflower will be far more welcoming."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Cast Off Shells in the world quest “Shell Corporation” should now only be lootable by the player who feeds a Redolent Whelk a Succulent Looking Deepcap."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Scenarios",
+        "Horrific Visions"
+      ],
+      "Text": "Fixed an issue where Sanity was being drained too quickly in Horrific Visions."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-10",
       "Weekday": "Wednesday",
       "Tags": [
