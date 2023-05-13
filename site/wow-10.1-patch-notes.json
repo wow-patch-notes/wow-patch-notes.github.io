@@ -2,6 +2,324 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue where Every Door Everywhere All At Once was not always properly being rewarded. If you re-enter the vault with all doors open in that vault, you should now receive credit."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter"
+      ],
+      "Text": "Developer's notes: We've been monitoring feedback about the default behavior of Fiery Brand as well as Fiery Brands cast via the new Set bonus. As a result, we've added a highlight to Fracture/Shear when the Set proc is available to cast, and will be retaining the behavior that Set casts include the remaining duration when applied to a target with an existing Fiery Brand."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Adds a highlight to Shear/Fracture when Recrimination is available."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Recrimination is no longer able to stack."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an issue causing Rage of the Sleeper to fail to increase Thrash periodic damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Rejuvenation now costs 11% base mana (was 12%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "The mana requirement to increase the spell damage bonus on the 4-Set Bonus now properly scales within Timewalking dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Time Anomaly Arcane Surges no longer overwrite active Arcane Overloads."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue that caused the Heartfire Sentinel's Authority 4-Set to consume 2 charges of Hammer of Wrath while talented into Vanguard's Momentum."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Hammer of Wrath's additional targets provided by Heartfire Sentinel's Authority 4-Set now ignores targets that are not in combat with the Paladin or are under the effects of crowd control that breaks on damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Priest"
+      ],
+      "Text": "Fixed an issue causing Rhapsody to not stack until Holy Nova is cast after starting a Mythic+ dungeon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Rogue"
+      ],
+      "Text": "Fixed an issue that caused Sepsis' buff that enables use of a Stealth skill to be cancelled by Deathmark when copying Garrote."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Rogue"
+      ],
+      "Text": "Fixed an issue that caused Sepsis' buff that enables use of a Stealth skill to be cancelled by Ambush when a Blindside proc was available."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Freehold"
+      ],
+      "Text": "Fixed an issue where Sharkpuncher's Ripper Punch could target pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Naraxas"
+      ],
+      "Text": "Fixed an issue that allowed Hurling Rocks to pierce player immunity effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Naraxas"
+      ],
+      "Text": "Hurling Rocks will no longer increase in frequency as the encounter progresses."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "Curse of the Dragon Hoard damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "Curse of the Dragon Hoard no longer stacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "Magical Implements can now be used while moving."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "Seismic Boots are no longer found in gold piles."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "The Dragon's Eruption missile travel time increased to 3.5 seconds (was 3 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Grand Vizier Ertan"
+      ],
+      "Text": "Fixed an issue that allowed Storm's Edge to be interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Grand Vizier Ertan"
+      ],
+      "Text": "Storm's Edge damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Asaad, Caliph of Zephyrs"
+      ],
+      "Text": "The health of Skyfall Nova has been reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Asaad, Caliph of Zephyrs"
+      ],
+      "Text": "The damage of Chain Lightning has been reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Pillar of the Elder Flame's cooldown would not reset upon ending an encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage"
+      ],
+      "Text": "Fixed an issue that caused Time Manipulation to not reduce the cooldown of Snowdrift."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "Recipes purchased with Ponzo's Cream and Glimmerogg Timeshare Vouchers are now Bind on Pickup as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-12",
+      "Weekday": "Friday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "The recipe for Heat-Resistant Rescue Ring is no longer Bind on Pickup.\n\nDevelpers’ notes: We do not take increasing restrictions on an item's tradability lightly, however it is important to maintain consistency between professions and across various froms of content. Although we have lightened our recipe tradability rules with Dragonflight, items purchased from content unlocks or with special currencies tend to remain soulbound. Separately, the Heat-Resistant Rescue Ring from Fishing was made soulbound by mistake and has been corrected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-11",
       "Weekday": "Thursday",
       "Tags": [
