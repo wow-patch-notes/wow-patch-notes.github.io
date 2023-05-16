@@ -2,6 +2,956 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue causing the Eggscellent Eggsecution to not grant achievement points."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] All ability damage increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] Obliterate damage increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] Frost Strike damage increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] Howling Blast damage increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] Remorseless Winter damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] Frost Fever damage increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Chaos Strike/Annihilation damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] First Blood (Talent) damage bonus to first enemy struck increased to 95% (was 75%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Inner Demon (Talent) damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Fixed an issue that prevented Fiery Brand's damage reduction effect from applying to its primary target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "[With weekly restarts] Vault of the Incarnates (4) Set bonus tuning: Entering Eclipse makes your next Starsurge or Starfall cost 10 less Astral Power (was 5) and deal 25% increased damage (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Rejuvenation now costs 11% base mana (was 12%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "[With weekly restarts] Aberrus (4) Set bonus cooldown reduction for Bestial Wrath increased to 2 seconds (was 1 second)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "[With weekly restarts] Kill Cleave now strikes nearby enemies for 80% of the damage (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "[With weekly restarts] Beast Cleave now causes your pet to strike nearby targets for 40/80% of the damage (was 35/75%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] All ability damage increased by 4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue causing Holy Prism to sometimes fail to grant Holy Power despite having the class 4-Set equipped."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "[With weekly restarts] All ability damage increased by 2%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "[With weekly restarts] Vault of the Incarnates (2) set bonus now grants 3% damage, stacking 3 times (was 5%, stacking up to 5 times)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "[With weekly restarts] All ability damage done increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Fixed an issue that would cause Zskarn's ability use to be inconsistent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Fixed an issue causing Blast Wave to knock back pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Magmorax"
+      ],
+      "Text": "Magma Puddles are no longer affected by Spirit of Redemption."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "Players are now unable to be struck by Motes of Oblivion for a short duration after leaving the Emptiness Between Stars."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Claw Fighter's Vicious Clawmangle inflicts damage less often."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Toxic Trap damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Ragestorm has a range indicator visual."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Treemouth"
+      ],
+      "Text": "Treemouth's health reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Treemouth"
+      ],
+      "Text": "Grasping Vines casting animation has been updated to better indicate that a player should stand in the area on Mythic+ difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Treemouth"
+      ],
+      "Text": "Increased the cooldown of Grasping Vines and Consume."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Treemouth"
+      ],
+      "Text": "Treemouth no longer moves or casts spells while consuming a player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Treemouth"
+      ],
+      "Text": "The draw in effect of Grasping Vines has been reduced."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Treemouth"
+      ],
+      "Text": "Gushing Ooze cast time increased to 2.5 seconds (was 2 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Freehold"
+      ],
+      "Text": "Blacktooth Knuckleduster’s Shattering Bellow damage reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Containment Apparatus’ Containment Beam damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Falling through the pipes of the Auxiliary Drainage increases movement and swim speed by 200% until entering combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Crashing Tsunami damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Crashing Tsunami move 20% slower."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "The initial area indicator for Crashing Tsunami spawns better matches its area of effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "The safe spot provided by pillars in the Infusion Chamber extends further behind the pillar."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Refreshing Tides is now interruptible."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair"
+      ],
+      "Text": "Mightstone Breakers’ Avalanche now has a visual to indicate the impact area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Dargrul the Underking"
+      ],
+      "Text": "Flame Gout occurs every 5 seconds (was 3 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Dargrul the Underking"
+      ],
+      "Text": "Flame Gout damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Dargrul the Underking"
+      ],
+      "Text": "Magmabreaker damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "Breaking the Magma Shield within 2 seconds of it being cast will no longer cause Dragon's Eruption to continue throughout the fight."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Asaad, Caliph of Zephyrs"
+      ],
+      "Text": "Improved the precast visual effects Static Cling."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Class set items sold by Norzko the Proud can now be refunded after purchase."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Fixed an issue where Forgemasters at Suffusion Camps could get stuck evading."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Ominous Chromatic Essence can forget the player's chosen alignment in certain conditions."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Mark of Draconic Mastery was not awarded upon unlocking Dragonflight Season 2 Master while in a Mythic+ instance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "Mounts"
+      ],
+      "Text": "Ottuks and Aurelids are now properly classified by their movement types when filtering mounts in the Mount Journal."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Developers’ notes: Frost Death Knights have been on our radar as underperforming, but still effective in the right situations. We’re reducing their burst damage alongside their game-wide damage increases with the goal of a healthier overall damage profile."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "[With weekly restarts] Pillar of Frost now increases Strength by 15% in PvP Combat (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Developers’ notes: We’ve been monitoring our changes to Reanimation and have felt its damage is too high relative to how much control Death Knight’s have over enemies’ positioning."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Reanimation’s explosion now deals 15% of the targets health in Shadow damage (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Allied players can no longer see the explosion ring visual for Reanimation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "[With weekly restarts] Reanimation’s stun debuff is now using the correct spell icon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Developers’ notes: Our goal with Rain from Above is for it to have situational offensive and defensive usage. With recent increases to its damage, we’re seeing it used for offense more often than intended, so we’re bringing its damage down."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Rain from Above (PvP Talent) Fel Lance damage reduced to 8% of target’s max health (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fixed an issue that caused Glass Cannon to not increase the damage of Ignite."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Fixed an issue that caused Frost Bomb to not grant a charge of Flurry when dispelled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Monk"
+      ],
+      "Text": "[With weekly restarts] Strength of Spirit now increases the healing of Expel Harm by up to 50% based on your missing health in PvP Combat (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Developers’ notes: Expel Harm’s healing was dramatically increased with Season 2. We’re happy with the base healing of the spell, but modifiers from Reverse Harm and Strength of Spirit are making it more powerful than we intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "[With weekly restarts] Reverse Harm now increases the healing done by Expel Harm by 30% (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Developers’ notes: Holy Priests have continued to underperform in PvP, so we’re buffing several of their primary healing spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Renew healing increased by 34% in PvP Combat (was 22%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Flash Heal healing increased by 52% in PvP Combat (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Heal healing increased by 57% in PvP Combat (was 43%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Holy Word: Sanctify healing increased by 10% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "[With weekly restarts] Holy Word: Serenity healing increased by 25% in PvP Combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Developers’ notes: The healing contribution from Earth Shield for the hybrid Shaman specs is above our target in PvP after recent buffs to the spell."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "[With weekly restarts] Earth Shield healing reduced by 30% in PvP Combat for Enhancement and Elemental."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "[With weekly restarts] Call Observer now has 8% of the Warlock's health (down from 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Developers’ notes: Destruction’s sustained DPS in PvP especially with instant casts is higher than we’d like. We feel Chaos Bolt is in a good state, so we’re targeting other areas of the kit to bring down their DPS."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "[With weekly restarts] Incinerate damage reduced by 10% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "[With weekly restarts] Shadowburn damage increased by 45% in PvP Combat (was 65%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Developers’ notes: We feel Arms Warrior’s burst window has been more effective than we would like in PvP. We’re shifting their damage profile slightly to increase their consistent pressure but decrease their burst damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "[With weekly restarts] Sharpen Blade cooldown increased to 30 seconds and duration decreased by 2 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "[With weekly restarts] Skullsplitter now causes expired bleeds to deal 65% damage (was 100%) in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "[With weekly restarts] Deep Wounds damage increased by 15% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "[With weekly restarts] Rend no longer deals 15% reduced damage in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-15",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "[With weekly restarts] Fueled by Violence now heals for 70% (was 85%) of damage dealt by Deep Wounds in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-12",
       "Weekday": "Friday",
       "Tags": [
