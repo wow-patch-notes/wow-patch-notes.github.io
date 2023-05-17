@@ -2,6 +2,158 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Dragonflight Season 2 Master can again be completed by reaching 2000 Mythic+ score."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue where players were not getting credit for Still Standing in Fire despite dying to Ire of Fyrakk."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Falling through the pipes of the Auxiliary Drainage increases movement and swim speed by 200% until entering combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair",
+        "Ularogg"
+      ],
+      "Text": "Fixed an issue that caused Falling Debris to strike players multiple times."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "Reduced the total number of Dragon Eruptions during Magma Shield."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Warlord Sargha"
+      ],
+      "Text": "Warlord Sargha no longer generates energy while under the effects of Backdraft."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Uldaman: Legacy of Tyr",
+        "Bromach"
+      ],
+      "Text": "Shocking Quake damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Uldaman: Legacy of Tyr",
+        "Sentinel Talondras"
+      ],
+      "Text": "Earthen Shards prefers not to target the same player with consecutive casts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle"
+      ],
+      "Text": "Slipstreams that spawn after defeating Ertan and Altairus now grant players 100% movement speed until enter entering combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Altairus"
+      ],
+      "Text": "Biting Cold damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Altairus"
+      ],
+      "Text": "Twisting Winds damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Professions",
+        "Mining/Herbalism"
+      ],
+      "Text": "Fixed a bug that caused Zaralek Glowdust and Zaralek Glowbur to not propagate while mounted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where Fyrakk would not appear during Fyrakk Assaults despite the Fyrakk’s Fury bar being full."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue which could cause players in the to not get credit for killing Captain Reykal during “Researchers Under Fire.”"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-15",
       "Weekday": "Monday",
       "Tags": [
