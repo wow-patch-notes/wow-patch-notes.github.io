@@ -2,6 +2,237 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "The achievement Slow and Steady Wins the Race now correctly checks to see if you actually purchased treats for the racer that won before awarding credit."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue where Obsidian Aspectral Earthstone would not be rewarded upon completing Dragonflight Season 2 Hero."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Fixed an issue causing Pyre to fail to deal damage if the target moved out of line of sight after the spell was cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Fixed an issue where Gift of the Golden Val'kyr would not correctly extend the duration of Guardian of Ancient Kings when overridden by Glyph of the Queen."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Removed the increase to auto-attack range from Crusader's Reprieve for Protection only.\n\nDevelopers’ notes: This was causing clarity issues with stationary bosses, where a player might be able to attack the boss while the boss thought the player was out of range."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Imp Gang Bosses would not spawn on Magmorax's platform."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Fixed an issue where Channel Demonfire would not be usable after being resurrected before Immolate expires."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible"
+      ],
+      "Text": "Colossal Draconic Golem no longer has a visible 'True Sight' aura but retains its ability to detect invisible units."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Echo of Neltharion"
+      ],
+      "Text": "Fixed an issue where players could get stuck with Sundered Reality during phase 3 of the encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Fixed an issue that caused Shoot used by Rotbow Gnolls to inflict more damage than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Gutshot"
+      ],
+      "Text": "Fixed an issue that could cause the encounter to reset if Gutshot wasn't attacked for long periods of time."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Fixed an issue where Khajin the Unyielding's Hailstorm, Gulping Goliath's Overpowering Croak, and Primal Tsunami's Tempest's Fury could target player pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair"
+      ],
+      "Text": "Fixed an issue where Dargrul's Crystal Spikes could target player pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus"
+      ],
+      "Text": "Fixed an issue where Forgemaster Gorek's Forgestorm, Forgemaster Gorek's Blazing Eruption, Forgemaster Gorek's Blazing Hammer, and Magmatusk's Magma Eruption could target player pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus"
+      ],
+      "Text": "Qalashi Warden should no longer using Blazing Slash simultaneously."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Underrot"
+      ],
+      "Text": "Fixed an issue where Crawmaw the Infested's Tantrum, Sporecaller Zancha's Festering Harvest, Living Rot's Foul Sludge, and Blood Tick's Blood Burst could target player pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle"
+      ],
+      "Text": "Fixed an issue where Minister of Air's Overload Grounding Field could target player pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Ashkandur, Fall of the Brotherhood now sheathes closer to the center of the player's back."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "After logging out and back in, off-hand items will now correctly count towards a character/account's peak (used to determine the threshold for upgrade discounts) on off-hand items (including shields) for Paladins and Shaman."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fixed a bug that caused Ignite to deal increased damage when spread while using the Glass Cannon PvP Talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Reputation gains from Zaralek Cavern will now be correctly boosted by the Sign of the Emissary from the ongoing World Quest event."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-17",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "\"I Need... a Tailor\" will no longer consume all Vibrant Wildercloth Bolts in a player's inventory on turn-in."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-16",
       "Weekday": "Tuesday",
       "Tags": [
