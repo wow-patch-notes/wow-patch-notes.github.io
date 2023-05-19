@@ -2,6 +2,98 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Fixed an issue that, in many cases, prevented Flightstones from dropping Normal and Heroic dungeons and bosses in Aberrus on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Fixed an issue that was causing too many Bonus Flightstones to be awarded when a player in the group increases their M+ rating."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Rotbow stalker's Scented Meat periodic damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Rotbow stalker's Scented Meat impact damage reduced by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow",
+        "Trickclaw's Warband"
+      ],
+      "Text": "Updated the visual indicator for Savage Charge."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Glacial Proto-Dragon's Deep Chill periodic damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharion's Lair"
+      ],
+      "Text": "Vileshard Crawlers no longer trigger on-death affix effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "The quest \"Power Unified\" should now only consume one Spark of Shadowflame upon completion and reward 2."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue causing the progress bar for \"Glimmerfish Before It's Gone\" to not appear."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-17",
       "Weekday": "Wednesday",
       "Tags": [
