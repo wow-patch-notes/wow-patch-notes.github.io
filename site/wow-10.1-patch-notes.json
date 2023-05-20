@@ -2,6 +2,69 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible"
+      ],
+      "Text": "Fixed an issue where some Voracious Magma Worms could not be attacked."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Rashok, the Elder"
+      ],
+      "Text": "Fixed an issue where Rashok can sometime not jump to target player's location during Searing Slam."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Brackenhide Gnolls no longer trigger Mythic Keystone affix effects on death."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Containment Apparatus health reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Halls of Infusion"
+      ],
+      "Text": "Limited Immortality is now properly cleared from players when starting a new mythic keystone."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an error where the world event “Researchers Under Fire\" was not switching objectives correctly on the weekly reset.\n\nDevelopers’ notes: This fixes a bug that was preventing the Researchers Under Fire event from rotating to the Zaqali Ruin Investigation. It should now be taking players to the Molten Overflow for the remainder of this reset period. The event will rotate each week between the Titan Lockdown and Zaqali Ruin Investigation areas."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-18",
       "Weekday": "Thursday",
       "Tags": [
@@ -48,7 +111,7 @@
         "Dungeons and Raids",
         "Mythic+",
         "Brackenhide Hollow",
-        "Trickclaw's Warband"
+        "Hackclaw's Warband"
       ],
       "Text": "Updated the visual indicator for Savage Charge."
     },
