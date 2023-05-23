@@ -2,6 +2,123 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk"
+      ],
+      "Text": "Fixed an issue causing Weapons of Order to incorrectly increase enemy damage taken from trinket and embellishment effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Fixed an issue where using Windstrike in Ascendance while talented into Legacy of the Frost Witch and Thorim's Invocation was not properly resetting the cooldown of Windstrike when gaining the Legacy of the Frost Witch buff."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Ripped through the Portal would not function on Magmorax's platform."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Dread Calling would not function on Magmorax's platform."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Infernal Command would not function on Magmorax's platform."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Forgemaster Gorek"
+      ],
+      "Text": "[With weekly restarts] Reduced the duration of Blazing Aegis reduced to 4 seconds (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Uldaman: Legacy of Tyr",
+        "Bromach"
+      ],
+      "Text": "[With weekly restarts] The health of Quaking totem has been reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle"
+      ],
+      "Text": "Asaad\n\n[With weekly restarts] Reduced the health of Skyfall Nova by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Enemies and NPCs",
+        "Zaralek Cavern"
+      ],
+      "Text": "[With weekly restarts] The loot lockout now resets when the content in a given area of the map becomes available. Now, when world quests are visible in an area, the rare elite enemies in that area will also be available. Rare elite rewards have been increased to offset their reduced frequency.\n\nDevelopers’ notes: Unlike Forbidden Reach, the rare elites in Zaralek Cavern are meant to be a bonus, rather than the primary activity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The extra Effervesta will not be present during the “Best Friends” quest chain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fyrakk is looking for more folks to burninate during “Aiding the Accord: Suffusion Camp,” so this quest can now be offered to qualifying alts between levels 60 and 66 (was 67+)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-19",
       "Weekday": "Friday",
       "Tags": [
