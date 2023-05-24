@@ -2,6 +2,33 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Dragonfire Bomb Dispenser's charge stacks would be lost upon leaving combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Ominous Chromatic Essence will now recall the player's previously chosen Oathstone alignment when relogging without the trinket equipped."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Characters who have completed \"Moving On\" will be able to start \"Keeper of the Ossuary\" on their alts if their alts are level 70. Alts will not have to complete the Azure Span introduction to gain access to the Blue Dragonflight quest."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-22",
       "Weekday": "Monday",
       "Tags": [
