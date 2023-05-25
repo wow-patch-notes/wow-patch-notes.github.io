@@ -2,6 +2,116 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Characters"
+      ],
+      "Text": "The niffen have noticed that player's scent permeates through all their characters, as such, the Smelly title is now account-wide."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue where some cooldowns were not updating dynamically with Blessing of Dusk."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "The cooldowns of Holy Prism and Light's Hammer are now reduced by Blessing of Dusk when the class set is equipped."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards",
+        "Firelands Timewalking Trinkets"
+      ],
+      "Text": "The Hungerer - Haste reduced by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards",
+        "Firelands Timewalking Trinkets"
+      ],
+      "Text": "Matrix Restabilizer - All secondary stats reduced by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards",
+        "Firelands Timewalking Trinkets"
+      ],
+      "Text": "Necromantic Focus - Mastery reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards",
+        "Firelands Timewalking Trinkets"
+      ],
+      "Text": "Vessel of Acceleration - Critical Strike reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Hunter"
+      ],
+      "Text": "Sentinel now resets to 5 stacks or seconds available when Arenas and Battlegrounds start."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Items and Rewards"
+      ],
+      "Text": "Ashkandur, Fall of the Brotherhood damage reduced by 60% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Items and Rewards"
+      ],
+      "Text": "Bile-Stained Crawg Tusks damage reduced by 60% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-24",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Items and Rewards"
+      ],
+      "Text": "Forgestorm damage reduced by 60% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-23",
       "Weekday": "Tuesday",
       "Tags": [
