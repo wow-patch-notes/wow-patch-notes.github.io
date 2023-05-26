@@ -2,6 +2,177 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible"
+      ],
+      "Text": "Fixed an issue allowing players who had completed Aberrus, the Shadowed Crucible: Echoes of the Earth-Warder on any difficulty to access later encounters on higher difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Developers’ note: The Zskarn changes address an emerging tactic that trivializes certain aspects of the encounter. We hope these changes will encourage more interaction with the encounter's existing mechanics, while maintaining its prior level of difficulty. These changes will be live 5/26."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "The Vigilant Steward, Zskarn health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Dragonfire Golem health reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Zskarn will now Berserk on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Adjusted the position of Dragonfire Traps."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Shrapnel Bomb reduced to 3 on Mythic difficulty (was 4)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Fixed an issue that could cause an inappropriate amount of Shrapnel Bombs to spawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Zskarn no longer activates Tactical Destruction based on his location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Underrot"
+      ],
+      "Text": "Fixed an issue where Sporecaller Zancha's Festering Harvest would not destroy spore pods."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Enemies and NPCs"
+      ],
+      "Text": "Fixed an issue where the Treasure Goblin is spawning multiple times consecutively in Valdrakken."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Reduced the mana granted by Serpent's Grand Charm to 2,400 (was 12,000) to correctly account for how healer mana pools are calculated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "The Diablo Promotion Charms effects will no longer be applied while in Raids, Rated PVP and M+ Dungeons.\n\nDevelopers’ notes: The effects won't immediately reapply when you leave these instances. You will need to relog to get them to apply again. We are looking into a possible fix for this."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Mounts"
+      ],
+      "Text": "The Savage Green Turtle will no longer be summoned from the favorite mount list on land when it is favored and will now be prioritized when in water."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue with capturing the Risen Spirits during the Classic Ashran Brawl."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where \"Seismic Ceremony\" would not complete for players who only killed Runestone Fragments and did not click any Primalist Runestones."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Trading Post"
+      ],
+      "Text": "“Complete Weekly Crafting Quests” and “Fulfill Personal Crafting Orders” activities should once again appear in the Travelers Log."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-24",
       "Weekday": "Wednesday",
       "Tags": [
