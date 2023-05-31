@@ -2,6 +2,209 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid"
+      ],
+      "Text": "Fixed a bug causing Ursol's Vortex to use its PvP duration in PvE content."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Forgotten Experiments"
+      ],
+      "Text": "Fixed an issue where players sometimes left combat between when boss creatures were active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Rashok, the Elder"
+      ],
+      "Text": "Fixed an issue where Lava Wave is inflicting damage more often than stated in the spell description."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Magmorax"
+      ],
+      "Text": "No longer targets pets with Blazing Breath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus, the Shadowed Crucible",
+        "Echo of Neltharion"
+      ],
+      "Text": "Shatter no longer damages pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus"
+      ],
+      "Text": "Burning Chains found in the Smoldering Barracks no longer damage players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus"
+      ],
+      "Text": "The doorway in the Smoldering Barracks now opens when Chargath, Bane of Scales is defeated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus"
+      ],
+      "Text": "Increased the cooldown of Qalashi Thaumaturge's Molten Core."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus"
+      ],
+      "Text": "Forgewrought Monstrosity health reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus"
+      ],
+      "Text": "Lava Flare health reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Neltharus",
+        "Magmatusk"
+      ],
+      "Text": "Magma Eruption damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle"
+      ],
+      "Text": "The cooldown of Temple Adept's Greater Heal has been increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle"
+      ],
+      "Text": "Skyfall Star's Starlight damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Vortex Pinnacle",
+        "Asaad, Caliph of Zephyrs"
+      ],
+      "Text": "Skyfall Nova health reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Players can now get a Wirt's Leg drop during the Diablo promotion even if their class cannot use the weapon type.\n\nDevelopers’ notes: We are seeing that some versions of Wirt's Leg are rarer than others due to a restriction on only seeing items your class can use. With the item being Bind on Equip, we are removing the restriction of only seeing items your class can use, so players will see a Wirt's Leg more often and can send it to an alt that can use it. Also, players can trade a version of the leg they do not need to others that do."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid"
+      ],
+      "Text": "Moon and Stars will no longer cause Precognition to trigger even if the Druid is successfully interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Professions",
+        "Alchemy"
+      ],
+      "Text": "Potion and Phial Cauldrons have had their cooldowns reduced to 10 seconds so that solo alchemists who provide for large raid sizes can do so quickly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The Seething Orb puzzle in the Zaqali Caldera will now spawn more frequently."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-05-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where the Elder Magma Serpent might not spawn if Ritualmaster Skarna was defeated too quickly during “Researchers Under Fire.”"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-05-26",
       "Weekday": "Friday",
       "Tags": [
