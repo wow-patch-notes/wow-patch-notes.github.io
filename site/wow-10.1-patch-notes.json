@@ -2,6 +2,483 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Blood"
+      ],
+      "Text": "[With weekly restarts] Increased damage of all abilities by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Developers' Notes: These set bonus changes will increase the average number of stacks of the (2) Set Bonus and cause the (4) Set Bonus to trigger less often, but provide more Agility when it does.\n\n[With weekly restarts] Aberrus (2) Set Bonus: Chance for Shadows of the Predator stacks to reset reduced by 15%.\n[With weekly restarts] Aberrus (4) Set Bonus: Now increases Agility by 8% (up from 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Developers’ notes: We would like there to be more of a reward to using Disintegrate over Living Flame as a Preservation Evoker since it has a high Essence cost.\n\n[With weekly restarts] Disintegrate damage has been increased by 15% for Preservation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "[With weekly restarts] All damage dealt by you and your pet’s abilities increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "[With weekly restarts] Pyroblast damage increased by 5% (does not apply in PvP combat)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "[With weekly restarts] Fire Blast damage increased by 10% (does not apply in PvP combat)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "[With weekly restarts] Fireball damage increased by 10% (does not apply in PvP combat)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "[With weekly restarts] Phoenix Flames damage increased by 10% (does not apply in PvP combat)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "[With weekly restarts] Scorch damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Brewmaster"
+      ],
+      "Text": "[With weekly restarts] All ability damage increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Brewmaster"
+      ],
+      "Text": "[With weekly restarts] Rising Sun Kick damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Brewmaster"
+      ],
+      "Text": "[With weekly restarts] Blackout Kick damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Brewmaster"
+      ],
+      "Text": "[With weekly restarts] Tiger Palm damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] All healing increased by 3%. This does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "[With weekly restarts] All ability damage increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Developers’ notes: The high frequency of Amplify Curse has been problematic in PvP combat, so its cooldown has been increased. These changes are also noted in the PvP section below.\n\n[With weekly restarts] The cooldown of Amplify Curse is now 60 seconds (was 30 seconds).\n[With weekly restarts] Teachings of the Satyr now reduces the cooldown of Amplify Curse by 15 seconds (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Developers’ notes: Arms Warriors are not performing as well as we would like in single target or low-target-count situations.\n\n[With weekly restarts] All ability damage increased by 4%.\n[With weekly restarts] Fatality Fatal Mark damage increased by 15%.\n[With weekly restarts] Deep Wounds periodic damage increased by 5%.\n[With weekly restarts] Rend periodic damage increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Developers’ notes: Protection Warriors are not currently performing as competitively as we would like compared to most other tanks in terms of damage and survivability.\n\n[With weekly restarts] All damaging abilities increased by 8%.\n[With weekly restarts] Auto-attack damage increased by 10%.\n[With weekly restarts] Spell Block’s duration increased to 30 seconds (was 20 seconds).\n[With weekly restarts] Thunderlord now causes each enemy hit by Thunder Clap to reduce the remaining cooldown of Demoralizing Shout by 1.5 seconds, up to 4.5 seconds (was 1.0 seconds, up to 3.0 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus the Shadowed Crucible"
+      ],
+      "Text": "Developer’s notes: Feedback and data from the first few weeks of Season Two have indicated that smaller raids are having a relatively difficult time defeating certain encounters within Aberrus. Part of our commitment to flex-scaling as a feature is to work towards a similar difficulty for all group sizes on non-Mythic difficulties. The following changes are designed to bring difficulty for smaller groups in line with the experience of a larger raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus the Shadowed Crucible",
+        "Rashok"
+      ],
+      "Text": "[With weekly restarts] Reduced the number of missiles from Doom Flames on non-Mythic difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus the Shadowed Crucible",
+        "Rashok"
+      ],
+      "Text": "[With weekly restarts] Scorching Heatwave’s damage now scales with group size for non-Mythic difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus the Shadowed Crucible",
+        "Forgotten Experiments"
+      ],
+      "Text": "[With weekly restarts] Reduced Thadrion's health on lower group sizes on Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Developers’ notes: Balance Druids have been overperforming due to their ability to generate so much Astral Power and deal high damage by applying dots and casting Starfall repeatedly. We’d like to reduce the effectiveness of that playstyle since it’s difficult for opponents to stop. Goldrinn’s Fang also became much more effective in Embers of Neltharion, and includes some randomness and ability to score kills unexpectedly. Finally, Owlkin Adept has been a locked-in talent for a while now and has been propping up their control a bit more than we’re comfortable with.\n\n[With weekly restarts] Moonfire and Sunfire generate 4 Astral Power when cast in PvP combat (was 6).\n[With weekly restarts] Stellar Innervation increases Astral Power generation of Moonfire and Sunfire by 50% in PvP combat (was 100%).\n[With weekly restarts] Star Burst now grants 8 Astral Power (was 15).\n[With weekly restarts] Owlkin Adept reduces the cast time of Cyclone and Entanglng Roots by 20% (was 30%).\n[With weekly restarts] Goldrinn's Fang damage is reduced by 50% in PvP combat.\n[With weekly restarts] Wrath and Starfire deal 60% increased damage in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Developers’ notes: Marksmanship Hunters have been underperforming in different forms of PvP content.\n\n[With weekly restarts] Aimed Shot damage increased by 25% in PvP combat (was 15%).\n[With weekly restarts] Rapid Fire damage increased by 25% in PvP combat (was 15%).\n[With weekly restarts] Arcane Shot damage increased by 25% in PvP combat (was 16%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Developers’ notes: Glass Cannon is intended to have high risk and high reward with its gameplay, and we feel the risk is too low for the benefit it provides, especially when paired with Flamecannon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "[With weekly restarts] Glass Cannon now decreases maximum health by 20% (was 15%)"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "[With weekly restarts] Flamecannon now increases maximum health by 2% per stack (was 3%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Developers’ notes: Mistweavers have been overperforming compared to other healers, especially due to their mana efficiency.\n\n[With weekly restarts] Soulfang Infusion now regenerates 75% less Mana in PvP combat (was 50%).\n[With weekly restarts] Zen Spheres now cost 0.5% base Mana.\n[With weekly restarts] Enveloping Mist now heals for 5% more in PvP combat (was 20%).\n[With weekly restarts] Mistweaver Monks now regenerate 15% less Mana in PvP combat (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Windwalker"
+      ],
+      "Text": "Developers’ notes: Whirling Dragon Punch has felt underwhelming and we’d like it to feel impactful to use without being a major portion of a Windwalker’s damage profile.\n\n[With weekly restarts] Whirling Dragon Punch damage increased by 80% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Developers’ notes: Discipline has been more reliant on shields this season than we’d like. We’re increasing Atonement healing while bringing down the power of shields, with the goal of the preferred playstyle being an offensive one. We’re also targeting the mana reduction from Inner Light, as Discipline has been more mana efficient than we’d like.\n\n[With weekly restarts] Power Word: Shield now absorbs 15% less damage in PvP Combat.\n[With weekly restarts] Inner Light now reduces the mana cost of the affected spells by 10% (was 15%).\n[With weekly restarts] Atonement healing is now 50% more effective in PvP Combat (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Developers’ notes: Burst damage from Subtlety has been higher than we’d like this season. We’re looking to keep the spec in a strong position while toning down their burst potential in short windows."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] Secret Technique damage is now reduced by 33% in PvP Combat (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] Shadowstrike and Backstab damage from Weaponmaster is now 50% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] Flagellation’s Mastery bonus is now 80% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] Dark Shadow is now 67% effective in PvP combat (was 80%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Developers’ notes: There are a few talents that are leading to fast kills that can feel unfair when facing an Enhancement Shaman. We’re aiming to bring down the burst potential from cooldowns and increase sustained DPS.\n\n[With weekly restarts] Forceful Winds is now 75% effective in PvP Combat.\n[With weekly restarts] The damage increase to Lava Lash from Ashen Catalyst is now 33% effective in PvP Combat.\n[With weekly restarts] Lava Lash now deals 35% increased damage in PvP Combat (was 15%).\n[With weekly restarts] The Physical damage increase from Feral Spirit is now 33% effective in PvP Combat.\n[With weekly restarts] The Fire, Frost, and Lightning damage increase from Elemental Spirits is now 50% effective in PvP Combat.\n[With weekly restarts] Stormstrike now deals 75% increased damage in PvP Combat (was 50%).\n[With weekly restarts] Windstrike now deals 75% increased damage in PvP Combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Developers’ notes: We feel Restoration Shaman is in a good spot. Rain Dance wasn’t as valuable as we were anticipating, so we’re aiming to increase its viability.\n\n[With weekly restarts] Rain Dance now increases the healing done by Healing Rain by 30% (was 20%).\n[With weekly restarts] Rain Dance now reduces the mana cost of Healing Rain by 45% (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Developers’ notes: Inquisitor’s Gaze has been dealing a sizeable portion of Warlock damage this season, and we’d like damage to come primarily from active spells.\n\n[With weekly restarts] Fel Barrage from Inquisitor's Gaze now deals 40% reduced damage in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Developers’ notes: The high frequency of Amplify Curse has been problematic in PvP combat.\n\n[With weekly restarts] The cooldown of Amplify Curse is now 60 seconds (was 30 seconds).\n[With weekly restarts] Teachings of the Satyr now reduces the cooldown of Amplify Curse by 15 seconds (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Developers’ notes: We are increasing the damage of Unstable Affliction’s backlash effect to lessen the value of dispelling Affliction’s damage over time effects. It’s been lower than we’d like, in addition to healers gaining extra health this season. Additionally, we’re increasing Shadow Bolt damage as the reward for casting it is lower than we’d like.\n\n[With weekly restarts] Unstable Affliction backlash damage increased by 50%.\n[With weekly restarts] Shadow Bolt damage increased by 30% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Developers’ notes: Demonology’s healing reduction effect from their Felguard was one of the best healing reductions in the game, which didn’t feel appropriate given the class identity, how easy it is to apply, and how it can be applied to multiple targets at a time. Along with Affliction, we’re also increasing the damage of Shadow Bolt in PvP, as the reward for casting it is low.\n\n[With weekly restarts] Legion Strike reduces healing taken by 20% in PvP (was 25%).\n[With weekly restarts] Shadow Bolt damage increased by 30% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-05",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Developers’ notes: Destruction’s sustained DPS has been high and we feel this is mainly due to Shadowburn’s high multiplier. We would like for instant casts to be strong but not be the primary way to land kills.\n\n[With weekly restarts] Conflagration damage is now reduced by 15% in PvP Combat (was 9%).\n[With weekly restarts] Shadowburn damage is now increased by 15% in PvP Combat (was 45%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-01",
       "Weekday": "Thursday",
       "Tags": [
