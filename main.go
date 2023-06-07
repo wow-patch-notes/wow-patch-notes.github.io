@@ -364,6 +364,8 @@ func cleanTag(t string) []string {
 		"Thaldrazsus", "Thaldraszus",
 		"Player versus Player", "PvP",
 		"Wrath of the Lich King", "WotLK",
+		"Aberrus, the Shadowed Crucible", "Aberrus",
+		"Aberrus the Shadowed Crucible", "Aberrus",
 	).Replace(t)
 
 	if strings.HasSuffix(t, "Tuskar") {
