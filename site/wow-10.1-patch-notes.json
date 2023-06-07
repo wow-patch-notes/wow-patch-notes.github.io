@@ -6,7 +6,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Echo of Neltharion"
       ],
       "Text": "Slightly reduced Neltharion’s health for smaller groups."
@@ -17,7 +17,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Echo of Neltharion"
       ],
       "Text": "Volcanic Heart’s initial damage reduced on Normal and Heroic difficulty."
@@ -28,7 +28,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Echo of Neltharion"
       ],
       "Text": "Echoing Fissures’ damage now scales with group size on LFR, Normal and Heroic difficulty."
@@ -39,7 +39,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Echo of Neltharion"
       ],
       "Text": "Slightly reduced the Twisted Aberrations' health for smaller groups."
@@ -247,7 +247,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus the Shadowed Crucible"
+        "Aberrus"
       ],
       "Text": "Developer’s notes: Feedback and data from the first few weeks of Season Two have indicated that smaller raids are having a relatively difficult time defeating certain encounters within Aberrus. Part of our commitment to flex-scaling as a feature is to work towards a similar difficulty for all group sizes on non-Mythic difficulties. The following changes are designed to bring difficulty for smaller groups in line with the experience of a larger raid."
     },
@@ -257,7 +257,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus the Shadowed Crucible",
+        "Aberrus",
         "Rashok"
       ],
       "Text": "[With weekly restarts] Reduced the number of missiles from Doom Flames on non-Mythic difficulties."
@@ -268,7 +268,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus the Shadowed Crucible",
+        "Aberrus",
         "Rashok"
       ],
       "Text": "[With weekly restarts] Scorching Heatwave’s damage now scales with group size for non-Mythic difficulties."
@@ -279,7 +279,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus the Shadowed Crucible",
+        "Aberrus",
         "Forgotten Experiments"
       ],
       "Text": "[With weekly restarts] Reduced Thadrion's health on lower group sizes on Heroic difficulty."
@@ -612,7 +612,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Forgotten Experiments"
       ],
       "Text": "Fixed an issue where players sometimes left combat between when boss creatures were active."
@@ -623,7 +623,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Rashok, the Elder"
       ],
       "Text": "Fixed an issue where Lava Wave is inflicting damage more often than stated in the spell description."
@@ -634,7 +634,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Magmorax"
       ],
       "Text": "No longer targets pets with Blazing Breath."
@@ -645,7 +645,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Echo of Neltharion"
       ],
       "Text": "Shatter no longer damages pets."
@@ -805,7 +805,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible"
+        "Aberrus"
       ],
       "Text": "The Vigilant Steward, Zskarn’s health reduced by an additional 10% on Mythic difficulty, for a total 25% health reduction."
     },
@@ -833,7 +833,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible"
+        "Aberrus"
       ],
       "Text": "Fixed an issue allowing players who had completed Aberrus, the Shadowed Crucible: Echoes of the Earth-Warder on any difficulty to access later encounters on higher difficulties."
     },
@@ -843,7 +843,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "Developers’ note: The Zskarn changes address an emerging tactic that trivializes certain aspects of the encounter. We hope these changes will encourage more interaction with the encounter's existing mechanics, while maintaining its prior level of difficulty. These changes will be live 5/26."
@@ -854,7 +854,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "The Vigilant Steward, Zskarn health reduced by 15% on Mythic difficulty."
@@ -865,7 +865,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "Dragonfire Golem health reduced by 15% on Mythic difficulty."
@@ -876,7 +876,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "Zskarn will now Berserk on all difficulties."
@@ -887,7 +887,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "Adjusted the position of Dragonfire Traps."
@@ -898,7 +898,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "Shrapnel Bomb reduced to 3 on Mythic difficulty (was 4)."
@@ -909,7 +909,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "Fixed an issue that could cause an inappropriate amount of Shrapnel Bombs to spawn."
@@ -920,7 +920,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "Zskarn no longer activates Tactical Destruction based on his location."
@@ -1258,7 +1258,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible"
+        "Aberrus"
       ],
       "Text": "Fixed an issue where some Voracious Magma Worms could not be attacked."
     },
@@ -1268,7 +1268,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Rashok, the Elder"
       ],
       "Text": "Fixed an issue where Rashok can sometime not jump to target player's location during Searing Slam."
@@ -1486,7 +1486,7 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible"
+        "Aberrus"
       ],
       "Text": "Colossal Draconic Golem no longer has a visible 'True Sight' aura but retains its ability to detect invisible units."
     },
@@ -1496,7 +1496,7 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Echo of Neltharion"
       ],
       "Text": "Fixed an issue where players could get stuck with Sundered Reality during phase 3 of the encounter."
@@ -2025,7 +2025,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "[With weekly restarts] Fixed an issue that would cause Zskarn's ability use to be inconsistent."
@@ -2036,7 +2036,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Vigilant Steward, Zskarn"
       ],
       "Text": "[With weekly restarts] Fixed an issue causing Blast Wave to knock back pets."
@@ -2047,7 +2047,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Magmorax"
       ],
       "Text": "Magma Puddles are no longer affected by Spirit of Redemption."
@@ -2058,7 +2058,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Scalecommander Sarkareth"
       ],
       "Text": "Players are now unable to be struck by Motes of Oblivion for a short duration after leaving the Emptiness Between Stars."
@@ -3118,7 +3118,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Amalgamation Chamber"
       ],
       "Text": "After a soft reset, the door from Amalgamation Chamber to Experiments of Dracthyr will now properly open if you have defeated the Amalgamation."
@@ -3129,7 +3129,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Amalgamation Chamber"
       ],
       "Text": "Adjusted the damage of Umbral Detonation and Blistering Twilight to scale appropriately with group size on Normal and Heroic Difficulties."
@@ -3140,7 +3140,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible",
+        "Aberrus",
         "Scalecommander Sarkareth"
       ],
       "Text": "Adjusted the damage of Echoing Howl to scale appropriately with group size.\n\nDevelopers’ notes: We discovered an issue that was causing the total damage Echoing Howl was doing to all players was scaling too high in larger raid sizes and too low in smaller raid sizes. This change works to even out the damage and make the difficulty more consistent across all raid sizes."
@@ -3693,7 +3693,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Aberrus, the Shadowed Crucible"
+        "Aberrus"
       ],
       "Text": "Fixed an issue that allowed players to reset The Forgotten Experiments encounter unintentionally."
     },
