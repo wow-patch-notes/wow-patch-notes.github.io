@@ -2,6 +2,231 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Fixed an issue causing the Indomitable Justice Azerite trait to sometimes provide an unintended speed bonus."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "Developers’ notes: These changes are directed at reducing the burden on tanks in smaller groups where Shrapnel Bomb was more difficult to handle with more limited amounts of utility from the group."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With June 6 resets] Zskarn health reduced by 10% for small group sizes on Normal and Heroic difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With June 6 resets] Shrapnel Bomb initial damage and DOT damage reduced by 50% on Normal and Heroic difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With June 6 resets] Searing Claws damage reduced by 25% on Normal and Heroic difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With June 6 resets] Unstable Embers damage reduced by 30% on Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Calamitous Strike's debuff duration reduced from 40 seconds to 37 seconds on all difficulties. This is done to remove a problematic overlap in phase one of the encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Calamitous Strike's debuff will now be removed when the encounter enters intermission on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Fixed an issue where Neltharion immediately melee his target after casting Calamitous Strike on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Added a slight delay before the same player can trigger an additional stack of Shatter after destroying Twisted Earth on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Volcanic Heart's radius reduced from 25 yards to 20 yards on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "Developers' note: A series of changes have been made to ease up a bit on the difficulty of this encounter on lower player size raids. Each of these changes are for non-Mythic difficulties only and scale back as raid size increases, evening out to about no changes for the 30 player raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "[With June 6 resets] Health of Sarkareth and Null Glimmers reduced by 6% in 10 player raids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "[With June 6 resets] Duration of Astral Flare buff increased from 23 seconds to 30 seconds in 10 player raids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "[With June 6 resets] Oblivion damage per tick reduced by 50% in 10 player raids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "[With June 6 resets] Void Surge damage per tick reduced by 40% in 10 player raids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "[With June 6 resets] Dread raid wide damage reduced by 25% in 10 player raids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Halls of Infusion"
+      ],
+      "Text": "Fixed an issue where Infuser Sariya's Inundate spell could inflict inconsistent amounts of damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue that prevented the Drakewatcher Manuscript for the Cliffside Wylderdrake - Black Hair customization option from dropping in some circumstances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items and Rewards",
+        "Zaralek Cavern"
+      ],
+      "Text": "Fixed an issue where Cobalt Shalewing’s drop rate was lower than intended. Its drop rate is now in line with other similar drops."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-07",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where Sparks of Life were not dropping in Zaralek Caverns from various content."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-06",
       "Weekday": "Tuesday",
       "Tags": [
