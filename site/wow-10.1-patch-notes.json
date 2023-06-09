@@ -2,6 +2,55 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Brewmaster"
+      ],
+      "Text": "Fixed an issue causing Blackout Kick to double-dip on its recent buffs."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "The contribution of damage towards Blazing Blast and Void Blast is now properly reduced by absorbs."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Nasz'uro, the Unbound Legacy’s primary stat and Speed granted to allies reduced by 70% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Djaradin Elder Spear’s damage reduced by 50% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "Fixed an issue where Ominous Chromatic Essence would continue to reapply to other allies when two players shared the same alignment."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-07",
       "Weekday": "Wednesday",
       "Tags": [
