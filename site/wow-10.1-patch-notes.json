@@ -2,6 +2,28 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-09",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Fixed an issue where Radiant Providence from the Discipline Priest 4-piece set bonus would reset on when engaging a dungeon boss."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-09",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Fixed an issue where the duplicated Prayer of Mending from the Holy Priest 2-piece set bonus would cost twice as much mana."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-08",
       "Weekday": "Thursday",
       "Tags": [
@@ -38,7 +60,7 @@
       "Tags": [
         "Items and Rewards"
       ],
-      "Text": "Djaradin Elder Spear’s damage reduced by 50% in PvP Combat."
+      "Text": "Djaruun, Pillar of the Elder Flames' damage reduced by 50% in PvP Combat."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
