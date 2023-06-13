@@ -2,6 +2,105 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Fixed a bug causing Astral Smolder to not deal appropriate damage to enemies with absorb shields."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Fixed a bug with Dreadful Bleeding causing it to increase Rip damage by less than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Fixed an issue where Fury of the Eagle did fewer instances of damage than expected when under the buff effects of the Bloodseeker talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Blast Wave damage reduced by 10% on Normal and Heroic difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Dragonfire Traps is now magic dispelable on Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Dragonfire Traps activation time increased to 5 seconds (was 3 seconds) on Normal difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Dragonfire Traps activation time increased to 4 seconds (was 3 seconds) on Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Added additional visuals to Dragonfire Traps during activation on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Fixed an issue that caused summoned Infected Lashers to grant enemy forces credit."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-09",
       "Weekday": "Friday",
       "Tags": [
