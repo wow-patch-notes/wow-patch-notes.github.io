@@ -2,6 +2,50 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-13",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Wild Mushroom will now deal its damage even if the target is out of line of sight of the Druid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-13",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Fury of Elune will now deal its damage even if the target is out of line of sight of the Druid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-13",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Eternity Surge will now deal its damage effect correctly if you are crowd controlled immediately after completing the empower cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-13",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Fixed an issue that caused Soulfang Infusion, from the Mistweaver 2-piece set, to regenerate more mana than intended in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-12",
       "Weekday": "Monday",
       "Tags": [
