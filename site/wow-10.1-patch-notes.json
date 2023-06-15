@@ -2,6 +2,39 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Eternity Surge will no longer fail to deal damage and go on cooldown if your enemy goes out of line of sight after the empower cast is completed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Scalecommander Sarkareth"
+      ],
+      "Text": "Motes of Oblivion should be more visible against the ground."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Lava Lash damage is now correctly increased by 35% in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-13",
       "Weekday": "Tuesday",
       "Tags": [
