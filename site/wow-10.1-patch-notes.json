@@ -2,6 +2,174 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Crusading Strikes can now trigger Empyrean Power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Kassara, the Hellforged"
+      ],
+      "Text": "Kazzara health reduced by 10% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Kassara, the Hellforged"
+      ],
+      "Text": "Infernal Fusion damage reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Sarkareth Scaelcommander"
+      ],
+      "Text": "[With June 16 Changes] Resolved an issue that would cause players to take extra durability damage if their corpse fell off the platform."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Sarkareth Scaelcommander"
+      ],
+      "Text": "Lowered the damage from Scorching Detonation by 10% on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Sarkareth Scaelcommander"
+      ],
+      "Text": "Lowered the damage from Oblivion by 10% on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Sarkareth Scaelcommander"
+      ],
+      "Text": "Updated the visual clarity for Drifting Embers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Fixed an issue that could prevent Chargath from casting Grounding Spear."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Deepflayer Lure’s damage increased by 110%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Djaradin Boasting Tablets’ max damage reduction reduced by 43%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Draconic Cauterizing Magma’s healing increased by 18%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Drakeforged Magma Charm’s damage increased by 72%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Friendship Censer’s healing increased by 55%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Magmaclaw Lure’s absorb reduced by 67%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Pocket Darkened Elemental Core’s damage reduced by 26%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items and Rewards"
+      ],
+      "Text": "[With June 16 Changes] Smoldering Howler Horn’s critical strike reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-20",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "[With June 16 Changes] Effervesta won't escape from kidnapping early and will now correctly wait for the player to rescue her during “Suss Out the Imposter.”"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-14",
       "Weekday": "Wednesday",
       "Tags": [
