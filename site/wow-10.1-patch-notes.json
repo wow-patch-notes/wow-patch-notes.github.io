@@ -2,6 +2,17 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-22",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Fixed an issue causing Divine Resonance to cancel some casts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-20",
       "Weekday": "Tuesday",
       "Tags": [
