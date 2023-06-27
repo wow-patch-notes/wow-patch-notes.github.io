@@ -2,6 +2,547 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Blood"
+      ],
+      "Text": "[With weekly restarts] Damage increased by 6.5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Chaos Strike/Annihilation damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Melee autoattack damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Demon Blades damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Demon's Bite damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "[With weekly restarts] Felblade damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "[With weekly restarts] Damage increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Rescue should no longer interrupt channeled spells when cast on an ally who is channeling."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Rescue should no longer occasionally disconnect players in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "[With weekly restarts] Kill Shot damage increased by 10%. This does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "[With weekly restarts] Aimed Shot, Kill Shot, and Rapid Fire damage increased by 10%. Kill Shot damage increase does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "[With weekly restarts] All damaging abilities increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Fixed an issue causing Shadow Covenant to fail when Blessing of Spellwarding was active on the Priest."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Developers' notes: Holy Priests have continued to trail behind other healers in DPS output, so we're increasing the damage of a variety of spells to bring them more in line.\n\n[With weekly restarts] Holy Fire damage increased by 10%.\n[With weekly restarts] Smite damage increased by 15%.\n[With weekly restarts] Holy Word: Chastise damage increased by 35%.\n[With weekly restarts] Shadow Word: Death damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Developers’ notes: Shadow has been overperforming in AoE environments. We're bringing down some of its sources of AoE and increasing the damage of some direct damage to offset this in single target.\n\n[With weekly restarts] Mind Blast damage increased by 10%.\n[With weekly restarts] Shadow Word: Death damage increased by 10%.\n[With weekly restarts] Mind Spike: Insanity damage increased by 10%.\n[With weekly restarts] Mind Spike damage increased by 10%.\n[With weekly restarts] Mind Flay: Insanity damage increased by 10%.\n[With weekly restarts] Mind Flay damage increased by 10%.\n[With weekly restarts] Void Bolt damage increased by 10%.\n[With weekly restarts] Void Spike damage from Idol of Yogg-Saron reduced by 35%.\n[With weekly restarts] Psychic Link now causes direct damage spells to inflict 25% of their damage onto all other targets with Vampiric Touch (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Aberrus (2) Set Bonus: Tidewaters healing increased by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Aberrus (4) Set Bonus: Duration of Rainstorm increased to 8 seconds (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fixed an issue where Infernal would not despawn after swapping specializations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "[With weekly restarts] Defensive Stance increased to 20% damage reduction (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus"
+      ],
+      "Text": "[With weekly restarts] Cross-realm Mythic raiding is now enabled for Aberrus, the Shadowed Crucible."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Dragonfire Traps now activate consistently based on Zskarn’s location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Elimination Protocol damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Elimination Protocol damage amplification reduced to 300% (was 500%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Vigilant Steward, Zskarn"
+      ],
+      "Text": "[With weekly restarts] Salvage Parts duration increased to 120 seconds (was 60 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus",
+        "Magmorax"
+      ],
+      "Text": "Corrected the spawn positions of two Spicy Lava Snails that were overly difficult to obtain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Items"
+      ],
+      "Text": "[With weekly restarts] Gladiator’s Distinction primary stat bonus reduced to 20% (was 25%) for all damage dealing and tank specializations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Developers’ notes: The cast time on Cyclone is too fast for enemy players to deal with, so we’re reducing its cast speed from Owlkin Adept and also reducing Precognition’s haste in Fractures in Time. Solar Beam’s duration lasting 8 seconds was an oversight, as it should have been reduced in the crowd control reduction pass in Embers of Neltharion.\n\n[With weekly restarts] Owlkin Adept reduces the cast time of Cylcone and Entangling Roots by 15% (was 20%).\n[With weekly restarts] Solar Beam lasts 6 seconds in PvP combat (was 8 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Reactive Resin's snare duration increased to 8 seconds (was 5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Verdant Infusion now extends heal over time effects by 4 seconds (was 8 seconds) in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Master Shapeshifter now refunds 2500 mana from Ironfur (was 1250 mana), 3500 mana from Wrath / Starfire / Starsurge (was 2000 mana), and 10000 mana from spending 5 combo points in Cat Form (was 5000 mana) at level 70."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "[With weekly restarts] Enveloping Mist healing increased by 12% in PvP Combat (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest"
+      ],
+      "Text": "[With weekly restarts] Catharsis now stores 15% of damage taken (was 20%) and the stored amount cannot exceed 12% of the Priest's maximum health (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Developers' notes: Discipline damage and Atonement healing continues to be lower than we'd like in PvP, so we're increasing them to allow Discipline to be more offensive.\n\n[With weekly restarts] All damage is now increased by 10% in PvP Combat.\n[With weekly restarts] Atonement healing is now increased by 70% in PvP Combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Developers' notes: Instant damage from Catharsis and Unfurling Darkness is accounting for more of Shadow's burst damage than we were aiming for, so we're bringing their power down. Shadow is also getting PvE damage buffs that affect PvP which puts some of this power loss back into rotational spells.\n\n[With weekly restarts] Unfurling Darkness now deals 25% reduced damage in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] Secret Technique damage now reduced by 40% in PvP Combat (was 33%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "[With weekly restarts] Thief's Bargain (PvP Talent) damage penalty increased to 10% (was 6%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Developers’ notes: We’re redistributing the amount of healing from instant cast sources for all Shaman and increasing the power of cast heals, so that cast heals are both more frequent and more meaningful."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "[With weekly restarts] Healing Stream healing is now increased by 20% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "[With weekly restarts] Earth Shield healing is now reduced by 40% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "[With weekly restarts] Healing Surge healing is now increased by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "[With weekly restarts] Earth Shield healing is now reduced by 40% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "[With weekly restarts] Healing Surge healing is now increased by 4% in PvP combat (was reduced by 13%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Earth Shield healing is now reduced by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Healing Surge healing is now increased by 27% in PvP combat (was 6%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Healing Wave healing is now increased by 56% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Water Shield's melee attack mana refund is now 20% effective in PvP Combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "[With weekly restarts] Water Shield now regenerates 75% more mana from its passive effect in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
+      "Date": "2023-06-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Developers' notes: We're targeting the defensive power of Demonology with these changes as they are often a difficult target to take down relative to other DPS specs. We're also lowering the healing from Mortal Coil to lower overall self-healing from Warlocks in PvP.\n\n[With weekly restarts] Mortal Coil healing is now 50% effective in PvP Combat.\n[With weekly restarts] Soul Link's shared damage with the Warlock's pet is now 50% effective in PvP Combat.\n[With weekly restarts] Profane Bargain's increase to the effectiveness of Soul Link at low health is now 40% effective in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23948562",
       "Date": "2023-06-22",
       "Weekday": "Thursday",
       "Tags": [
