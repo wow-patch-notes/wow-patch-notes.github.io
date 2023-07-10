@@ -129,6 +129,12 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 		return dest
 	}
 
+	if strings.Contains(u, "/23968772/") {
+		dest = scrapeContentUpdate(dest, doc, "#item10", "10.1.5",
+			time.Date(2023, 7, 6, 0, 0, 0, 0, time.UTC))
+		return dest
+	}
+
 	if strings.Contains(u, "/23935248/") {
 		dest = scrapeContentUpdate(dest, doc, "#item8", "10.1.0",
 			time.Date(2023, 3, 16, 0, 0, 0, 0, time.UTC))
@@ -156,6 +162,9 @@ func fixCasing(changes []Change) []Change {
 		"SNIFFENSEEKING":                      "Sniffenseeking",
 		"PUBLIC OBJECTIVES":                   "Public Objectives",
 		"RESEARCHERS UNDER FIRE PUBLIC EVENT": "Researchers Under Fire",
+		"CROSS-REALM TRADING":                 "Cross-Realm Trading",
+		"CHROMIE TIME":                        "Chromie Time",
+		"TRACKING APPEARANCES":                "Tracking Appearances",
 	}
 
 	for _, c := range changes {
@@ -262,7 +271,7 @@ func scrapeHotfixes(dest []Change, doc *goquery.Document) []Change {
 		var nCategories int
 		for {
 			category := patchNotes.NextFiltered("p")
-			if category.Size() == 0 {
+			if category.Size() == 0 || category.Text() == "" {
 				break
 			}
 			nCategories++
