@@ -12,6 +12,7 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
+	"sort"
 	"strings"
 	"time"
 	"unicode"
@@ -42,6 +43,11 @@ func main() {
 	if args := flag.Args(); len(args) > 0 {
 		changes := debug(args)
 
+		changes = fixCasing(changes)
+		sort.SliceStable(changes, func(i, j int) bool {
+			return changes[i].Date > changes[j].Date
+		})
+
 		b, _ := json.MarshalIndent(changes, "", "  ")
 		fmt.Println(string(b))
 
@@ -55,7 +61,32 @@ func main() {
 	ctx, cancel := context.WithTimeout(context.Background(), 1*time.Minute)
 	defer cancel()
 
-	req, err := http.NewRequestWithContext(ctx, "GET", "https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Patch%20Notes", nil)
+	var urls []string
+
+	urls = collectPostURLs(ctx, urls, "https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Patch%20Notes", stopAfter)
+	urls = collectPostURLs(ctx, urls, "https://worldofwarcraft.blizzard.com/en-us/search/blog?k=Update%20Notes", stopAfter)
+
+	allChanges := make([]Change, 0, 5000)
+
+	for _, u := range urls {
+		allChanges = scrapeURL(ctx, allChanges, u)
+	}
+
+	allChanges = fixCasing(allChanges)
+
+	sort.SliceStable(allChanges, func(i, j int) bool {
+		return allChanges[i].Date > allChanges[j].Date
+	})
+
+	b, _ := json.MarshalIndent(struct {
+		Changes []Change
+	}{allChanges}, "", "  ")
+
+	fmt.Println(string(b))
+}
+
+func collectPostURLs(ctx context.Context, urls []string, indexURL string, stopAfter string) []string {
+	req, err := http.NewRequestWithContext(ctx, "GET", indexURL, nil)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -66,13 +97,12 @@ func main() {
 		log.Fatal(err)
 	}
 	defer res.Body.Close()
+	defer io.Copy(io.Discard, res.Body)
 
 	doc, err := goquery.NewDocumentFromReader(res.Body)
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	var urls []string
 
 	doc.Find(".NewsBlog-link").EachWithBreak(func(i int, s *goquery.Selection) bool {
 		href, _ := s.Attr("href")
@@ -80,27 +110,26 @@ func main() {
 		if err != nil {
 			log.Fatal("invalid URL in href")
 		}
-		urls = append(urls, res.Request.URL.ResolveReference(u).String())
+
+		absURL := res.Request.URL.ResolveReference(u).String()
+
+		if !sliceContains(urls, absURL) {
+			urls = append(urls, absURL)
+		}
 
 		return !strings.Contains(href, stopAfter)
 	})
 
-	io.Copy(io.Discard, res.Body)
-	res.Body.Close()
+	return urls
+}
 
-	allChanges := make([]Change, 0, 5000)
-
-	for _, u := range urls {
-		allChanges = scrapeURL(ctx, allChanges, u)
+func sliceContains(xs []string, x string) bool {
+	for _, a := range xs {
+		if a == x {
+			return true
+		}
 	}
-
-	allChanges = fixCasing(allChanges)
-
-	b, _ := json.MarshalIndent(struct {
-		Changes []Change
-	}{allChanges}, "", "  ")
-
-	fmt.Println(string(b))
+	return false
 }
 
 func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
