@@ -158,6 +158,12 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 		return dest
 	}
 
+	if strings.Contains(u, "/23987385/") {
+		dest = scrapeContentUpdate(dest, doc, "#item7", "10.1.7",
+			time.Date(2023, 9, 5, 0, 0, 0, 0, time.UTC))
+		return dest
+	}
+
 	if strings.Contains(u, "/23968772/") {
 		dest = scrapeContentUpdate(dest, doc, "#item10", "10.1.5",
 			time.Date(2023, 7, 6, 0, 0, 0, 0, time.UTC))
@@ -194,6 +200,13 @@ func fixCasing(changes []Change) []Change {
 		"CROSS-REALM TRADING":                 "Cross-Realm Trading",
 		"CHROMIE TIME":                        "Chromie Time",
 		"TRACKING APPEARANCES":                "Tracking Appearances",
+		"CHALLENGE COURSE":                    "Challenge Course",
+		"NEW CAMPAIGN CHAPTERS":               "Campaign",
+		"A SINGLE WING":                       "A Single Wing",
+		"NO LIMITS":                           "No Limits",
+		"REFORGING TYR PART 3":                "Reforging Tyr Part 3",
+		"PING SYSTEM":                         "Ping System",
+		"REAL TIME CHAT MODERATION":           "Real Time Chat Moderation",
 	}
 
 	for _, c := range changes {
