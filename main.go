@@ -11,13 +11,13 @@ import (
 	"net/url"
 	"os"
 	"path/filepath"
-	"regexp"
 	"sort"
 	"strings"
 	"time"
 	"unicode"
 
 	"github.com/PuerkitoBio/goquery"
+	"golang.org/x/net/html"
 )
 
 type Change struct {
@@ -271,127 +271,142 @@ func fixCasing(changes []Change) []Change {
 }
 
 func scrapeContentUpdate(dest []Change, doc *goquery.Document, firstHeader, version string, date time.Time) []Change {
-	ignore := true
+	changeSets := doc.Find(".Blog .detail " + firstHeader)
 
-	changeSets := doc.Find(".Blog .detail h4")
-	changeSets.Each(func(i int, category *goquery.Selection) {
-		if category.Is(firstHeader) {
-			ignore = false
-		}
+	if len(changeSets.Nodes) == 0 {
+		log.Fatal("missing .Blog .detail " + firstHeader)
+	}
+	if len(changeSets.Nodes) > 1 {
+		log.Fatal("multiple .Blog .detail " + firstHeader)
+	}
 
-		if ignore {
-			return
-		}
+	header := changeSets.Nodes[0]
+	root := header.Parent
+	for header.PrevSibling != nil {
+		header.Parent.RemoveChild(header.PrevSibling)
+	}
 
-		ul := category.NextFiltered("ul")
-
-		dest = collectChanges(dest, ul,
-			append(cleanTag(category.Text()), version),
-			date, doc.Url,
-		)
-	})
-
-	return dest
+	return scrapeHTML(dest, root, doc, date, []string{version})
 }
 
 func scrapeHotfixes(dest []Change, doc *goquery.Document) []Change {
-	changeSets := doc.Find(".Blog .detail h4")
-	if changeSets.Size() == 0 {
-		log.Fatal("No change sets in HTML doc")
+	changeSets := doc.Find(".Blog .detail")
+
+	if len(changeSets.Nodes) == 0 {
+		log.Fatal("missing .Blog .detail")
+	}
+	if len(changeSets.Nodes) > 1 {
+		log.Fatal("multiple .Blog .detail")
 	}
 
-	changeSets.Each(func(i int, patchNotes *goquery.Selection) {
-		dateEn := patchNotes.Text()
-		if dateEn == "" {
-			return
-		}
-		date, err := time.Parse("January 2, 2006", dateEn)
-		if err != nil {
-			log.Fatal(err)
-		}
+	return scrapeHTML(dest, changeSets.Nodes[0], doc, time.Time{}, nil)
+}
 
-		var nCategories int
-		for {
-			category := patchNotes.NextFiltered("p")
-			if category.Size() == 0 || category.Text() == "" {
-				break
+func scrapeHTML(dest []Change, root *html.Node, doc *goquery.Document, date time.Time, tags []string) []Change {
+	tree := buildTree(root)
+
+	var uStr string
+	if srcURL := doc.Url; srcURL != nil {
+		u := new(url.URL)
+		*u = *srcURL
+		u.Path = filepath.Dir(u.Path)
+		uStr = u.String()
+	}
+
+	var category string
+	for _, n := range tree.Children {
+		if !date.IsZero() && category != "" {
+			switch n.Type {
+			case TypeTag, TypeChange, TypeUnclassified:
+				dest = collectChanges(dest, n, append(tags, cleanTag(category)...), date, uStr)
+				category = ""
+			default:
+				log.Fatalf("unexpected %s; want one of 'tag', 'change', 'unclassified'", n.Type.String())
 			}
-			nCategories++
-
-			ul := category.NextFiltered("ul")
-			if ul.Size() == 0 {
-				log.Fatalf("No changes in category %q for change set %d (%s)", category.Text(), i, date.Format(time.DateOnly))
-			}
-
-			dest = collectChanges(dest, ul,
-				cleanTag(category.Text()),
-				date, doc.Url,
-			)
-
-			patchNotes = ul
 		}
-		if nCategories == 0 {
-			log.Fatalf("No categories in change set %d (%s)", i, date.Format(time.DateOnly))
+
+		switch n.Type {
+		case TypeDate:
+			var err error
+			date, err = time.Parse("January 2, 2006", n.Text)
+			if err != nil {
+				panic(fmt.Sprintf("date miss-classified: %s: %v", n.Text, err))
+			}
+		case TypeTag:
+			if !date.IsZero() {
+				category = n.Text
+			}
+		}
+	}
+
+	return dest
+}
+
+func buildTree(root *html.Node) *Tree {
+	tree := &Tree{
+		Children: CollectTexts(root),
+	}
+
+	tree.Prune(true)
+	tree.Walk(func(n *Tree) {
+		if n.Text != "" {
+			n.Text = strings.TrimSpace(n.Text)
 		}
 	})
+	tree.Prune(false)
+	tree.Walk(func(n *Tree) {
+		n.Type = Classify(n)
+	})
 
-	return dest
+	return tree
 }
 
-func collectChanges(dest []Change, ul *goquery.Selection, tags []string, date time.Time, srcURL *url.URL) []Change {
-	for _, c := range flattenChanges(ul, tags) {
-		c.Date = date.Format(time.DateOnly)
-		c.Weekday = date.Weekday().String()
-		if srcURL != nil {
-			u := new(url.URL)
-			*u = *srcURL
-			u.Path = filepath.Dir(u.Path)
-			c.URL = u.String()
-		}
-		dest = append(dest, c)
-	}
-
-	return dest
+func collectChanges(dest []Change, tree *Tree, tags []string, date time.Time, srcURL string) []Change {
+	return append(dest, flattenChanges(tree, tags, date, srcURL)...)
 }
 
-var leadingSpace = regexp.MustCompile(`\n[ \t]+`)
-var repeatedSpace = regexp.MustCompile(`[ \t]+`)
-var repeatedNL = regexp.MustCompile(`\n\n+`)
-
-func flattenChanges(ul *goquery.Selection, tags []string) []Change {
+func flattenChanges(root *Tree, tags []string, date time.Time, srcURL string) []Change {
 	for _, t := range tags {
 		if strings.Contains(t, "WotLK") {
+			return nil
+		}
+		if strings.Contains(t, "WoW Classic Hardcore") {
 			return nil
 		}
 	}
 
 	var changes []Change
 
-	var lis []*goquery.Selection
+	addChange := func(n *Tree, tags []string) {
+		t := make([]string, len(tags))
+		copy(t, tags)
 
-	ul.Find("span strong").Unwrap()
+		changes = append(changes, Change{
+			Date:    date.Format(time.DateOnly),
+			Weekday: date.Weekday().String(),
+			URL:     srcURL,
+			Tags:    t,
+			Text:    n.Text,
+		})
+	}
 
-	ul.Children().Each(func(i int, li *goquery.Selection) {
-		lis = append(lis, li)
-	})
+	switch root.Type {
+	case TypeTag:
+		tags = append(tags, cleanTag(root.Text)...)
+	case TypeChange:
+		addChange(root, tags)
+	}
 
-	for _, li := range lis {
-		newTags := cleanTag(li.ChildrenFiltered("strong").First().Text())
-		if len(newTags) > 0 {
-			changes = append(changes, flattenChanges(li.ChildrenFiltered("ul"), append(tags, newTags...))...)
-		} else {
-			text := strings.TrimSpace(li.Text())
-			text = leadingSpace.ReplaceAllString(text, "\n")
-			text = repeatedSpace.ReplaceAllString(text, " ")
-			text = repeatedNL.ReplaceAllString(text, "\n\n")
-
-			t := make([]string, len(tags))
-			copy(t, tags)
-
-			changes = append(changes, Change{
-				Tags: t,
-				Text: text,
-			})
+	for _, n := range root.Children {
+		switch n.Type {
+		case TypeTag:
+			tags = append(tags, cleanTag(n.Text)...)
+		case TypeUnclassified:
+			changes = append(changes, flattenChanges(n, tags, date, srcURL)...)
+		case TypeChange:
+			addChange(n, tags)
+		default:
+			log.Fatalf("unexpected %s; want one of 'tag', 'change', 'unclassified'", n.Type.String())
 		}
 	}
 
@@ -435,14 +450,15 @@ func cleanTag(t string) []string {
 	if t == "Discipline, Shadow" {
 		return []string{"Discipline", "Shadow"}
 	}
+	if t == "Enhancement, Elemental" {
+		return []string{"Enhancement", "Elemental"}
+	}
 
 	return []string{t}
 }
 
 func debug(args []string) []Change {
 	fname := args[0]
-	firstHeader := args[1]
-	versionTag := args[2]
 
 	f, err := os.Open(fname)
 	if err != nil {
@@ -454,5 +470,12 @@ func debug(args []string) []Change {
 		log.Fatal(err)
 	}
 	dest := make([]Change, 0, 5000)
-	return scrapeContentUpdate(dest, doc, firstHeader, versionTag, time.Now())
+
+	if len(args) > 1 {
+		firstHeader := args[1]
+		versionTag := args[2]
+		return scrapeContentUpdate(dest, doc, firstHeader, versionTag, time.Now())
+	} else {
+		return scrapeHotfixes(dest, doc)
+	}
 }
