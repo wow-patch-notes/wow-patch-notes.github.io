@@ -14,7 +14,6 @@ import (
 	"sort"
 	"strings"
 	"time"
-	"unicode"
 
 	"github.com/PuerkitoBio/goquery"
 	"golang.org/x/net/html"
@@ -43,7 +42,9 @@ func main() {
 	if args := flag.Args(); len(args) > 0 {
 		changes := debug(args)
 
-		changes = fixCasing(changes)
+		fixCasing(changes)
+		checkTags(changes)
+
 		sort.SliceStable(changes, func(i, j int) bool {
 			return changes[i].Date > changes[j].Date
 		})
@@ -72,7 +73,8 @@ func main() {
 		allChanges = scrapeURL(ctx, allChanges, u)
 	}
 
-	allChanges = fixCasing(allChanges)
+	fixCasing(allChanges)
+	checkTags(allChanges)
 
 	sort.SliceStable(allChanges, func(i, j int) bool {
 		return allChanges[i].Date > allChanges[j].Date
@@ -179,95 +181,6 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 	log.Fatalf("Unrecognizable URL: %s", u)
 
 	return dest
-}
-
-func fixCasing(changes []Change) []Change {
-	tagSet := map[string]string{ // upper -> mixed
-		"PLAYER VERSUS PLAYER":                "PvP",
-		"RATED SOLO SHUFFLE":                  "Solo Shuffle",
-		"OPTIONS":                             "Options",
-		"NEW RECIPES":                         "New Recipes",
-		"TAILORING":                           "Tailoring",
-		"COOKING":                             "Cooking",
-		"BLACKSMITHING":                       "Blacksmithing",
-		"FREEHOLD":                            "Freehold",
-		"VORTEX PINNACLE":                     "Vortex Pinnacle",
-		"ULDAMAN":                             "Uldaman",
-		"EDIT MODE":                           "Edit Mode",
-		"SNIFFENSEEKING":                      "Sniffenseeking",
-		"PUBLIC OBJECTIVES":                   "Public Objectives",
-		"RESEARCHERS UNDER FIRE PUBLIC EVENT": "Researchers Under Fire",
-		"CROSS-REALM TRADING":                 "Cross-Realm Trading",
-		"CHROMIE TIME":                        "Chromie Time",
-		"TRACKING APPEARANCES":                "Tracking Appearances",
-		"CHALLENGE COURSE":                    "Challenge Course",
-		"NEW CAMPAIGN CHAPTERS":               "Campaign",
-		"A SINGLE WING":                       "A Single Wing",
-		"NO LIMITS":                           "No Limits",
-		"REFORGING TYR PART 3":                "Reforging Tyr Part 3",
-		"PING SYSTEM":                         "Ping System",
-		"REAL TIME CHAT MODERATION":           "Real Time Chat Moderation",
-	}
-
-	for _, c := range changes {
-		for _, t := range c.Tags {
-			uc := strings.ToUpper(t)
-			if uc == t {
-				continue
-			}
-			tagSet[uc] = t
-		}
-	}
-
-	fnames, err := filepath.Glob("site/*.json")
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	for _, fname := range fnames {
-		f, err := os.Open(fname)
-		if err != nil {
-			log.Fatal(err)
-		}
-
-		var old struct {
-			Changes []struct {
-				Tags []string
-			}
-		}
-
-		json.NewDecoder(f).Decode(&old)
-		for _, c := range old.Changes {
-			for _, t := range c.Tags {
-				uc := strings.ToUpper(t)
-				if uc == t {
-					continue
-				}
-				tagSet[uc] = t
-			}
-		}
-	}
-
-	var hasInvalidTag bool
-	for i, c := range changes {
-		for j, t := range c.Tags {
-			if mc, ok := tagSet[t]; ok {
-				t = mc
-				changes[i].Tags[j] = mc
-			}
-
-			if strings.IndexFunc(t, unicode.IsLetter) >= 0 && t == strings.ToUpper(t) {
-				hasInvalidTag = true
-				log.Println("Upper case tag: " + t)
-			}
-		}
-	}
-
-	if hasInvalidTag {
-		log.Fatal("There is at least one invalid tag")
-	}
-
-	return changes
 }
 
 func scrapeContentUpdate(dest []Change, doc *goquery.Document, firstHeader, version string, date time.Time) []Change {
@@ -378,15 +291,23 @@ func flattenChanges(root *Tree, tags []string, date time.Time, srcURL string) []
 	var changes []Change
 
 	addChange := func(n *Tree, tags []string) {
-		t := make([]string, len(tags))
-		copy(t, tags)
+		text := n.Text
+
+		ts := make([]string, 0, len(tags))
+		for _, t := range tags {
+			if strings.HasPrefix(t, "__text_prefix ") {
+				text = strings.TrimPrefix(t, "__text_prefix ") + text
+			} else {
+				ts = append(ts, t)
+			}
+		}
 
 		changes = append(changes, Change{
 			Date:    date.Format(time.DateOnly),
 			Weekday: date.Weekday().String(),
 			URL:     srcURL,
-			Tags:    t,
-			Text:    n.Text,
+			Tags:    ts,
+			Text:    text,
 		})
 	}
 
@@ -411,50 +332,6 @@ func flattenChanges(root *Tree, tags []string, date time.Time, srcURL string) []
 	}
 
 	return changes
-}
-
-func cleanTag(t string) []string {
-	t = strings.TrimSpace(t)
-	if t == "" {
-		return nil
-	}
-
-	t = strings.NewReplacer(
-		"’", "'",
-		"Alegeth'ar Academy", "Algeth'ar Academy",
-		"Alegeth'ar Acadmey", "Algeth'ar Academy",
-		"Azure Vaults", "Azure Vault",
-		"Brakenhide Hollow", "Brackenhide Hollow",
-		"Erkheart Stormvein", "Erkhart Stormvein",
-		"Ner'Zul", "Ner'zhul",
-		"Thaldrazsus", "Thaldraszus",
-		"Player versus Player", "PvP",
-		"Wrath of the Lich King", "WotLK",
-		"Aberrus, the Shadowed Crucible", "Aberrus",
-		"Aberrus the Shadowed Crucible", "Aberrus",
-		"Kassara", "Kazzara",
-	).Replace(t)
-
-	if strings.HasSuffix(t, "Tuskar") {
-		t += "r"
-	}
-
-	t = strings.TrimPrefix(t, "The ")
-	t = strings.TrimPrefix(t, "THE ")
-
-	t = strings.TrimSuffix(t, " (Raidfinder)")
-	t = strings.TrimSuffix(t, " (Normal)")
-	t = strings.TrimSuffix(t, " (Heroic)")
-	t = strings.TrimSuffix(t, " (Mythic)")
-
-	if t == "Discipline, Shadow" {
-		return []string{"Discipline", "Shadow"}
-	}
-	if t == "Enhancement, Elemental" {
-		return []string{"Enhancement", "Elemental"}
-	}
-
-	return []string{t}
 }
 
 func debug(args []string) []Change {
