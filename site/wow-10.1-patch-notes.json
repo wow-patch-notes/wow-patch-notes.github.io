@@ -1,6 +1,45 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Rescue will no longer cause Verdant Embrace to be placed on cooldown if used while Flow State is active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The Whirring Chainblade now has its appropriate minimum level required."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items",
+        "Engineering"
+      ],
+      "Text": "Fixed a bug that caused Chromatically Calibrated engineering goggles to require level 58 to transmogrify."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The Legend of Mechagon can now be properly completed by all characters."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23987385",
       "Date": "2023-09-05",
       "Weekday": "Tuesday",
