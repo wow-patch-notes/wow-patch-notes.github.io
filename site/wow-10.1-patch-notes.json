@@ -2,6 +2,87 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dragonriding"
+      ],
+      "Text": "The Loamm Roamm Reverse Challenge silver medal should again be rewarded correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Chromie now offers “No Limits”, a questline delving into Eternus's past, without requiring the Dawn of the Infinites dungeon to be completed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "When “Stepping into the Shadows”, Maiev Shadowsong should no longer point at invisible Felflame Braziers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Moraidormi now stops disappearing and Nozdormu will enter stealth more appropriately during the quest \"Not Today, Fate.\""
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Demon Hunters who previously could not interact with the Control Console can now return to The Fel Hammer continue with their Order Hall campaign."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Tinkmaster Overspark is visible, and \"The Legend of Mechagon\" is once again available to players above level 60."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "For each player-character's current Rank, weekly PvP contribution calculations now only award up to the amount of contribution points missing in progress towards the next Rank threshold."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "Developers' note: In higher ranks, players have been intentionally earning dishonorable kills to lower themselves below their current rank threshold in order to gain credit for an additional Rank, thereby allowing them to gain progress more quickly than a player who is just above that next Rank threshold. You now first earn up to the amount you're missing from the Rank you start in. There should no longer be a benefit from lowering one's rank via dishonorable kills to earn progress more quickly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-08",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "Fixed an issue that caused the Honor reward for Alterac Valley marks turn-in quests to be unintentionally doubled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
       "Date": "2023-09-06",
       "Weekday": "Wednesday",
       "Tags": [
