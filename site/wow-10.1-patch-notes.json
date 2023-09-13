@@ -2,6 +2,44 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue that was preventing players from being properly granted the baseline Challenger, Rival, and Duelist"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Classic"
+      ],
+      "Text": "Fixed a bug that prevented the NPC Tyrion from turning back into a quest-giver at the conclusion of the quest “The Attack!”"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Classic",
+        "Hardcore Realms"
+      ],
+      "Text": "The Coarse Dynamite thrown by civilian dwarf NPCs at Dun Modr should no longer cause players to become PvP flagged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
+      "Date": "2023-09-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Classic",
+        "Hardcore Realms"
+      ],
+      "Text": "Developers’ notes: These specific NPCs had a very small chance to hit you and flag you, so it may as well be zero chance. Nonetheless, we do not intend to make changes to the general behavior of enemy faction guards in Hardcore. Players who wish to avoid being flagged for PvP should avoid enemy faction settlements and quests labeled “PvP” in the Quest Log."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23973739",
       "Date": "2023-09-08",
       "Weekday": "Friday",
       "Tags": [
