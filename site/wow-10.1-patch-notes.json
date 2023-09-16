@@ -2,6 +2,61 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-15",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dragon Racing"
+      ],
+      "Text": "Adjusted Gold and Silver times for the Flashfrost Flyover Reverse Challenge race. These were inadvertently set too high."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-15",
+      "Weekday": "Friday",
+      "Tags": [
+        "Professions",
+        "Engineering"
+      ],
+      "Text": "Engineers can now purchase Sprocket Containers from Hobart Grapplehammer in Legion Dalaran at a cost of 50 Leystone and 10 Felslate each."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-15",
+      "Weekday": "Friday",
+      "Tags": [
+        "Rewards"
+      ],
+      "Text": "Fixed a bug that caused Zaqali Elders’ loot to drop at a lower item level than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-15",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "[With Realm Restarts] Fixed a bug affecting bonus Honor awarded for Alterac Valley."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-15",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "Completing “Fish in a Bucket” no longer rewards gold."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-15",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "Developers’ notes: This change was originally made in patch 2.0.10 and works well in Classic Era/Hardcore, as the original quest provided an uncontested, single-faction, infinitely repeatable, low risk gold reward that does not comport with the nature of the rest of the game."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
       "Date": "2023-09-13",
       "Weekday": "Wednesday",
       "Tags": [
