@@ -2,6 +2,34 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Events"
+      ],
+      "Text": "The Waking Dream public event in the Azure Span should now properly start."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Events",
+        "Brewfest"
+      ],
+      "Text": "Fixed an issue that prevented Keg-Shaped Treasure Chest from being awarded to players below level 70."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The weekly Time Rifts quest \"When Time Needs Mending\" can now be completed in a raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
       "Date": "2023-09-19",
       "Weekday": "Tuesday",
       "Tags": [
