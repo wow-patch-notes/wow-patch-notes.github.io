@@ -2,6 +2,44 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that caused the Unstoppable Growth talent to not function."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Events"
+      ],
+      "Text": "Brewfest Hops no longer affect dragonriding mounts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Events"
+      ],
+      "Text": "When dragonriding in Eastern Kingdoms Cup races, players will now be temporarily granted fully unlocked dragonriding, regardless of their current Dragonriding Talent Tree state."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-09-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "Fixed an issue that prevented Ouro from spawning after a post-wipe reset."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
       "Date": "2023-09-21",
       "Weekday": "Thursday",
       "Tags": [
