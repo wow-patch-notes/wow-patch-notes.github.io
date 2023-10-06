@@ -2,6 +2,51 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-05",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dragonriding"
+      ],
+      "Text": "Fixed an issue with the Airborne Recovery dragonriding talent that would cause Aerial Halt to not regenerate a Vigor when cast during Thrill of the Skies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-05",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug that could prevent Everlasting Horn of Lavaswimming from dropping as intended on completion of the Siege of Dragonbane Keep."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-05",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug that could cause a failure to receive a Warcraft Rumble toy reward. If you earned a toy, but did not receive the item, click on the Warcraft Rumble Machine again to be given the toy."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-05",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug that could cause Warcraft Rumble Foils to go missing. If you’re missing a Foil that should have been given to you, click on the Warcraft Rumble Machine to receive the Foil. Multiple clicks can produce multiple missing Foils, if applicable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-05",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "When you summon a Warcraft Rumble Toy that's gained additional looks, you can now interact with that toy to cycle through its earned looks. Each time you change looks, there's a 5-second cooldown until you can interact with it again."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
       "Date": "2023-10-02",
       "Weekday": "Monday",
       "Tags": [
