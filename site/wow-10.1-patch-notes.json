@@ -2,6 +2,61 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-13",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that could prevent \"Windborne Velocidrake: Visage of the Infinite\" from dropping for some players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-13",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Sockets may now be added to Dreamsurge gear."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-13",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: Gear that was acquired through the Dreamsurge before this hotfix will not be eligible for socketing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-13",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed a bug that could prevent the Maruuk Centaur quest “Farrier Rondare” from proceeding as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-13",
+      "Weekday": "Friday",
+      "Tags": [
+        "World"
+      ],
+      "Text": "Fixed a bug preventing Zidormi from toggling to both versions of Theramore as expected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-13",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classic Era",
+        "Hardcore"
+      ],
+      "Text": "The object created by a warlock’s Ritual of Summoning is now placed exactly where the warlock is standing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
       "Date": "2023-10-05",
       "Weekday": "Thursday",
       "Tags": [
