@@ -2,6 +2,51 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-17",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Players can now queue for Mists of Pandaria timewalking and Wrath of the Lich King timewalking while in Chromie time, when available."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-17",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed an issue where defeating Aku'mai in Blackfathom Deeps and Archaedas in Uldaman was not properly completing the dungeon and rewarding players when queued into via the Random Dungeon Finder tool."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-17",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed a bug that prevented Netherwhelp and Frosty from appearing in the Pets tab."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-17",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed a bug that prevented shapeshifted Druids from exiting certain dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-17",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed an issue where Luck of the Draw was not being given to players entering The Escape from Durnholde from a Random Dungeon Finder queue."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
       "Date": "2023-10-13",
       "Weekday": "Friday",
       "Tags": [
