@@ -2,6 +2,98 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Blade's Edge Arena has been temporarily removed from the Arena rotation, for a terrain issue to be addressed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Classic Era",
+        "Hardcore"
+      ],
+      "Text": "(With realm restarts) Added additional protections to prevent some deaths via flight-path disconnects. Now when you take a taxi, a protection aura is placed on you that prevents all damage, your hearthstone cooldown is reset, and your hearthstone spell is insta-cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Classic Era",
+        "Hardcore"
+      ],
+      "Text": "Developers’ notes: We have alerts in place that will help us as we continue to monitor and investigate this issue."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Adjusted the logic controlling the levels at which player-characters are allowed to queue for dungeons in the Random Dungeon Finder so that it is closer to the range displayed, which was also adjusted. Now, all classic dungeons should allow a range of roughly 8 levels: from 3 levels below the level of the final boss to 5 levels above. Burning Crusade dungeons should now allow a range of 3 levels below the end boss to 3 or 4 levels above it, and Wrath dungeons allow a range that starts at 3 levels below the end boss."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Developers' notes: The most noticeable effect here is that the minimum level allowed for some dungeons has gone up slightly. This is intended to address situations that arise for players whose level was significantly lower than the rest of the group."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed a bug that could prevent Masked Orphan Matrons from starting the Headless Horseman’s fire events in various towns."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed an issue that sometimes caused Talon King Ikiss in Sethekk Halls to not grant completion credit for the dungeon in Random Dungeon Finder."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed a bug that prevented Death Knights’ tier 10 Sanctified Scourgelord 4-piece damage bonus from working properly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "The \"Sinister Calling\" step has been removed from the \"Hallowed Be Thy Name\" achievement."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
+      "Date": "2023-10-25",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Developers’ notes: We’ve been working on a permanent fix for the underlying issue here, but we want to alleviate the immediate concern for players with Hallow’s End already underway."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/23985151",
       "Date": "2023-10-20",
       "Weekday": "Friday",
       "Tags": [
