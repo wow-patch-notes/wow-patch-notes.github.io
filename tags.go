@@ -55,6 +55,8 @@ func cleanTag(t string) []string {
 	m := map[string][]string{
 		"Aberrus the Shadowed Crucible":  {"Aberrus"},
 		"Aberrus, the Shadowed Crucible": {"Aberrus"},
+		"Amirdrassil the Dreams Hope":    {"Amirdrassil"},
+		"Amirdrassil, the Dreams Hope":   {"Amirdrassil"},
 		"Alegeth'ar Academy":             {"Algeth'ar Academy"},
 		"Alegeth'ar Acadmey":             {"Algeth'ar Academy"},
 		"Asaad, Caliph of Zephyrs":       {"Asaad"},
@@ -121,6 +123,15 @@ func fixCasing(changes []Change) {
 		"USER INTERFACE":                      "User Interface",
 		"ACCESSIBILITY":                       "Accessibility",
 		"VORTEX PINNACLE":                     "Vortex Pinnacle",
+		"UPGRADE SYSTEM":                      "Upgrade System",
+		"TALENTS UI":                          "Talents UI",
+		"MACROS":                              "Macros",
+		"MISFIT DRAGONS":                      "Misfit Dragons",
+		"GREAT VAULT":                         "Great Vault",
+		"REFORGING TYR PART 4":                "Reforging Tyr",
+		"AMIRDRASSIL, THE DREAMS HOPE RAID REWARDS": "Amirdrassil",
+		"AMIRDRASSIL, THE DREAMS HOPE":              "Amirdrassil",
+		"AMIRDRASSIL THE DREAMS HOPE":               "Amirdrassil",
 	}
 
 	for _, c := range changes {
