@@ -16,6 +16,96 @@
       "Weekday": "Thursday",
       "Tags": [
         "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Dragon Isles Pathfinder requires the following:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Waking Hope – Complete the Waking Shores storyline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Ohn'a'roll – Complete the Ohn'ahran Plains storyline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Azure Spanner – Complete the Azure Span storyline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Just Don't Ask Me to Spell It – Complete the Thaldraszus storyline."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Embers of Neltharion – Complete the Forbidden Reach and Zaralek Cavern storylines."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Freshscales Fifteen – Achieve renown fifteen with all major factions on the Dragon Isles: Dragonscale Expedition, Maruuk Centaur, Iskaara Tuskarr, Valdrakken Accord, Loamm Niffen, and Dream Wardens."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Explore Zaralek Cavern – Explore Zaralek Cavern, revealing the covered areas of the world map."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Achievements"
+      ],
+      "Text": "Explore the Emerald Dream –  Explore the Emerald Dream, revealing the covered areas of the world map."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
         "Classes"
       ],
       "Text": "Developers' note: We’re reducing the effectiveness of many mana restoration class abilities and specific items. Healers have a lot of decisions and resources to manage that change depending on the type of content you are doing. At its core, we want healers to have interesting abilities and choices to make while healing, and we want you to have to manage your mana pool. We’re hoping our changes reduce the amount of overhealing and make mana matter slightly more, which should make healing across the game a more enjoyable experience."
@@ -529,9 +619,23 @@
         "10.2.0",
         "Classes",
         "Demon Hunter",
-        "Havoc"
+        "Havoc",
+        "New Talent: Demon Hide –"
       ],
-      "Text": "New Talent: Demon Hide – Magical damage increased by 5%, and Physical damage taken reduced by 5%."
+      "Text": "Magical damage increased by 3%"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Demon Hunter",
+        "Havoc",
+        "New Talent: Demon Hide –"
+      ],
+      "Text": ", and Physical damage taken reduced by 5%."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
@@ -604,6 +708,18 @@
         "Havoc"
       ],
       "Text": "Fel Barrage has been redesigned – No longer channeled, drains 8 Fury every 0.25 seconds, lasting 8 seconds or until Fury is depleted. Damage reduced beyond 5 targets (was 8)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Fel Barrage damage reduced by 6%."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
@@ -817,9 +933,11 @@
         "10.2.0",
         "Classes",
         "Demon Hunter",
-        "Havoc"
+        "Havoc",
+        "Shattered Destiny now increases",
+        "demon form duration per 12 Fury spent"
       ],
-      "Text": "Shattered Destiny now increases demon form duration per 10 Fury spend (was 8)."
+      "Text": "(was 8)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
@@ -5051,6 +5169,42 @@
         "Rogue",
         "Assassination"
       ],
+      "Text": "Garrote damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Rupture damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Deathmark damage increased by 13%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
       "Text": "Envenom damage increased by 8% and duration reduced by 1 second."
     },
     {
@@ -5412,6 +5566,18 @@
         "Assassination"
       ],
       "Text": "Zoldyck Recipe is now a 2-rank talent (was 3). Per rank values have not changed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Zoldyck Recipe now applies to its intended damage sources, now including: Envenom, Sepsis, and Vicious Venoms."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
@@ -6467,6 +6633,18 @@
         "Rogue",
         "Subtlety"
       ],
+      "Text": "Poison and Bleed skills converted to Shadow damage via Dark Brew now correctly benefit from Veiltouched and Deeper Daggers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
       "Text": "Sepsis now grants full combo points with Shadow Blades."
     },
     {
@@ -6587,6 +6765,18 @@
         "Enhancement"
       ],
       "Text": "New Talent: Tempest Strikes (Passive) – Your Stormstrike, Lava Lash, and Ice Strike have a chance to cause bonus Nature damage to your target. Choice node with Elemental Blast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "All ability damage reduced by 3%."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
@@ -7508,7 +7698,7 @@
         "Warrior",
         "Arms"
       ],
-      "Text": "Developers' note: Skullsplitter's immediate expiration of Deep Wounds and Rend caused too much rotational impact and had unintuitive side effects. The redesigned Deep Wounds and Rend interactions should alleviate these issues while providing Arms Warriors a new way to interact with bleed effects."
+      "Text": "Developers' note: Skullsplitter's immediate expiration of Deep Wounds and Rend caused too much rotational impact and had unintuitive side effects. The redesigned Deep Wounds and Rend interactions should alleviate these issues while providing Arms Warriors a new way to interact with bleed effects.D"
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
