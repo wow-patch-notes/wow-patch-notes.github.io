@@ -7875,6 +7875,18 @@
       "Weekday": "Thursday",
       "Tags": [
         "10.2.0",
+        "Dungeons and Raids",
+        "Mythic+",
+        "Affixes"
+      ],
+      "Text": "Pools of Sanguine Ichor are now treated as connected, and moving between connected pools will no longer apply an additional application of Sanguine Ichor."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
         "Items"
       ],
       "Text": "Developers' note: As players prepare to delve into Amirdrassil, we are adjusting several Aberrus trinkets to account for changes to tuning targets and philosophy as well as to mitigate effects which have proven simply too synergistic with class power. As with Vault of the Incarnates, we want to avoid scenarios where item power could drive players to continue running old content that they otherwise would leave behind."
@@ -8146,7 +8158,29 @@
         "Items",
         "Professions"
       ],
-      "Text": "Undulating Sporecloak shield reduced by 50%. Now provides Versatility while above 70% health."
+      "Text": "Undulating Sporecloak shield reduced by 79%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Items",
+        "Professions"
+      ],
+      "Text": "Now provides Versatility while above 70% health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Items",
+        "Professions"
+      ],
+      "Text": "Developers' note: We are making some adjustments to the values of Undulating Sporecloak's bonuses in Guardians of the Dream. In Fury Incarnate, it provides healing at high health and an absorb shield when you fall to low health. In Guardians of the Dream, to preserve its oscillating fantasy, we made the absorb shield less effective at protecting players who make otherwise fatal mistakes in exchange for rewarding safe gameplay with a Versatility bonus when above 70% health."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
