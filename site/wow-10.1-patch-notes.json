@@ -7876,6 +7876,54 @@
       "Tags": [
         "10.2.0",
         "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Developers' note: The below changes are intended to accommodate the changes to limiting access to player locations during the encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Ebon Destruction cast time increased to 12 seconds on Mythic difficulty (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Sundered Reality no longer decreases damage done on Mythic difficulty (was -99% damage)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Volcanic Heart radius reduced to 18 yards on Mythic difficulty (was 20 yards)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Dungeons and Raids",
         "Mythic+",
         "Affixes"
       ],
@@ -8115,6 +8163,28 @@
         "Upgrade System"
       ],
       "Text": "Players can earn 90 crests of each type per week, which is enough to afford 6 upgrades of each crest type per week (was 10 upgrades)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Items",
+        "Upgrade System"
+      ],
+      "Text": "Flightstones earned in Dragonflight Season 2 will be converted to gold."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
+      "Date": "2023-10-26",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.0",
+        "Items",
+        "Upgrade System"
+      ],
+      "Text": "Shadowflame Crests and Crest Fragments will become grey items."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
