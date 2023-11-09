@@ -1,6 +1,69 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dragonriding"
+      ],
+      "Text": "Fixed an issue where Dragon Glyph Resonance was not appearing for specific mounts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Emerald Dream"
+      ],
+      "Text": "Firebrand Fystia now correctly knows when she’s dead, and no longer shows up on the zone map."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Emerald Dream"
+      ],
+      "Text": "Fixed an issue that prevented Seedbloom from being rewarded through the completion of the weekly Blooming Dreamseeds quest. Additionally, if you completed the quest before our hotfix went out, go to the Emerald Dream and then check your mail. The local postmaster should be sending out replacement Seedblooms."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Emerald Dream"
+      ],
+      "Text": "Filling up a Dreamseed with Emerald Dewdrops should now grant reputation with the Dream Wardens."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "[With realm restarts] Fixed an issue where Temple of Kotmogu and Silvershard Mines in the Deep Six brawl could have a maximum of 8 players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The Timewalking weekly quest “A Savage Path Through Time” again properly rewards a chest containing random Aberrus, the Shadowed Crucible items."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Reputation"
+      ],
+      "Text": "Fixed an issue that prevented players who used a level 70 Boost from being able to obtain the intended Renown with Dragonflight factions. Players who have remained logged into the game may need to log out and back into the game on any affected boosted characters."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24020034",
       "Date": "2023-10-26",
       "Weekday": "Thursday",
