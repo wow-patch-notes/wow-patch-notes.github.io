@@ -2,6 +2,121 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes"
+      ],
+      "Text": "Fixed an issue that sometimes caused the talent frame to show the incorrect number of points on talents when trying to refund talent points for Priest, Demon Hunter, and Rogue."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an issue causing Blood Frenzy to not benefit from Haste or Cycle of Life and Death."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Ultimate Penitence now clears root effects when cast, instead of returning the error message \"You are unable to move.\""
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue with Paracausal Fragment of Thunderfin, Humid Blade of the Tideseeker where the trinket effect was not functioning properly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The Sarannis' Mystic Sheen absorb is reduced by 68% and the cloak now has primary stats."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions"
+      ],
+      "Text": "You can now place crafting orders for Mark of the Auric Dreamstag."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "Alchemy"
+      ],
+      "Text": "Fixed an issue that prevented Phial and Potion cauldrons from being usable in non-keystone Mythic dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "Alchemy"
+      ],
+      "Text": "Fixed an issue that sometimes allowed for Phial auras to persist in rated PvP environments and Battleground Blitz."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Professions",
+        "Jewelcrafting"
+      ],
+      "Text": "Cataclysm Jewelcrafting figurines now drop for all classes to aid with completion of the Fantastic Figurines achievement."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Reputation"
+      ],
+      "Text": "Dream Wardens reputation from Emerald Dewdrop contributions into Medium and Large Emerald Blooms during Emerald Bounty now reward a large amount of reputation with the first five each week."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface"
+      ],
+      "Text": "The Quest Journal will now properly display the Emerald Dream portal in the Emerald Conclave in Valdrakken."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-09",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "310% mounts now correctly fly at 310% speed in Outland."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-08",
       "Weekday": "Wednesday",
       "Tags": [
