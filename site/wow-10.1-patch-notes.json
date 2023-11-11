@@ -2,6 +2,128 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Treasures of the Emerald Dream again rewards the Forest Lord’s Antlers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Developers’ notes: While this was originally intended to be the reward for the Dream On achievement, a bug resulted in it being rewarded by the Treasures of the Emerald Dream achievement, so we’re going to leave it there permanently and look for something else to potentially reward for Dream On."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an issue causing Innate Resolve to not correctly increase Frenzied Regeneration healing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Abundance stacks will no longer incorrectly decrease if you happen to have more Rejuvenations active than the maximum amount of Abundance stacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Fixed an issue that caused Evokers who used a Boost to lose 10 item levels."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Emerald Bounty"
+      ],
+      "Text": "Fixed an issue with Scurfpea bloom chest not showing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Emerald Bounty"
+      ],
+      "Text": "Fixed an issue where Dream Daisys might report an active chest you did not have."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Emerald Bounty"
+      ],
+      "Text": "Dragon's Daffodil should no longer occasionally report an active chest that is not there."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Emerald Bounty"
+      ],
+      "Text": "The user interface at Lavatouched Lilies should now reflect contributions correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Reduced the Spirit effect on the Imbued Frostweave Slippers by 70%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: After reviewing the performance of this effect, we've decided to pull it back quite a bit as to not overshadow other items to the degree that it is. While this is a fun effect that will remain, we feel these slippers don’t necessarily need to be a required optimization for healers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Alt player-characters can now complete the World Quest \"Dryad Fire Drill\" without completing Chapter 1."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue preventing completion of the Hunter Class Hall Campaign quest “Survive the Night”."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-09",
       "Weekday": "Thursday",
       "Tags": [
