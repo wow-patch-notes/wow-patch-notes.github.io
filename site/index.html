@@ -202,7 +202,7 @@
 
 	<body>
 		<div class="change-list">
-			<h1 id="title">WoW Patch Notes for DF&nbsp;Season&nbsp;2</h1>
+			<h1 id="title">WoW Patch Notes for DF&nbsp;Season&nbsp;3</h1>
 			<details class='intro'>
 				<summary>About this page</summary>
 				<p>
@@ -217,7 +217,7 @@
 				</p>
 
 				<p>
-					<a id="json-link" href="/wow-10.1-patch-notes.json">
+					<a id="json-link" href="/wow-10.2-patch-notes.json">
 						The list of changes is available as a JSON document.
 					</a>
 				</p>
@@ -270,7 +270,7 @@
 
 						return f;
 					}, {
-							patch: "10.1",
+							patch: "10.2",
 							searchTerm: terms.pop(),
 							includeTags: [],
 							excludeTags: [],
@@ -279,7 +279,7 @@
 					console.error(err);
 
 					return {
-						patch: "10.1",
+						patch: "10.2",
 						searchTerm: "",
 						includeTags: [],
 						excludeTags: [],
@@ -296,6 +296,9 @@
 				var title = document.getElementById("title");
 				if (title) {
 					switch (filters.patch) {
+						case '10.2':
+							title.innerHTML = "WoW Patch Notes for DF&nbsp;Season&nbsp;3";
+							break;
 						case '10.1':
 							title.innerHTML = "WoW Patch Notes for DF&nbsp;Season&nbsp;2";
 							break;

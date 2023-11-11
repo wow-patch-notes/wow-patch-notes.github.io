@@ -45,8 +45,8 @@ jobs:
         run: |
           ls -l
           pwd
-          go run . -stop-after /23935248/ > site/wow-10.1-patch-notes.json
-                             # /23935248/: Embers of Neltharion Content Update Notes
+          go run . -stop-after /24020034/ > site/wow-10.2-patch-notes.json
+                             # /24020034/: Guardians of the Dream Content Update Notes
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
