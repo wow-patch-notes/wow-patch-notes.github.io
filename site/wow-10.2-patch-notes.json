@@ -2,6 +2,158 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter"
+      ],
+      "Text": "Fixed an issue that caused the Demon Hunter to briefly remain rooted when The Hunt's cast was cancelled or interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Incarnation: Chosen of Elune will no longer transform you into an armored Moonkin if you are using a new barbershop customization. The armored Incarnation model will show if you are using classic Moonkin form."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Spiritbloom will now bounce to friendly targets that are meant to be healed during quests and encounters."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Fixed an issue where Wild Instincts would not properly apply when multiple different hunters were using Call of the Wild."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk"
+      ],
+      "Text": "Fixed an issue causing Chi Torpedo to not trigger Mighty Roar."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Fixed an issue where Schism could fail to apply to your target if they ran out of your range or line of sight as Mind Blast completed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue"
+      ],
+      "Text": "Leeching Poison should no longer fall off when changing instances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue"
+      ],
+      "Text": "Fixed an issue with the interaction between Premeditation and Shadow Technique."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Lethal Dose should no longer cause Crimson Tempest, Serrated Bone Spike, or Mutilated Flesh (from Doomblade) to benefit, but not contribute from its effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus"
+      ],
+      "Text": "Scalecommander Sarkareth no longer casts an erroneous Void Slash in Stage 3."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that could cause some gear, such as gear obtained in Fyrakk Assaults, Time Rifts, or Dreamsurges to lose the option to be further upgraded when converted to an Aberrus set item."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter"
+      ],
+      "Text": "Fixed an issue that prevented Darkness from having its effect increased to 50% in PvP combat, as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Hunter"
+      ],
+      "Text": "Rapid Reload (Marksmanship Blazing Dreamstalker 4-piece set bonus) effectiveness reduced by 40% in PvP situations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Balloon drivers who are “Cataloging Thaldrazsus” are now less confused, and no longer send players on a very strange trip to Waking Shores."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-13",
+      "Weekday": "Monday",
+      "Tags": [
+        "User Interface"
+      ],
+      "Text": "Fixed an issue where Dragonriding vigor bars would occasionally show incorrect vigor values on login."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-10",
       "Weekday": "Friday",
       "Tags": [
