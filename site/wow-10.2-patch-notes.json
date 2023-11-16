@@ -2,6 +2,225 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Augmentation"
+      ],
+      "Text": "Ebon Might now properly benefits from the 4-piece class set bonus from Aberrus as well as Close as Clutchmates."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Hunter"
+      ],
+      "Text": "Hunter pet attacks now scale with weapon attack power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Hunter"
+      ],
+      "Text": "Kill Command, Bite, Claw, Smack, Flanking Strike, Froststorm Breath, and Burrow Attack damage reduced by 32.5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Hunter"
+      ],
+      "Text": "Developers’ notes: In a recent hotfix aimed at correcting an issue with Augmentation Evokers and their damage logging, we adjusted how Hunter pet damage is calculated. A side effect of this was that Hunter pet attacks started scaling with weapon attack power, increasing the damage of a Hunter pet's special attacks by about 32.5% at 450 item level. This is actually something we would like to retain, as it means that Hunter pet damage will now benefit from weapon upgrades."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Hunter"
+      ],
+      "Text": "Mend Pet and Revive Pet are now separate pet utility buttons and are no longer automatically swapped back and forth based on your pet's state. This is a temporary change to resolve some issues with interactions between Call of the Wild, Mend Pet, and Revive Pet. Mend Pet can be found in the \"Pet Utility\" flyout menu in the main Hunter spellbook."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Fixed an errant interaction that caused Soulrip to apply without the rogue dealing combat damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fixed an issue where damage from Dimensional Rift would not break Fear effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Resolved an issue causing Malefic Impact to not grant the proper amount of critical strike chance to Hand of Gul'dan."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dragonriding"
+      ],
+      "Text": "Fixed an issue where Ride Along passenger whelps were animated incorrectly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Smolderon"
+      ],
+      "Text": "Reduced the duration of Smoldering Ground puddles to 2.5 minutes (was 5 minutes) on Raid Finder difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Volcoross"
+      ],
+      "Text": "Fixed an issue that caused Shadowstrike to teleport Subtlety Rogues into the lava."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Antorus the Burning Throne"
+      ],
+      "Text": "Resolved an issue causing Foul Steps to remain on players after defeating the Eonar the Life-Binder encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite"
+      ],
+      "Text": "Fixed an issue that caused Coalesced Time and Timestream Leech to be Arcane damage, instead of the intended Physical damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Reduced the effectiveness of Enraged Growth on players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Fixed an issue that allowed players to line of sight Commander Ulthok's Festering Shockwave."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Cataclysmic Signet Brand’s self-damage effect can no longer be dispelled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The Porcelain Crab trinket from Throne of the Tides should no longer drop for non-melee classes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "The Battleground Blitz brawl no longer grants progress toward the PvP quest “Proving in Battle”, which is intended to reward participation in random battlegrounds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Shaman who reached Combatant I during Dragonflight Season 3 should now be granted the Elite cloak appearance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Fixed an issue that caused the Guardians of the Dream 2-piece tier set to not extend Atonements while using the Trinity PvP talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Superbloom"
+      ],
+      "Text": "The Emerald Bounty location for Whisperbloom planting should now be available at all times, and not just during the Superbloom."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Classic Era"
+      ],
+      "Text": "[With realm restarts] Fixed an issue that prevented respeccing from refunding all of the character’s talent points as expected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-14",
       "Weekday": "Tuesday",
       "Tags": [
