@@ -2,6 +2,170 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Fixed an issue that caused Essence Font to fire one more bolt than intended per second channeled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Developers’ notes: We’re aware of an issue that will cause Essence Font's tooltip to display an incorrect channel rate after this fix. This will be addressed in a future update."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Fixed an issue that allowed Sanguine Blades damage from vulnerability damage increases on enemies to be unintentionally doubled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Fixed an issue that allowed Poisoned Edges (Aberrus 2-piece set bonus) damage from vulnerability damage increases on enemies to be unintentionally doubled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Developers’ notes: Both player feedback and data have indicated that Heroic Fyrakk doesn't pose as much of a challenge as we'd intended. We'd like Fyrakk to be a satisfying ending to Amirdrassil, the Dream's Hope for the vast majority of players who have yet to encounter him, so we're making a few adjustments to the overall difficulty of the encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Burning Scales damage increased by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "There is now an additional occurrence of Blaze during Stage Three."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Blaze damage increased by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Damage of colliding with a Swirling Firestorm increased by 60%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite"
+      ],
+      "Text": "Resolved an issue that could cause Chromie to get stuck channeling on Blight of Galakrond during a Mythic Keystone run."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite"
+      ],
+      "Text": "Resolved an issue which could prevent Manifested Timeways from spawning."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that prevented Gift of Ursine Vengeance from stacking Rising Rage properly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue preventing Hearthstone of the Flame from being tradeable to other eligible party members."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Rings and neck pieces from Throne of the Tides should now drop correctly for all classes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface"
+      ],
+      "Text": "Restricted addon functions that allowed for in-combat distance checking between players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-16",
+      "Weekday": "Thursday",
+      "Tags": [
+        "User Interface"
+      ],
+      "Text": "Developers’ notes: This change was intended to be implemented with the launch of the Guardians of the Dream patch, to avoid requiring that addon authors update their addons separately after the content is already being played. We apologize for the confusion and inconvenience."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-15",
       "Weekday": "Wednesday",
       "Tags": [
