@@ -2,6 +2,1001 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Added Ivy as a reward for Don't Let the Doe Hit You On the Way Out."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Beast Cleave and Kill Cleave now log correctly when the Hunter is buffed by an Augmentation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Creatures",
+        "NPCs"
+      ],
+      "Text": "Fixed issue causing rare elites in The Forbidden Reach, Zaralek Cavern, and The Emerald Dream to not award credit to players in a raid group."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Creatures",
+        "NPCs"
+      ],
+      "Text": "Unpulled rare elites in Forbidden Reach and Zaralek Caverns should now despawn after 15 minutes, unless players are in their immediate vicinity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Developers’ notes: Through the first week of Season 3 Mythic+ dungeons, data and feedback suggest that Murozond’s Rise, Throne of the Tides, and Atal’Dazar are outliers in terms of difficulty. While Murozond’s Rise and Throne of the Tides are too difficult, Atal’Dazar is proving too easy and may affect player progression through the content in a negative way. Our adjustments aim to better align overall balance across the Mythic+ dungeon pool for Season 3."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "The required enemy forces count for Atal’Dazar has been increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Toxic Saurid’s Leaping Thrash no longer triggers Poisoned Claws on the target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Dazar’ai Juggernaut’s Merciless Assault damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Dazar’al Augur’s Wildfire periodic rate reduced to 1 second (was 2 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Dinomancer Kish’o’s Deadeye Aim damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "T’lonja’s Frenzied Charge is now avoidable but inflicts increased damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Monzumi’s Wild Thrash range increased to 100 yards."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar",
+        "Yazma"
+      ],
+      "Text": "Yazma’s Wracking Pain can no longer be interrupted and is no longer a curse effect in Mythic Keystone difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar",
+        "Priestess Alun'za"
+      ],
+      "Text": "Corrupted Blood inflicts damage every 2.5 seconds (was 3 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar",
+        "Priestess Alun'za"
+      ],
+      "Text": "Spirit of Gold’s health increased by 33%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise"
+      ],
+      "Text": "Resolved an issue that could cause Double Strike and Triple Strike to cast on unintended players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Radiant Barrier damage absorb reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Radiant Barrier refresh damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Timestream Anomaly’s Untwist damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Time-Displacement reduces the creature’s health by an additional 10%\u003e"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Time-Displacement on death damage effect reduced by 50%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Increased the cooldown of Double Strike and Triple Strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Chrono-Lord Deios"
+      ],
+      "Text": "Chrono-Lord Deios health reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Chrono-Lord Deios"
+      ],
+      "Text": "Infinite Corruption damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Reduced the total number of Unstable Corruption spawns and Unstable Corruption now spawn more consistently in the Abyssal Halls."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Vicious Snap Dragon’s Razor Jaws inflicts damage every 1.5 seconds (was 1 second)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Vicious Snap Dragon health reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Gilgoblin Aquamage health reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Gilgoblin Aquamage’s Aquablast cast time increased to 4 seconds (was 3.75 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Tainted Guardian’s Swell damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Naz’jar Sentinel’s Crushing Depth heal absorb amount reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides",
+        "Ozumat"
+      ],
+      "Text": "Ozumat’s sludge's Gushing Ink will now properly display its precast effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides",
+        "Ozumat"
+      ],
+      "Text": "Blotting Barrage damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides",
+        "Ozumat"
+      ],
+      "Text": "Blotting Darkness inflicts damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides",
+        "Ozumat"
+      ],
+      "Text": "Neptulon’s Cleansing Flux duration increased to 12 seconds (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides",
+        "Ozumat"
+      ],
+      "Text": "Foul Bolt now has an 8 second initial cool up."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides",
+        "Ozumat"
+      ],
+      "Text": "Splotch spawn closer to the Ink of Ozumat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Galakrond's Fall"
+      ],
+      "Text": "Risen Dragon’s Necrotic Outburst inflicts damage every 3 seconds (was every 2 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Galakrond's Fall"
+      ],
+      "Text": "Coalesced Moment’s Tainted Sands no longer does damage immediately and its duration has been reduced to 7 seconds (was 9 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Oakheart’s Crushing Grip throw damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Maddening Roar increases damage dealt by 20% per stack (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Black Rook Hold"
+      ],
+      "Text": "Felspite Dominator’s Sic Bats! will now command up to 4 bats to attack their target (was unlimited)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Matron Alma’s Lingering Dread should prefer non-tank players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Fixed an issue where Banquet Steward's Dinner Bell was silencing pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Larodar, Keeper of the Flame"
+      ],
+      "Text": "Reduced the number of Flash Fires that target players each cast by 1 on Heroic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "The extra action button that allows players to drop Seeds of Amirdrassil should now be more responsive."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The cosmetic items offered by Talisa Whisperwind should now properly filter based on your armor and weapon proficiency."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Increased the item levels of Season 3 Duelist and Elite PvP gear from all sources."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Resolved an issue that could allow players to leave the starting areas early in some Arenas such as Tiger's Peak in Solo Shuffle."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Death Coil damage is now increased by 70% in PvP combat (was 90%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Inertia damage bonus reduced to 12% (was 18%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Elysian Decree damage reduced by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "The Hunt initial and periodic damage reduced by 30% (was 20%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Throw Glaive damage reduced by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Essence Break damage bonus reduced to 50% (was 65%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Fel Barrage damage reduced by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Lifebloom periodic healing decreased by 12% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Grove Guardians Nourish healing decreased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Grove Guardians’ health decreased by 66%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Rapid Fire damage increased by 20% (was 40%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Guardians of the Dream 4-piece set now causes your next Rapid Fire to fire 40%\n\t\t\tadditional bolts (was 60%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Arcane Shot damage increased by 35% (25%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Chimaera Shot damage increased by 35% (25%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Mana Regeneration now decreased by 25% (was 55%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Increased damage of all abilities by 8% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Mind Trauma’s duration reduced to 15 seconds (was 20 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage"
+      ],
+      "Text": "Blast Wave now snares by 50% for 6 seconds (was 70%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Chrono Shift now increases movement speed by 25% (was 50%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Temporal Shield now heals for 60% of damage taken over 4 sec (was 100%) in PvP\n\t\t\tcombat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Ignite damage increased by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fireball damage increased by 30% (was 12%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Scorch damage increased by 100% (was 45%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Glass Cannon (PvP talent) now increases the damage of Ignite, Fireball, and Scorch by 40% (was 100%) and decreases maximum health by 15% (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Flurry damage increased by 20% (was 8%) in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Frozen Orb damage increased by 75% (was 30%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Frost Bomb (PvP talent) damage increased by 80%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Ice Lance damage increased by 35% (was 15%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Comet Storm damage increased by 40% (was 15%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Freezing Winds now grants Fingers of Frost every 5 seconds (was 3 seconds) in PvP\n\t\t\tcombat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Frozen Orb damage now has a 5% chance to grant Fingers of Frost (was 10%) in PvP\n\t\t\tcombat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Rising Sun Kick damage decreased by 36% (was 20%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Blackout Kick (Teachings of the Monastery) damage decreased by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Tiger Palm damage decreased by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Ancient Teachings now transfers 275% of damage done (was 220%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Kingsbane initial and periodic damage now reduced by 20% (was 11%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Crackshot now causes Between the Eyes to Dispatch the target for 50% (was 75%) of\n\t\t\tnormal damage when used from Stealth."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Perforated Veins damage bonus reduced to 40% (was 50%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Goremaw’s Bite damage reduced by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Lightning Bolt now deals 67% increased damage in PvP combat (was 45%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Chain Lightning now deals 15% increased damage in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Icefury damage is now increased by 85% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Volcanic Surge now increases the damage of Chain Lightning and Lightning Bolt by 30% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "User Interface"
+      ],
+      "Text": "In Group Finder, \"Amirdrassil, the Dream's Hope\" has been shortened to \"Amirdrassil\" to make it easier to see the difficulty that groups are attempting."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "User Interface"
+      ],
+      "Text": "Fixed an issue that caused Murozond's Rise in Group Finder to default to Galakrond's Fall."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-17",
       "Weekday": "Friday",
       "Tags": [
