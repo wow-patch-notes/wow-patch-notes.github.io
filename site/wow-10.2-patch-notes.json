@@ -2,6 +2,179 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "The 2-piece class set Chi Harmony now only increases healing taken from Monk abilities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "The 4-piece class set Chi Harmony no longer accumulates healing taken by Revitalizing Voodoo Totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Fixed an issue causing Cleansing Flame to deal incorrect damage and healing when cast on a target with vulnerability or increased healing taken."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Soul Strike would be relearned whenever Felguard is summoned."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Felguard should now prioritize using Soul Strike once it's off cooldown."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Fixed an issue that caused Oakheart's Crushing Grip damage to pierce immunities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Galakrond's Fall"
+      ],
+      "Text": "Interval no longer triggers on-death affixes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Melded Berserker's Bounding Whirl inflicts damage every 1.5 seconds (was 1 second)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Nymue"
+      ],
+      "Text": "Fixed an issue where Cycle Wardens were not correctly scaling for larger raid sizes on Normal difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Events"
+      ],
+      "Text": "Emerald Bounty contributions in the last 2 seconds of the event will no longer consume a seed or give credit for a contribution. This should help guarantee all loot earned is properly credited."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where Smoldering Seedling would fail to trigger from healing abilities in quick succession."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "PvP gear with Champion and Hero upgrade tracks should no longer display incorrect PvP ilvl increases when previewed in the upgrade UI."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Fixed an issue where Frost Bomb's explosion was triggering on the incorrect target when reflected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Rogue"
+      ],
+      "Text": "Fixed issues with Caustic Spatter, Sanguine Blades, Shadow Blades, and Replicating Shadows that caused them to unintentionally keep the Rogue and enemy player in combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Fixed an issue that prevented Eviscerate from dealing bonus shadow damage with Shadowed Finishers talented."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue where Dragon Isles Drakes: White Scales were not awarded when completing the quest \"Time to Process\". Players that have already completed the quest will receive the item via mail."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-27",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Players who did not receive the intended weekly amount of Echoed Ephemera for \"The Power of Dreams\" will receive these missing items in their mail."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-21",
       "Weekday": "Tuesday",
       "Tags": [
