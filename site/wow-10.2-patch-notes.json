@@ -2,6 +2,504 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost",
+        "Aberrus, the Shadow Crucible 2-piece set"
+      ],
+      "Text": "The damage of your next Frostwyrm's Fury is increased by 4% (was 5%). Stacks unchanged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost",
+        "Aberrus, the Shadow Crucible 2-piece set"
+      ],
+      "Text": "The effectiveness of Frostywrm's Fury reduced to 25% (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost",
+        "Aberrus, the Shadow Crucible 2-piece set"
+      ],
+      "Text": "Howling Blast damage reduced to 10% (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost",
+        "Amirdrassil, the Dream's Hope 4-piece set"
+      ],
+      "Text": "Chill Streak can bounce 3 additional times (was 2 times)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost",
+        "Amirdrassil, the Dream's Hope 4-piece set"
+      ],
+      "Text": "The chance to proc a bonus effect increased to 35% (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Chill Streak damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Obliterate damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Enduring Chill chance to bounce increased to 25% (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Piercing Chill damage increased to 12% (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "All healing increased by 3%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Augmentation"
+      ],
+      "Text": "Shifting Sands will now properly trigger twice when casting back-to-back empower spells with Tip the Scales."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue causing Retribution Aura to fail to trigger from some abilities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest"
+      ],
+      "Text": "Resolved an issue preventing the cooldown of Mass Dispel from resetting when an encounter ends."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "All damage increased by 5%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Fixed an issue that caused Envenom's buff to persist beyond its intended duration when used with fewer than 5 combo points."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "All damage dealt by you and your pet's abilities increased by 6%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "All damage dealt by you and your pet's abilities increased by 6%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Tyr, the Infinite Keeper's health reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Tyr, the Infinite Keeper"
+      ],
+      "Text": "Tyr, the Infinite Keeper will now only cast a single Dividing Strike within a sequence of the Infinite Hand Technique."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Chrono-Lord Deios"
+      ],
+      "Text": "Chrono-Lord Deios' Temporal Breath impact damage reduced by 20% and periodic damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Chrono-Lord Deios"
+      ],
+      "Text": "The vulnerability effect of Chrono-Lord Deios' Infinity Nova reduced to 75% (was 250%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Murozond's Rise",
+        "Chrono-Lord Deios"
+      ],
+      "Text": "Resolved an issue that could cause a player standing in certain locations to not be eligible for loot."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom",
+        "Ancient Protectors"
+      ],
+      "Text": "Dulhu's Noxious Charge impact damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom",
+        "Ancient Protectors"
+      ],
+      "Text": "Dulhu's Noxious Discharge damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom",
+        "Ancient Protectors"
+      ],
+      "Text": "Dulhu's Noxious Discharge impact time increased to 2 seconds (was 1.5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Council of Dreams"
+      ],
+      "Text": "Addressed an issue causing Barreling Charge to hit players standing closely behind Urctos."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Wherever possible, all cosmetics and collectibles that drop from a unique rare elite enemy in Forbidden Reach and Zaralek Cavern will now drop more often."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Cache of Amirdrassil Treasures should now display the correct item level."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: This was only a display issue and did not affect the items in the cache."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Existing Rated PvP gear that was previously on the Veteran track should now be using the Champion track."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: This change does not affect existing Class Sets either obtained from the Great Vault or items that were converted at the Catalyst. Those will be addressed in a separate hotfix."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Chaotic Disposition now has a 33.33% chance (base 7.77%) to increase damage by 4% (base 17%) in PvP combat, providing the same average damage bonus with significantly less variance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Eclipse will now properly track your Wrath and Starfire casts if Eclipse ends while you are Cycloned."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Fury of Elune will now properly deal damage to enemies who are not in line of sight of the Druid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Regrowth healing is now reduced by 20% in PvP combat (was 43%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Evoker"
+      ],
+      "Text": "Azure Strike damage increased by 40% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Evoker"
+      ],
+      "Text": "Time Stop (PvP talent) cooldown reduced to 45 seconds (was 1 minute)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Evoker"
+      ],
+      "Text": "Chrono Loop (PvP talent) cooldown reduced to 45 seconds (was 1 minute)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Evoker",
+        "Augmentation"
+      ],
+      "Text": "Upheaval damage reduced by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Evoker",
+        "Augmentation"
+      ],
+      "Text": "Eruption damage increased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Dream Flight healing increased by 100% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Mana regeneration now reduced by 5% in PvP combat (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest"
+      ],
+      "Text": "Ultimate Penitence will now prioritize healing players in PvP combat and will only heal pets if all players are at full health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "All healing increased by 6% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW's 19th Anniversary"
+      ],
+      "Text": "Reduced the Dragons of Nightmare Lethargy stun to 2 seconds (was 5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW's 19th Anniversary"
+      ],
+      "Text": "Reduced the health of Emeriss's Putrid Mushrooms by 85%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW's 19th Anniversary"
+      ],
+      "Text": "Adjusted the frequency of Emeriss's attack patterns."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-27",
       "Weekday": "Monday",
       "Tags": [
