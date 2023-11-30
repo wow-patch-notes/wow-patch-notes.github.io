@@ -2,6 +2,45 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Augmentation"
+      ],
+      "Text": "Fixed an issue that made it possible for Sands of Time to fail to extend Ebon Might."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Lady Baihu and her Kirin Tor Battle-Mages no longer trigger on-death affix effects in Mythic Keystone difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "PvP Class set items that were obtained from the Great Vault or converted at the Revival Catalyst and were previously on the Veteran track should now be using the Champion track."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW's 19th Anniversary"
+      ],
+      "Text": "Emeriss and Lethon's Aura of Nature debuff now deals significantly less damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-28",
       "Weekday": "Tuesday",
       "Tags": [
