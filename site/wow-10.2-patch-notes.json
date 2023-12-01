@@ -2,6 +2,172 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Black Rook Hold"
+      ],
+      "Text": "Addressed an issue where Shadowbolt Volley debuff from Dantalionax can linger on players after he is defeated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Court of Stars"
+      ],
+      "Text": "Fixed an issue where Gerenth the Vile's Hypnosis Bat was incorrectly being cast on non-keystone difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite"
+      ],
+      "Text": "Resolved an issue where players could incidentally enter combat with Chronaxis and/or Pendule enemies while on the traversal paths."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue allowing Smoldering Seedling to sometimes heal for more than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where Ouroboreal Necklet would not trigger Ruby Serpent's Ward from Acid Rain damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Crests earned from rated PvP activities have been increased in tier for many ranks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Whelpling crests are now only earned from Combatant 1 end-of-match activity (was Combatant 1 and Combatant 2)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Drake crests are now earned from Combatant 2, Challenger 1, and Challenger 2 end-of-match activity (was Challenger 1, Challenger 2, Rival 1, and Rival 2)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Wyrm crests are now earned from Rival 1 and Rival 2 end-of-match activity (was Duelist)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Aspect crests are now earned from Duelist and Elite end-of-match activity (was Elite only)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Flightstone earnings from rated PvP have increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Rated BG wins now award 45 Flightstones (was 35)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Rated BG losses now award 20 Flightstones (was 15)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Arena 2v2 wins now award 15 Flightstones (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Arena 3v3 wins now award 15 Flightstones (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Solo Shuffle wins now award 45 Flightstones (was 35)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Solo Shuffle losses now award 15 Flightstones (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-11-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "World",
+        "Jewelcrafting"
+      ],
+      "Text": "Fixed an issue that prevented crafted statues from being placed in the Emerald Dream and Zaralek Cavern."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-29",
       "Weekday": "Wednesday",
       "Tags": [
