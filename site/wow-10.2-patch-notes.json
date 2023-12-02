@@ -2,6 +2,174 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Resolved an issue causing Fyrakk to become unlootable if killed during Shadowflame Devastation in Stage Two."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Resolved an issue causing Fyrakk's energy bar to increase too quickly in Stage Three on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall",
+        "Iridikron"
+      ],
+      "Text": "Timeline Transcendence's 100% damage increase now also increases the damage of an affected player's pets and summons even if they are not within Chromie's bubble."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall",
+        "Iridikron"
+      ],
+      "Text": "Timeline Transcendence no longer applies onto pets or summons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom",
+        "Ancient Protectors"
+      ],
+      "Text": "The visual effect for Dhulu's Noxious Discharge have been updated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Soulbound Goliath's Soul Thorns ability will fail on shapeshifted players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Augury of the Primal Flame proc rate increased by 50% and damage decreased by 33%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ note: While this change should not impact the trinket's expected performance, we hope that a more consistent proc rate will reduce its overall variance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Blossom of Amirdrassil’s effects increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Belor'relos, the Suncaller self-damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where Branch of the Tormented Ancient would not reset its cooldown upon ending an encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where Gift of Ursine Vengeance stacks would be removed on ally death or mind control."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Vaskarn, the dracthyr vendor in the Emerald Dream's Central Encampment, will now display her crest trade-up items to anyone who has earned the right to purchase them, even if they cannot currently purchase them because they are too close to the cap on the higher-level crest."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Removed rank text from all Rated PvP gear, including PvP Class Sets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Developers' note: This change does not effect item levels or upgrade tracks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Fixed an issue that caused the Amirdrassil 4-set bonus to not be reduced in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-01",
+      "Weekday": "Friday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Fixed an issue that caused Frost Bomb's explosion to be prevented by Grounding Totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-11-30",
       "Weekday": "Thursday",
       "Tags": [
