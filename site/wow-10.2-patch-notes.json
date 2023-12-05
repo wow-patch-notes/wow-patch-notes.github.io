@@ -2,6 +2,156 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Soul Strike would sometimes cast multiple times."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Fixed an issue where Mindbender Ghu'sha would prevent players from releasing spirit when defeated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where the Shadowflame Rage effect from Fyrakk's Tainted Rageheart could deal increased self-damage due to damage taken modifiers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Resolved an issue that caused War Mode Supply Drops in the Emerald Dream to occur in the same location repeatedly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Professions",
+        "Cooking"
+      ],
+      "Text": "Mages who Conjure Desserts will no longer draw the attention of all hungry creatures within 40 yards."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Professions",
+        "Tailoring"
+      ],
+      "Text": "Attempting to craft for the Legion quest \"Inspire Me!\" should no longer result in Invalid Target errors."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Players questing for \"The Orb of Soran'ruk\" will now find that The Twilight's Hammer have invaded the shores of The Zoram Strand near Blackfathom Deeps."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Developers’ notes: It wasn't our original intent for discoveries to take you into raid instances. Now, the enemies needed for completion of a pre-requisite quest for a rune are both in the outdoor world and inside the raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "The quest to discover the Earth Shield shaman rune is now properly available to players. (Was previously not visible due to a bug). Happy hunting!"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Fixed an issue with the Bael Modan Blunderbuss gun item that caused it to only be usable with arrows rather than bullets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Fixed an issue where Sadistic Fiend would not properly reset when players died."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Fixed an issue preventing progress on the Priest quest chain \"Secrets of Elune\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Fixed an issue where “Allegiance to the Old Gods” quest was not completable while in a raid group."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Carendin the Undercity Warlock will now discreetly dispose of any Acolyte's Notes stuck in warlocks' bags. He apologizes for the inconvenience."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Your bags can now carry multiple filled Supply Shipment crates."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-04",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Fixed an issue on Twilight Lord Kelris when players would incorrectly die if they took a Dream Portal while under the effects of the Dream Eater debuff."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-01",
       "Weekday": "Friday",
       "Tags": [
