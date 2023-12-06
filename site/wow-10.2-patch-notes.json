@@ -2,6 +2,903 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Blood"
+      ],
+      "Text": "Aberrus Class Set bonus: Heart Strike and Blood Boil deal 10% increased damage (was 20%) and have a 5% chance (was 10%) to grant Vampiric Blood for 5 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Virulent Plague damage increased by 15%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Epidemic damage increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Festering Strike damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Festering Wound damage increased by 12%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Ghoul Sweeping Claws damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Fel Rush damage reduced by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Immolation Aura damage reduced by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Fel Barrage damage reduced by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Fixed an issue when talented into A Fire Inside that caused any cast of Immolation Aura beyond the first to not enforce its intended global cooldown."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Ferocious Bite damage decreased by 20%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Rip damage decreased by 15%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Rake damage decreased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Shred damage decreased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "All damage spells increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Regenerative Magic increases Leech by 5% (was 3%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Draconic Legacy increases Stamina by 8% (was 6%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Fixed an issue where Blessing of Autumn did not properly affect the cooldown of Call of the Wild."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Amirdrassil, the Dream’s Hope 4-piece set bonus:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Dire Beast's Kill Command damage reduced by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Beast Cleave gained by Dire Beast effectiveness reduced by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Fixed an issue where the Windrunner's Guidance buffs would fall off when exiting combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Mana Tea now reduces the mana cost of spells by 25% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Upwelling can now stack up to 15 times (was 18)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Essence Font healing decreased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Invigorating Mist healing decreased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Calming Coalescence now increases the absorb amount of Life Cocoon by 2% per stack (was 3%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Vivify primary healing increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Ancient Concordance now increases the chance for Blackout Kick to reset Rising Sun Kick by 12% (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "All ability damage increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Crusader Strike now costs 0.6% base mana (was 1.6%) and deals 25% increased damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Hammer of Wrath now costs 0.6% base mana (was 1%) and deals 20% increased damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "All healing reduced by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "All damage reduced by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "All healing increased by 4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Burning Vehemence now causes Holy Fire to deal 75% of its initial damage to nearby enemies (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Amirdrassil 2-piece set bonus: Renews caused by Serenity now last 18 seconds (was 14 seconds) and Renews caused by Sanctify now last 6 seconds (was 5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Kingsbane damage reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "Blindside effect chance reduced to 15% (was 20%) and 30% against low-health targets (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing Innervate to give a greater mana spent bonus to High Tide than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Healing Surge now costs 4.4% base mana (was 4.8%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Chain Lightning damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Acid Rain damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Imminence of Krag’wa’s Executor is now available for 450 Trader’s Tender (was 500)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: This was a pricing bug, and we’re working on a second hotfix that should refund 50 Tender to players who purchased the set before the price reduction. That refund will come as soon as possible this month."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Rotten Touch's effectiveness reduced by 40% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Amirdrassil 4 set bonus now casts Nourish at 50% effectiveness (was 100%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Mastery: Harmony is now reduced by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Survival of the Fittest now reduces damage taken by an additional 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Exhilaration now heals for 40% of max health (was 30%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk"
+      ],
+      "Text": "Fixed an issue that caused Fortifying Brew's damage reduction to be higher than intended in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Amirdrassil 2 set bonus: Chi Harmony now increases healing received by 15% (was 25%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Healing Elixir now heals for 10% of maximum health (was 20%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Yu'lon's Grace now creates an absorb for 1% of your maximum health (was 2%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Dampen Harm's minimum damage reduction is no longer increased in PvP combat (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Fortifying Brew's damage reduction is no longer increased in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Diffuse Magic now reduces magic damage taken by 40% (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Amirdrassil 4 set bonus: Now has a 100% chance to cast another Smite (was 50%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Lava Burst damage from the the Amirdrassil 4-piece set bonus is now reduced by 60% in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Thorim's Invocation now increases Lightning Bolt and Chain Lightning damage by 10% in PvP Combat (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Lava Lash damage is now increased by 25% in PvP combat (was 12%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Elemental Blast damage is now reduced by 6% in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Stormweaver now causes Chain Heal and Healing Surge to gain 150% of the benefits of Maelstrom Weapon based on the stacks consumed (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Amirdrassil 2 set bonus: Effectiveness no longer reduced in PvP combat (was reduced by 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Shadow Blades extra Shadow damage reduced to 15% (base 20%) in PvP combat"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Thief's Bargain (PvP Talent) cooldown reduction value reduced to 20% (was 33%)"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fel Obelisk (PvP Talent) now increases attack and cast speed by 10% (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Master Summoner (PvP Talent) reduces the cast time of Call Dreadstalkers, Summon Vilefiend, and Summon Demonic Tyrant by 15% (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Antoran Armaments now increases your Felguards damage by 10% (was 20%) in PvP Combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Doom Brand from the Amirdrassil 2-piece set bonus is now undispellable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "The debuff duration reduction for Doom Brand from the Amirdrassil 2-piece set bonus is no longer reduced in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Damage effects from the Amirdrassil 2-piece and 4-piece set bonus are now reduced by 40% in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Flame Rift damage from the Amirdrassil 4-piece set bonus is no longer reduced in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Rampage now deals 40% additional damage in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Execute now deals 50% additional damage in PvP combat (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Crushing Blow no longer deals reduced damage in PvP combat (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Raging Blow deals 15% additional damage in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Annihilator deals 15% additional damage in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Seal of Martyrdom will no longer grant mana to nearby allies who are not in the Paladin's party or raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Shamanistic Rage will no longer grant mana to nearby players who are not in the Shaman's party or raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "It is no longer possible to have two copies of the Mangle debuff active on a target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Multiple Rogues can now have the Saber Slash bleed active on a target. If the Rogues have the Deadly Brew rune, they can each have a Deadly Poison periodic damage effect active on the target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Pattern: Phoenix Bindings temporarily removed from the merchant faction vendor while we work to resolve an issue with the recipe."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-04",
       "Weekday": "Monday",
       "Tags": [
