@@ -2,6 +2,134 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Updated the model used by the Ink of Ozumat to reduce the visual effects at its base."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Smolderon"
+      ],
+      "Text": "Fixed an issue where players would sometimes gain multiple stacks of Ignited Essence from 1 Living Flame."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Smolderon"
+      ],
+      "Text": "Fixed an issue where a Seeking Inferno could explode twice on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fallen Feathers now spawn 6 feathers on Mythic Difficulty (was 4)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that caused the Large Renown bag of Dragon Isles Supplies to always unintentionally contain a Dream Wardens Tabard."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that could cause Gift of Urctos to fail to grant its bonuses."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue preventing “Something Different” from being properly completed by PvP Brawls."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue causing a Hunt choice to be unintentionally greyed out for “Aiding the Accord: The Hunt is On”."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Grizzby will no longer rob you of your extra quest items."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "The lieutenant and general NPCs in the Season of Discovery Ashenvale PvP event now have much higher health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "Generals are now immune to damage until all of their lieutenants have been defeated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "While no lieutenants are dead, generals and their nearby allies gain 1000% increased damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-06",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "The Horde general's chain lightning will now hit up to 40 targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-05",
       "Weekday": "Tuesday",
       "Tags": [
