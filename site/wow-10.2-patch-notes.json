@@ -2,6 +2,136 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Blessed Champion rebuilt to resolve issues such as pulling enemies that are too far away or through walls."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Wake of Ashes, Searing Light, and Seething Flames revised so that they do not damage enemies through walls."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Critters can no longer benefit from Challenger’s Might and adorably kill your party."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Black Rook Hold"
+      ],
+      "Text": "Addressed an issue with Fel Vomit where the line visual can fail to attach to players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Updated Rotheart Keeper's Vile Burst radius to match with the size of Vile Mushroom."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue where Yalnu's Verdant Eruption can stun pets and guardians."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "When a player makes any hostile action against an opposing faction Lieutenant (e.g. Keepers of the Grove, Blademasters) or faction leader in the various objective areas, they will receive reputation when that enemy dies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "It must be an offensive action (harmful spell, harmful ability, melee attack, or ranged attack) against an enemy to receive reputation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "Players will receive reputation even if they are dead or no longer nearby as long as they are still in the zone when the enemy dies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "Players now receive 200 reputation for killing a Lieutenant and all members of the winning faction will receive 200 reputation when the faction leader dies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "The winning team will also receive 100 reputation per friendly Lieutenant remaining."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Ashenvale PvP"
+      ],
+      "Text": "Players now have 60 minutes to complete the Ashenvale PvP event (was 30 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-07",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "The Trainee’s Sentinel Nightsaber and Trainee’s Outrider Wolf now require Friendly reputation with the Silverwing Sentinels and Warsong Outriders respectively (was Honored)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-06",
       "Weekday": "Wednesday",
       "Tags": [
@@ -59,7 +189,7 @@
       "Tags": [
         "Items"
       ],
-      "Text": "Fixed an issue that could cause Gift of Urctos to fail to grant its bonuses."
+      "Text": "Fixed an issue that could cause Gift of Ursine Vengeance to fail to grant its bonuses."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
