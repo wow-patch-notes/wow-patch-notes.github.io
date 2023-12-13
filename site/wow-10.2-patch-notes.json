@@ -2,6 +2,530 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed a bug that prevented Assassin Bounties from progressing the Bounty Hunting and Band of Brothers"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fire Beam number of beam spawns per pulse reduced to 6 (was 8)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fiery Growth duration increased to 20 seconds (was 16 seconds) in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Lingering Cinder duration reduced to 2 seconds (was 3 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Pulsing Heat damage reduced by 33%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fiery Vines health reduced by 7% in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Addressed an issue where Mass Entanglement can fail to root tank players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Addressed a performance issue that caused a server delay at the start of the encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Ashes of the Embersoul will now reset its cooldown when a raid encounter ends."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Ember of Nullification is now an eligible item for all Agility and Strength specializations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Spiked Counterweight damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Xeri'tac's Unhatched Egg Sac summon is now affected by secondary stats."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Wyrm’s Bountiful Chest can now be purchased from Archdruid Hamuul Runetotem, as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Nature's Cradle should now work on Renown items purchased from Moon Priestess Lasara."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Nature's Cradle should now work on Dream Wardens Renown items that were converted at the Catalyst."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items",
+        "Transmog"
+      ],
+      "Text": "Fixed an issue that prevented Emerald Blossom Dreamstone from unlocking certain expected PvP appearances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Druid"
+      ],
+      "Text": "Starsurge rune ability damage increased 182%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Druid"
+      ],
+      "Text": "Starsurge cooldown reduced to 6 seconds (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Druid"
+      ],
+      "Text": "Starsurge mana cost reduced to 1% of base mana (was 3% of base mana)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Flanking Strike now gains the benefit of weapon enhancements like sharpening stones, is now on global cooldown, and is now properly treated as a melee attack, letting it benefit from attack power and combat modifiers to dodge, parry, block, crit, hit, etc."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Flanking Strike is now prevented by Pacify."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Flanking Strike now requires a weapon equipped."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Flanking Strike pet damage is now properly treated as a melee attack, with same benefits as listed above for the hunter’s damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "All damaging Hunter pet abilities now gain damage from Attack Power based on their Focus costs. Hunter pets no longer gain any spell damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Developers’ notes: Pets that cast spells such as scorpid poison or Lightning Breath were scaling too well and pets using physical abilities were scaling too little. We’ve now normalized the amount of attack power gained, to scale with the focus cost of individual pet abilities. This means that abilities with a higher focus cost, that are cast less often, will receive more benefit from attack power per attack than abilities with a lower focus cost that can generally be used more often. Overall this should level out the damage and reduce situations where some abilities were scaling too much or too little with hunter attack power."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Scorpid poison now distributes the additional damage it gains from attack power evenly over each stack of Scorpid Poison on the target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Developers’ notes: Previously, Scorpid poison received most of its benefit from the Hunter’s attack power in the very first stack. Now the additional damage gained from the controlling hunter will not be gained until the full 5 stacks of poison are on the target. This increases the ramp time a bit and makes it less immediately deadly in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Pets now gain 30% of the hunter’s armor (was 45%) and 20% of the hunter’s stamina (was 45%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Developers’ notes: Hunter pets were gaining far too much durability from hunter stats, to the point where some pets could get more than double the health and armor of a well-geared level 25 player. We still want dedicated hunters to have the ability to tank certain dungeon and raid encounters, but pets shouldn’t be so effective that they become the objectively correct choice."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Aspect of the Lion has been redesigned and will now function as an Aura."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Hunter"
+      ],
+      "Text": "Developers’ notes: This means that it is possible to have Aspect of the Lion up in addition to another aspect, such as Aspect of the Hawk. As an offset to the lower amount of damage that some hunter pets will deal, and to make talents such as Improved Aspect of the Hawk more attractive to Hunters using Aspect of the Lion, we’re shifting Aspect of the Lion into an aura rather than an aspect. This change will go into effect with scheduled weekly maintenance tomorrow, but the tooltip will not yet change. In a later hotfix, we’ll rename relocalize Aspect of the Lion to “Heart of the Lion” and update the tooltip."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Priest"
+      ],
+      "Text": "Priest Homunculi damage increased by 100%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Priest"
+      ],
+      "Text": "Void Plague damage increased by 200%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Priest"
+      ],
+      "Text": "Twisted Faith now increases damage done by Mind Blast and Mind Flay by 50% (was 20%) on targets afflicted with Shadow Word: Pain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Rogue"
+      ],
+      "Text": "Saber Slash, Shiv, and Main Gauche will now properly consume Remorseless Attacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Rogue"
+      ],
+      "Text": "Saber Slash’s tooltip fixed; damage not reduced."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Rogue"
+      ],
+      "Text": "Saber Slash damage is now properly considered a Bleed and benefits from the Mangle debuff. Note: Bleed-immune creatures will no longer be affected by it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Shaman"
+      ],
+      "Text": "Lava Lash damage increased to 150% weapon damage (was 100% weapon damage)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Shaman"
+      ],
+      "Text": "Lava Lash mana cost reduced to 1% of base mana (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Shaman"
+      ],
+      "Text": "Overload now has a 50% chance to trigger (was 33%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Shaman"
+      ],
+      "Text": "Dual Wield Specialization now grants 10% increased chance to hit while dual-wielding."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Boon of Blackfathom world buff adjusted. It now provides 3% spell hit and 25 spell power buff addition to the other physical damage and movement speed effects (was spell crit)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Developers’ notes: Spellcasters in general are struggling a bit in BFD, mostly due to poor scaling without spellpower and a higher requirement of spell hit to reliably hit creatures 2+ levels above the caster. Keep those Chronoboons handy and don’t stand in the fire and lose your buff!"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Elemental Resistances lowered in Blackfathom Deeps to levels more appropriate for a level 25 Raid."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Gelihast Shadow Resist lowered to 25 (was 75)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Lorgus Jett Nature Resist lowered to 25 (was 75)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Twilight Lord Kelris Shadow and Arcane Resist lowered to 25 (was 75)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Phantasmal Priestess all Resist lowered to 0 (was 75), so it’s no longer bad news if double casters are sent down to the dream in Phase 1."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Invading Nightmare Shadow and Fire Resist lowered to 25 (was 75)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Void Elementals Shadow Resist lowered lowered to 25 (was 75)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Corrosive Droplets Nature Resist lowered to 25 (was 75), and Frost Resist lowered to 0 (was 25)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Battle for Ashenvale"
+      ],
+      "Text": "Battle for Ashenvale camps will no longer delay their spawn if players are nearby."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-07",
       "Weekday": "Thursday",
       "Tags": [
