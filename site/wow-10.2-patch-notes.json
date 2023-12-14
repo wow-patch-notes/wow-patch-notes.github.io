@@ -2,6 +2,151 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Amirdrassil 4-piece: Fixed an issue causing Cleansing Flame to not trigger from Lay on Hands."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Rogue"
+      ],
+      "Text": "Damage dealt from Shadow Blades, Blade Flurry, and Sanguine Blades will now be logged correctly when buffed by an Augmentation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue that allowed several Immutable Hatred attacks to be queued up prior to combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Wild Imps summoned via Spiteful Reconstitution would stray from the Warlock."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope"
+      ],
+      "Text": "Fixed an issue that could prevent Gnarlroot, Igira, and Smolderon from leashing as expected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Incandescent Essence will now be soulbound when used. It is no longer usable on Account Bound items and its combat effects will only trigger for level 70 characters."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue that could prevent completion of “Step Into the Life”."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Population adjustments have been made to layers in the Ashenvale PvP event which should result in an improved experience for players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Ashenvale progress should be much more consistent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Developers’ notes: In a future hotfix, the Battle for Ashenvale progress will no longer reset to 0% when the final layer on the server finishes their battle."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Runes sold at the Honored tier of Azeroth Commerce Authority and Durotar Supply and Logistics reputation are now sold at the Friendly tier."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Drop rates for higher-level Waylaid Supplies have been slightly raised and unfulfillable Waylaid Supplies have been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "The gold prices of several runes and rune related items have been reduced."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "The waterfalls at the entrance to the Lorgus Jett encounter now properly despawn after he is defeated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-13",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Season of Discovery",
+        "Blackfathom Deeps"
+      ],
+      "Text": "Dream Eater should no longer kill you if you're pulled into the second phase of the Twilight Lord Kelris fight while still afflicted by the aura."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-12",
       "Weekday": "Tuesday",
       "Tags": [
