@@ -2,6 +2,124 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Heart of the Wild no longer unintentionally grants Combo Points to Feral Druids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an issue causing Blazing Thorns and Dream Thorns to clear when engaging a Mythic+ boss."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Guardian"
+      ],
+      "Text": "Fixed an issue causing Blazing Thorns to proc on targets which were not in combat with the player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Addressed an issue where Tormented Bloodseeker's Darksoul Bite is draining more health than intended in Mythic+ difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed a Heartsbane Triad issue where Sisters without the iris can quickly melee nearby targets upon being interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Healing Rain will no longer interrupt the auto-attack swing timer of the casting Shaman every time it heals."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Living Flame will now cease to spread and deal damage if the Mage caster no longer has the rune equipped."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Regeneration and Mass Regeneration will now properly consume Arcane Blast when they benefit from it, regardless of the Mage's healing targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Mage Temporal Beacon will now also heal based on damage done by Arcane wands."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "The radius of healing for Mass Regeneration has been increased to 30 yards (was 15 yards)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Battle for Ashenvale"
+      ],
+      "Text": "The Priestess of the Moon Felore Moonray and Far Seer Kazragore are now spawned in Ashenvale while the Battle for Ashenvale is inactive, and are available to turn in quest items. Felore Moonray can be found in the inn in Astranaar, and Kazragore can be found in the inn in Splintertree Post. During the battle, they will move to their respective battlefield positions."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-14",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery",
+        "Battle for Ashenvale"
+      ],
+      "Text": "[With realm restarts] Fixed an issue where progress for the Battle for Ashenvale could be reset repeatedly by battles ending at different times on different layers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-13",
       "Weekday": "Wednesday",
       "Tags": [
