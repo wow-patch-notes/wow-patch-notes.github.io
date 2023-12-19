@@ -2,6 +2,144 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Resolved an issue causing the Death's Torment buff from the Amirdrassil, the Dream's Hope 4-piece set bonus to be removed at the start of dungeon encounters."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Hand of Gul'dan will no longer interrupt all nearby enemy players who are eating or drinking."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope"
+      ],
+      "Text": "Fixed an issue where Raid Finder: Fate of Amirdrassil could port you to the wrong location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Blackrook Hold"
+      ],
+      "Text": "Bonebreaking Strike no longer stuns pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Murozond's Rise"
+      ],
+      "Text": "Fireball, Serrated Arrows, and Serrated Axe will now clean up after the encounter ends."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an Ancient Protectors issue where Dulhu's Noxious Charge can fail to create Noxious Discharge if the target is directly under the boss."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an Ancient Protectors issue where Noxious Discharge can spawn above ground."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed a Heartsbane Triad issue where Sisters without the iris can quickly melee nearby targets upon being interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed a Soulbound Goliath issue where Soul Thorns' health is scaling with Fortified instead of Tyrannical."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Flourishing Dream Helm now accepts PvP item-level optional reagents as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: As a reminder, the potency of this embellishment is reduced in PvP like other embellishments."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "The Battle for Ashenvale will now progress about 50% faster than previously."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "The reputation gain for participating in killing an enemy Keeper of the Grove or Blade Master has been increased to 400 (was 200)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-18",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Fixed an issue that caused the Shadowy Figure in Alterac Mountains to not be seen by players who should otherwise be able to see them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-14",
       "Weekday": "Thursday",
       "Tags": [
