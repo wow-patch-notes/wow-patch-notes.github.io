@@ -2,6 +2,859 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter"
+      ],
+      "Text": "Sigil of Flame damage reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Collective Anguish (talent) damage from summoned Fel Devastation reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Ragefire (talent) damage stored from Immolation Aura critical strikes reduced to 30% (was 35%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "A Fire Inside (talent) chance to reset Immolation Aura reduced to 25% (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Pyre damage increased by 15%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Damage of all spells and abilities increased by 3%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Resonating Sphere once again applies Echo to the first 5 allies it passes through (was 3)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Developers’ notes: Resonating Sphere was recently reduced as part of a broad AoE healing reduction pass. After watching the change play out, we're not happy with the resulting gameplay -- particularly in dungeons, where it doesn't cover your whole party."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Arcane Blast damage increased by 6%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Arcane Missiles damage increased by 10%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fire Blast damage increased by 12%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Pyroblast damage increased by 5%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fireball damage increased by 10%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Flamestrike damage increased by 12%"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Intensifying Flame now increases Ignite damage by 25% (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Frostbolt damage increased by 15%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Ice Lance damage increased by 12%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Flurry damage increased by 10%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Glacial Spike damage increased by 6%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Developers’ notes: We continue to keep an eye on Windwalker damage, and feel they need a second incremental improvement to their relative performance. This round of tuning focuses on payoff for successfully executing the bonus effects of the Mystic Heron’s Discipline tier set, as well as increasing the damage of rotational Chi spenders in Rising Sun Kick and Fists of Fury."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Spinning Crane Kick damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Blackout Kick damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Rising Sun Kick damge increased by 8%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Fists of Fury damage increased by 8%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Blackout Reinforcement increased to 250% (was 200%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Glory of the Dawn damage increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Dance of Chi-Ji bonus increased to 300% (was 200%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker",
+        "Mistweaver"
+      ],
+      "Text": "Unison now heals a second injured ally for 35% of the amount healed (down from 50%). Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker",
+        "Mistweaver"
+      ],
+      "Text": "Enveloping Breath healing reduced by 10%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker",
+        "Mistweaver"
+      ],
+      "Text": "Essence Font healing reduced by 8%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "All ability damage increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Psychic Link now causes direct damage spells to inflict 25% of their damage on all other targets afflicted by your Vampiric Touch (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "All healing increased by 3%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Prayer of Mending healing increased by 15%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Assassination"
+      ],
+      "Text": "All ability and melee auto-attack damage reduced by 3%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Earthquake damage increased by 50%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Elemental Warding now reduces magic damage taken by 3%/6% (was 2%/4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Developers’ notes: This is aimed at improving Enhancement's survivability in all content."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Torrent now increases the initial heal of Riptide by 15%/30% (was 10%/20%). Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Healing Surge healing increased by 17%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Healing Stream Totem healing increased by 12%. Does not apply to PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Seed of Corruption damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Soul Rot now applies to up to 4 additional targets (up from 3)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Dark Harvest now increases critical strike and haste by 4% per target (up from 2.5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Rain of Fire damage increased by 12%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Cataclysm damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Immolation damage from Infernal and Blasphemy increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Immolate damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk The Blazing"
+      ],
+      "Text": "Removed the first instance of Blaze from intermission on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk The Blazing"
+      ],
+      "Text": "Increased the cast time of Searing Screams to 4 seconds (was 2) on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk The Blazing"
+      ],
+      "Text": "Reduced the health of Screaming Souls by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Smolderon"
+      ],
+      "Text": "Fixed an issue with Seeking Infernos that allowed threat information to be generated from them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Smolderon"
+      ],
+      "Text": "Reduced the number of Seeking Infernos that spawn each set to 3 (was 4)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Smolderon"
+      ],
+      "Text": "Reduced the number of Flame Waves that spawn from Overheated targets to 4 (was 5) on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Gladiator's Distinction (Trinket Set Bonus): Primary stat for DPS and tank specializations is now increased by 12% (was 20%) when in Arenas, Battlegrounds, and War Mode."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Stellar Flare backlash damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Regrowth healing is no longer reduced in PvP Combat (was reduced by 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Aimed Shot now deals 40% additional damage in PvP (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Rapid Fire now deals 30% additional damage in PvP (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Mana regeneration is now reduced by 35% in PvP combat (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Healing Surge healing is now increased by 5% in PvP combat (was reduced by 12%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Control of Lava (Flame Shock backlash damage) damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Searing Flames now has a 40% chance to generate Maelstrom in PvP combat (was 100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Rolling Magma is now 60% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Control of Lava (Flame Shock backlash damage) damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Healing Tide Totem health increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "The Amirdrassil Class Set 2-piece bonus is now 30% effective in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Eviscerate damage reduced by 7.5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Unstable Affliction backlash damage increased by 8%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Dark Harvest is now 75% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Chaos Bolt damage is now increased by 70% in PvP combat (was 75%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Shadowburn damage is now increased by 10% in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Flashpoint is now 50% effective in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Mage"
+      ],
+      "Text": "Living Flame now benefits from and consumes Arcane Blast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Paladin"
+      ],
+      "Text": "Avenger’s Shield’s movement slow is now properly considered a Snare and can be removed by effects that remove movement impairing effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Paladin"
+      ],
+      "Text": "Mana granted by Seal of Martydom to party and raid members has been increased. Seal of Martyrdom now grants all party and raid members 20% of damage the Paladin takes from the seal (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Rogue"
+      ],
+      "Text": "Blade Dance has been updated to grant 10% parry at all ranks, rather than increasing parry chance per combo point. The only effect of more combo points is now increased duration."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2023-12-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Season of Discovery",
+        "Shaman"
+      ],
+      "Text": "Mana granted by Shamanistic Rage to party and raid members has been increased. Shamanistic Rage now grants party and raid members 20% of the mana gained by the Shaman (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2023-12-18",
       "Weekday": "Monday",
       "Tags": [
