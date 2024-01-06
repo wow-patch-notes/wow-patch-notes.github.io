@@ -2,6 +2,109 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Developers’ note: Fyrakk poses unique problems for smaller groups in Flexible Raid difficulties. The following changes are intended to narrow the gap in difficulty among group sizes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Aflame now targets fewer players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Screaming Soul health reduced for smaller group sizes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Spirit of the Kaldorei health reduced for smaller group sizes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Blaze damage reduced for smaller group sizes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk"
+      ],
+      "Text": "Corrupt absorb value reduced for smaller group sizes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-05",
+      "Weekday": "Friday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Crafted Void-Touched Armor on-use effects are now exclusive with each other and share a cooldown."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-04",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope"
+      ],
+      "Text": "Fixed an issue that could sometimes cause a stuck black screen upon entering Fyrakk's chamber."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-04",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Boon of Blackfathom no longer applies to pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-04",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "Developer’s Note: We are essentially removing the ability for pets to get Boon of Blackfathom for now. Now that pets scale with stats, allowing them to get certain world buffs would effectively let them \"double dip\" on these effects and gain far more damage than intended. We'll continue to review this as we move through the content phases and make adjustments to how world buffs interact with pets as needed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2024-01-02",
       "Weekday": "Tuesday",
       "Tags": [
