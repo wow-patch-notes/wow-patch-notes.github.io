@@ -2,6 +2,46 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Demon Hunter",
+        "Vengeance"
+      ],
+      "Text": "Fixed an issue that prevented Volatile Flameblood's Fury generation from correctly randomizing each time it triggers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall",
+        "Blight of Galakrond"
+      ],
+      "Text": "Fixed an issue where the slimes that revive Dazhak and Loszkeleth could sometimes melee players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "[With weekly restarts] The Battle for Ashenvale now has minimum and maximum times between battles. It will now never restart sooner than about 2 hours after its last start, and will not take longer than about 3 hours since its last start. If player activity is very low or very high, the percentage progress will be sped up or slowed down to match those time constraints."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
+      "Date": "2024-01-08",
+      "Weekday": "Monday",
+      "Tags": [
+        "Season of Discovery"
+      ],
+      "Text": "[With weekly restarts] Battle for Ashenvale quests \"Clear the Forest!\" and \"Repelling Invaders\" now award 1000 reputation (was 200)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2024-01-05",
       "Weekday": "Friday",
       "Tags": [
