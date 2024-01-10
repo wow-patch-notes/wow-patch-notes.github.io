@@ -292,6 +292,9 @@ func flattenChanges(root *Tree, tags []string, date time.Time, srcURL string) []
 		if strings.Contains(t, "WoW Classic Hardcore") {
 			return nil
 		}
+		if strings.Contains(t, "Season of Discovery") {
+			return nil
+		}
 	}
 
 	var changes []Change
