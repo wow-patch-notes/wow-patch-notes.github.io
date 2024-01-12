@@ -132,6 +132,8 @@ func fixCasing(changes []Change) {
 		"AMIRDRASSIL, THE DREAMS HOPE RAID REWARDS": "Amirdrassil",
 		"AMIRDRASSIL, THE DREAMS HOPE":              "Amirdrassil",
 		"AMIRDRASSIL THE DREAMS HOPE":               "Amirdrassil",
+		"REVIVAL CATALYST":                          "Revival Catalyst",
+		"DRAGONFLIGHT EPILOGUE QUESTS":              "Quests",
 	}
 
 	for _, c := range changes {
