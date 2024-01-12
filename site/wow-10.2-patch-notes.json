@@ -1,6 +1,598 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes"
+      ],
+      "Text": "Multiple Class talents that were previously Shadowlands Covenant Abilities (such as Convoke the Spirits, Divine Toll, and Sepsis) have had their spell visuals updated to match their Class visual kit. We'll be adding a way to revert these talents back to their Shadowlands visuals in a future update."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Demon Hunter"
+      ],
+      "Text": "Elysian Decree is now Chaos damage (was Arcane)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Demon Hunter"
+      ],
+      "Text": "The Hunt is now Chaos damage(was Nature)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Source of Magic now lasts 1 hour (was 30 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Developers' note: We would like maintaining Reversions to feel more rewarding for Preservation Evoker, even when playing an Emerald Blossom focused build. As a result, we are tying in casts of Reversion with Essence Burst. This should make the rotational flow of Preservation smoother and more enjoyable. Since this introduces more mana-free spell casts, we are also increasing mana costs to compensate."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Essence Burst may now trigger from casts of Reversion."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Mana cost of most spells increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Grace Period now increases your healing by 10/20% on targets with your Reversion (was 5/10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Timeless Magic now also affects Temporal Anomaly, and reduces the mana cost of Reversion, Temporal Anomaly, Echo, and Time Dilation by 10/20% (was just duration at 15/30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Mage"
+      ],
+      "Text": "Shifting Power is now Arcane damage (was Nature)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Dance of the Wind has been redesigned – Your dodge chance is increased by 10% and an additional 10% every 4 seconds until you dodge an attack."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Ancient Teachings now additionally increases Stamina by 5% while active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Teachings of the Monastery now highlights Blackout Kick on the action bar when it reaches max stacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Thunder Focus Tea now has additional functionality with Expel Harm, causing it to transfer 25% more healing to damage and create a Chi Cocoon on yourself."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Tea of Plenty now has the possibility to grant Expel Harm and Enveloping Mist instead of Essence Font and Renewing Mist."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Secret Infusion now has additional functionality with Expel Harm, granting Versatility."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Faeline Stomp has been renamed to Jadefire Stomp."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Awakened Faeline has been renamed to Awakened Jadefire."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Dance of the Wind has been redesigned – Your dodge chance is increased by 10% and an additional 10% every 4 seconds until you dodge an attack."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Faeline Stomp has been renamed to Jadefire Stomp."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Faeline Harmony has been renamed to Jadefire Harmony."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Way of the Fae has been renamed to Path of Jade."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Fae Exposure has been renamed to Jadefire Brand."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Rogue"
+      ],
+      "Text": "Echoing Reprimand changes to Physical damage (was Arcane) and damage increased by 43% to account for armor."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Earth Elemental, Fire Elemental, and Storm Elemental (as well as the Primal versions of these elementals) now have a reduced size in instances for the Shaman’s allies and enemies. For the Shaman, the Elementals still appear large."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Updated the tooltip of Thorim’s Invocation to include a value for the damage of Lightning Bolts and Chain Lightnings triggered by the effect. Functionality unchanged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Spear of Bastion has been renamed to Champion’s Spear."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Elysian Might has been renamed to Champion’s Might."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Piercing Verdict has been renamed to Piercing Challenge."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Items",
+        "Revival Catalyst"
+      ],
+      "Text": "Renascent Dream charges are now granted weekly (was every other week)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Items"
+      ],
+      "Text": "Discover the Dragon, Explorer's League, and Tuskarr appearances for Pepe located in the Dragon Isles."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Developers' note: We’re removing a previous PvP reduction to the base damage of Lightning Bolt and Chain Lightning and focusing the reduction on spells triggered during Ascendance to target burst damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Lightning Bolts and Chain Lightnings triggered by Thorim’s Invocation now deal 30% reduced damage in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "PvP",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Thorim’s Invocation now increases the damage of Lightning Bolt and Chain Lightning by 20% in PvP combat (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Slaughterhouse (PvP Talent) now triggers off of Odyn’s Fury and Onslaught damage, in addition to Rampage damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Quests",
+        "Quests"
+      ],
+      "Text": "A small quest chain where players join the Aspects as they reflect on the events of Dragonflight and look to the future, are introduced to the new night elf city of Bel’ameth, and can stay awhile and listen to the conversations of key characters throughout Valdrakken."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "A preview window has been added to the “Quest Text Contrast” setting in Accessibility Options."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Art has been updated for predictions and absorbs on unit frames."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "The skull icons on the instance difficulty banner (near the minimap) have been updated with new art."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "In the Transmog Sets pane, you can now favorite individual set pieces from collected appearances by using right-click. Each set piece also now says its slot type in the tooltip (e.g. \"Shoulder\")."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Limited-time (holiday) Traveler's Log activities will now be marked as such, with the time left shown."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "The Trading Post catalogue now displays a list of all items included in a bundle."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Each item is a clickable button that will preview it on your character."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Multiple items can be selected and previewed together if they occupy different slots."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "All appearances received from quest rewards will now have a chat message."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Interacting with the Auction House quantity field should now be a much more consistent experience."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Most toasts can now be immediately dismissed with a right click. This includes toasts that appear near the top-center of the screen, such as Great Vault unlocks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Edit Mode Frame Snapping Improvements:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Can now snap a frame to any intersection of grid lines."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Can now snap a frame's center to any grid line (previously only available for center purple grid lines)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "Edges of frames can now snap to the horizontal and vertical center lines regardless of whether the grid is enabled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "User Interface",
+        "Accessibility"
+      ],
+      "Text": "A hex code field has been added to the Color Picker. The Color Picker now previews transparency and shows a before and after comparison of the chosen color."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24030413",
       "Date": "2024-01-08",
       "Weekday": "Monday",
