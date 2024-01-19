@@ -1,6 +1,143 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Frostscythe now works with Bonegrinder talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Fixed a bug that prevented the spell alert for Killing Machine with Fatal Fixation from visually displaying stacks correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Fixed a bug that caused a sound effect issue with Glacial Advance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing the Ancestral Defense talent to increase area-of-effect damage taken instead of reducing it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "In Mythic+ difficulties, Afflicted Souls will no longer be treated as players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Fixed an issue where Corruption Pool can linger on players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Archdruid Glaidalis’s Primal Rampage no longer damages pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall"
+      ],
+      "Text": "Fixed a Chronikar issue with Eon Shatter's ground targeting visual sometimes failing to appear."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Fixed a Heartsbane Triad issue where the aura of one of the sisters could linger on players after they lose the iris."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue where Frigid Petals was not being cancelled when entering a battleground."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue where attaining Bloody Tokens in Zaralek Caverns and Emerald Dream were not contributing to Bloodstained Bounty, Blood Bank, or Prosperously Bloody achievements."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Players who found themselves unable to pick up \"A Little Hope is Never without Worth\" should return to the grove in the Emerald Dream to continue (provided the plant growth phase is complete)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed a bug preventing several steps of the Blue Dragonflight questline “The Veiled Ossuary” from appearing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Travel"
+      ],
+      "Text": "Removed the Battle for Azeroth Pathfinder requirement for dragonriding in Kul Tiras and Zandalar."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
       "Date": "2024-01-11",
       "Weekday": "Thursday",
@@ -87,9 +224,23 @@
         "10.2.5",
         "Classes",
         "Evoker",
-        "Preservation"
+        "Preservation",
+        "Grace Period now increases your healing by"
       ],
-      "Text": "Grace Period now increases your healing by 10/20% on targets with your Reversion (was 5/10%)."
+      "Text": "7.5/15%"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation",
+        "Grace Period now increases your healing by"
+      ],
+      "Text": "on targets with your Reversion (was 5/10%)."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
@@ -102,6 +253,30 @@
         "Preservation"
       ],
       "Text": "Timeless Magic now also affects Temporal Anomaly, and reduces the mana cost of Reversion, Temporal Anomaly, Echo, and Time Dilation by 10/20% (was just duration at 15/30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Reversion can no longer be extended more than 6 times from critical heals."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
+      "Date": "2024-01-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "10.2.5",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Life-Giver's Flame no longer generates threat from healing done."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24052633",
