@@ -2,6 +2,958 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue where kills on Evokers did not count towards the achievement It Takes Class."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Blood"
+      ],
+      "Text": "Bone Shield now grants armor based on 80% of Strength (was 70%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "All damage dealt increased by 4%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "All damage dealt by you and your pet’s abilities increased by 4%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Rip damage increased by 10%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Rake periodic damage increased by 5%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Primal Wrath damage increased by 10%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Feral Frenzy damage increased by 5%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Lunar Inspiration damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Rampant Ferocity damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Swiftmend now costs 1.4% base mana (was 1.6%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Grove Guardian now costs 1% base mana (was 1.2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Wild Growth now costs 3.8% base mana (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Regrowth now costs 2.8% base mana (was 3.2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Efflorescence now costs 3% base mana (was 3.2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Dream Breath, Fire Breath, and Spiritbloom will no longer go on cooldown and fail to activate in circumstances where you are crowd controlled at the same time as completing the empower cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "All damage dealt by Hunter and Hunter’s pet’s abilities is increased by 4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Blackout Reinforcement is now correctly consumed when an empowered Blackout Kick is used against an absorb shield."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Shield of the Righteous damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Consecration damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Wake of Ashes damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Truth’s Wake damage increased by 28%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Seething Flames damage increased by 28%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Blade of Justice damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Verdict damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Holy Word: Sanctify’s healing increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Heal’s healing increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Flash Heal healing increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Holy Word: Chastise’s damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Smite’s damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Shadow Word: Pain’s damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Mind Blast damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Devouring Plague damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Shadowy Apparition damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Psychic Link now causes direct damage spells to inflict 30% of their damage on all other targets afflicted by your Vampiric Touch (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "All healing increased by 5%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Lava Burst damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Flame Shock damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Lightning Bolt damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Resolved an issue causing the cooldown of Soul Swap to sometimes display incorrectly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Cleave damage increased by 10%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Dreadnaught damage increased by 30%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Deep Wounds damage increased by 15%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Amirdrassil 4 set bonus - Bonus damage for the triggered Thunder Clap increased to 200% (was 100%). Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Vanguard now grants a 40% increase to Stamina (was 35%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Ignore Pain absorption increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Return to Karazhan",
+        "Opera Hall: Westfall Story"
+      ],
+      "Text": "Defeating Toe Knee too quickly will no longer prevent the encounter from continuing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Developers note: We've heard feedback about the ease of use of Fyr'alath's active ability and are making adjustments to address this and further encourage its use without significantly affecting overall contribution. These changes will be going live with realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Mark of Fyr'alath is now correctly applied to all secondary targets of Obliterate and is additionally applied by Rage of Fyr'alath's final strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Mark of Fyr'alath damage decreased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Rage of Fyr'alath duration is now affected by Haste."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Rage of Fyr'alath damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "[With realm restarts] The Manuscript of Endless Possibilities should now be the Vial of Endless Draconic Scales. If you had acquired the manuscript you should now be able to find the Vial waiting for you in your toybox."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Developers note: PvP changes are live with realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "Cloth specialization classes now gain an additional 35% armor in Arenas and Battlegrounds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "Plate specialization classes now have their armor reduced by 30% in Arenas and Battlegrounds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "The Gladiator’s Distinction 2-piece set bonus now increases Stamina by 15% for Damage Dealer and Tank roles (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "The Gladiator’s Distinction 2-piece set bonus now increases Stamina by 20% for Healer roles (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "All fear and root effects in PvP may now take 100% more damage before canceling in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Festering Wound damage is now increased by 180% in PvP Combat (was 195%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Death Coil damage is now increased by 60% in PvP Combat (was 70%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Necrotic Wound now absorbs 3% of healing received (was 4%) and heals for up to 3% of the Death Knight’s maximum health (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Bear Form now increases armor by 175% in PvP (was 220%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Moonkin Form now increases armor by 100% in PvP (was 125%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Deep Roots increases the amount of damage required to cancel Entangling Roots or Mass Entangle by 75% (was 250%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Frenzied Regeneration is no longer decreased by 20% in PvP for Feral Druids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Mana regeneration now reduced by 50% in PvP combat (was 45%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Healing reduced by 5% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Mage"
+      ],
+      "Text": "Rigid Ice increases the amount of damage required to cancel Frost Nova by 20% in PvP combat (was 80%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Amirdrassil 4-piece set effectiveness is no longer reduced in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Amirdrassil 2-piece set effectiveness is now reduced by 80% in PvP combat (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Amirdrassil 2-piece set effectiveness is no longer reduced in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Eviscerate damage reduced by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Armor reduced by 12.5% in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Armor reduced by 12.5% in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warlock"
+      ],
+      "Text": "Nightmare increases the amount of damage required to cancel Fear by 30% in PvP combat (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warlock"
+      ],
+      "Text": "Demon Skin increases armor by 22.5%/45% in PvP (was 45%/90%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warrior"
+      ],
+      "Text": "Armored to the Teeth effectiveness increased by 45% in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Anger Management now reduces Recklessness and Ravager’s cooldown by 1 second per 15 rage spent (was 20 rage)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Players who are trying to turn in the raid quest, \"Aberrus, the Shadowed Crucible: Sarkareth\" but are unable to, should return to the Seat of the Aspects in Valdrakken and find Ebyssian. He should allow you to turn in the quest now."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue with the Research quests/world quests of Azerothian Archives where all players could see the arcane familiars being summoned whenever any player began them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Added a plank in Gilneas to allow people to complete the quest \"What Tomorrow Brings\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Developers note: In 10.2.6, we will remove the gates (and also remove the plank) to allow people to complete the quest as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-01-18",
       "Weekday": "Thursday",
       "Tags": [
