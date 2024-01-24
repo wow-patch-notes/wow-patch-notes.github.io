@@ -2,6 +2,146 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue that caused Consecrations from Righteous Judgment to be despawned by new Consecrations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue that caused Blessing of Autumn to not reduce the cooldown of Avenging Wrath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Wild Imps summoned by Spiteful Reconstitution would fixate on far away targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Valow, Timesworn Keeper health reduced by 16%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Lerai, Timesworn Maiden health reduced by 16%, and Ancient Radiance recast time increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Spurlok, Timesworn Sentinel health reduced by 16%, and Shrouding Sandstorm's recast time increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Tyr, the Infinite Keeper Radiant Barrier damage absorb reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Infinite Riftmage health reduced by 10%, and Infinite Burn recast time increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Time-Lost Battlefield Battle Senses / Thirst for Battle damage reduced by 20%, and Bladestorm movement reduction increased from 33% to 50%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Chrono-Lord Deios Temporal Breath initial damage reduced by 16%, and damage-over-time effect reduced by 14%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Infinite Keeper health reduced by 10%, and Chronal Burn damage reduced by 15%, and Infinite Blast damage reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Resolved an issue causing the Mettle effect from Infurious Warboots of Impunity, Infurious Footwraps of Indemnity, Infurious Boots of Reprieve, and Infurious Binding of Gesticulation to not trigger when interrupting spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing the Mettle effect from Infurious Boots of Reprieve to grant less stats than intended when triggering the effect using Earthgrab Totem and Capacitor Totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-01-22",
       "Weekday": "Monday",
       "Tags": [
