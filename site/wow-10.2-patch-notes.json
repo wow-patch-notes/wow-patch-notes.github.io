@@ -2,6 +2,144 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "The Title and Achievement Champion of the Dragonflights are now available to those who have completed the quest \"Fair Skies and Strong Winds\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Adjusted Sergeant Quackers’ responsiveness so that he is now more lenient with the number of nearby ducks he requires before joining the fight for Ducks in a Row."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing Poison Cleansing Totem to not ignore line of sight."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Corrected an issue where your character could sometimes get stuck in a state where they cannot use Lava Burst when previously having been talented into Elemental Blast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Resolved an issue causing Primordial Bond to be incorrectly removed when an elemental dies or despawns while another elemental is active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Addressed an issue where the Rezan encounter can unexpectedly reset."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Addressed an issue where the visual for Spark of Tyr does not snap to ground."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Addressed an issue where Spark of Tyr will immediately trigger if the target has immunity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue with the Ancient Protectors encounter where players can get stuck in combat and unable to release if Dulhu is pulled out of the boss area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue where Witherbark can be pulled out of the encounter area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where immunity effects on the player could prevent Fyrakk's Tainted Rageheart from dealing damage to enemies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The Verdant Gladiator's Shotel cosmetic should now be purchasable from Glamora."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Iridal, the Earth's Master damage-on use-effect now deals 10% of its damage (was 30%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Resolved an issue causing Outbreak to not apply Virulent Plague to enemy totems, Psyfiend, and Observer."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-01-23",
       "Weekday": "Tuesday",
       "Tags": [
