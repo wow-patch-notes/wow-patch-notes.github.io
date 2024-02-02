@@ -2,6 +2,115 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue in which the achievement Battle Mender: Season 3 was not providing progress."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Mage"
+      ],
+      "Text": "Shifting Power's visual will now appear smaller and should be less disruptive for the Mage's allies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Flamebound and Shadowbound are no longer private auras."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Developers’ notes: We've observed that the common strategy for players executing the Flamebound and Shadowbound mechanics on Mythic Fyrakk involves cumbersome addon/macro setup and execution. Our goal with this change is to remove this burden for players who are progressing on this encounter and refocus the challenge on the gameplay."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Blackrook Hold"
+      ],
+      "Text": "Fixed an issue where the enemies around Lady Velendras Ravencrest do not have linked aggro."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall"
+      ],
+      "Text": "Fixed an issue where Manifested Timeways can occasionally cast Unwind during keystones."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where the Ancient Protectors encounter can fail to respawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where Archmage Sol can cast Cinderbolt Storm twice after gaining Fire Affinity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where the mages before Archmage Sol were not resetting their health after they left combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Pet Battles"
+      ],
+      "Text": "Fixed an issue causing several multi-hit Battle Pet abilities to have a chance to ignore on-death passives such as Undead or Mechanical resurrection."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue causing Stoneform and Fireblood to trigger a longer cooldown for Gladiator's Medallion than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-01-30",
       "Weekday": "Tuesday",
       "Tags": [
