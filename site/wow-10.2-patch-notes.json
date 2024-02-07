@@ -2,6 +2,142 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Primordial Wave now travels faster to its target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope"
+      ],
+      "Text": "The Hall of Fame is full, and Mythic difficulty is now available to cross-realm raid groups."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Reduced the number of Aflame targets from 4 to 3 on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Fyrakk health reduced by 10% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Burning and Dark Colossus health by 10% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Spirit of the Kaldorei health reduced by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Darnassian Ancient health reduced by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "The Heart of Amirdrassil now begins stage two with 60% health remaining."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Reduced the number of Corrupted Seeds created from 2 to 1."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Temple of Ahn'Qiraj"
+      ],
+      "Text": "The Prophet Skeram now properly respawns when the encounter is reset."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates"
+      ],
+      "Text": "Resolved an issue that could cause the Primal Council to not cast spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall"
+      ],
+      "Text": "Addressed an issue where Dazhak can sometimes snap to target player on death while channeling Incinerating Blightbreath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Matrix Restabilizer all effects reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-02-01",
       "Weekday": "Thursday",
       "Tags": [
