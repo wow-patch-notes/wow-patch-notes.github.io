@@ -2,6 +2,106 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Support Your Local Artisans now requires donations totaling 50,000 gold (was 70,000) to the Artisan’s Consortium."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing Earth Shield casts from another Shaman to sometimes override Earth Shield."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Addressed an issue where Archdruid Glaidalis can fail to use Grievous Leap on a player standing on top of a nearby object."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Addressed an issue in Archdruid Glaidalis's encounter where Nightmare Abominations can be stuck in a state of evasion when spawned on top of an elevated surface."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall"
+      ],
+      "Text": "Addressed an issue where Dazhak's Incinerating Blightbreath can fizzle if the targeted player dies during Dazhak's charge."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall"
+      ],
+      "Text": "Addressed an issue where Chronofade is not considered an AoE effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue in the Ancient Protectors encounter where Dulhu's Noxious Charge can still go off if he dies while casting."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Resolved an issue causing the Shadow Amirdrassil 4-set bonus to not be consumed when landing a killing blow on some pets and totems."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing some spells to kill Grounding Totem without directly targeting the totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing redirected damage over time effects to apply to Grounding Totem. Grounding Totem is once again immune to debuff effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-02-06",
       "Weekday": "Tuesday",
       "Tags": [
