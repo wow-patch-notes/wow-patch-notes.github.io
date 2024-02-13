@@ -2,6 +2,25 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where Rockspine Stinger's Venom Burst could be applied to non-player targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue preventing progress as intended on the legendary questline “Handling It”."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-02-08",
       "Weekday": "Thursday",
       "Tags": [
