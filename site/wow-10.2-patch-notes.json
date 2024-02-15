@@ -2,6 +2,106 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil, the Dream's Hope",
+        "Tindral Sageswift"
+      ],
+      "Text": "Addressed an issue where players who teleport out of the raid before the encounter ends can sometimes cause them to be stranded in The Great Sea."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Addressed an issue where a mind-controlled Dazar'ai Confessor's Dispel can remove an ally's Challenger's Might."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Removed randomized spawn of enemies before Archdruid Glaidalis."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Addressed an issue where Grommash Hellscream can melee players while leaping in the air before Bladestorm."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Rise of Murozond"
+      ],
+      "Text": "Addressed an issue where Battle Senses can trigger from Shockwave."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Heartsbane Triad's associated auras can fail to fall off."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Sister Solena does not lose the Soul Manipulation debuff if the mind-controlled player dies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Pallid Gorgers can sometimes melee players during Ravaging Leap."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "The spawning of Heartsbane Runeweavers and Heartsbane Soulcharmers are now consistent each week."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Love is in the Air"
+      ],
+      "Text": "Fixed an issue causing Love is in the Air daily quests to be removed from the quest log when logging out."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-02-12",
       "Weekday": "Monday",
       "Tags": [
