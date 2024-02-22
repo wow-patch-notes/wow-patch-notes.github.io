@@ -2,6 +2,27 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-21",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Fixed an issue with Echoing Reprimand that allowed Slice and Dice to trigger effects like Ruthlessness and Restless Blades as if spending 7 combo points."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-21",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Fixed an issue where receiving Aura of Dread can interrupt a player's channel."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-02-16",
       "Weekday": "Friday",
       "Tags": [
