@@ -2,6 +2,33 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "[With realm restarts] The maximum number of Follower Dungeons that a player can enter in a 24-hour period has been increased to 50 (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "The presence of Followers in dungeons no longer decreases the XP earned by the human players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue preventing Arathi Blizzard from being queued."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-02-21",
       "Weekday": "Wednesday",
       "Tags": [
