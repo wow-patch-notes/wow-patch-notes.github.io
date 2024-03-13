@@ -2,6 +2,708 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Rejuvenation healing increased by 12%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Developers’ notes: Preservation has been underutilized lately, in part due to the range restrictions of the specialization. To help compensate for that, we're increasing the healing and defensiveness of Preservation so they can traverse the battlefield more easily and safely."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Time of Need clone's overall healing increased by 100%. Time of Need clone's Living Flame healing increased by 16%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Live-Giver's Flame heals for 40/80% of damage done (was 35/70%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Inherent Resistance reduces magic damage taken by 4/8% (was 2/4%) for Preservation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Attuned to the Dream increases healing done and received by 3/6% (was 2/4%) for Preservation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "All damage dealt by you and your pets abilities increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "All damage dealt by you and your pets abilities increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Flurry damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Waterbolt and Water Jet damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Frostbolt damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Ice Lance damage increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "All healing reduced by 6%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Sheilun's Gift healing increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Jadefire Stomp healing and damage increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Expel Harm healing increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Eviscerate damage reduced by 6%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "All damage increased by 3%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Black Rook Hold"
+      ],
+      "Text": "Addressed an issue where Amalgam of Souls can trigger 2 soul burst simultaneously if the last Restless Soul is absorbed at 15% Health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite: Galakrond's Fall"
+      ],
+      "Text": "Addressed a Blight of Galakrond issue where Blight Seep left behind by a previous enemy will stop inflicting damage when the enemy is no longer in combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player"
+      ],
+      "Text": "Fixed an issue that caused Light's Protection, Soulburn: Drain Life, Icy Feet's lockout effect, Master of the Elements, and Fury of Elune to be vulnerable to enemy purge effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Demon Hide (talent) physical damage reduction is now 3% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Scars of Suffering (talent) Versatility bonus reduced to 2% (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Illidari Knowledge (talent) Magic damage reduction is now 3% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Will of the Illidari (talent) max health bonus reduced to 3% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Essence Break (talent) damage bonus for Chaos Strike/Blade Dance reduced to 40% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Resolved an issue that prevented the 50% PvP reduction to the Throw Glaive cast by Screaming Torchfiend's Brutality (2-piece) from being applied."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid"
+      ],
+      "Text": "Adaptive Swarm can no longer be cast during arena or battleground preparation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid"
+      ],
+      "Text": "Fixed an issue that caused the Well-Honed Instincts debuff to not clear upon the start of a PvP match."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Frenzied Regeneration is no longer reduced by 37.5% for Feral and Balance Druids in PvP combat. Restoration druids’ Frenzied Regeneration remains reduced by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Wild Attunement no longer activates when Cyclone is cast on an immune target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that caused Reforestation stacks to persist past the starting room in PvP instances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that caused Reactive Resin to apply to the Restoration Druid if heal over time effects were dispelled after being spell stolen."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Kill Shot damage increased by 25% in PvP (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Raptor Strike damage increased by 5% in PvP (was 11% reduced)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Mongoose Bite damage increased by 5% in PvP (was 11% reduced)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage"
+      ],
+      "Text": "Ring of Fire (PvP Talent) now deals 18% of its target's health over 6 seconds (was 24%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Prismatic Barrier now reduces magic damage taken by 10% (was 15%) and reduces the duration of incoming magic effects by 15% (was 25%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fevered Incantation now increases Critical Strike damage by 1% (was 2%) per stack in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Meteor's damage increased by 30% (was 11%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fireball's damage increased by 35% (was 18%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Scorch damage increased by 300% (was 200%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fire Blast damage is now reduced by 8% (was 14%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Living Bomb damage increased by 800% (was 440%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Vivify healing decreased by 10% (was 20%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Invigorating Mist healing increased by 12% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Soothing Mist healing increased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Soothing Mist (Jade Serpent Statue) healing increased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Denounce (PvP talent) damage increased by 70%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Judgment damage increased by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Greater Judgment absorb increased by 30% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Smite damage increased by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Atonement healing increased by 8% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Float Like a Butterfly (talent) effectiveness is now reduced by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Precision Shot (talent) damage reduction is now 3% (was 5%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Take Your Cut (PvP talent) haste granted reduced to 10% (was 15%) and duration reduced to 10 seconds (was 12 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Healing Surge healing is now increased by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock"
+      ],
+      "Text": "Soulburn: Demonic Circle now lasts 4 seconds in PvP Combat (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock"
+      ],
+      "Text": "Soulburn: Demonic Circle now increases movement speed by 30% in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock"
+      ],
+      "Text": "Call Observer health reduced to 6% of Warlock's health (was 8%) and Laserbeam damage reduced to 8% of enemy health (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Flame Rift damage from the Amirdrassil 4-piece set bonus is now reduced by 30% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warrior"
+      ],
+      "Text": "Cacophonous Roar damage threshold is increased by 100% (was 200%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Execute damage increased by 25% in PvP (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Execute damage increased by 65% in PvP (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed an issue with Piercing Shots, Deep Wounds, and Ignite that causes them to sometimes do too much damage to players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-03-05",
       "Weekday": "Tuesday",
       "Tags": [
