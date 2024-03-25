@@ -2,6 +2,1364 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Player matchmaking ratings (MMR) have been adjusted so that players should find themselves in better matches with continued play."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed a bug that caused plunder dropped by players on death to unintentionally despawn when the killed player left the match."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Players are now immune to knockbacks when standing near Da'kash Grimledger in the preparation area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Adjusted experience gained when playing Duos and fixed a bug that was increasing experience gain at level 3."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fire Whirl Movement speed bonus reduced to 70% across all ranks (was 140%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Our goal is to balance Fire Whirl’s effectiveness relative to the performance of other offensive spells without detracting from the effectiveness of other utility spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Star Bomb cast time reduced to 2 seconds across all ranks (was 2.25 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: We’d like to improve the effectiveness of this ability."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Toxic Smackerel cooldown reduced at ranks 1, 2, and 3. Rank 4 unchanged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ note: This is intended to ensure this ability is more in-line with expected power at early levels."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Explosive Caltrops trap radius increased by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: The traps placed by Explosive Caltrops are intended to counter close-range aggression, but this felt a bit inconsistent because the traps were smaller than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Lightning Bulwark channel time increased to 2 seconds (was 1.25 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Our goal here is to extend the potential window for counter play opportunities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Afflicted cast time increased to 12 seconds (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Incorporeal now spawns closer to the group's general location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Developers’ notes: The changes above were originally intended for Dragonflight Season 4, but we decided we’d prefer to have players to experience them sooner."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Addressed an issue where Afflicted Cry's debuff duration was increased by 2 seconds instead of its cast time."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that could cause raid bosses to not drop tier tokens as expected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where items from the Cache of Overblooming Treasures awarded from the Superbloom were dropping at a lower item level and upgrade track than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug that prevented some mounts, such as the Auspicious Arborwyrm or the mounts associated with the Dragonflight achievement A World Awoken, from being accessible to players who previously earned them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug that caused some gear to unintentionally become as powerful as it will be when Season 4 starts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: We’ve set these pieces back to their Season 3 item levels for the remainder of Season 3."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Transmog"
+      ],
+      "Text": "Players can now view the Plunderlord's Finery Transmog Set on their retail characters as they work towards earning all the pieces during the Plunderstorm event."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes"
+      ],
+      "Text": "Macros that use the non-healer versions of dispels will now override the ability with the healer dispel variant if the player is in a healer specialization. This applies to Discipline, Holy Priest, Holy Paladin, Restoration Druid, and Restoration Shaman. Mistweaver Monk and Preservation Evoker already had this functionality."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes"
+      ],
+      "Text": "Developer's note: We've updated the power of many of the set bonuses that are returning for Season 4 to match the increased power of the rest of the new gear in Season 4."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Death Knight",
+        "Blood"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Heart Strike and Blood Boil damage increased by 20% (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Death Knight",
+        "Blood"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Chance to gain Vampiric Blood increased to 10% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: The damage of your next Frostwyrm's Fury is increased by 5% (was 4%). Stacks unchanged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: The effectiveness of Frostywrm's Fury increased to 30% (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Howling Blast damage increased to 20% (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Starsurge and Starfall increase the damage of your next Wrath or Starfire by 30%, stacking up to 3 times (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: When you enter Eclipse, your next Starsurge or Starfall costs 15 less Astral Power (was 5 less Astral Power) and deals 40% (was 20%) increased damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Landslide costs 1.4% base mana (was 2.8%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker"
+      ],
+      "Text": "Sleep Walk costs 1% base mana (was 2.4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Causes Disintegrate and Pyre to pierce enemies for 18% of damage done (was 12%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker",
+        "Devastation"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (4) Set Bonus: Increases Empower spell damage by 12% (was 8%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Increases the healing of Reversion by 50% (was 35%) for 8 seconds (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: Increases healing and damage of Living Flame by 50% (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Reversion critical heals now extend Reversion by 2 seconds regardless of Haste."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Emerald Communion will now give an error message and fail to cast if used while in Diamond Ice."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Mongoose Bite/Raptor Strike, Carve, and Butchery damage increased by 18% (was 12%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: Bonus damage to Mongoose Bite/Raptor Strike, Carve, and Butchery increased to 50% (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Charring Embers now increases damage taken by 6% (was 5%) and lasts 2 additional seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Added an activation overlay for Fury of the Sun King."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "New Talent: Dance of Chi-Ji – Your spells and abilities have a chance to make your next Spinning Crane Kick deal an additional 300% damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "New Talent: Peer into Peace – 5% of your overhealing done onto targets with Soothing Mist is spread to 3 nearby injured allies. Soothing Mist now follows the target of your Enveloping Mist or Vivify and its channel time is increased by 4 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Resplendent Mist now causes Gust of Mists to have a 30% chance to do 75%/150% more healing (was 50%/100%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Peaceful Mending is now a 1-point talent and increases the healing allies receive from Enveloping Mist and Renewing Mist by 40% while Soothing Mist is active (was 25% per point)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Fists of Fury now increases the damage dealt by your Rising Sun Kicks or Spinning Crane Kicks by 40% (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: Fists of Fury now instead enhances your next 3 Rising Sun Kicks or Spinning Crane Kicks and enhanced kicks increase the damage of your next Fists of Fury by 7% (was 5%) stacking up to 3 times."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Increases Holy Shock’s critical healing by 80% (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (4) Set Bonus: Increases Holy Prism’s healing by 40% (was 80%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Developer’s note: Holy Prism’s healing was increased baseline in Guardians of the Dream, so this bonus is being decreased with that in mind. This will still be an overall gain in power compared to Embers of Neltharion."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (4) Set Bonus: Light’s Hammer healing increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Ally of the Light's Versatility increased to 8% (was 6%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Paladin",
+        "Protection"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: Hammer of the Righteous, Blessed Hammer/Crusader Strike increases your Parry by 7% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest"
+      ],
+      "Text": "Leap of Faith no longer interrupts spell casts from the ally it was used on."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Empyreal Blaze has been redesigned – Holy Word: Chastise causes your next 2 casts of Holy Fire to be instant, cost no mana, and incur no cooldown. Refreshing Holy Fire on a target now extends its duration by 7 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Pontifex has been redesigned – Flash Heal, Heal, Prayer of Healing, and Circle of Healing increase the healing done by your next Holy Word spell by 6% stacking up to 5 times. Lasts 30 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Lightwell has been redesigned – Creates a Holy Lightwell. Every second the Lightwell will attempt to heal a nearby party or raid member within 40 yards that is lower than 50% health and apply a Renew to them for 6 seconds. Lightwell lasts for 2 minutes or until it heals 15 times. Cooldown reduced by 3 seconds when you cast Holy Word: Serenity or Holy Word: Sanctify."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "All healing done reduced by 7%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Holy Fire mana cost reduced to 0.4% of base mana (was 1%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Holy Word: Chastise mana cost reduced to 0.6% of base mana (was 2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Resonant Words now causes Holy Words to increase the healing done by your next Flash Heal, Heal, Prayer of Healing, or Circle of Healing by 20%/40%. Lasts 30 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Divine Word now increases the effectiveness of your next Holy Word spell by 30% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Casting Holy Word: Chastise with Divine Word active now increases damage dealt by 20% and refunds 15 seconds from the cooldown of Holy Word: Chastise instead of its previous effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Casting Holy Word: Sanctify with Divine Word active now blesses the target area and heals 5 targets (was 6). Healing done increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Casting Holy Word: Serenity with Divine Word active no longer increases the critical strike chance of Flash Heal, Heal, and Renew."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Healing Chorus now increases the healing of Circle of Healing by 5% stacking up to 20 times (was 2% stacking up to 50 times)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Prayerful Litany now heals for 100% more to the most injured ally it affects (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Harmonious Apparatus has been renamed to Voice of Harmony and its icon has changed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Voice of Harmony now causes Holy Nova to reduce the cooldown of Chastise in addition to Holy Fire."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Gales of Song is now a 1-point talent with the values of the previous 2-point version."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Orison now has a connection to Pontifex."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Divine Service now has a connection to Say Your Prayers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Empowered Renew and Rapid Recovery have been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "The final 3 rows of the tree have been reorganized."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Increases the damage of Mind Blast by 40% when Shadowy Insight triggers (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (4) Set Bonus: Increases Devouring Plague damage by 18% (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (4) Set Bonus: Causes every 4 casts of Devouring Plague to increase Shadowy Apparition damage by 100% for 10 seconds (was 80%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Healing Stream Totem now increases critical strike by 15% (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: Increases the effectiveness of critical heals to 220% (was 215%) instead of the usual 200%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Consuming Soul Shards has a chance to grant you Chaos Maelstrom, increasing your critical strike chance by 15% for 10 seconds (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: Your critical strikes deal 212% (was 208%) damage instead of the usual 200%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Vault of the Incarnates (2) Set Bonus: Bonus damage to Mortal Strike and Cleave increased to 15% (was 10%). Critical Strike chance bonus unchanged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Vault of the Incarnates (4) Set Bonus: Bonus damage and Critical Strike chance increased to 8% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (2) Set Bonus: Bonus damage and Critical Strike chance to Rampage increased to 12% (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Classes",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Aberrus, the Shadowed Crucible (4) Set Bonus: Bonus damage increased to 30% (was 25%) and Critical Strike chance increased to 12% (was 10%) to Bloodthirst."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids",
+        "Ulduar Timewalking"
+      ],
+      "Text": "Fixed an issue where Liquid Pyrite was not properly restoring ammunition."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids",
+        "Ulduar Timewalking"
+      ],
+      "Text": "Fixed an issue where Burning Tar was incorrectly damaging players and vehicles that were far away."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids",
+        "Ulduar Timewalking"
+      ],
+      "Text": "Fixed an issue preventing Tar from properly slowing and damaging enemies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids",
+        "Ulduar Timewalking"
+      ],
+      "Text": "Fixed an issue where Mimiron would jump the gun too quickly and attack players while remaining untargetable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids",
+        "Ulduar Timewalking"
+      ],
+      "Text": "Fixed an issue where General Vezax's Mark of the Faceless was doing too much damage."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids",
+        "Ulduar Timewalking"
+      ],
+      "Text": "Fixed an issue where various boss enemies were moving great distances when tanks were too close."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids",
+        "Ulduar Timewalking"
+      ],
+      "Text": "Fixed an issue where Yogg-Saron's tentacles could spawn within the boss model."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Dungeons and Raids"
+      ],
+      "Text": "If a player in a Follower Dungeon can cast Bloodlust/Heroism/Time Warp/Fury of the Aspects, the followers will no longer try to cast their version when they think it's appropriate and instead leave the decision of when to cast up to the player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Raid loot from Vault of the Incarnates and Aberrus, the Shadowed Crucible have received several adjustments to align with changes made in Amirdrassil, the Dream's Hope:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Class set tokens will drop at a ratio of 1:3 relative to non-token items."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "All Very Rare items have a separate chance to drop in addition to a boss's standard quantity of loot."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Developer's note:  As we look ahead to Dragonflight Season 4, we are aiming to level the playing field for certain over- and underperforming raid trinkets. Further tuning can be expected before or shortly after the start of the season."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "The following raid trinkets have been adjusted:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Conjured Chillglobe mana restore effect reduced by 70%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Whispering Incarnate Icon's infusion effects granted to allies reduced by 45%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Ward of Faceless Ire cooldown reduced to 1 minute (was 2 minutes), absorb reduced by 35%, and damage reduced by 50%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "All remaining stacks of Enduring Dreadplate's Hellsteel Plating that are not consumed by taking damage now rupture to release Rays of Anguish upon expiration."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Ominous Chromatic Essence shared alignment secondary stat reduced by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Blossom of Amirdrassil effects increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Fyrakk's Tainted Rageheart absorb increased by 5%, lash damage reduced by 5%, and passive area-of-effect damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "The following dungeon trinkets have been significantly reworked:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "The following dungeon trinkets have been adjusted:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Kyrakka's Searing Embers chance to trigger increased by 100%, damage reduced by 50%, and healing reduced by 40%. Additionally fixed an issue that could cause inconsistent proc behavior."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Miniature Singing Stones shield effect increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "Mutated Magmammoth Scale chance to trigger now scales with Haste and damage reduced by 13%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "New glyphs have been added to transform the appearance of the recently updated Covenant abilities back to their old Covenant visuals. They can be purchased from the Covenant quartermasters."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Items"
+      ],
+      "Text": "In the Appearances collection, wrist appearances are now shown on the right wrist (was left wrist). This allows more one-sided appearances such as the Gothic Corsage to be visible in the collection pane."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "Pet Battles"
+      ],
+      "Text": "Briarhorn Hatchling has been struck by the Curse of Flesh and is now properly Beast-type (was Mechanical-type)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "PvP",
+        "Blitz Brawl"
+      ],
+      "Text": "Developer’s note: We’ve been happy to see the excitement around Battleground Blitz after its launch in Guardians of the Dream and after monitoring feedback and internal data, we are making some changes. We believe these changes will be healthy for the game mode and we want to ensure adequate time to observe feedback on them while Battleground Blitz is a brawl.\n\tIn particular, we have not been happy with the low frequency of capture the flag maps due to the restriction of having the maps be only available with tanks. In 10.2.6, we are lifting that restriction and are introducing a new buff, Empowered Carrier, that will be applied to non-tank specializations if they pick up the flag in Warsong Gulch and Twin Peaks. Tanks will still only be matched up against other tanks, and this buff will only be applied if there are not any tanks in the match.\n\tAdditionally, we’ve been overall happy with and have heard positive feedback around having an increased mount speed in Battleground Blitz. However, the 150% mount speed increase is slightly too fast for both the gameplay and character control experiences. We are adjusting the amount of increase on all maps, although having it slightly higher on the larger maps: Arathi Basin and Deepwind Gorge."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "PvP",
+        "Blitz Brawl",
+        "Eye of the Storm"
+      ],
+      "Text": "Added a hidden effect that prevents fall damage to both teams for 10 seconds at the start of a match."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "PvP",
+        "Blitz Brawl",
+        "Warsong Gulch",
+        "Twin Peaks"
+      ],
+      "Text": "New Buff: Empowered Carrier – Increases maximum health by 10% and movement speed by 30%. Additionally, Empowered Carrier provides 25% damage reduction for 4 seconds when stunned. Empowered Carrier is applied to non-tank specializations who pick up the flag on Warsong Gulch or Twin Peaks and won’t be applied if the match started with tanks in the match."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "PvP",
+        "Blitz Brawl"
+      ],
+      "Text": "Swift Pursuit has had the following adjustments:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "PvP",
+        "Blitz Brawl"
+      ],
+      "Text": "Increased mount speed is now 100% Arathi Basin and Deepwind Gorge (was 150%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "PvP",
+        "Blitz Brawl"
+      ],
+      "Text": "Increased mount speed is now 75% on all other maps (was 150%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057476",
+      "Date": "2024-03-19",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "10.2.6",
+        "PvP",
+        "Blitz Brawl",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Rewind heals for 50% of damage taken in the last 5 seconds in PvP combat (was 33%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-03-12",
       "Weekday": "Tuesday",
       "Tags": [
@@ -214,7 +1572,8 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall"
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
       ],
       "Text": "Addressed a Blight of Galakrond issue where Blight Seep left behind by a previous enemy will stop inflicting damage when the enemy is no longer in combat."
     },
@@ -876,7 +2235,7 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Addressed an issue where players who teleport out of the raid before the encounter ends can sometimes cause them to be stranded in The Great Sea."
@@ -907,7 +2266,8 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Addressed an issue where Grommash Hellscream can melee players while leaping in the air before Bladestorm."
     },
@@ -917,7 +2277,8 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Addressed an issue where Battle Senses can trigger from Shockwave."
     },
@@ -1034,7 +2395,8 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall"
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
       ],
       "Text": "Addressed an issue where Dazhak's Incinerating Blightbreath can fizzle if the targeted player dies during Dazhak's charge."
     },
@@ -1044,7 +2406,8 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall"
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
       ],
       "Text": "Addressed an issue where Chronofade is not considered an AoE effect."
     },
@@ -1105,7 +2468,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope"
+        "Amirdrassil"
       ],
       "Text": "The Hall of Fame is full, and Mythic difficulty is now available to cross-realm raid groups."
     },
@@ -1115,7 +2478,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Reduced the number of Aflame targets from 4 to 3 on Mythic difficulty."
@@ -1126,7 +2489,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Fyrakk health reduced by 10% on Mythic difficulty."
@@ -1137,7 +2500,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Burning and Dark Colossus health by 10% on Mythic difficulty."
@@ -1148,7 +2511,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Spirit of the Kaldorei health reduced by 20% on Mythic difficulty."
@@ -1159,7 +2522,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Darnassian Ancient health reduced by 20% on Mythic difficulty."
@@ -1170,7 +2533,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "The Heart of Amirdrassil now begins stage two with 60% health remaining."
@@ -1181,7 +2544,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Reduced the number of Corrupted Seeds created from 2 to 1."
@@ -1212,7 +2575,8 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall"
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
       ],
       "Text": "Addressed an issue where Dazhak can sometimes snap to target player on death while channeling Incinerating Blightbreath."
     },
@@ -1250,7 +2614,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Flamebound and Shadowbound are no longer private auras."
@@ -1261,7 +2625,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "Developers’ notes: We've observed that the common strategy for players executing the Flamebound and Shadowbound mechanics on Mythic Fyrakk involves cumbersome addon/macro setup and execution. Our goal with this change is to remove this burden for players who are progressing on this encounter and refocus the challenge on the gameplay."
@@ -1282,7 +2646,8 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall"
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
       ],
       "Text": "Fixed an issue where Manifested Timeways can occasionally cast Unwind during keystones."
     },
@@ -1400,7 +2765,8 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Addressed an issue where the visual for Spark of Tyr does not snap to ground."
     },
@@ -1410,7 +2776,8 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Addressed an issue where Spark of Tyr will immediately trigger if the target has immunity."
     },
@@ -1512,7 +2879,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Valow, Timesworn Keeper health reduced by 16%."
     },
@@ -1523,7 +2891,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Lerai, Timesworn Maiden health reduced by 16%, and Ancient Radiance recast time increased."
     },
@@ -1534,7 +2903,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Spurlok, Timesworn Sentinel health reduced by 16%, and Shrouding Sandstorm's recast time increased."
     },
@@ -1545,7 +2915,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Tyr, the Infinite Keeper Radiant Barrier damage absorb reduced by 15%."
     },
@@ -1556,7 +2927,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Infinite Riftmage health reduced by 10%, and Infinite Burn recast time increased."
     },
@@ -1567,7 +2939,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Time-Lost Battlefield Battle Senses / Thirst for Battle damage reduced by 20%, and Bladestorm movement reduction increased from 33% to 50%."
     },
@@ -1578,7 +2951,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Chrono-Lord Deios Temporal Breath initial damage reduced by 16%, and damage-over-time effect reduced by 14%."
     },
@@ -1589,7 +2963,8 @@
       "Tags": [
         "Dungeons and Raids",
         "Mythic+",
-        "Dawn of the Infinite: Rise of Murozond"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Infinite Keeper health reduced by 10%, and Chronal Burn damage reduced by 15%, and Infinite Blast damage reduced by 10%."
     },
@@ -2642,7 +4017,8 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall"
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
       ],
       "Text": "Fixed a Chronikar issue with Eon Shatter's ground targeting visual sometimes failing to appear."
     },
@@ -3348,7 +4724,8 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall",
+        "Dawn of the Infinite",
+        "Galakrond's Fall",
         "Blight of Galakrond"
       ],
       "Text": "Fixed an issue where the slimes that revive Dazhak and Loszkeleth could sometimes melee players."
@@ -3359,7 +4736,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Developers’ note: Fyrakk poses unique problems for smaller groups in Flexible Raid difficulties. The following changes are intended to narrow the gap in difficulty among group sizes."
@@ -3370,7 +4747,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Aflame now targets fewer players."
@@ -3381,7 +4758,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Screaming Soul health reduced for smaller group sizes."
@@ -3392,7 +4769,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Spirit of the Kaldorei health reduced for smaller group sizes."
@@ -3403,7 +4780,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Blaze damage reduced for smaller group sizes."
@@ -3414,7 +4791,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Corrupt absorb value reduced for smaller group sizes."
@@ -3425,7 +4802,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope"
+        "Amirdrassil"
       ],
       "Text": "Fixed an issue that could sometimes cause a stuck black screen upon entering Fyrakk's chamber."
     },
@@ -3992,7 +5369,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk The Blazing"
       ],
       "Text": "Removed the first instance of Blaze from intermission on Mythic difficulty."
@@ -4003,7 +5380,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk The Blazing"
       ],
       "Text": "Increased the cast time of Searing Screams to 4 seconds (was 2) on Mythic difficulty."
@@ -4014,7 +5391,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk The Blazing"
       ],
       "Text": "Reduced the health of Screaming Souls by 20% on Mythic difficulty."
@@ -4025,7 +5402,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Smolderon"
       ],
       "Text": "Fixed an issue with Seeking Infernos that allowed threat information to be generated from them."
@@ -4036,7 +5413,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Smolderon"
       ],
       "Text": "Reduced the number of Seeking Infernos that spawn each set to 3 (was 4)."
@@ -4047,7 +5424,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Smolderon"
       ],
       "Text": "Reduced the number of Flame Waves that spawn from Overheated targets to 4 (was 5) on Mythic difficulty."
@@ -4288,7 +5665,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope"
+        "Amirdrassil"
       ],
       "Text": "Fixed an issue where Raid Finder: Fate of Amirdrassil could port you to the wrong location."
     },
@@ -4308,7 +5685,8 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Murozond's Rise"
+        "Dawn of the Infinite",
+        "Murozond's Rise"
       ],
       "Text": "Fireball, Serrated Arrows, and Serrated Axe will now clean up after the encounter ends."
     },
@@ -4472,7 +5850,7 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope"
+        "Amirdrassil"
       ],
       "Text": "Fixed an issue that could prevent Gnarlroot, Igira, and Smolderon from leashing as expected."
     },
@@ -4509,7 +5887,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Fire Beam number of beam spawns per pulse reduced to 6 (was 8)."
@@ -4520,7 +5898,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Fiery Growth duration increased to 20 seconds (was 16 seconds) in Mythic difficulty."
@@ -4531,7 +5909,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Lingering Cinder duration reduced to 2 seconds (was 3 seconds)."
@@ -4542,7 +5920,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Pulsing Heat damage reduced by 33%."
@@ -4553,7 +5931,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Fiery Vines health reduced by 7% in Mythic difficulty."
@@ -4564,7 +5942,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Addressed an issue where Mass Entanglement can fail to root tank players."
@@ -4575,7 +5953,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Addressed a performance issue that caused a server delay at the start of the encounter."
@@ -4737,7 +6115,7 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Smolderon"
       ],
       "Text": "Fixed an issue where players would sometimes gain multiple stacks of Ignited Essence from 1 Living Flame."
@@ -4748,7 +6126,7 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Smolderon"
       ],
       "Text": "Fixed an issue where a Seeking Inferno could explode twice on Mythic difficulty."
@@ -4759,7 +6137,7 @@
       "Weekday": "Wednesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Tindral Sageswift"
       ],
       "Text": "Fallen Feathers now spawn 6 feathers on Mythic Difficulty (was 4)."
@@ -5717,7 +7095,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Resolved an issue causing Fyrakk to become unlootable if killed during Shadowflame Devastation in Stage Two."
@@ -5728,7 +7106,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Resolved an issue causing Fyrakk's energy bar to increase too quickly in Stage Three on Mythic difficulty."
@@ -5739,7 +7117,8 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall",
+        "Dawn of the Infinite",
+        "Galakrond's Fall",
         "Iridikron"
       ],
       "Text": "Timeline Transcendence's 100% damage increase now also increases the damage of an affected player's pets and summons even if they are not within Chromie's bubble."
@@ -5750,7 +7129,8 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Dawn of the Infinite: Galakrond's Fall",
+        "Dawn of the Infinite",
+        "Galakrond's Fall",
         "Iridikron"
       ],
       "Text": "Timeline Transcendence no longer applies onto pets or summons."
@@ -6091,8 +7471,7 @@
       "Tags": [
         "Classes",
         "Death Knight",
-        "Frost",
-        "Aberrus, the Shadow Crucible 2-piece set"
+        "Frost"
       ],
       "Text": "The damage of your next Frostwyrm's Fury is increased by 4% (was 5%). Stacks unchanged."
     },
@@ -6103,8 +7482,7 @@
       "Tags": [
         "Classes",
         "Death Knight",
-        "Frost",
-        "Aberrus, the Shadow Crucible 2-piece set"
+        "Frost"
       ],
       "Text": "The effectiveness of Frostywrm's Fury reduced to 25% (was 30%)."
     },
@@ -6115,8 +7493,7 @@
       "Tags": [
         "Classes",
         "Death Knight",
-        "Frost",
-        "Aberrus, the Shadow Crucible 2-piece set"
+        "Frost"
       ],
       "Text": "Howling Blast damage reduced to 10% (was 20%)."
     },
@@ -6127,8 +7504,7 @@
       "Tags": [
         "Classes",
         "Death Knight",
-        "Frost",
-        "Amirdrassil, the Dream's Hope 4-piece set"
+        "Frost"
       ],
       "Text": "Chill Streak can bounce 3 additional times (was 2 times)."
     },
@@ -6139,8 +7515,7 @@
       "Tags": [
         "Classes",
         "Death Knight",
-        "Frost",
-        "Amirdrassil, the Dream's Hope 4-piece set"
+        "Frost"
       ],
       "Text": "The chance to proc a bonus effect increased to 35% (was 30%)."
     },
@@ -6368,7 +7743,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Council of Dreams"
       ],
       "Text": "Addressed an issue causing Barreling Charge to hit players standing closely behind Urctos."
@@ -6673,7 +8048,7 @@
       "Weekday": "Monday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Nymue"
       ],
       "Text": "Fixed an issue where Cycle Wardens were not correctly scaling for larger raid sizes on Normal difficulty."
@@ -7217,7 +8592,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Larodar, Keeper of the Flame"
       ],
       "Text": "Reduced the number of Flash Fires that target players each cast by 1 on Heroic difficulty."
@@ -7228,7 +8603,7 @@
       "Weekday": "Tuesday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk the Blazing"
       ],
       "Text": "The extra action button that allows players to drop Seeds of Amirdrassil should now be more responsive."
@@ -7767,7 +9142,7 @@
       "Weekday": "Friday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Council of Dreams"
       ],
       "Text": "Fixed a rare timing issue where the Council members could finish casting Rebirth when the encounter should have ended."
@@ -7842,7 +9217,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Developers’ notes: Both player feedback and data have indicated that Heroic Fyrakk doesn't pose as much of a challenge as we'd intended. We'd like Fyrakk to be a satisfying ending to Amirdrassil, the Dream's Hope for the vast majority of players who have yet to encounter him, so we're making a few adjustments to the overall difficulty of the encounter."
@@ -7853,7 +9228,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Burning Scales damage increased by 40%."
@@ -7864,7 +9239,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "There is now an additional occurrence of Blaze during Stage Three."
@@ -7875,7 +9250,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Blaze damage increased by 40%."
@@ -7886,7 +9261,7 @@
       "Weekday": "Thursday",
       "Tags": [
         "Dungeons and Raids",
-        "Amirdrassil, the Dream's Hope",
+        "Amirdrassil",
         "Fyrakk"
       ],
       "Text": "Damage of colliding with a Swirling Firestorm increased by 60%."

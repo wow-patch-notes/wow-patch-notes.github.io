@@ -53,32 +53,38 @@ func cleanTag(t string) []string {
 	t = strings.ReplaceAll(t, "’", "'")
 
 	m := map[string][]string{
-		"Aberrus the Shadowed Crucible":  {"Aberrus"},
-		"Aberrus, the Shadowed Crucible": {"Aberrus"},
-		"Amirdrassil the Dreams Hope":    {"Amirdrassil"},
-		"Amirdrassil, the Dreams Hope":   {"Amirdrassil"},
-		"Alegeth'ar Academy":             {"Algeth'ar Academy"},
-		"Alegeth'ar Acadmey":             {"Algeth'ar Academy"},
-		"Asaad, Caliph of Zephyrs":       {"Asaad"},
-		"Azure Vaults":                   {"Azure Vault"},
-		"Brakenhide Hollow":              {"Brackenhide Hollow"},
-		"Chargath":                       {"Chargath, Bane of Scales"},
-		"Class":                          {"Classes"},
-		"Discipline, Shadow":             {"Discipline", "Shadow"},
-		"Dungeons and Raids":             {"Dungeons and Raids"}, // don't split on "and"
-		"Dungeons":                       {"Dungeons and Raids"},
-		"Enhancement, Elemental":         {"Enhancement", "Elemental"},
-		"Erkheart Stormvein":             {"Erkhart Stormvein"},
-		"Hackclaw's War-Band":            {"Hackclaw's Warband"},
-		"Kassara":                        {"Kazzara"},
-		"Mining/Herbalism":               {"Mining", "Herbalism"},
-		"Ner'Zul":                        {"Ner'zhul"},
-		"Player versus Player":           {"PvP"},
-		"Rashok":                         {"Rashok, the Elder"},
-		"Sentinel Talondrus":             {"Sentinel Talondras"},
-		"Thaldrazsus":                    {"Thaldraszus"},
-		"Uldaman, Legacy of Tyr":         {"Uldaman: Legacy of Tyr"},
-		"Wrath of the Lich King":         {"WotLK"},
+		"Aberrus the Shadowed Crucible":             {"Aberrus"},
+		"Aberrus, the Shadowed Crucible":            {"Aberrus"},
+		"Amirdrassil, the Dreams Hope":              {"Amirdrassil"},
+		"Amirdrassil, the Dream's Hope":             {"Amirdrassil"},
+		"Alegeth'ar Academy":                        {"Algeth'ar Academy"},
+		"Alegeth'ar Acadmey":                        {"Algeth'ar Academy"},
+		"Asaad, Caliph of Zephyrs":                  {"Asaad"},
+		"Azure Vaults":                              {"Azure Vault"},
+		"Brakenhide Hollow":                         {"Brackenhide Hollow"},
+		"Chargath":                                  {"Chargath, Bane of Scales"},
+		"Class":                                     {"Classes"},
+		"Discipline, Shadow":                        {"Discipline", "Shadow"},
+		"Dungeons and Raids":                        {"Dungeons and Raids"}, // don't split on "and"
+		"Dungeons":                                  {"Dungeons and Raids"},
+		"Enhancement, Elemental":                    {"Enhancement", "Elemental"},
+		"Erkheart Stormvein":                        {"Erkhart Stormvein"},
+		"Hackclaw's War-Band":                       {"Hackclaw's Warband"},
+		"Kassara":                                   {"Kazzara"},
+		"Mining/Herbalism":                          {"Mining", "Herbalism"},
+		"Ner'Zul":                                   {"Ner'zhul"},
+		"Player versus Player":                      {"PvP"},
+		"Rashok":                                    {"Rashok, the Elder"},
+		"Sentinel Talondrus":                        {"Sentinel Talondras"},
+		"Thaldrazsus":                               {"Thaldraszus"},
+		"Uldaman, Legacy of Tyr":                    {"Uldaman: Legacy of Tyr"},
+		"Wrath of the Lich King":                    {"WotLK"},
+		"Transmogrification":                        {"Transmog"},
+		"Aberrus, the Shadow Crucible 2-piece set":  {},
+		"Amirdrassil, the Dream's Hope 4-piece set": {},
+		"Dawn of the Infinite: Galakrond's Fall":    {"Dawn of the Infinite", "Galakrond's Fall"},
+		"Dawn of the Infinite: Rise of Murozond":    {"Dawn of the Infinite", "Murozond's Rise"},
+		"Dawn of the Infinite: Murozond's Rise":     {"Dawn of the Infinite", "Murozond's Rise"},
 	}
 	for k, vs := range m {
 		m[strings.ToUpper(k)] = vs
@@ -134,6 +140,8 @@ func fixCasing(changes []Change) {
 		"AMIRDRASSIL THE DREAMS HOPE":               "Amirdrassil",
 		"REVIVAL CATALYST":                          "Revival Catalyst",
 		"DRAGONFLIGHT EPILOGUE QUESTS":              "Quests",
+		"ULDUAR TIMEWALKING":                        "Ulduar Timewalking",
+		"BATTLEGROUND BLITZ BRAWL":                  "Blitz Brawl",
 	}
 
 	for _, c := range changes {
@@ -224,10 +232,10 @@ func checkTags(changes []Change) {
 
 	for i := 1; i < len(tags); i++ {
 		if strings.HasPrefix(tags[i-1], tags[i]) {
-			log.Printf("tags: %q is prefix of %q\n", tags[i-1], tags[i])
+			log.Printf("tags: %q is prefix of %q\n", tags[i], tags[i-1])
 		}
 		if strings.HasPrefix(tags[i], tags[i-1]) {
-			log.Printf("tags: %q is prefix of %q\n", tags[i], tags[i-1])
+			log.Printf("tags: %q is prefix of %q\n", tags[i-1], tags[i])
 		}
 	}
 }

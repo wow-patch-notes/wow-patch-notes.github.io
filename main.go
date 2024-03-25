@@ -160,6 +160,12 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 		return dest
 	}
 
+	if strings.Contains(u, "/24057476/") {
+		dest = scrapeContentUpdate(dest, doc, "#item2", "10.2.6",
+			time.Date(2024, 3, 19, 0, 0, 0, 0, time.UTC))
+		return dest
+	}
+
 	if strings.Contains(u, "/24052633/") {
 		dest = scrapeContentUpdate(dest, doc, "#item10", "10.2.5",
 			time.Date(2024, 1, 11, 0, 0, 0, 0, time.UTC))
