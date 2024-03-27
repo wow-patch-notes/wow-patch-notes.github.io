@@ -2,6 +2,146 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Resolved an issue causing Lightwell to be able to use its healing charges on allies that are in immunity effects such as Cyclone."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Resolved an issue causing Lightwell to sometimes despawn the Priest's Shadowfiend when used."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "World",
+        "Forbidden Reach"
+      ],
+      "Text": "A Forbidden Hoard that was inadvertently inaccessible due to having fallen through the floor has been moved to an accessible spot."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Plunder contained in dropped piles of Plunder increased by 50% in Solos matches."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Reviving a teammate now takes 10 seconds (was 15 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Health Brew cooldown for a revived player reduced to 10 seconds (was 15 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Adjusted the in-match leveling curve to increase the rate at which you level up to 7. Decreased the rate at which you level to 8, 9, and 10."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Many games have ended with larger player-level differences than we’d prefer. Considering the many playstyles we’ve seen in Plunderstorm, we want to help narrow the gap later in the game."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Earthbreaker now grants the caster immunity to crowd control spells while casting."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Faeform no longer provides any damage reduction."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Hunter’s Chains’ missile now moves significantly faster."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fire Whirl damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: we want to reign in Fire Whirl’s damage a bit more, so that it’s close to the performance of other offensive spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Rime Arrow cooldown increased at higher ranks, and now has a cooldown of 10/8.5/7/5.5 seconds (was 10/8/6/4 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Rime Arrow’s short cooldown made it a too-low-risk poke, often used to deny healing and chase fleeing targets. Increasing the cooldown at higher ranks will give targets more chances to act against Rime Arrow."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-03-21",
       "Weekday": "Thursday",
       "Tags": [
