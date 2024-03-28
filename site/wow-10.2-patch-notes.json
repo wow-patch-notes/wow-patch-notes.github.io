@@ -2,6 +2,78 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed bugs causing mounts related to A World Awoken to be unavailable, including Bestowed Ottuk Vanguard, Bestowed Trawling Mammoth, Bestowed Thunderspine Packleader, Bestowed Sandskimmer, Bestowed Ohuna Spotter, Coralscale Salamanther, Stormtouched Bruffalon, and Taivan."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue that prevented Splintered Sparks of Dreams from dropping from PvP sources while eligible for catch-up."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "The Storm's fury swells! Lightning strikes during the final stage of the Storm are faster and more dangerous than before."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "There is now a delay of 20 seconds after being revived where players no longer drop collected Plunder."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Additional enemies now spawn at Witherbark Village, the wild area northeast of Go'Shek Farm, and the wild area between Witherbark Village and Boulderfist Hall."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed an issue where swapping back to default sword and gun appearances were not saving correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed an issue so that now, picking up an additional rank 2 spell while the same rank 2 spell is equipped properly grants the rank 4 version of the spell."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "The Captain’s Orders quest “X Marks the Spot” now requires 1 item to be picked up (was 2 items)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-03-26",
       "Weekday": "Tuesday",
       "Tags": [
