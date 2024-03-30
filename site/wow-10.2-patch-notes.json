@@ -2,6 +2,80 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Fixed an issue where Time of Need functioned incorrectly and could stop casting Living Flame when the Evoker had a high amount of Haste."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Mounts"
+      ],
+      "Text": "Fixed a bug preventing players from seeing their properly earned Coralscale Salamanther upon login. The mount will be mailed to players who previously completed the Into the Storm"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "The Plunderlord's Silver Cutlass weapon option should now be selectable from Da'kash Grimledger in Brew Bay for players at or above Renown 36."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Goblin Glue Rockets can no longer apply snares to players in Faeform, casting Repel, or casting Earthbreaker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Any Keg Leg's Crew Renown rewards that were not granted to players of the appropriate Renown levels are now retroactively granted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Added a Kill Counter to the in-game user interface. Kills are now counted next to Plunder Collected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed a bug that caused Earthbreaker’s range and visual sizes to be inconsistent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: The effective range of Earthbreaker has not been changed. This fix makes its visuals appear to be about the same size as the spell effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-03-27",
       "Weekday": "Wednesday",
       "Tags": [
