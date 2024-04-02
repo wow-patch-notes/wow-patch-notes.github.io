@@ -2,6 +2,35 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-01",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Merciless Bonegrinder now functions correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-01",
+      "Weekday": "Monday",
+      "Tags": [
+        "Noblegarden"
+      ],
+      "Text": "Fixed an issue where the Golden Egg in Noblegarden could fail to trigger the boss spawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-01",
+      "Weekday": "Monday",
+      "Tags": [
+        "Noblegarden"
+      ],
+      "Text": "The Noblegarden daily quest \"Feathered Fiend\" is no longer shareable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-03-29",
       "Weekday": "Friday",
       "Tags": [
