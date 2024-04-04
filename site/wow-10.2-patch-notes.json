@@ -2,6 +2,168 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The following adjustments have been made to the Water’s Beating Heart trinket:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "When an ally not equipped with Water's Beating Heart dispels a player affected by Primal Wellspring Water, the buff will correctly apply to the debuffed player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The Primal Wellspring Water debuff is now visible to allies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The shield value is now split between affected players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where the following trinkets were dropping at an incorrect item level:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Noblegarden"
+      ],
+      "Text": "Increased the drop rate of the Noble Flying Carpet mount and added a bonus to the mount drop chance on the first defeat of Daetan on the account each day."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fiery Growth targets reduced to 3 on Mythic difficulty (was 4)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fiery Growth damage reduced by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Falling Star damage reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Pulsing Heat damage reduced by 10% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Shadow Cage now lasts 12 seconds on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Flamebound now increases damage taken from Flame Orbs by 5% on Mythic difficulty (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Shadowbound now increases damage taken from Shadow Orbs by 5% on Mythic difficulty (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Blaze damage decreased by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Maximum health of Darnassian Ancient decreased by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Primal Storms"
+      ],
+      "Text": "Primal Storms should now appear with a more evenly distributed pattern across the zones of Dragon Isles."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-04-01",
       "Weekday": "Monday",
       "Tags": [
