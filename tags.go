@@ -85,6 +85,9 @@ func cleanTag(t string) []string {
 		"Dawn of the Infinite: Galakrond's Fall":    {"Dawn of the Infinite", "Galakrond's Fall"},
 		"Dawn of the Infinite: Rise of Murozond":    {"Dawn of the Infinite", "Murozond's Rise"},
 		"Dawn of the Infinite: Murozond's Rise":     {"Dawn of the Infinite", "Murozond's Rise"},
+		"per character":                             {},
+		"Every week":                                {},
+		"Earn 1 Antique Bronze Bullion a week":      {},
 	}
 	for k, vs := range m {
 		m[strings.ToUpper(k)] = vs
@@ -142,6 +145,12 @@ func fixCasing(changes []Change) {
 		"DRAGONFLIGHT EPILOGUE QUESTS":              "Quests",
 		"ULDUAR TIMEWALKING":                        "Ulduar Timewalking",
 		"BATTLEGROUND BLITZ BRAWL":                  "Blitz Brawl",
+		"DRAGONFLIGHT SEASON 4":                     "",
+		"LOOKING FOR RAID":                          "LFR",
+		"DUNGEON CHANGES":                           "Dungeons and Raids",
+		"DUNGEONS AND RAIDS":                        "Dungeons and Raids",
+		"NORTHREND CUP":                             "Northrend Cup",
+		"DAWN OF THE INFINITE: HARD MODE":           "Dawn of the Infinite",
 	}
 
 	for _, c := range changes {
@@ -168,10 +177,12 @@ func fixCasing(changes []Change) {
 		for j, t := range c.Tags {
 			if mc, ok := tagSet[t]; ok {
 				t = mc
-				changes[i].Tags[j] = mc
-			}
-
-			if strings.IndexFunc(t, unicode.IsLetter) >= 0 && t == strings.ToUpper(t) {
+				if t == "" {
+					changes[i].Tags = append(changes[i].Tags[:j], changes[i].Tags[j+1:]...)
+				} else {
+					changes[i].Tags[j] = mc
+				}
+			} else if strings.IndexFunc(t, unicode.IsLetter) >= 0 && t == strings.ToUpper(t) {
 				hasInvalidTag = true
 				log.Println("Upper case tag: " + t)
 			}
@@ -231,11 +242,11 @@ func checkTags(changes []Change) {
 	sort.Strings(tags)
 
 	for i := 1; i < len(tags); i++ {
-		if strings.HasPrefix(tags[i-1], tags[i]) {
-			log.Printf("tags: %q is prefix of %q\n", tags[i], tags[i-1])
+		if tags[i-0] != "" && strings.HasPrefix(tags[i-1], tags[i-0]) {
+			log.Printf("WARN: tags: %q is prefix of %q\n", tags[i-0], tags[i-1])
 		}
-		if strings.HasPrefix(tags[i], tags[i-1]) {
-			log.Printf("tags: %q is prefix of %q\n", tags[i-1], tags[i])
+		if tags[i-1] != "" && strings.HasPrefix(tags[i-0], tags[i-1]) {
+			log.Printf("WARN: tags: %q is prefix of %q\n", tags[i-1], tags[i-0])
 		}
 	}
 }

@@ -45,8 +45,8 @@ jobs:
         run: |
           ls -l
           pwd
-          go run . -stop-after /24020034/ > site/wow-10.2-patch-notes.json
-                             # /24020034/: Guardians of the Dream Content Update Notes
+          go run . -stop-after /24066682/ > site/wow-10.3-patch-notes.json
+                             # /24066682/: Dragonflight Season 4 Content Update Notess
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:

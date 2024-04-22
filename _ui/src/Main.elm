@@ -279,7 +279,8 @@ viewPatchSelect model =
     in
     select [ onInput SetPatch ] <|
         List.map opt
-            [ ( "10.2", "Dragon Flight Season 3" )
+            [ ( "10.3", "Dragon Flight Season 4" )
+            , ( "10.2", "Dragon Flight Season 3" )
             , ( "10.1", "Dragon Flight Season 2" )
             , ( "10.0", "Dragon Flight Season 1" )
             ]

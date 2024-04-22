@@ -6956,6 +6956,7 @@ var $author$project$Main$viewPatchSelect = function (model) {
 			opt,
 			_List_fromArray(
 				[
+					_Utils_Tuple2('10.3', 'Dragon Flight Season 4'),
 					_Utils_Tuple2('10.2', 'Dragon Flight Season 3'),
 					_Utils_Tuple2('10.1', 'Dragon Flight Season 2'),
 					_Utils_Tuple2('10.0', 'Dragon Flight Season 1')

@@ -1,0 +1,1382 @@
+{
+  "Changes": [
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids"
+      ],
+      "Text": "Dragonflight Season 4 brings with it a variety of changes, including new adjustments to dungeons, their progression, and rewards. [LEARN MORE]"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Northrend Cup"
+      ],
+      "Text": "On April 30 through May 14, soar through the Northrend skies with the dragonrider racing event, Northrend Cup."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Classes"
+      ],
+      "Text": "Developer's note: In Season 4, we're reducing the overall throughput of some healers to better align with our tuning goals as well as increase the comparative power of Holy Paladin, Preservation Evoker, and Holy Priest without needing to further escalate the capabilities of healers."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "LFR"
+      ],
+      "Text": "In-combat resurrection spells in Looking for Raid difficulty now use the same shared-charge system as other raid difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "LFR"
+      ],
+      "Text": "Groups in Looking for Raid difficulty now start combat with six in-combat resurrection charges, and gain a charge every 90-150 seconds, depending on group size."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Aberrus",
+        "Echo of Neltharion"
+      ],
+      "Text": "Volcanic Heart now targets 4 players on Mythic difficulty (was 5)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Hurricane Wing's pushback strength reduced by 10% on all difficulties."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Lightning Devastation cast time increased to 4 seconds (was 3 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Flame Shield reduced by 23%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Raszageth"
+      ],
+      "Text": "Shattering Shroud healing absorb reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Dawn of the Infinite"
+      ],
+      "Text": "Dawn of the Infinite: Hard Mode tuning and rewards have been updated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Dawn of the Infinite"
+      ],
+      "Text": "Hard mode does not have a timer and rewards a Hero track item. Hard mode is intended to be more challenging than a standard Mythic difficulty dungeon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "General"
+      ],
+      "Text": "Spellbound Scepter Arcane Rain has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "General"
+      ],
+      "Text": "Spellbound Scepter Mystic Blast can no longer be interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "General"
+      ],
+      "Text": "Spectral Invoker's Arcane Missiles damage reduced by 50%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Crawth"
+      ],
+      "Text": "Firestorm frequency reduced to 8 seconds (was 5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Crawth"
+      ],
+      "Text": "Savage Peck's initial damage reduced by 13%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Crawth"
+      ],
+      "Text": "Savage Peck's periodic damage reduced by 33%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Crawth"
+      ],
+      "Text": "Addressed an issue where Deafening Screech can go off after the cast is interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Vexamus"
+      ],
+      "Text": "Mana Bomb periodic damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Vexamus"
+      ],
+      "Text": "Corrupted Mana now has a slight delay before inflicting damage to players inside of its effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Echo of Doragosa"
+      ],
+      "Text": "New Mythic mechanic: Unleash Energy – The Echo of Doragosa unleashes powerful arcane energy, inflicting Arcane damage to all players and opening Arcane Rifts in nearby locations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Algeth'ar Academy",
+        "Encounters",
+        "Echo of Doragosa"
+      ],
+      "Text": "Astral Breath cast time has been increased to 3 seconds (was 2 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General"
+      ],
+      "Text": "Increased the Mythic+ timer by 2 minutes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General",
+        "Crystal Fury"
+      ],
+      "Text": "Piercing Shard now has a precast visual."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General",
+        "Crystal Fury"
+      ],
+      "Text": "Piercing Shard impact area reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General"
+      ],
+      "Text": "Conjured Lasher Mystic Vapors will now be cast less frequently."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General"
+      ],
+      "Text": "Arcane Tender's Erratic Growth cast time increased to 3.5 seconds (was 2.5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General"
+      ],
+      "Text": "Unstable Curator's Heavy Tome will now be cast less frequently."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General",
+        "Drakonid Breaker"
+      ],
+      "Text": "Shoulder Slam's knockback has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General",
+        "Drakonid Breaker"
+      ],
+      "Text": "Shoulder Slam now inflicts Physical damage and increases Physical damage taken by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "General",
+        "Drakonid Breaker"
+      ],
+      "Text": "Shoulder Slam will now be cast less frequently."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "Encounters",
+        "Leymor"
+      ],
+      "Text": "Erupting Fissures now follows current target player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "Encounters",
+        "Azureblade"
+      ],
+      "Text": "Reduced the frequency of periodic damage from Overwhelming Energy to every 2.5 seconds (was every 2 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "Encounters",
+        "Umbrelskul"
+      ],
+      "Text": "Oppressive Miasma removed in Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "Encounters",
+        "Umbrelskul"
+      ],
+      "Text": "Crystalize now pulses Arcane damage while the crystal is shielded."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "Encounters",
+        "Umbrelskul"
+      ],
+      "Text": "Crackling Vortex now has a larger movement radius."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "Encounters",
+        "Umbrelskul"
+      ],
+      "Text": "Detonating Crystals and Hardened Crystal now spawn closer to Umbrelskul's location"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Azure Vault",
+        "Encounters",
+        "Umbrelskul"
+      ],
+      "Text": "Addressed an issue where Detonating Crystals can fail to spawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Withering debuff"
+      ],
+      "Text": "No longer stacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Withering debuff"
+      ],
+      "Text": "Periodic damage reduced by 16%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Withering debuff"
+      ],
+      "Text": "Haste reduction increased to 10% (was 2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Withering debuff"
+      ],
+      "Text": "Movement reduction increased to 10% (was 2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Fetid Rotsinger"
+      ],
+      "Text": "Decay Totem health reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Fetid Rotsinger"
+      ],
+      "Text": "Addressed an issue where Withering cast by Decay Totem is inflicting more periodic damage than Withering from other sources."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Rotbow Stalker"
+      ],
+      "Text": "Renamed to Rotbow Ranger."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Rotbow Stalker"
+      ],
+      "Text": "Shoot now has a recast of 6 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Rotbow Stalker"
+      ],
+      "Text": "Diseased Meat renamed to Rotten Meat, and is now a Poison dispel."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General"
+      ],
+      "Text": "Brackenhide Shaper Summon Lashers and Touch of Decay have been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Stinkbreath"
+      ],
+      "Text": "Violent Whirlwind radius reduced to 6 yards (was 7 yards)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Stinkbreath"
+      ],
+      "Text": "Stink Breath now locks facing after targeting a player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Stinkbreath"
+      ],
+      "Text": "Stink Breath now has a visual while casting."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Wilted Oak"
+      ],
+      "Text": "Necrotic Breath's casting visual has been updated."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General",
+        "Wilted Oak"
+      ],
+      "Text": "Necrotic Breath's cone width has been adjusted to match with the new visual."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General"
+      ],
+      "Text": "Gutstabber Withering Poison has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General"
+      ],
+      "Text": "Bracken Warscourge Bloody Bite has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General"
+      ],
+      "Text": "Claw Fighter Bloody Bite has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "General"
+      ],
+      "Text": "Decay Speaker Rotchanting Totem has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "Encounters",
+        "Hackclaw's Warband"
+      ],
+      "Text": "Predatory Instincts Haste bonus reduced to 5% (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "Encounters",
+        "Hackclaw's Warband"
+      ],
+      "Text": "Mark for Butchery damage frequency increased to 1 second (was 0.5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "Encounters",
+        "Hackclaw's Warband"
+      ],
+      "Text": "Gash Frenzy damage reduced by 21%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Brackenhide Hollow",
+        "Encounters",
+        "Hackclaw's Warband"
+      ],
+      "Text": "Gash Frenzy duration reduced to 15 seconds (was 45 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "General"
+      ],
+      "Text": "Dungeon checkpoint added after defeating Gulping Goliath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "General"
+      ],
+      "Text": "Normalized the spawn rate of Crashing Tsunami during the gauntlet."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "General"
+      ],
+      "Text": "Containment Apparatus' Containment Beam damage reduced by 42%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "General",
+        "Primalist Galesinger"
+      ],
+      "Text": "Wind Buffet and Thunderstorm have been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "General",
+        "Primalist Galesinger"
+      ],
+      "Text": "New ability: Thunderstrike – Inflicts Nature damage to all players within 7 yards of impact."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "General"
+      ],
+      "Text": "Primalist Earthshaker Rumbling Earth rim visual will no longer clip into the terrain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "Encounters",
+        "Watcher Irideus"
+      ],
+      "Text": "Titanic Fist now has a visual during cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "Encounters",
+        "Watcher Irideus"
+      ],
+      "Text": "Power Overload now has a rim visual around afflicted player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "Encounters",
+        "Watcher Irideus"
+      ],
+      "Text": "Power Field now gradually grows to its full size."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "Encounters",
+        "Khajin the Unyielding"
+      ],
+      "Text": "Added rim visuals on Ice Boulders that will trigger Avalanche."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Halls of Infusion",
+        "Encounters",
+        "Primal Tsunami"
+      ],
+      "Text": "Cast Away now occurs at 60% health (was 100% energy)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "General"
+      ],
+      "Text": "Each Burning Chain can only be used once."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "General"
+      ],
+      "Text": "Burning Chain now stuns all enemies in it and increases their damage taken by 50% for 5 seconds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "Encounters",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Fiery Focus pulsing damage near the Chargath has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "Encounters",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Fiery Focus now channels damage on current target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "Encounters",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Grounding Chain now persists on defeated player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "Encounters",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Grounding Chain now does a small knockback to the player when applied."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "Encounters",
+        "Warlord Sargha"
+      ],
+      "Text": "Curse of the Dragon Hoard now stacks."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "Encounters",
+        "Warlord Sargha"
+      ],
+      "Text": "Curse of the Dragon Hoard duration reduced from to 30 seconds (was 5 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Neltharus",
+        "Encounters",
+        "Warlord Sargha"
+      ],
+      "Text": "Azure Stone of Might has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "General",
+        "Nokhud Longbow"
+      ],
+      "Text": "Multi-Shot has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "General",
+        "Nokhud Longbow"
+      ],
+      "Text": "Rain of Arrows will now be cast less frequently."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "General"
+      ],
+      "Text": "Nokhud Beastmaster Hunt Prey damage bonus reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "General"
+      ],
+      "Text": "Desecrated Ohuna Rotting Wind initial damage reduced by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "General"
+      ],
+      "Text": "Ukhel Beastcaller Desecrating Roar frequency reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "General"
+      ],
+      "Text": "Nokhud Thunderfist Storm Shock has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "General"
+      ],
+      "Text": "Primalist Stormspeaker Storm Bolt has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Nokhud Offensive",
+        "Encounters",
+        "Balakar Khan"
+      ],
+      "Text": "Frequency of Stormwinds during intermission has been reduced to every 10 seconds (was every 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Ruby Life Pools",
+        "General"
+      ],
+      "Text": "Primal Terrasentry Stone Missiles has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Ruby Life Pools",
+        "General",
+        "Primalist Flamedancer"
+      ],
+      "Text": "Blaze of Glory now has a 1 second delay before inflicting damage around the caster."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Ruby Life Pools",
+        "General",
+        "Primalist Flamedancer"
+      ],
+      "Text": "Flame Dance’s end of channel damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Ruby Life Pools",
+        "Encounters",
+        "Kyrakka",
+        "Erkhart Stormvein"
+      ],
+      "Text": "Infernocore duration increased to 4 seconds (was 3 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Ruby Life Pools",
+        "Encounters",
+        "Kyrakka",
+        "Erkhart Stormvein"
+      ],
+      "Text": "Infernocore periodic damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Ruby Life Pools",
+        "Encounters",
+        "Kyrakka",
+        "Erkhart Stormvein"
+      ],
+      "Text": "Flamespit targets reduced to 2 (was 3)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "General"
+      ],
+      "Text": "Reduced the Mythic+ timer by 1 minute."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Lost Dwarves"
+      ],
+      "Text": "Fiery Surge damage reduced by 75%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Lost Dwarves"
+      ],
+      "Text": "Fiery Surge's frequency has been significantly reduced – One dwarf reduced by 33%, two dwarves reduced by 50%, and three dwarves reduced by 100%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Lost Dwarves"
+      ],
+      "Text": "Burning Pitch maximum radius reduced to 6 yards (was 10 yards)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Lost Dwarves"
+      ],
+      "Text": "Fiery Surge and Burning Pitch now properly scales with key level."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Lost Dwarves"
+      ],
+      "Text": "Fixed an issue where Heavy Arrow was damaging pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Sentinel Talondras"
+      ],
+      "Text": "Earthen Shards initial damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Sentinel Talondras"
+      ],
+      "Text": "Earthen Shards periodic damage reduced by 12.5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Emberon"
+      ],
+      "Text": "Burning Heat duration reduced to 6 seconds (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Encounters",
+        "Emberon"
+      ],
+      "Text": "Seeking Flame’s visual has been adjusted to no longer clip into the terrain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "Items"
+      ],
+      "Text": "Revival Catalyst charges have been reset to 1. One charge is earned each week (was every 2 weeks)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "PvP"
+      ],
+      "Text": "Honor gained from the Battleground Blitz Brawl now contributes towards the PvP track in the Great Vault."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "PvP",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Ancient Teachings healing transfer amount reduced to 375% in PvP combat (was 412%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
+      "Date": "2024-04-19",
+      "Weekday": "Friday",
+      "Tags": [
+        "10.3.0",
+        "PvP",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Atonement healing increased by 35% in PvP combat (was 15%)."
+    }
+  ]
+}
