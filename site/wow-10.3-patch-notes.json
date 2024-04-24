@@ -1,6 +1,51 @@
 {
   "Changes": [
     {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Season 3 (Dreaming) crests are now correctly removed from players' currency tabs. Players have received a small amount of gold for their unused Dreaming Crests."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Players can now earn up to 120 crests of each type per week in Dragonflight Season 4 (was a maximum of 90 per week in Season 3). This will allow for up to 8 upgrades per week, per crest type (was 6 in Season 3)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers' notes: For players who don't reach their maximum crest earnings in a given week, we've implemented the increasing-seasonal-cap system from previous seasons. Please note that this increase is likely applicable to Season 4 only. We expect the weekly maximum to return to 90 for The War Within Season One."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Resolved an issue where abandoning the quest \"Something Worth Celebrating\" could make it unavailable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Cataclysm Classic"
+      ],
+      "Text": "The dates for Children’s Week have been adjusted so that the holiday begins and ends three days later than previously scheduled."
+    },
+    {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066682",
       "Date": "2024-04-19",
       "Weekday": "Friday",
@@ -1377,6 +1422,3579 @@
         "Discipline"
       ],
       "Text": "Atonement healing increased by 35% in PvP combat (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-16",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Grotto Netherwing Drake's Black Scales should be properly awarded to players who have completed the Now THIS is Dragon Racing!"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Fixed a bug that could prevent a Druid with Radiant Moonlight who died and resurrected from getting more than one cast of Full Moon before it resets to New Moon."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Primordial Arcanic Pulsar progress now resets on raid encounter start."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Damage dealt from Berserk: Frenzy and Burning Frenzy (Seasons 3 and 4 set armor 4-piece bonus) will now log correctly when buffed by an Augmentation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The following cast time trinkets will now trigger a 1 second global cooldown and may not be used when the global cooldown is active:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Manic Grieftorch damage increased by 1.2%. Can now be channeled while moving."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Storm-Eater's Boon damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Dragonfire Bomb Dispenser damage reduced by 15%. Flash of Inspiration may now only occur every 2 seconds (was 0.74 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Neltharion's Call to Chaos primary stat reduced by 6.4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Neltharion's Call to Dominance primary stat reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Nymue's Unraveling Spindle now triggers a 1 second global cooldown (was 1.5 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "All Fyrakk's Tainted Rageheart’s damage reduced by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue causing Inexorable Resonator to grant more primary stat than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-11",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue causing Whispering Incarnate Icon to grant significantly more passive secondary stat than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-04",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Explosive Caltrops now drops caltrops along the entire jump path."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-04",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Explosive Caltrops now affects all targets in the effect range when triggered."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-04",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classic Era",
+        "Temple of Ahn'qiraj",
+        "Twin Emperors"
+      ],
+      "Text": "Fixed an issue that prevented Vek'nilash and Vek'lor from sharing health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The following adjustments have been made to the Water’s Beating Heart trinket:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "When an ally not equipped with Water's Beating Heart dispels a player affected by Primal Wellspring Water, the buff will correctly apply to the debuffed player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The Primal Wellspring Water debuff is now visible to allies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The shield value is now split between affected players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where the following trinkets were dropping at an incorrect item level:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Noblegarden"
+      ],
+      "Text": "Increased the drop rate of the Noble Flying Carpet mount and added a bonus to the mount drop chance on the first defeat of Daetan on the account each day."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fiery Growth targets reduced to 3 on Mythic difficulty (was 4)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Fiery Growth damage reduced by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Falling Star damage reduced by 15% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Pulsing Heat damage reduced by 10% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Shadow Cage now lasts 12 seconds on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Flamebound now increases damage taken from Flame Orbs by 5% on Mythic difficulty (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Shadowbound now increases damage taken from Shadow Orbs by 5% on Mythic difficulty (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Blaze damage decreased by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk"
+      ],
+      "Text": "Maximum health of Darnassian Ancient decreased by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-02",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Primal Storms"
+      ],
+      "Text": "Primal Storms should now appear with a more evenly distributed pattern across the zones of Dragon Isles."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-01",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Merciless Bonegrinder now functions correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-01",
+      "Weekday": "Monday",
+      "Tags": [
+        "Noblegarden"
+      ],
+      "Text": "Fixed an issue where the Golden Egg in Noblegarden could fail to trigger the boss spawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-01",
+      "Weekday": "Monday",
+      "Tags": [
+        "Noblegarden"
+      ],
+      "Text": "The Noblegarden daily quest \"Feathered Fiend\" is no longer shareable."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Fixed an issue where Time of Need functioned incorrectly and could stop casting Living Flame when the Evoker had a high amount of Haste."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Mounts"
+      ],
+      "Text": "Fixed a bug preventing players from seeing their properly earned Coralscale Salamanther upon login. The mount will be mailed to players who previously completed the Into the Storm"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "The Plunderlord's Silver Cutlass weapon option should now be selectable from Da'kash Grimledger in Brew Bay for players at or above Renown 36."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Goblin Glue Rockets can no longer apply snares to players in Faeform, casting Repel, or casting Earthbreaker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Any Keg Leg's Crew Renown rewards that were not granted to players of the appropriate Renown levels are now retroactively granted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Added a Kill Counter to the in-game user interface. Kills are now counted next to Plunder Collected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed a bug that caused Earthbreaker’s range and visual sizes to be inconsistent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-29",
+      "Weekday": "Friday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: The effective range of Earthbreaker has not been changed. This fix makes its visuals appear to be about the same size as the spell effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed bugs causing mounts related to A World Awoken to be unavailable, including Bestowed Ottuk Vanguard, Bestowed Trawling Mammoth, Bestowed Thunderspine Packleader, Bestowed Sandskimmer, Bestowed Ohuna Spotter, Coralscale Salamanther, Stormtouched Bruffalon, and Taivan."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue that prevented Splintered Sparks of Dreams from dropping from PvP sources while eligible for catch-up."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "The Storm's fury swells! Lightning strikes during the final stage of the Storm are faster and more dangerous than before."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "There is now a delay of 20 seconds after being revived where players no longer drop collected Plunder."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Additional enemies now spawn at Witherbark Village, the wild area northeast of Go'Shek Farm, and the wild area between Witherbark Village and Boulderfist Hall."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed an issue where swapping back to default sword and gun appearances were not saving correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed an issue so that now, picking up an additional rank 2 spell while the same rank 2 spell is equipped properly grants the rank 4 version of the spell."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-27",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "The Captain’s Orders quest “X Marks the Spot” now requires 1 item to be picked up (was 2 items)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Resolved an issue causing Lightwell to be able to use its healing charges on allies that are in immunity effects such as Cyclone."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Resolved an issue causing Lightwell to sometimes despawn the Priest's Shadowfiend when used."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "World",
+        "Forbidden Reach"
+      ],
+      "Text": "A Forbidden Hoard that was inadvertently inaccessible due to having fallen through the floor has been moved to an accessible spot."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Plunder contained in dropped piles of Plunder increased by 50% in Solos matches."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Reviving a teammate now takes 10 seconds (was 15 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Health Brew cooldown for a revived player reduced to 10 seconds (was 15 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Adjusted the in-match leveling curve to increase the rate at which you level up to 7. Decreased the rate at which you level to 8, 9, and 10."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Many games have ended with larger player-level differences than we’d prefer. Considering the many playstyles we’ve seen in Plunderstorm, we want to help narrow the gap later in the game."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Earthbreaker now grants the caster immunity to crowd control spells while casting."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Faeform no longer provides any damage reduction."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Hunter’s Chains’ missile now moves significantly faster."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fire Whirl damage reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: we want to reign in Fire Whirl’s damage a bit more, so that it’s close to the performance of other offensive spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Rime Arrow cooldown increased at higher ranks, and now has a cooldown of 10/8.5/7/5.5 seconds (was 10/8/6/4 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-26",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Rime Arrow’s short cooldown made it a too-low-risk poke, often used to deny healing and chase fleeing targets. Increasing the cooldown at higher ranks will give targets more chances to act against Rime Arrow."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Player matchmaking ratings (MMR) have been adjusted so that players should find themselves in better matches with continued play."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fixed a bug that caused plunder dropped by players on death to unintentionally despawn when the killed player left the match."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Players are now immune to knockbacks when standing near Da'kash Grimledger in the preparation area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Adjusted experience gained when playing Duos and fixed a bug that was increasing experience gain at level 3."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Fire Whirl Movement speed bonus reduced to 70% across all ranks (was 140%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Our goal is to balance Fire Whirl’s effectiveness relative to the performance of other offensive spells without detracting from the effectiveness of other utility spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Star Bomb cast time reduced to 2 seconds across all ranks (was 2.25 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: We’d like to improve the effectiveness of this ability."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Toxic Smackerel cooldown reduced at ranks 1, 2, and 3. Rank 4 unchanged."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ note: This is intended to ensure this ability is more in-line with expected power at early levels."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Explosive Caltrops trap radius increased by 40%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: The traps placed by Explosive Caltrops are intended to counter close-range aggression, but this felt a bit inconsistent because the traps were smaller than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Lightning Bulwark channel time increased to 2 seconds (was 1.25 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-21",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Plunderstorm"
+      ],
+      "Text": "Developers’ notes: Our goal here is to extend the potential window for counter play opportunities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Afflicted cast time increased to 12 seconds (was 10 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Incorporeal now spawns closer to the group's general location."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Developers’ notes: The changes above were originally intended for Dragonflight Season 4, but we decided we’d prefer to have players to experience them sooner."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Addressed an issue where Afflicted Cry's debuff duration was increased by 2 seconds instead of its cast time."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that could cause raid bosses to not drop tier tokens as expected."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where items from the Cache of Overblooming Treasures awarded from the Superbloom were dropping at a lower item level and upgrade track than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug that prevented some mounts, such as the Auspicious Arborwyrm or the mounts associated with the Dragonflight achievement A World Awoken, from being accessible to players who previously earned them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug that caused some gear to unintentionally become as powerful as it will be when Season 4 starts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: We’ve set these pieces back to their Season 3 item levels for the remainder of Season 3."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-20",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Transmog"
+      ],
+      "Text": "Players can now view the Plunderlord's Finery Transmog Set on their retail characters as they work towards earning all the pieces during the Plunderstorm event."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Rejuvenation healing increased by 12%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Developers’ notes: Preservation has been underutilized lately, in part due to the range restrictions of the specialization. To help compensate for that, we're increasing the healing and defensiveness of Preservation so they can traverse the battlefield more easily and safely."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Time of Need clone's overall healing increased by 100%. Time of Need clone's Living Flame healing increased by 16%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Live-Giver's Flame heals for 40/80% of damage done (was 35/70%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Inherent Resistance reduces magic damage taken by 4/8% (was 2/4%) for Preservation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Attuned to the Dream increases healing done and received by 3/6% (was 2/4%) for Preservation Evoker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "All damage dealt by you and your pets abilities increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "All damage dealt by you and your pets abilities increased by 3%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Flurry damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Waterbolt and Water Jet damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Frostbolt damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Ice Lance damage increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "All healing reduced by 6%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Sheilun's Gift healing increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Jadefire Stomp healing and damage increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Expel Harm healing increased by 6%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Eviscerate damage reduced by 6%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "All damage increased by 3%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Black Rook Hold"
+      ],
+      "Text": "Addressed an issue where Amalgam of Souls can trigger 2 soul burst simultaneously if the last Restless Soul is absorbed at 15% Health."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
+      ],
+      "Text": "Addressed a Blight of Galakrond issue where Blight Seep left behind by a previous enemy will stop inflicting damage when the enemy is no longer in combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player"
+      ],
+      "Text": "Fixed an issue that caused Light's Protection, Soulburn: Drain Life, Icy Feet's lockout effect, Master of the Elements, and Fury of Elune to be vulnerable to enemy purge effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Demon Hide (talent) physical damage reduction is now 3% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Scars of Suffering (talent) Versatility bonus reduced to 2% (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Illidari Knowledge (talent) Magic damage reduction is now 3% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Will of the Illidari (talent) max health bonus reduced to 3% (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Essence Break (talent) damage bonus for Chaos Strike/Blade Dance reduced to 40% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Resolved an issue that prevented the 50% PvP reduction to the Throw Glaive cast by Screaming Torchfiend's Brutality (2-piece) from being applied."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid"
+      ],
+      "Text": "Adaptive Swarm can no longer be cast during arena or battleground preparation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid"
+      ],
+      "Text": "Fixed an issue that caused the Well-Honed Instincts debuff to not clear upon the start of a PvP match."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Frenzied Regeneration is no longer reduced by 37.5% for Feral and Balance Druids in PvP combat. Restoration druids’ Frenzied Regeneration remains reduced by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Wild Attunement no longer activates when Cyclone is cast on an immune target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that caused Reforestation stacks to persist past the starting room in PvP instances."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Fixed an issue that caused Reactive Resin to apply to the Restoration Druid if heal over time effects were dispelled after being spell stolen."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Hunter",
+        "Beast Mastery"
+      ],
+      "Text": "Kill Shot damage increased by 25% in PvP (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Raptor Strike damage increased by 5% in PvP (was 11% reduced)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Mongoose Bite damage increased by 5% in PvP (was 11% reduced)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage"
+      ],
+      "Text": "Ring of Fire (PvP Talent) now deals 18% of its target's health over 6 seconds (was 24%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Arcane"
+      ],
+      "Text": "Prismatic Barrier now reduces magic damage taken by 10% (was 15%) and reduces the duration of incoming magic effects by 15% (was 25%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fevered Incantation now increases Critical Strike damage by 1% (was 2%) per stack in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Meteor's damage increased by 30% (was 11%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fireball's damage increased by 35% (was 18%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Scorch damage increased by 300% (was 200%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Fire Blast damage is now reduced by 8% (was 14%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Mage",
+        "Fire"
+      ],
+      "Text": "Living Bomb damage increased by 800% (was 440%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Vivify healing decreased by 10% (was 20%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Invigorating Mist healing increased by 12% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Soothing Mist healing increased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Monk",
+        "Mistweaver"
+      ],
+      "Text": "Soothing Mist (Jade Serpent Statue) healing increased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Denounce (PvP talent) damage increased by 70%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Judgment damage increased by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Greater Judgment absorb increased by 30% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Smite damage increased by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Atonement healing increased by 8% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Float Like a Butterfly (talent) effectiveness is now reduced by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Precision Shot (talent) damage reduction is now 3% (was 5%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Take Your Cut (PvP talent) haste granted reduced to 10% (was 15%) and duration reduced to 10 seconds (was 12 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Healing Surge healing is now increased by 25% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock"
+      ],
+      "Text": "Soulburn: Demonic Circle now lasts 4 seconds in PvP Combat (was 6 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock"
+      ],
+      "Text": "Soulburn: Demonic Circle now increases movement speed by 30% in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock"
+      ],
+      "Text": "Call Observer health reduced to 6% of Warlock's health (was 8%) and Laserbeam damage reduced to 8% of enemy health (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warlock",
+        "Destruction"
+      ],
+      "Text": "Flame Rift damage from the Amirdrassil 4-piece set bonus is now reduced by 30% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warrior"
+      ],
+      "Text": "Cacophonous Roar damage threshold is increased by 100% (was 200%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Execute damage increased by 25% in PvP (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Players versus Player",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Execute damage increased by 65% in PvP (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-12",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Wrath of the Lich King Classic"
+      ],
+      "Text": "Fixed an issue with Piercing Shots, Deep Wounds, and Ignite that causes them to sometimes do too much damage to players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Addressed an issue where Strangling Roots will still spawn even if Oakheart is defeated while casting the spell."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Addressed an issue where Crushing Grip will go off if the boss is defeated while gripping a player."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue where Infested Icecaller's Cold Fusion can target pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where some Jagged Hounds are not damaged by Wildfire."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Wildfire now only damages creatures in combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-03-05",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Verdant Aspirant's Wand is now purchasable from Seltherex."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "[With realm restarts] The maximum number of Follower Dungeons that a player can enter in a 24-hour period has been increased to 50 (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "The presence of Followers in dungeons no longer decreases the XP earned by the human players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-26",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue preventing Arathi Blizzard from being queued."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-21",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Rogue",
+        "Outlaw"
+      ],
+      "Text": "Fixed an issue with Echoing Reprimand that allowed Slice and Dice to trigger effects like Ruthlessness and Restless Blades as if spending 7 combo points."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-21",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Fixed an issue where receiving Aura of Dread can interrupt a player's channel."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-16",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue where Witherbark can reset during the encounter."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-16",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Throne of the Tides"
+      ],
+      "Text": "Addressed an issue where Naz'jar Tempest Witch can cast Lightning Surge while mind-controlled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-16",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Pallid Gorger can ignore players and run away."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-16",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Reduced Pallid Gorger's melee damage by 66%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-16",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor",
+        "Heartsbane Triad"
+      ],
+      "Text": "Added an additional safeguard to ensure Aura of Dread is removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-16",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Classic Era",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue where Seal of Righteousness ranks 4 and higher did less damage than rank 3. This fix has been applied to Season of Discovery and Classic Era."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Tindral Sageswift"
+      ],
+      "Text": "Addressed an issue where players who teleport out of the raid before the encounter ends can sometimes cause them to be stranded in The Great Sea."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Addressed an issue where a mind-controlled Dazar'ai Confessor's Dispel can remove an ally's Challenger's Might."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Removed randomized spawn of enemies before Archdruid Glaidalis."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Addressed an issue where Grommash Hellscream can melee players while leaping in the air before Bladestorm."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Addressed an issue where Battle Senses can trigger from Shockwave."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Heartsbane Triad's associated auras can fail to fall off."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Sister Solena does not lose the Soul Manipulation debuff if the mind-controlled player dies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Addressed an issue where Pallid Gorgers can sometimes melee players during Ravaging Leap."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "The spawning of Heartsbane Runeweavers and Heartsbane Soulcharmers are now consistent each week."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-14",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Love is in the Air"
+      ],
+      "Text": "Fixed an issue causing Love is in the Air daily quests to be removed from the quest log when logging out."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where Rockspine Stinger's Venom Burst could be applied to non-player targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-12",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue preventing progress as intended on the legendary questline “Handling It”."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Support Your Local Artisans now requires donations totaling 50,000 gold (was 70,000) to the Artisan’s Consortium."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing Earth Shield casts from another Shaman to sometimes override Earth Shield."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Addressed an issue where Archdruid Glaidalis can fail to use Grievous Leap on a player standing on top of a nearby object."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Addressed an issue in Archdruid Glaidalis's encounter where Nightmare Abominations can be stuck in a state of evasion when spawned on top of an elevated surface."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
+      ],
+      "Text": "Addressed an issue where Dazhak's Incinerating Blightbreath can fizzle if the targeted player dies during Dazhak's charge."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
+      ],
+      "Text": "Addressed an issue where Chronofade is not considered an AoE effect."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue in the Ancient Protectors encounter where Dulhu's Noxious Charge can still go off if he dies while casting."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Resolved an issue causing the Shadow Amirdrassil 4-set bonus to not be consumed when landing a killing blow on some pets and totems."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing some spells to kill Grounding Totem without directly targeting the totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-08",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing redirected damage over time effects to apply to Grounding Totem. Grounding Totem is once again immune to debuff effects."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Primordial Wave now travels faster to its target."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil"
+      ],
+      "Text": "The Hall of Fame is full, and Mythic difficulty is now available to cross-realm raid groups."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Reduced the number of Aflame targets from 4 to 3 on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Fyrakk health reduced by 10% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Burning and Dark Colossus health by 10% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Spirit of the Kaldorei health reduced by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Darnassian Ancient health reduced by 20% on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "The Heart of Amirdrassil now begins stage two with 60% health remaining."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Reduced the number of Corrupted Seeds created from 2 to 1."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Temple of Ahn'Qiraj"
+      ],
+      "Text": "The Prophet Skeram now properly respawns when the encounter is reset."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates"
+      ],
+      "Text": "Resolved an issue that could cause the Primal Council to not cast spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
+      ],
+      "Text": "Addressed an issue where Dazhak can sometimes snap to target player on death while channeling Incinerating Blightbreath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-06",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Matrix Restabilizer all effects reduced by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue in which the achievement Battle Mender: Season 3 was not providing progress."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Mage"
+      ],
+      "Text": "Shifting Power's visual will now appear smaller and should be less disruptive for the Mage's allies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Flamebound and Shadowbound are no longer private auras."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Amirdrassil",
+        "Fyrakk the Blazing"
+      ],
+      "Text": "Developers’ notes: We've observed that the common strategy for players executing the Flamebound and Shadowbound mechanics on Mythic Fyrakk involves cumbersome addon/macro setup and execution. Our goal with this change is to remove this burden for players who are progressing on this encounter and refocus the challenge on the gameplay."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Blackrook Hold"
+      ],
+      "Text": "Fixed an issue where the enemies around Lady Velendras Ravencrest do not have linked aggro."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
+      ],
+      "Text": "Fixed an issue where Manifested Timeways can occasionally cast Unwind during keystones."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where the Ancient Protectors encounter can fail to respawn."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where Archmage Sol can cast Cinderbolt Storm twice after gaining Fire Affinity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Fixed an issue where the mages before Archmage Sol were not resetting their health after they left combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Pet Battles"
+      ],
+      "Text": "Fixed an issue causing several multi-hit Battle Pet abilities to have a chance to ignore on-death passives such as Undead or Mechanical resurrection."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-02-01",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue causing Stoneform and Fireblood to trigger a longer cooldown for Gladiator's Medallion than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "The Title and Achievement Champion of the Dragonflights are now available to those who have completed the quest \"Fair Skies and Strong Winds\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Adjusted Sergeant Quackers’ responsiveness so that he is now more lenient with the number of nearby ducks he requires before joining the fight for Ducks in a Row."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing Poison Cleansing Totem to not ignore line of sight."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Corrected an issue where your character could sometimes get stuck in a state where they cannot use Lava Burst when previously having been talented into Elemental Blast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Resolved an issue causing Primordial Bond to be incorrectly removed when an elemental dies or despawns while another elemental is active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Atal'Dazar"
+      ],
+      "Text": "Addressed an issue where the Rezan encounter can unexpectedly reset."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Addressed an issue where the visual for Spark of Tyr does not snap to ground."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Addressed an issue where Spark of Tyr will immediately trigger if the target has immunity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue with the Ancient Protectors encounter where players can get stuck in combat and unable to release if Dulhu is pulled out of the boss area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Everbloom"
+      ],
+      "Text": "Addressed an issue where Witherbark can be pulled out of the encounter area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where immunity effects on the player could prevent Fyrakk's Tainted Rageheart from dealing damage to enemies."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "The Verdant Gladiator's Shotel cosmetic should now be purchasable from Glamora."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Iridal, the Earth's Master damage-on use-effect now deals 10% of its damage (was 30%) in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-30",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Resolved an issue causing Outbreak to not apply Virulent Plague to enemy totems, Psyfiend, and Observer."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue that caused Consecrations from Righteous Judgment to be despawned by new Consecrations."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Fixed an issue that caused Blessing of Autumn to not reduce the cooldown of Avenging Wrath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Demonology"
+      ],
+      "Text": "Fixed an issue where Wild Imps summoned by Spiteful Reconstitution would fixate on far away targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Valow, Timesworn Keeper health reduced by 16%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Lerai, Timesworn Maiden health reduced by 16%, and Ancient Radiance recast time increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Spurlok, Timesworn Sentinel health reduced by 16%, and Shrouding Sandstorm's recast time increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Tyr, the Infinite Keeper Radiant Barrier damage absorb reduced by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Infinite Riftmage health reduced by 10%, and Infinite Burn recast time increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Time-Lost Battlefield Battle Senses / Thirst for Battle damage reduced by 20%, and Bladestorm movement reduction increased from 33% to 50%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Chrono-Lord Deios Temporal Breath initial damage reduced by 16%, and damage-over-time effect reduced by 14%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Mythic+",
+        "Dawn of the Infinite",
+        "Murozond's Rise"
+      ],
+      "Text": "Infinite Keeper health reduced by 10%, and Chronal Burn damage reduced by 15%, and Infinite Blast damage reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Resolved an issue causing the Mettle effect from Infurious Warboots of Impunity, Infurious Footwraps of Indemnity, Infurious Boots of Reprieve, and Infurious Binding of Gesticulation to not trigger when interrupting spells."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-23",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing the Mettle effect from Infurious Boots of Reprieve to grant less stats than intended when triggering the effect using Earthgrab Totem and Capacitor Totem."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue where kills on Evokers did not count towards the achievement It Takes Class."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Blood"
+      ],
+      "Text": "Bone Shield now grants armor based on 80% of Strength (was 70%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "All damage dealt increased by 4%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "All damage dealt by you and your pet’s abilities increased by 4%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Rip damage increased by 10%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Rake periodic damage increased by 5%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Primal Wrath damage increased by 10%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Feral Frenzy damage increased by 5%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Lunar Inspiration damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Rampant Ferocity damage increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Swiftmend now costs 1.4% base mana (was 1.6%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Grove Guardian now costs 1% base mana (was 1.2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Wild Growth now costs 3.8% base mana (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Regrowth now costs 2.8% base mana (was 3.2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Efflorescence now costs 3% base mana (was 3.2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "Dream Breath, Fire Breath, and Spiritbloom will no longer go on cooldown and fail to activate in circumstances where you are crowd controlled at the same time as completing the empower cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "All damage dealt by Hunter and Hunter’s pet’s abilities is increased by 4%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Blackout Reinforcement is now correctly consumed when an empowered Blackout Kick is used against an absorb shield."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Shield of the Righteous damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Consecration damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Wake of Ashes damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Truth’s Wake damage increased by 28%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Seething Flames damage increased by 28%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Blade of Justice damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Retribution"
+      ],
+      "Text": "Final Verdict damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Holy Word: Sanctify’s healing increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Heal’s healing increased by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Flash Heal healing increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Holy Word: Chastise’s damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Smite’s damage increased by 30%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Shadow Word: Pain’s damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Mind Blast damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Devouring Plague damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Shadowy Apparition damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Priest",
+        "Shadow"
+      ],
+      "Text": "Psychic Link now causes direct damage spells to inflict 30% of their damage on all other targets afflicted by your Vampiric Touch (was 25%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "All healing increased by 5%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Lava Burst damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Flame Shock damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Lightning Bolt damage increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Resolved an issue causing the cooldown of Soul Swap to sometimes display incorrectly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior"
+      ],
+      "Text": "Developers note: Changes are live after realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Cleave damage increased by 10%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Dreadnaught damage increased by 30%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Deep Wounds damage increased by 15%. Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Arms"
+      ],
+      "Text": "Amirdrassil 4 set bonus - Bonus damage for the triggered Thunder Clap increased to 200% (was 100%). Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Vanguard now grants a 40% increase to Stamina (was 35%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Classes",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Ignore Pain absorption increased by 5%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Return to Karazhan",
+        "Opera Hall: Westfall Story"
+      ],
+      "Text": "Defeating Toe Knee too quickly will no longer prevent the encounter from continuing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Developers note: We've heard feedback about the ease of use of Fyr'alath's active ability and are making adjustments to address this and further encourage its use without significantly affecting overall contribution. These changes will be going live with realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Mark of Fyr'alath is now correctly applied to all secondary targets of Obliterate and is additionally applied by Rage of Fyr'alath's final strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Mark of Fyr'alath damage decreased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Rage of Fyr'alath duration is now affected by Haste."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items",
+        "Fyr'alath the Dreamrender"
+      ],
+      "Text": "Rage of Fyr'alath damage increased by 15%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "[With realm restarts] The Manuscript of Endless Possibilities should now be the Vial of Endless Draconic Scales. If you had acquired the manuscript you should now be able to find the Vial waiting for you in your toybox."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Developers note: PvP changes are live with realm restarts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "Cloth specialization classes now gain an additional 35% armor in Arenas and Battlegrounds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "Plate specialization classes now have their armor reduced by 30% in Arenas and Battlegrounds."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "The Gladiator’s Distinction 2-piece set bonus now increases Stamina by 15% for Damage Dealer and Tank roles (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "The Gladiator’s Distinction 2-piece set bonus now increases Stamina by 20% for Healer roles (was 15%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "General"
+      ],
+      "Text": "All fear and root effects in PvP may now take 100% more damage before canceling in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Festering Wound damage is now increased by 180% in PvP Combat (was 195%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Death Coil damage is now increased by 60% in PvP Combat (was 70%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Death Knight",
+        "Unholy"
+      ],
+      "Text": "Necrotic Wound now absorbs 3% of healing received (was 4%) and heals for up to 3% of the Death Knight’s maximum health (was 4%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Bear Form now increases armor by 175% in PvP (was 220%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Moonkin Form now increases armor by 100% in PvP (was 125%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid"
+      ],
+      "Text": "Deep Roots increases the amount of damage required to cancel Entangling Roots or Mass Entangle by 75% (was 250%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Feral"
+      ],
+      "Text": "Frenzied Regeneration is no longer decreased by 20% in PvP for Feral Druids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Mana regeneration now reduced by 50% in PvP combat (was 45%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Healing reduced by 5% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Mage"
+      ],
+      "Text": "Rigid Ice increases the amount of damage required to cancel Frost Nova by 20% in PvP combat (was 80%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Mage",
+        "Frost"
+      ],
+      "Text": "Amirdrassil 4-piece set effectiveness is no longer reduced in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Monk",
+        "Windwalker"
+      ],
+      "Text": "Amirdrassil 2-piece set effectiveness is now reduced by 80% in PvP combat (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Discipline"
+      ],
+      "Text": "Amirdrassil 2-piece set effectiveness is no longer reduced in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Eviscerate damage reduced by 10% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Elemental"
+      ],
+      "Text": "Armor reduced by 12.5% in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Armor reduced by 12.5% in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warlock"
+      ],
+      "Text": "Nightmare increases the amount of damage required to cancel Fear by 30% in PvP combat (was 60%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warlock"
+      ],
+      "Text": "Demon Skin increases armor by 22.5%/45% in PvP (was 45%/90%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warrior"
+      ],
+      "Text": "Armored to the Teeth effectiveness increased by 45% in PvP."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP",
+        "Warrior",
+        "Fury"
+      ],
+      "Text": "Anger Management now reduces Recklessness and Ravager’s cooldown by 1 second per 15 rage spent (was 20 rage)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Players who are trying to turn in the raid quest, \"Aberrus, the Shadowed Crucible: Sarkareth\" but are unable to, should return to the Seat of the Aspects in Valdrakken and find Ebyssian. He should allow you to turn in the quest now."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue with the Research quests/world quests of Azerothian Archives where all players could see the arcane familiars being summoned whenever any player began them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Added a plank in Gilneas to allow people to complete the quest \"What Tomorrow Brings\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-22",
+      "Weekday": "Monday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Developers note: In 10.2.6, we will remove the gates (and also remove the plank) to allow people to complete the quest as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Frostscythe now works with Bonegrinder talent."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Fixed a bug that prevented the spell alert for Killing Machine with Fatal Fixation from visually displaying stacks correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Death Knight",
+        "Frost"
+      ],
+      "Text": "Fixed a bug that caused a sound effect issue with Glacial Advance."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Resolved an issue causing the Ancestral Defense talent to increase area-of-effect damage taken instead of reducing it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "In Mythic+ difficulties, Afflicted Souls will no longer be treated as players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Fixed an issue where Corruption Pool can linger on players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Darkheart Thicket"
+      ],
+      "Text": "Archdruid Glaidalis’s Primal Rampage no longer damages pets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Dawn of the Infinite",
+        "Galakrond's Fall"
+      ],
+      "Text": "Fixed a Chronikar issue with Eon Shatter's ground targeting visual sometimes failing to appear."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Waycrest Manor"
+      ],
+      "Text": "Fixed a Heartsbane Triad issue where the aura of one of the sisters could linger on players after they lose the iris."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue where Frigid Petals was not being cancelled when entering a battleground."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Fixed an issue where attaining Bloody Tokens in Zaralek Caverns and Emerald Dream were not contributing to Bloodstained Bounty, Blood Bank, or Prosperously Bloody achievements."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Players who found themselves unable to pick up \"A Little Hope is Never without Worth\" should return to the grove in the Emerald Dream to continue (provided the plant growth phase is complete)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed a bug preventing several steps of the Blue Dragonflight questline “The Veiled Ossuary” from appearing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-01-18",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Travel"
+      ],
+      "Text": "Removed the Battle for Azeroth Pathfinder requirement for dragonriding in Kul Tiras and Zandalar."
     }
   ]
 }
