@@ -2,6 +2,98 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Classes"
+      ],
+      "Text": "Fixed a bug with damage dealt by Rip \u0026 Tear, Internal Combustion, and Tear Open Wounds in Awakened raids."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Raid Finder now required item level 463 if the raid is Awakened."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Addressed an issue where Stinkbreath can turn while casting Stinkbreath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Brackenhide Hollow"
+      ],
+      "Text": "Addressed an issue where Wilted Oak's Necrotic Breath visual can be out of sync with the creature's facing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Veteran track items or items obtained from Awakened Outdoor Activities should now properly be able to be converted into Class Set items at the Revival Catalyst."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Resolved multiple issues with Dragonflight Season 4 tier set items not functioning after equipping certain Season 3 set items."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Dreambound gear caches from the Dreamsurge Coalesence vendor will now correctly award Season 4 Explorer 1/8 (item level 454 gear) and tokens will properly display the correct item level of its contents."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that prevented Tiered Medallion Setting from functioning on Season 4 necklaces."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue preventing Season 4 crests from properly converting to their lower-tier currency."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-25",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "\"A Multi-Front Battle\" can now be completed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-04-23",
       "Weekday": "Tuesday",
       "Tags": [
