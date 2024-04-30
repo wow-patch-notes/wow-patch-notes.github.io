@@ -2,6 +2,86 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Algeth'ar Academy"
+      ],
+      "Text": "Fixed an issue where Vile Lasher’s Detonation Seed was not spawning on the ground."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus"
+      ],
+      "Text": "Lava Flare’s Melt now goes on cooldown after the cast is interrupted."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Fiery Focus's Fire damage reduced by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr"
+      ],
+      "Text": "The Mythic+ timer increased by 1 minute."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates"
+      ],
+      "Text": "Cuzolth now provides their item upgrade services to players in Vault of the Incarnates."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Vault of the Incarnates",
+        "Terros"
+      ],
+      "Text": "Fixed an issue where Explosive Reaction was hitting pets on Mythic difficulty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Libergo, Head Librarian of the Azure Archives Annex in Valdrakken, has been watching your actions closely and now offers to reacquaint you with your legendary weapon if you happened to misplace it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-04-29",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "PvP staves now properly filter for Warlocks on vendors."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-04-25",
       "Weekday": "Thursday",
       "Tags": [
