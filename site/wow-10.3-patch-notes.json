@@ -2,6 +2,81 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Aberrus (Awakened)"
+      ],
+      "Text": "Fixed an issue that caused Thadrion to continually cast Unstable Essence after the encounter had concluded."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Nokhud Offensive"
+      ],
+      "Text": "Addressed a Primalist Thunderbeast issue where Thunderstrike's target is not correctly reflected in the unit frame."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Amber Skitterfly should now appear in the Mount Collection for players who purchased it from the Trading Post."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Legendary items can now be upgraded as intended on the Awakened track."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug preventing legendary item upgrades from receiving appropriate stone/crest discounts."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed a bug that sometimes caused the world quest \"Zaqali Elders\" to fail to start."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Cataclysm Classic"
+      ],
+      "Text": "Archaeology digsites that appear in Uldum, Twilight Highlands, and Hyjal once players hit 450 Archaeology should no longer appear until the zones are accessible on official Expansion Launch."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "Date": "2024-05-01",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Cataclysm Classic",
+        "Paladin"
+      ],
+      "Text": "Fixed an issue with Seals of Command where Seal of Righteousness could trigger too many procs when it hits multiple targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
       "Date": "2024-04-29",
       "Weekday": "Monday",
       "Tags": [
