@@ -161,7 +161,7 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 	}
 
 	if strings.Contains(u, "/24066682/") {
-		dest = scrapeContentUpdate(dest, doc, "#item2", "10.3.0",
+		dest = scrapeContentUpdate(dest, doc, "#item2", "10.2.7",
 			time.Date(2024, 4, 19, 0, 0, 0, 0, time.UTC))
 		return dest
 	}
@@ -277,6 +277,21 @@ func flattenChanges(root *Tree, tags []string, date time.Time, srcURL string) []
 			return nil
 		}
 		if strings.Contains(t, "WoW Classic Hardcore") {
+			return nil
+		}
+		if strings.Contains(t, "Classic Era") {
+			return nil
+		}
+		if strings.Contains(t, "Cataclysm Classic") {
+			return nil
+		}
+		if strings.Contains(t, "Wrath Classic") {
+			return nil
+		}
+		if strings.Contains(t, "Wrath of the Lich King Classic") {
+			return nil
+		}
+		if strings.Contains(t, "Plunderstorm") {
 			return nil
 		}
 		if strings.Contains(t, "Season of Discovery") {
