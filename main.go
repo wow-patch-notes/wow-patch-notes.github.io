@@ -166,6 +166,11 @@ func scrapeURL(ctx context.Context, dest []Change, u string) []Change {
 		return dest
 	}
 
+	if strings.Contains(u, "/24066683/") {
+		// Cosmetic updates only.
+		return dest
+	}
+
 	log.Fatalf("Unrecognizable URL: %s", u)
 
 	return dest
