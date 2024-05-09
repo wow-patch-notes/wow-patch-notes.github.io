@@ -1,7 +1,34 @@
 {
   "Changes": [
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that prevented Heroic, Mythic, and Mythic+ dungeons from dropping Flightstones and Awakened Crests correctly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed a bug impacting players’ ability to properly earn \"The Awakened Drake\", \"The Awakened Wyrm\", and \"The Awakened Aspects\", which allow for Awakened Crests to be traded up with Vaskarn in Valdrakken."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-08",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "“Blooming Dreamseeds” now require 3 planted seeds instead of 5 as the text originally states."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -12,7 +39,7 @@
       "Text": "Sigil of Silence duration reduced to 4 seconds (was 5 seconds)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -23,7 +50,7 @@
       "Text": "Sigil of Silence cooldown increased to 90 seconds (was 60 seconds)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -34,7 +61,7 @@
       "Text": "Cycle of Binding now reduces Sigil cooldowns by 2 seconds per trigger (was 3 seconds)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -45,7 +72,7 @@
       "Text": "Soul Cleave damage reduced by 8%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -56,7 +83,7 @@
       "Text": "Season 4 (2) Set Bonus now increases the damage of your next Wrath or Starfire by 50% (was 30%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -67,7 +94,7 @@
       "Text": "Season 4 (2) Set Bonus new reduces the Astral Power cost of your next Starsurge or Starfall by 30 (was 15) and increases the damage it does by 60% (was 40%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -78,7 +105,7 @@
       "Text": "Keg Smash damage reduced by 10%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -89,7 +116,7 @@
       "Text": "Spinning Crane Kick damage reduced by 10%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -100,7 +127,7 @@
       "Text": "Summon White Tiger Statue damage reduced by 30%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -111,7 +138,7 @@
       "Text": "The effectiveness of Stagger against magical attacks increased to 55% (was 45%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -122,7 +149,7 @@
       "Text": "Healing Sphere healing increased by 10%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -133,7 +160,7 @@
       "Text": "Ability and auto-attack damage increased by 6%. Does not affect PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -144,7 +171,7 @@
       "Text": "Fixed an issue that caused the Assassination Rogue Season 3/Season 4 bonus to do slightly less damage than intended."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -155,7 +182,7 @@
       "Text": "Doom Blossom damage increased by 10%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -166,7 +193,7 @@
       "Text": "Vile Taint damage increased by 25%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -177,7 +204,7 @@
       "Text": "Soul Flame damage increased by 20%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -188,7 +215,7 @@
       "Text": "Soul Rot damage increased by 5%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -199,7 +226,7 @@
       "Text": "Chaos Bolt damage increased by 3%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -210,7 +237,7 @@
       "Text": "Conflagrate damage increased by 5%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -221,7 +248,7 @@
       "Text": "Incinerate damage increased by 5%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -232,7 +259,7 @@
       "Text": "All ability damage increased by 3%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -243,7 +270,7 @@
       "Text": "Season 4 Set Bonus (2): Rampage damage and critical strike chance increased by 15% (was 12%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -254,7 +281,7 @@
       "Text": "Season 4 Set Bonus (4): Bloodthirst bonus damage increased to 35% per stack (was 30%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -265,7 +292,7 @@
       "Text": "Developers’ notes: Our goal for these changes is to reduce Protection Warrior deaths to the dangers that are most likely to kill them, like burst or magic damage. There are some talents that warriors have for protection against these threats, like Disrupting Shout, Bolster, or Battle-Scarred Veteran, but it can be difficult to find the talent points for them. To provide more build flexibility we are reducing the power of the Battering Ram talent and moving its damage and defensive benefits into core abilities. We’re also increasing damage across the board and buffing some defensive talent options."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -276,7 +303,7 @@
       "Text": "All ability damage increased by 5%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -287,7 +314,7 @@
       "Text": "Devastator damage increased by 30%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -298,7 +325,7 @@
       "Text": "Ignore Pain healing increased by 6%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -309,7 +336,7 @@
       "Text": "Disrupting Shout’s cooldown reduced to 75 seconds (was 90 seconds)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -320,7 +347,7 @@
       "Text": "Enduring Alacrity increases Stamina and Armor by 10% (was 5%) and Haste by 2% (was 1%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -331,7 +358,7 @@
       "Text": "Battering Ram now increases your auto-attack damage and speed by 10% for 20 seconds (was 20%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -340,7 +367,7 @@
       "Text": "Tome of Unstable Power’s AOE target cap set to 8."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -351,7 +378,7 @@
       "Text": "Frost Strike damage increased by 95% in PvP combat (was 75%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -362,7 +389,7 @@
       "Text": "Frost Fever damage increased by 25% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -373,7 +400,7 @@
       "Text": "Death Coil damage increased by 75% in PvP combat (was 60%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -384,7 +411,7 @@
       "Text": "Festering Wound damage increased by 190% in PvP combat (was 180%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -395,7 +422,7 @@
       "Text": "Frost Fever damage increased by 25% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -406,7 +433,7 @@
       "Text": "Moonkin Aura’s Starsurge now grants 2% increased spell critical strike chance per stack (was 4%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -417,7 +444,7 @@
       "Text": "Time of Need healing reduced by 25% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -428,7 +455,7 @@
       "Text": "Rapid Fire damage increased by 45% in PvP combat (was 30%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -439,7 +466,7 @@
       "Text": "Aimed Shot damage increased by 55% in PvP combat (was 40%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -450,7 +477,7 @@
       "Text": "Sniper Shot now deals 15% of the target’s health (was 20%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -461,7 +488,7 @@
       "Text": "Clouded Focus increases healing and reduces mana cost by 20% per stack in PvP combat (was 15%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -472,7 +499,7 @@
       "Text": "Word of Glory healing increased by 15% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -483,7 +510,7 @@
       "Text": "Atonement healing increased by 11% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -494,7 +521,7 @@
       "Text": "Power Word: Radiance healing increased by 10% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -505,7 +532,7 @@
       "Text": "Shadow Word: Pain and Purge the Wicked damage increased by 15% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -516,7 +543,7 @@
       "Text": "Spirit of the Redeemer now reduces the duration of Spirit of Redemption by 9 seconds (was 8 seconds)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -527,7 +554,7 @@
       "Text": "Mana regeneration is now reduced by 40% in PvP combat (was 35%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -538,7 +565,7 @@
       "Text": "Kingsbane instant damage reduced by 32% in PvP combat (was 20%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -549,7 +576,7 @@
       "Text": "Kingsbane damage over time reduced by 8% in PvP combat (was 20%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -560,7 +587,7 @@
       "Text": "Improved Garrote damage bonus now reduced to 20% in PvP combat (was 30%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -571,7 +598,7 @@
       "Text": "Between the Eyes damage is no longer increased by 12% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -582,7 +609,7 @@
       "Text": "Ace Up Your Sleeve now has 4% chance to trigger per combo point spent and grants 4 combo points in PvP combat (base 5% chance and 5 combo points)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -593,7 +620,7 @@
       "Text": "Healing Surge healing increased by 40% in PvP combat (was 25%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -604,7 +631,7 @@
       "Text": "Riptide healing increased by 10% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -615,7 +642,7 @@
       "Text": "Oblivion damage increased by 25%."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -626,7 +653,7 @@
       "Text": "Drain Soul damage increased by 30% in PvP combat (was 15%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -637,7 +664,7 @@
       "Text": "Shadow Bolt damage increased by 90% in PvP combat (was 60%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -648,7 +675,7 @@
       "Text": "Agony damage increased by 25% in PvP combat (was 40%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -659,7 +686,7 @@
       "Text": "Shadow Bolt damage increased by 90% in PvP combat (was 60%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -670,7 +697,7 @@
       "Text": "The Arms Season 4 2-piece and 4-piece class set bonuses are no longer reduced by 50% in PvP combat."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -681,7 +708,7 @@
       "Text": "Rampage damage is now increased by 50% in PvP combat (was 40%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
@@ -692,7 +719,7 @@
       "Text": "Raging Blow damage is now increased by 30% in PvP combat (was 15%)."
     },
     {
-      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24057474",
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-07",
       "Weekday": "Tuesday",
       "Tags": [
