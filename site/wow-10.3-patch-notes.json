@@ -2,6 +2,80 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fixed an issue where the scaling of Inferno would become reduced when Rain of Fire affected more than 5 targets."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Dungeons and Raids"
+      ],
+      "Text": "Dawn of the Infinite end bosses should now drop Awakened Crests."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Mounts"
+      ],
+      "Text": "Taivan awoos when summoned, like a good boy."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "NPCs"
+      ],
+      "Text": "Kessa, the Personal Tabard Vendor located in Valdrakken should now be available to all alts after completing the questline to unlock the personal tabard."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Professions",
+        "Tailoring"
+      ],
+      "Text": "Fixed a bug where Blue Silken Lining was not granting more mastery for equipping a second item embellished with Blue Silken Lining while the buff was already active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed a bug preventing the completion of “Lotus Tea” after completing “The Pools of Youth”."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue preventing progress on the quest \"Get My Results!\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-10",
+      "Weekday": "Friday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Players can now call for aid while mounted on the quest \"At the Source\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-08",
       "Weekday": "Wednesday",
       "Tags": [
