@@ -2,6 +2,52 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-14",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Azure Vault"
+      ],
+      "Text": "Fixed an issue causing the time requirement reaching two and three chests on Mythic Keystone difficulty was lower than intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-14",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Veteran and Champion track items obtained from outdoor activities should now be eligible for conversion at the Revival Catalyst. This fix is retroactive."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-14",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Veteran and Champion track rings, necklaces, and armor obtained from outdoor activities should now be eligible for socket upgrades. This fix is retroactive."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-14",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Mounts"
+      ],
+      "Text": "Fixed an issue causing the Rostrum of Transformation to require level 70."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-14",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "NPCs"
+      ],
+      "Text": "Cheered up Thomas Bright who was feeling a little low."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-10",
       "Weekday": "Friday",
       "Tags": [
@@ -81,7 +127,7 @@
       "Tags": [
         "Items"
       ],
-      "Text": "Fixed an issue that prevented Heroic, Mythic, and Mythic+ dungeons from dropping Flightstones and Awakened Crests correctly."
+      "Text": "Fixed an issue that prevented Heroic and Mythic dungeons from dropping Flightstones and Awakened Crests correctly."
     },
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
