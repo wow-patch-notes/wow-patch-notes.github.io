@@ -2,6 +2,15 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-15",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue that caused Conquest and War Mode gear to incorrectly display PvP item level increases in the upgrade UI."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-14",
       "Weekday": "Tuesday",
       "Tags": [
