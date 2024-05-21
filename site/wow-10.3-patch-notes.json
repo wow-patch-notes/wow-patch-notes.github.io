@@ -2,6 +2,150 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Shirts and tabards can now be purchased from Larah Treebender \u003cWorld Apparel\u003e at any Infinite Bazaar, Mei Steadypaw \u003cBarber\u003e outside the Shrine of Two Moons and the Shrine of Seven Stars, and Hanchoon Yi \u003cGuild Master\u003e at Paw'don Village, Honeydew Village, Shrine of Two Moons, and Shrine of Seven Stars."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed a bug preventing Timerunners with a legendary Infinite Cloak of Potential from accessing Ordon Sanctuary as intended."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed an issue with the spawning of Voress'thalik which prevented the completion of \"Devastation Below\"."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed an issue preventing players from learning Amber Pterrordax."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed a bug causing Gulp Frogs to unintentionally drop Lesser Charms of Good Fortune."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Enemy power scaling, particularly in group content, has been adjusted to be less aggressive. This is particularly applicable in the player level 40 - 70 range, before players have been able to power up their cloak, upgrade their gems, and increase their item level."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Gear drop-rates have been improved from world rares, rare elites, and quests. This will help players who have had their item levels fall behind as leveling speed increases, especially at higher levels when cloak bonus experience is powered up."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: This will also increase player Bronze and appearance acquisition by increasing the number of items to place into the Unraveling Sands for additional Bronze."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "The first-time bonus for queueing each LFR wing will grant a Thread of Experience in addition to the existing Lesser Bronze Cache."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: This should improve LFR as a viable choice for leveling main characters and alts, without players feeling like they need to grind the same LFR wing repeatedly."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "We have added bonus experience to each boss in normal dungeons and scenarios so they are a viable alternative to questing. Bonus experience has also been adding to the last boss of Heroic Scenarios. Heroic dungeon bosses will continue to drop bonus experience."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "We’ve increased the number of prismatic gems dropped from bosses in normal and heroic scenarios and dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: The increased stamina offered by Legendary Prismatic gems boosts player survivability considerably."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "We have increased the Bronze granted from all qualities of Bronze Caches by 25%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: These caches are available from a wide variety of sources, both solo and group. This includes the Minor Bronze Cache, Lesser Bronze Cache, Bronze Cache, and Greater Bronze Cache."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-20",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed an issue where Sha-Skin Vestment was marked as Cosmetic instead of Cloth armor."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-16",
       "Weekday": "Thursday",
       "Tags": [
