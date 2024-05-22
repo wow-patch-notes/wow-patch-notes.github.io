@@ -2,6 +2,138 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "We have made the following changes to improve Thread of Time gain for the Cloak of Infinite Potential. Our goal with these additional items is to give players access to more Threads of Time from daily repeatable sources. These should serve as readily attainable power-ups from a wide variety of content, so players can enjoy the breadth of Pandaria while also gaining additional power. There are four new items that grant players escalating amounts of power for the Cloak of Infinite Potential:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Players will be able to find these new items from a variety of solo and group sources, ensuring all players have accessible ways to improve their cloak:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria",
+        "Infinite Bazaar Repeatable Dailies"
+      ],
+      "Text": "First-Time Daily Scenario, Dungeon, and each LFR queue"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria",
+        "Infinite Bazaar Repeatable Dailies",
+        "World Bosses",
+        "Remix Achievements"
+      ],
+      "Text": "Each of these achievements are available for additional characters to complete as well for bonus Bronze - and now bonus Spools of Eternal Thread."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria",
+        "Infinite Bazaar Repeatable Dailies",
+        "World Bosses"
+      ],
+      "Text": "Troves of the Thunder King scenario on the Isle of Thunder"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "We’ve made the following changes and bugfixes are intended to address concerns about the balance of low- and high-level players in various Remix content."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "The health of creatures in heroic scenarios has been decreased by 20% - 25%, based on the players’ levels. Higher level players will see enemies incur a larger decrease."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "The health and damage of creatures on the Timeless Isle, Isle of Giants, and Isle of Thunder has been reduced."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Several spell gems (that were not scaling up or down correctly based on player level) have been adjusted so that they provide a more-appropriate scaling effect. This includes Cold Front, Windweaver, Vampiric Aura, and Lightning Rod."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Spell gems with shielding effects should no longer cause threat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed a bug with Righteous Frenzy not canceling upon the end of combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Timerunner’s Vial mana regen significantly increased."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Adjusted the reputation granted from Granite Quilen to be more in line with expected values."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-21",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed an issue in Guo-Lai Halls causing trap tiles to flicker."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-20",
       "Weekday": "Monday",
       "Tags": [
