@@ -2,6 +2,302 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Restoration"
+      ],
+      "Text": "Resolved an issue causing the Restoration Shaman Season 4 two-piece class set bonus to be cancelled when a Healing Stream Totem expires while two or more Healing Stream Totems are active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Warlock",
+        "Affliction"
+      ],
+      "Text": "Resolved an issue causing Drain Life to sometimes incorrectly consume mana while Soul Rot is active."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Warlock",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Battle-Scarred Veteran has been updated. Now, when a damage event reduces your health below 30%, the portion of that damage event that would apply to the last 30% of your health is also reduced by 80%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Warlock",
+        "Warrior",
+        "Protection"
+      ],
+      "Text": "Developers’ notes: For example, if you are at 50% health and receive damage for 40% of your health, your damage taken will be 20% + 20% * (1-0.8), or 24%, and you will have 26% health remaining when Battle-Scarred Veteran activates."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Evoker"
+      ],
+      "Text": "Resolved an issue causing the dispel effect from Scouring Flames to fail on targets near the edge of Fire Breath."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "The questgivers for Renown quests in Valdrakken now again offer the “Continued Waygate Exploration” quests."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Endgame tuning adjustments have been made to Heroic Scenarios, Heroic Dungeons, and Normal Raids so that they increase in power more slowly between levels 60 and 70. Heroic and Mythic raids have been adjusted so there is a smoother transition between them."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Players who completed the Pearlfin Jinyu questline can now bring Lesser Charms of Good Fortune to Elder Lusshan for additional reputation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Players who completed the Forest Hozen questline can now bring Lesser Charms of Good Fortune to Chief Kah Kah for additional reputation."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed a bug that inadvertently capped the maximum stats that can be gained on a Cloak of Infinite Potential. That cap has been removed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Shado Pan Assault reputation earned per boss kill increased to 1000 (was 300). This amount is available daily."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Elder Great Turtles and Ancient Spineclaws have migrated back to the Timeless Shore, which should benefit players who are just Killing Time."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Illusion: Sha Corruption can now be destroyed by players who have already learned it elsewhere."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Adjusted and tuned several gem effects:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Arcanist's Edge absorb amount (that can be converted into damage) has been doubled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fervor health amounts (that can be converted into damage) has been doubled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Righteous Frenzy damage dealt to targets increased to 2% per second (was 1%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: This should give healers a bit more to do while optimizing their group's damage, and it should make some gem combinations even more interesting."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Searing Light collected healing points increased to 10% (was 7%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Slay cannot critically strike."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: Slay still hits for the player's entire health amount, and will remain an incredibly powerful option."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Ward of Salvation no longer applies a heal absorb. It has been reworked so that the caster's heals are duplicated as an absorb shield, but not other sources of healing."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-29",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: Ward of Salvation will remain a powerful way for healers to deliver some additional damage, but should not trivialize the most difficult raid encounters."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest"
+      ],
+      "Text": "Thoughtsteal can no longer be canceled."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest"
+      ],
+      "Text": "Thoughtsteal no longer causes the casting Priest to learn a spell they already know (example: a Shadow Priest stealing Vampiric Touch from another Shadow Priest). The target of the Thoughtsteal still loses access to the stolen ability."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "PvP",
+        "Priest"
+      ],
+      "Text": "Developers’ notes: These changes resolve an issue where Priests could lose access to existing abilities after casting Thoughtsteal."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Verdisa did not realize she was sitting on an important location for the quest \"Forget Her Not\" and has moved a few feet away."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "On Friday, May 24, the following changes were deployed:"
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "There are now three new quests that grant Bronze to player-characters upon reaching levels 50, 60, and 70."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "The new quests are only available to player-characters who did not kill many Gulp Frogs during the first three days of the event."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-28",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Player-characters who killed many Gulp Frogs during the first days of the event have been modified. The power of their Cloak of Infinite Potential was reduced to an amount that a very engaged player could reasonably achieve."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-23",
       "Weekday": "Thursday",
       "Tags": [
