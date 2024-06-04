@@ -2,6 +2,133 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus"
+      ],
+      "Text": "Fixed an issue where canceling Dragon Strike using invisibility will lead to Chargath not casting Grounding Chain."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where Augury of the Primal Flame would not proc certain effects such as Seal of Diurna's Chosen and Seal of Filial Duty."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Fixed an issue where Tome of Unstable Power could proc from non-class spell effects such as self-damage from Vessel of Searing Shadows."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "PvP"
+      ],
+      "Text": "Victories in Solo Shuffle now reward 5 crests (was 3) and victories in Rated 2v2 and Rated 3v3 Arenas now reward 2 crests (was 1)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Mini Mana Bomb (Horde) and Theramore Tabard (Alliance) are now available from Horos at any Infinite Bazaar for players who have completed Theramore's Fall for their given faction on any Timerunner."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: There is no more need to complete it at exactly level 35."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed an issue where some steps of the Infinite Power achievements could be skipped for players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-03",
+      "Weekday": "Monday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Tuft of Yak Fur, am I right? Now they stack."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Righteous Frenzy can no longer be cast on non-party members."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "In the Throne of Thunder Dark Animus encounter, the increased damage and attack speed by Anima Golems casting Acceleration Link has been reduced to 100% per stack (was 250%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "In the Throne of Thunder Iron Qon encounter, Storm Cloud should no longer deal extreme damage to players."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "In A Brewing Storm, Viletongue Skirmishers’ Viletongue Sting now reduces healing by 60% (was 90%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed a bug that unintentionally added additional enemy health for highly geared players against Heroic raid bosses."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-05-30",
+      "Weekday": "Thursday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Developers’ notes: In combination with previous recent hotfixes, this should result in health and damage versus Heroic raid bosses being as intended for players of higher and lower item levels, so that players of mixed item levels can have a better experience playing together. Overall, players with higher item levels should do greater damage and have greater survivability."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-05-29",
       "Weekday": "Wednesday",
       "Tags": [
