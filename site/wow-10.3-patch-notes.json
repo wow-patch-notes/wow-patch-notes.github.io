@@ -2,6 +2,514 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Art",
+        "Animations"
+      ],
+      "Text": "Fixed an issue causing Bow of the Ranger Captain to be held backwards."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Art",
+        "Animations"
+      ],
+      "Text": "Fixed an issue where Vault of the Incarnate cosmetic fist weapons purchased with bullion were not hidden when sheathed."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Art",
+        "Animations"
+      ],
+      "Text": "Fixed a bug with the appearance of Tropical Airy Sandals."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Evoker",
+        "Preservation"
+      ],
+      "Text": "All healing increased by 6%. Does not apply to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Moonfire now costs 0.3% mana (was 1.2%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Survival Hunter 4-set Focus cost reduction increased to 20 (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Hunter",
+        "Survival"
+      ],
+      "Text": "Survival Hunter 4-set damage bonus increased to 80% (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Word of Glory healing increased by 15%. Does not affect PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Light of Dawn healing increased by 20%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman"
+      ],
+      "Text": "Brimming with Life now increases maximum health by 10% (was 8%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Chain Lighting damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Flame Shock damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Frost Shock damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Fire Nova damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Crash Lightning damage increased by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Shaman",
+        "Enhancement"
+      ],
+      "Text": "Primordial Wave’s additional Lightning Bolts now deal 175% of normal damage (was 150%). Not applied to PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Fear now costs 4% of base mana (was 5%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes",
+        "Warlock"
+      ],
+      "Text": "Demonic Gateway now costs 10% of base mana (was 20%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus"
+      ],
+      "Text": "Addressed an issue where multiple players can interact with Burning Chains."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Slag Eruption duration reduced to 3 seconds (was 4 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Fetter duration increased to 15 seconds (was 12 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus",
+        "Chargath, Bane of Scales"
+      ],
+      "Text": "Addressed an issue where canceling Dragon Strike using invisibility will lead to Grounding Chain not being cast."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus",
+        "Uldaman: Legacy of Tyr",
+        "Bromach"
+      ],
+      "Text": "Quaking totem’s health reduced by 10%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Neltharus",
+        "Uldaman: Legacy of Tyr",
+        "Emberon"
+      ],
+      "Text": "Addressed an issue where Purging Flames’ visual does not line up with the beam area."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Items"
+      ],
+      "Text": "Seal of Diurna’s Chosen will deal 50% reduced damage in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "All damage reduced by 4% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Demon Hunter",
+        "Havoc"
+      ],
+      "Text": "Demonic Wards now reduces magic damage taken by 5% in PvP combat (was 10%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Developers’ notes: We recently removed the PvP nerf for Frenzied Regeneration primarily to help Feral Druids, but Balance Druids got a windfall and became a little too powerful with this change. We’re pulling back on this buff specifically for Balance Druid only, so that their survivability is more in line with everyone else."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Frenzied Regeneration heals for 5% health every sec (was 8%) for Balance Druid in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Balance"
+      ],
+      "Text": "Balance of All Things will now give the correct amount of critical strike chance in PvP combat when 2 talent points are invested into it."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Wrath damage increased by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Starfire damage increased by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Druid",
+        "Restoration"
+      ],
+      "Text": "Moonfire damage increased by 80% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Sniper Shot’s (PvP Talent) range increase reduced to 30% (was 40%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Hunter",
+        "Marksmanship"
+      ],
+      "Text": "Sniper Shot’s (PvP Talent) damage is no longer affected by Mastery: Sniper Training."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Flash of Light healing increased by 12% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Judgment damage increased by 30% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Hammer of Wrath damage increased by 50% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Holy Shock damage increased by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Paladin",
+        "Holy"
+      ],
+      "Text": "Glimmer of Light damage decreased by 25% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Priest"
+      ],
+      "Text": "Mental Agility now reduces the mana cost of Mass Dispel, Purify, and Purify Disease by 25% in PvP combat (was 50%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "Holy Fire’s direct damage is now reduced by 20% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Priest",
+        "Holy"
+      ],
+      "Text": "The cooldown of Chastise is now reduced by 1 second per talent point from Voice of Harmony in PvP combat (was 2 seconds)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Rupture damage is now increased by 15% in PvP combat."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Backstab damage is now increased by 45% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Rogue",
+        "Subtlety"
+      ],
+      "Text": "Gloomblade damage is now increased by 45% in PvP combat (was 30%)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-05",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Quests"
+      ],
+      "Text": "Fixed an issue during “Handling It: Taut Tethercoil” where casting Tethercoil Rune on valid creatures was not awarding Taut Tethercoil."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-06-03",
       "Weekday": "Monday",
       "Tags": [
