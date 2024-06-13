@@ -2,6 +2,61 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-12",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes"
+      ],
+      "Text": "Fixed an issue where a tiny dagger was appearing when casting a variety of spells and abilities."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-12",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Classes"
+      ],
+      "Text": "Fixed an issue where the low noise variant of Frozen Orb was not being used inside raids and dungeons."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-12",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "PvP",
+        "Evoker"
+      ],
+      "Text": "Fixed an issue preventing Chrono Loop from being used in some locations, including many areas in Black Rook Hold Arena."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-12",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Bronze Cache values increased by 100%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-12",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Spools of Eternal Thread stat gain increased by 200%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-12",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Emperor Shaohao reputation increased by 700%."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-06-11",
       "Weekday": "Tuesday",
       "Tags": [
