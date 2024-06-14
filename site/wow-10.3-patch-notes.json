@@ -2,6 +2,15 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-13",
+      "Weekday": "Thursday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "Fixed an issue causing some achievement-related creatures to despawn in Amirdrassil, the Dream's Hope."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-06-12",
       "Weekday": "Wednesday",
       "Tags": [
