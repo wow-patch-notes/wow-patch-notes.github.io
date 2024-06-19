@@ -2,6 +2,26 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-18",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "Dungeons and Raids",
+        "Uldaman: Legacy of Tyr",
+        "Emberon"
+      ],
+      "Text": "Fixed an issue where Purging Flames precast visual effect was not matching the spawn location of the beam."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-18",
+      "Weekday": "Tuesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Ensemble: Trailseeker's Laminar Armor (White) now grants the correct set."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-06-13",
       "Weekday": "Thursday",
       "Tags": [
