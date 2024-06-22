@@ -2,6 +2,15 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-06-21",
+      "Weekday": "Friday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed an issue causing Echo of Light from Holy Priest to scale incorrectly when there's a level disparity."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-06-18",
       "Weekday": "Tuesday",
       "Tags": [
