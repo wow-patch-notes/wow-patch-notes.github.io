@@ -2,6 +2,78 @@
   "Changes": [
     {
       "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "What's Down There? now requires 1 Massive Lunker (was 2)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "That's not a Fish... now requires 5 Massive Lunkers (was 10)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Achievements"
+      ],
+      "Text": "We're Going to Need a Bigger Harpoon now requires 10 Massive Lunkers (was 25)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Ominous Conch cooldown lowered to 1 minute (was 5 minutes)."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Increased the drop rate of Ominous Conch found in Tuskarr Tackle Boxes."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Ominous Conch now has a maximum stack size of 20."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "Items"
+      ],
+      "Text": "Developers’ notes: Ominous Conch used to have a maximum stack size of 20 in earlier patches, and that was removed. Since we’re putting the max back on it, we think it’s best to also reduce the associated achievement requirements and cooldown."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
+      "Date": "2024-07-03",
+      "Weekday": "Wednesday",
+      "Tags": [
+        "WoW Remix: Mists of Pandaria"
+      ],
+      "Text": "Fixed several issues with the achievement Elusive Foes: Timeless Isles."
+    },
+    {
+      "URL": "https://worldofwarcraft.blizzard.com/en-us/news/24066687",
       "Date": "2024-06-21",
       "Weekday": "Friday",
       "Tags": [
